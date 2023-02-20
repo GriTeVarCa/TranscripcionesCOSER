@@ -1,0 +1,21 @@
+estandar	dialectal	whisper
+No	No	si
+~,	~,	lo
+		entengo
+Anonimizado	Anonimizado	entiendo
+		lo
+sí	sí	que
+lo	lo	no
+[A-InfErr:	[A-InfErr:	entiendo
+		entengo			entengo
+		]			]
+~,	~,
+entiendo	entiendo
+~.	~.
+Lo	Lo
+que	que
+no	no
+entiendo	entiendo
+es	es
+el	el
+~…	~…

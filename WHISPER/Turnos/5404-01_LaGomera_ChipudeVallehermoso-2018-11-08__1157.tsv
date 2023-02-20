@@ -1,0 +1,19 @@
+estandar	dialectal	whisper
+Pues	Pues	Adiós,
+nada	nada
+hasta	hasta
+luego	luego
+~,	~,
+gracias	gracias
+~.	~.
+[HS:I2	[HS:I2
+		Hasta			Hasta
+luego	luego
+~.	~.
+		]			]
+[HS:E2	[HS:E2
+		Adiós			Adiós
+~,	~,
+adiós	adiós
+~.	~.
+		]			]

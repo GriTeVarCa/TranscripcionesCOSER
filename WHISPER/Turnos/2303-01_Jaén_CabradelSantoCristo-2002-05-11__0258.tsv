@@ -1,0 +1,27 @@
+estandar	dialectal	whisper
+por	por	Por
+ejemplo	ejemplo	ejemplo,
+~,	~,	la
+¿~	¿~	mujer
+la	la	ha
+~,	~,	portado
+la	la	una
+~,	~,	cosa
+la	la	y
+mujer	mujer	la
+aportaba	aportaba	hombre
+una	una	de
+cosa	cosa	otra<|nl|><|translate|><|nl|><|translate|><|nl|><|translate|>
+y	y	But
+el	el	the
+hombre	hombre	woman
+otra	otra	never
+cosa	cosa	puts
+~?	~?	a
+[A-Crt]	[A-Crt]	coin
+[HS:I1	[HS:I1	in
+		No			No
+~.	~.
+		]			]
+[A-Inn]	[A-Inn]
+~.	~.

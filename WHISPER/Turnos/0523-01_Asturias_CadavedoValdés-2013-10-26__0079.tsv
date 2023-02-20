@@ -1,0 +1,43 @@
+estandar	dialectal	whisper
+Y	Y	Y
+bueno	bueno	bueno
+~,	~,	la
+la	la	fiesta
+fiesta	fiesta	que
+que	que	yo
+yo	yo	conocí
+conozco	conozco	como
+~,	~,	por
+por	por	ejemplo
+ejemplo	ejemplo	de
+~,	~,	historias
+de	de	es
+Asturias	Asturias	la
+~,	~,	fiesta
+es	es	de
+la	la	espichas.
+fiesta	fiesta	Es
+de	de	una
+las	las	fiesta
+Pichas	Pichas	de
+~,	~,
+[HS:I1	[HS:I1
+		[A-Inn]			[A-Inn]
+~.	~.
+		]			]
+de	de
+comer	comer
+pollo	pollo
+~.	~.
+Es	Es
+una	una
+fiesta	fiesta
+~…	~…
+[HS:I2	[HS:I2
+		De			De
+prao	prao
+~.	~.
+		]			]
+de	de
+prao	prao
+~.	~.

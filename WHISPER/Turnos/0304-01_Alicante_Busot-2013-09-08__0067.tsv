@@ -1,0 +1,56 @@
+estandar	dialectal	whisper
+El	El	El
+carnicero	carnicero	carnesero
+lo	lo	lo
+degollaba	degollaba	dejaba
+~,	~,	luego
+luego	luego	lo
+lo	lo	que
+quemaba	quemaba	nada
+con	con	con
+~,	~,	unas
+con	con	madejas
+unas	unas	hechas
+madejas	madejas	de
+de	de	esparto
+~,	~,	y
+hechas	hechas	luego
+de	de	lo
+esparto	esparto	pegaba
+y	y	bien
+luego	luego	limpio,
+lo	lo	se
+pelaba	pelaba	lo
+~,	~,	dejaba
+bien	bien	como
+limpio	limpio	el
+~,	~,	piso,
+se	se	como
+lo	lo	el
+dejaba	dejaba	grato
+como	como	nuestro,
+~,	~,	y
+como	como	luego
+el	el	lo
+piso	piso	dejaba
+este	este	como
+~,	~,	el
+como	como	grato
+~,	~,
+como	como
+el	el
+[A-PIn:	[A-PIn:
+		rato			rato
+		]			]
+nuestro	nuestro
+~,	~,
+se	se
+lo	lo
+dejaba	dejaba
+como	como
+el	el
+[A-PIn:	[A-PIn:
+		rato			rato
+		]			]
+nuestro	nuestro
+~.	~.

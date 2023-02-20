@@ -1,0 +1,642 @@
+[0:00:00.00]-[0:00:02.00]  ¿Cómo se llaman ustedes?
+[0:00:02.00]-[0:00:04.00]  ¿Cuántos años tiene?
+[0:00:04.00]-[0:00:06.00]  Soy Enrico
+[0:00:06.00]-[0:00:08.00]  ¿Y usted?
+[0:00:08.00]-[0:00:10.00]  Yo...
+[0:00:10.00]-[0:00:12.00]  ¿Cuántos años tiene?
+[0:00:12.00]-[0:00:14.00]  Ocho años y dos viajes
+[0:00:14.00]-[0:00:17.00]  Nos han dicho que ustedes han vivido toda la vida aquí en el pueblo, ¿no?
+[0:00:17.00]-[0:00:20.00]  ¿Hacían matanzas en su época?
+[0:00:20.00]-[0:00:23.00]  Yo sí, que la he hecho, y este señor también
+[0:00:23.00]-[0:00:26.00]  ¿Y cómo hacían las matanzas?
+[0:00:26.00]-[0:00:28.00]  ¿Cómo hacíamos las matanzas?
+[0:00:28.00]-[0:00:31.00]  Matar al cerdo y a comerle luego
+[0:00:31.00]-[0:00:34.00]  Pero, por ejemplo, ¿qué hacían al cerdo?
+[0:00:34.00]-[0:00:36.00]  ¿Qué hacíamos?
+[0:00:36.00]-[0:00:38.00]  Por matarlo
+[0:00:38.00]-[0:00:40.00]  ¿Pero cómo le mataban?
+[0:00:40.00]-[0:00:42.00]  ¿Cómo le mataban al cerdo?
+[0:00:42.00]-[0:00:44.00]  ¿Cogían el cerdo, lo ponían en un banco?
+[0:00:44.00]-[0:00:46.00]  Sí
+[0:00:46.00]-[0:00:48.00]  Cuéntamelo usted
+[0:00:48.00]-[0:00:51.00]  Con un cuchillito, con un cuchillito se le mataba
+[0:00:51.00]-[0:00:53.00]  Sí
+[0:00:53.00]-[0:00:55.00]  Pero, ¿cómo se le mataba?
+[0:00:55.00]-[0:00:57.00]  ¿Qué se hacía con el cerdo?
+[0:00:57.00]-[0:01:02.00]  Pues metió el cuchillo por un sitio que tiene que morir por fuerza
+[0:01:02.00]-[0:01:05.00]  Más cosas
+[0:01:05.00]-[0:01:07.00]  Sí
+[0:01:07.00]-[0:01:13.00]  Por ejemplo, ¿hacían la matanza entre muchas personas?
+[0:01:13.00]-[0:01:15.00]  Otro de ellos
+[0:01:15.00]-[0:01:18.00]  ¿Y cogían el cerdo y lo ponían en una mesa?
+[0:01:18.00]-[0:01:20.00]  ¿En una mesa?
+[0:01:20.00]-[0:01:24.00]  Se lavaba, se pinchaba el matanzas, lo calaba bien
+[0:01:24.00]-[0:01:28.00]  y se le limpia bien limpio y nada más
+[0:01:28.00]-[0:01:30.00]  Y luego ya le llevamos a casa
+[0:01:30.00]-[0:01:32.00]  ¿Y ataban el cerdo?
+[0:01:32.00]-[0:01:34.00]  Sí, se ataban lógico
+[0:01:34.00]-[0:01:37.00]  Un poco para que no podían morder
+[0:01:37.00]-[0:01:39.00]  Sí
+[0:01:41.00]-[0:01:43.00]  ¿Y cómo se ataba el cerdo?
+[0:01:43.00]-[0:01:47.00]  Pues dando vueltas con un cordelillo alrededor de la boca
+[0:01:48.00]-[0:01:50.00]  ¿Y qué ostentían del cerdo?
+[0:01:50.00]-[0:01:51.00]  ¿Eh?
+[0:01:51.00]-[0:01:54.00]  Por ejemplo, ¿qué ostentían del cerdo?
+[0:01:54.00]-[0:01:56.00]  ¿Hacían mortillas, chorizo?
+[0:01:56.00]-[0:01:58.00]  Sí, se hacían, hombre, todo un poco
+[0:01:58.00]-[0:02:00.00]  Todo un poco
+[0:02:00.00]-[0:02:03.00]  ¿Y cómo se hacía la mortilla?
+[0:02:03.00]-[0:02:05.00]  Pues, qué bien, sí, yo...
+[0:02:05.00]-[0:02:08.00]  Hay que hacer de una manera y hay que hacer de otra, ¿no?
+[0:02:08.00]-[0:02:10.00]  ¿Ustedes cómo la hacían?
+[0:02:10.00]-[0:02:12.00]  Con calabaza
+[0:02:12.00]-[0:02:14.00]  Se raspaba la calabaza
+[0:02:14.00]-[0:02:17.00]  y luego se envolvía con varias cosas
+[0:02:17.00]-[0:02:19.00]  y hacían la mortilla luego ya
+[0:02:19.00]-[0:02:22.00]  Pero, por ejemplo, ¿la sangre del cerdo?
+[0:02:22.00]-[0:02:24.00]  También había que echar un poco
+[0:02:24.00]-[0:02:28.00]  Y, por ejemplo, ¿cómo recogían la sangre?
+[0:02:28.00]-[0:02:30.00]  En un...
+[0:02:30.00]-[0:02:35.00]  Aquí llamábamos una cazuela, de estas de barro, cosas de esas
+[0:02:35.00]-[0:02:37.00]  Sí, pero ¿abrían el cerdo y ponían el barreño?
+[0:02:37.00]-[0:02:39.00]  ¿O había una forma de hacer?
+[0:02:39.00]-[0:02:41.00]  Cuando se estaba metiendo el cerdo
+[0:02:41.00]-[0:02:44.00]  la sangre que aventaba, pues de allí se cogía
+[0:02:44.00]-[0:02:46.00]  Sí
+[0:02:46.00]-[0:02:51.00]  ¿O se le hacía... se le hacía al cerdo aquí una raja o...?
+[0:02:51.00]-[0:02:53.00]  Sí, sí
+[0:02:53.00]-[0:02:56.00]  Se le hacía un cuchillo y ahí salía la sangre
+[0:02:56.00]-[0:03:02.00]  Y, por ejemplo, ¿qué se hacía para que la sangre no cuajase?
+[0:03:02.00]-[0:03:08.00]  La sangre pues se cuajaba, claro, la puso ya de rato, esa cosa
+[0:03:08.00]-[0:03:10.00]  se cuajaba
+[0:03:10.00]-[0:03:12.00]  ¿Pero qué se hacía? ¿Se daba vueltas a la sangre?
+[0:03:12.00]-[0:03:14.00]  Sí, sí
+[0:03:14.00]-[0:03:17.00]  Y hasta que llamábamos una porcelana y tal, esas
+[0:03:17.00]-[0:03:22.00]  se daba vueltas hasta que se enfriaba
+[0:03:22.00]-[0:03:24.00]  hasta que me enfriaba
+[0:03:24.00]-[0:03:26.00]  ¿Y utilizaban la sangre para algo más?
+[0:03:26.00]-[0:03:30.00]  No, casi nada más que para la morcilla
+[0:03:30.00]-[0:03:32.00]  ¿Y al chorizo no se echa sangre?
+[0:03:32.00]-[0:03:38.00]  No, no, al chorizo, pimentón y esas, nada más
+[0:03:38.00]-[0:03:43.00]  ¿Y los instrumentos? ¿Qué instrumentos utilizaban para matar el foco?
+[0:03:43.00]-[0:03:45.00]  ¿Los instrumentos?
+[0:03:45.00]-[0:03:47.00]  Sí, ¿qué instrumentos utilizaban para matar el foco?
+[0:03:47.00]-[0:03:51.00]  Pues un cuchillo, un cuchillo y nada más
+[0:03:51.00]-[0:03:55.00]  y agarrarle uno de las pachas y otro de las orejas
+[0:03:55.00]-[0:03:58.00]  ¿Qué me ha dicho usted que hacían con la sangre?
+[0:03:58.00]-[0:04:01.00]  Es que se lo he preguntado como estaban
+[0:04:01.00]-[0:04:03.00]  Para morcillas
+[0:04:03.00]-[0:04:06.00]  Pero ¿se echaba la sangre en un garrenero?
+[0:04:06.00]-[0:04:08.00]  Sí, y venga a mover
+[0:04:08.00]-[0:04:10.00]  Hasta que se quedaba fría
+[0:04:10.00]-[0:04:12.00]  Hasta que se enfriaba
+[0:04:12.00]-[0:04:14.00]  ¿No hacían nada más con la sangre?
+[0:04:14.00]-[0:04:19.00]  No, casi nada más, yo creo
+[0:04:19.00]-[0:04:23.00]  ¿Eran esos cerdos de ustedes o los de otros?
+[0:04:23.00]-[0:04:26.00]  Sí, los criábamos
+[0:04:26.00]-[0:04:29.00]  Bueno, los criábamos y los comprábamos de pequeños
+[0:04:29.00]-[0:04:31.00]  ¿Y dónde los criabas?
+[0:04:31.00]-[0:04:35.00]  ¿Dónde? Iban a un mercado, a una feria y compraban
+[0:04:35.00]-[0:04:37.00]  De aquí afuera
+[0:04:37.00]-[0:04:40.00]  Los mismos podían ser de este pueblo, de Barraco, de San Juan
+[0:04:40.00]-[0:04:42.00]  ¿Y dónde tenían?
+[0:04:42.00]-[0:04:46.00]  Aquí en el pueblo, en cuadras que había ahí
+[0:04:46.00]-[0:04:48.00]  ¿Y qué comían y todo eso?
+[0:04:48.00]-[0:04:52.00]  Comían de todo lo que se los echaba
+[0:04:52.00]-[0:04:59.00]  Patatas, calabazas y maíz se los echaba, muchas cosas
+[0:04:59.00]-[0:05:01.00]  Eran borrachas
+[0:05:01.00]-[0:05:05.00]  ¿Y qué cuidados tenían? ¿Les cuidaban o qué?
+[0:05:05.00]-[0:05:12.00]  Se los echaban una pila que hay y ahí hasta que se los comían
+[0:05:12.00]-[0:05:17.00]  ¿Y qué instrumentos me ha dicho que ustedes utilizaban para matar el cerdo?
+[0:05:17.00]-[0:05:19.00]  Para matar los cerdos
+[0:05:19.00]-[0:05:22.00]  El cuchillo, ¿verdad?
+[0:05:22.00]-[0:05:24.00]  ¿No te hicieron un gancho?
+[0:05:24.00]-[0:05:28.00]  Sí, hay quien sí lo gastaba
+[0:05:28.00]-[0:05:30.00]  Hay quien sí lo gastaba, otros no
+[0:05:30.00]-[0:05:34.00]  ¿Y tienen todavía esos instrumentos, ese gancho?
+[0:05:34.00]-[0:05:37.00]  ¿Qué me das tú saber que los tengan todavía?
+[0:05:37.00]-[0:05:40.00]  Yo por lo menos no, porque ya hace lo menor
+[0:05:40.00]-[0:05:43.00]  15 años que los mató, o más
+[0:05:43.00]-[0:05:44.00]  ¿Cuánto tiempo?
+[0:05:44.00]-[0:05:47.00]  Más, 15 o más que los barajos los mató
+[0:05:47.00]-[0:05:50.00]  ¿Y tenían un banco?
+[0:05:50.00]-[0:05:51.00]  Sí
+[0:05:51.00]-[0:05:54.00]  ¿También ya no tienen el banco?
+[0:05:54.00]-[0:06:00.00]  Los que matan sí que lo tienen, pero los que no matamos los hemos echado ya al tacto
+[0:06:00.00]-[0:06:02.00]  ¿Y cómo limpiaban esos instrumentos?
+[0:06:02.00]-[0:06:04.00]  ¿Con qué limpiaban?
+[0:06:04.00]-[0:06:06.00]  Sí, porque imagino que estarían llenos de sangre
+[0:06:06.00]-[0:06:12.00]  Con agua caliente y una valleta, valletas
+[0:06:12.00]-[0:06:17.00]  ¿Y quién limpiaba esos instrumentos, los hombres o las mujeres?
+[0:06:17.00]-[0:06:20.00]  Bueno, ya depende
+[0:06:20.00]-[0:06:23.00]  El que más tiempo tuviera
+[0:06:23.00]-[0:06:25.00]  Ya depende
+[0:06:25.00]-[0:06:28.00]  ¿Y hacían también chorizos, me han dicho?
+[0:06:28.00]-[0:06:29.00]  Sí, hombre
+[0:06:29.00]-[0:06:31.00]  ¿Cómo se hacía el chorizo?
+[0:06:31.00]-[0:06:34.00]  Bueno, los menudos de los cerdos
+[0:06:34.00]-[0:06:36.00]  Los menudos de cerdos se picaban y se vieron
+[0:06:36.00]-[0:06:39.00]  Se picaban menudos y hacían luego chorizos
+[0:06:39.00]-[0:06:43.00]  Le echaban pimentón, orégano, hierbabuena
+[0:06:43.00]-[0:06:46.00]  Cosas delces, verdad, para que no pierdan
+[0:06:46.00]-[0:06:48.00]  ¿Cómo se hacía todo? ¿Con tripa?
+[0:06:48.00]-[0:06:50.00]  Con la chipa, sí
+[0:06:50.00]-[0:06:52.00]  ¿Tipa del mismo guarro?
+[0:06:52.00]-[0:06:54.00]  ¿Del mismo cerdo?
+[0:06:54.00]-[0:06:56.00]  ¿Sí?
+[0:06:56.00]-[0:06:58.00]  ¿Cómo se hacía?
+[0:06:58.00]-[0:07:02.28]  cogiéndolo y trabajando, todas las cosas trabajando la verdad.
+[0:07:02.28]-[0:07:09.28]  Pero por ejemplo, para el chorizo utilizaban las tripas, o qué parte del muñeco.
+[0:07:09.28]-[0:07:10.68]  Las tripas, las tripas.
+[0:07:10.68]-[0:07:13.08]  Y limpiaban las tripas.
+[0:07:13.08]-[0:07:17.56]  Si, también la lavaban, tienen que lavar a la garganta, chupriendo.
+[0:07:17.56]-[0:07:18.92]  ¿Cómo se lavaban las tripas?
+[0:07:18.92]-[0:07:22.04]  Uy, pues las mujeres, eso las mujeres, la lavaban.
+[0:07:22.04]-[0:07:26.28]  ¿Y no sabe usted cómo, si era con agua, con agua y con limpiado?
+[0:07:26.28]-[0:07:28.96]  Claro, con agua, con agua, con agua tiene que ser.
+[0:07:28.96]-[0:07:31.44]  Con agua, claro, y nada más.
+[0:07:31.44]-[0:07:33.56]  ¿Y el agua cómo iban a por ella?
+[0:07:33.56]-[0:07:34.68]  Porque ahora tenemos grifos...
+[0:07:34.68]-[0:07:39.00]  No señor, porque iban a la garganta que llamamos.
+[0:07:39.00]-[0:07:42.20]  Eso venía del municipio de Tolu.
+[0:07:42.20]-[0:07:44.60]  ¿Cómo picaban la carne?
+[0:07:44.60]-[0:07:46.48]  Ah, ¿cómo picaban la carne?
+[0:07:46.48]-[0:07:48.12]  Antiguamente no había máquinas.
+[0:07:48.12]-[0:07:53.96]  Se picaban en una tabla, un cacho de tabla,
+[0:07:53.96]-[0:07:57.08]  con las cuchillas, es verdad, se hacían menudo.
+[0:07:57.08]-[0:08:02.12]  Y luego ya con las máquinas, ya hay máquinas, ya después.
+[0:08:02.12]-[0:08:03.80]  ¿Y cómo funcionan esas máquinas?
+[0:08:03.80]-[0:08:08.44]  Pues a torno, dan una manivela, verdad,
+[0:08:08.44]-[0:08:13.20]  y tiene cuchillas por medio y se va metiendo la carne,
+[0:08:13.20]-[0:08:15.88]  y sale luego picada, picada.
+[0:08:15.88]-[0:08:16.88]  La mano.
+[0:08:16.88]-[0:08:17.88]  Pero...
+[0:08:17.88]-[0:08:19.88]  Acá no nos vamos a ir, ¿eh?
+[0:08:19.88]-[0:08:22.68]  Pero lo que queremos saber es cómo se hacían los chorizos.
+[0:08:22.68]-[0:08:23.68]  ¿Usted ha hecho chorizos?
+[0:08:23.68]-[0:08:25.68]  Sí, no me ha hecho chorizos.
+[0:08:25.68]-[0:08:30.68]  Se metía un embudo en la...
+[0:08:30.68]-[0:08:31.68]  Hay un embudo.
+[0:08:31.68]-[0:08:33.68]  Y se metía la carne en el humo allí.
+[0:08:33.68]-[0:08:35.68]  Se metía la trípan en el embudo y claro,
+[0:08:35.68]-[0:08:38.68]  iban atacando, apretando y hasta que eso...
+[0:08:38.68]-[0:08:40.68]  Sí, pero por ejemplo, esa carne,
+[0:08:40.68]-[0:08:43.68]  habría que envolver esa carne con algo.
+[0:08:43.68]-[0:08:46.68]  Sí, abradito, con orégano y esas cosas.
+[0:08:46.68]-[0:08:48.68]  Pero eso eran las especies que se echaban.
+[0:08:48.68]-[0:08:53.68]  Por ejemplo, el chorizo tiene como un pellejo alrededor o algo de eso.
+[0:08:53.68]-[0:08:54.68]  La tripa que...
+[0:08:54.68]-[0:08:57.68]  La tripa que se pone nada más.
+[0:08:57.68]-[0:09:00.68]  Vaya...
+[0:09:00.68]-[0:09:02.68]  Pues sí.
+[0:09:02.68]-[0:09:08.68]  ¿Y esas especias, las cosas que echaban al chorizo,
+[0:09:08.68]-[0:09:10.68]  de dónde las tenían?
+[0:09:10.68]-[0:09:12.68]  Del campo.
+[0:09:12.68]-[0:09:13.68]  Que se cogían.
+[0:09:13.68]-[0:09:14.68]  Recuerda, el campo se traía...
+[0:09:14.68]-[0:09:15.68]  Del campo.
+[0:09:15.68]-[0:09:17.68]  ¿No compraban esa...
+[0:09:17.68]-[0:09:18.68]  El orégano?
+[0:09:18.68]-[0:09:19.68]  No, normalmente no.
+[0:09:19.68]-[0:09:21.68]  Estas...
+[0:09:21.68]-[0:09:23.68]  Estas se cogían del campo.
+[0:09:23.68]-[0:09:26.68]  Hay mucho orégano, mucho orégano y lo hecho de eso.
+[0:09:26.68]-[0:09:28.68]  Hay mucho orégano.
+[0:09:28.68]-[0:09:30.68]  Déjale María, sientale ahí.
+[0:09:30.68]-[0:09:32.68]  Gracias.
+[0:09:32.68]-[0:09:35.68]  ¿Y jamones? ¿Y hacían también jamones?
+[0:09:35.68]-[0:09:38.68]  Luego se quitaban los jamones, se apartaban.
+[0:09:38.68]-[0:09:40.68]  Luego se estafaba el cerdo, ¿verdad?
+[0:09:40.68]-[0:09:45.68]  Se lo hacía en trozos y claro, cada pieza lo que pidía.
+[0:09:45.68]-[0:09:48.68]  ¿Ha dicho usted estazar el cerdo?
+[0:09:48.68]-[0:09:49.68]  Estazarlo, sí.
+[0:09:49.68]-[0:09:51.68]  ¿Cómo se estazaba?
+[0:09:51.68]-[0:09:54.68]  Pues haciendo trozos, eso, hacerlo, cada cosa lo que pide.
+[0:09:54.68]-[0:09:56.68]  Cada cosa lo que pide.
+[0:09:56.68]-[0:09:59.68]  El jamón es jamón y el lomo es lomo.
+[0:09:59.68]-[0:10:02.68]  Y todo, y el tocino es tocino.
+[0:10:02.68]-[0:10:04.68]  ¿Y cómo hacían ustedes los jamones?
+[0:10:04.68]-[0:10:06.68]  ¿Cómo lo hacíamos?
+[0:10:06.68]-[0:10:12.68]  Pues cortándolos del tocino alrededor y luego curarlos al humo.
+[0:10:12.68]-[0:10:17.68]  Por ejemplo, cuéntenos ustedes todo, porque no sabemos, por ejemplo,
+[0:10:17.68]-[0:10:23.68]  cogían la parte del jamón, echaban sal, todo.
+[0:10:23.68]-[0:10:25.68]  Cuéntenos lo que recuerdan.
+[0:10:25.68]-[0:10:27.68]  Y luego el jamón.
+[0:10:27.68]-[0:10:31.68]  Cuando llegamos a asegar a la guadaña, entonces lo comíamos,
+[0:10:31.68]-[0:10:33.68]  pero es porque lo ganábamos.
+[0:10:33.68]-[0:10:36.68]  Lo sudábamos.
+[0:10:36.68]-[0:10:39.68]  Entonces por la mañanita, lo primero.
+[0:10:39.68]-[0:10:42.68]  Y luego a plantar de otro, se pegaba.
+[0:10:42.68]-[0:10:45.68]  Pero había que sudarle, ¿sabes?
+[0:10:45.68]-[0:10:47.68]  Había que sudarle todo de jamón.
+[0:10:47.68]-[0:10:51.68]  ¿Y ustedes recuerdan cómo se hacía?
+[0:10:51.68]-[0:10:54.68]  Lo hemos hecho nosotros y no lo vamos a recordar.
+[0:10:54.68]-[0:10:56.68]  Venga, pues cuéntamelo usted.
+[0:10:56.68]-[0:10:58.68]  Estamos contando cómo se hace.
+[0:10:58.68]-[0:11:00.68]  ¿Qué más quieren, verdad?
+[0:11:00.68]-[0:11:05.68]  Pues por ejemplo, en algunos sitios pisan el jamón o ponen preso.
+[0:11:05.68]-[0:11:09.68]  Bueno, sí, también hay quien le pisa, también hay quien le...
+[0:11:09.68]-[0:11:11.68]  ¿Cómo le llaman eso?
+[0:11:11.68]-[0:11:14.68]  La prensa, la prensa, en verdad.
+[0:11:14.68]-[0:11:16.68]  ¿Y cómo hacían ustedes eso?
+[0:11:16.68]-[0:11:18.68]  Yo no lo he hecho, la prensa le...
+[0:11:18.68]-[0:11:20.68]  Yo no he pensado tampoco.
+[0:11:20.68]-[0:11:23.68]  ¿Y echaban sal al jamón?
+[0:11:23.68]-[0:11:25.68]  Sí hombre, para chasco, lo que lo cura.
+[0:11:25.68]-[0:11:27.68]  ¿Y dónde compraban la sal?
+[0:11:27.68]-[0:11:30.68]  En la tienda, donde íbamos a comprar.
+[0:11:30.68]-[0:11:33.68]  Pero por ejemplo, ¿había tiendas o venía alguien al pueblo a vender?
+[0:11:33.68]-[0:11:36.68]  No señora, ve aquí, siempre ha habido tiendas.
+[0:11:36.68]-[0:11:42.68]  Yo siempre he conocido tiendas y tengo el 31 año cumplido, ya el 32.
+[0:11:42.68]-[0:11:46.68]  Siempre aquí, estas tiendas, siempre las he conocido.
+[0:11:46.68]-[0:11:49.68]  ¿Y lomos? ¿Hacían lomos?
+[0:11:49.68]-[0:11:50.68]  Sí hombre.
+[0:11:50.68]-[0:11:51.68]  ¿Y cómo se hacían los lomos?
+[0:11:51.68]-[0:11:53.68]  Pues también curándolos también.
+[0:11:53.68]-[0:11:58.68]  Había que los metían en adobo, en pimentón, esas cosas, verdad.
+[0:11:58.68]-[0:12:02.68]  Y los curaban y otros los metían en una tripa para luego, adelante, tenerlos.
+[0:12:02.68]-[0:12:06.68]  Cada uno lo hacía como le parecía.
+[0:12:06.68]-[0:12:09.68]  ¿Y ustedes hacían la matanza para comer?
+[0:12:09.68]-[0:12:10.68]  Para comer, claro.
+[0:12:10.68]-[0:12:11.68]  ¿Y no vendían la matanza?
+[0:12:11.68]-[0:12:13.68]  No, para tirar la nuevera.
+[0:12:13.68]-[0:12:14.68]  No, digo para venderla.
+[0:12:14.68]-[0:12:16.68]  No, no.
+[0:12:16.68]-[0:12:17.68]  No.
+[0:12:17.68]-[0:12:20.68]  Sí, mira lo que ocurrió una vez a mí.
+[0:12:20.68]-[0:12:23.68]  Para vender algo de la matanza, apenas lo hemos cobrado,
+[0:12:23.68]-[0:12:26.68]  ya hace lo menos 20 y tantos años, ¿verdad?
+[0:12:26.68]-[0:12:29.68]  A poco lo hemos cobrado.
+[0:12:29.68]-[0:12:32.68]  ¿Y por ejemplo más cosas? ¿Manteca?
+[0:12:32.68]-[0:12:33.68]  No, igual, igual.
+[0:12:33.68]-[0:12:34.68]  También.
+[0:12:34.68]-[0:12:35.68]  ¿Qué...?
+[0:12:35.68]-[0:12:42.68]  Se derretía para lo que ya gastaba con patatas o el cocido, o esas cosas.
+[0:12:42.68]-[0:12:46.68]  ¿Y qué se hacía con la manteca? ¿Para qué se usaba la manteca?
+[0:12:46.68]-[0:12:50.68]  Para las patatas, las que quería echarlo en ellas.
+[0:12:50.68]-[0:12:53.68]  Era como aceite, ¿verdad? ¿Se había para algo...?
+[0:12:53.68]-[0:12:57.68]  Una cosa parecida, ¿verdad?
+[0:12:57.68]-[0:13:01.68]  ¿Y tocino?
+[0:13:01.68]-[0:13:03.68]  Tocino también para comerlo también.
+[0:13:03.68]-[0:13:05.68]  Se echaba para...
+[0:13:05.68]-[0:13:09.68]  El tocino, pues relativamente se ponía las patatas, ¿no?
+[0:13:09.68]-[0:13:14.68]  Porque antes gastaban las patatas para mañana para desayunar.
+[0:13:14.68]-[0:13:16.68]  No había leche.
+[0:13:16.68]-[0:13:19.68]  Pues era un torrenito de trazo.
+[0:13:19.68]-[0:13:22.68]  ¿Y según ustedes, comiendo tocino y manteca usando...?
+[0:13:22.68]-[0:13:24.68]  Sí, esto, esto.
+[0:13:24.68]-[0:13:26.68]  Me sé como menos, pero sí.
+[0:13:26.68]-[0:13:29.68]  ¿Y ahora, por ejemplo, cómo utilizan ahora la manteca?
+[0:13:29.68]-[0:13:32.68]  Ahora yo no sé cómo utilizan.
+[0:13:32.68]-[0:13:39.68]  Hay quien hace jabón, porque no lo puede comer o no quiere comerlo.
+[0:13:39.68]-[0:13:45.68]  Hay quien hace jabón y otros, nosotros ya no sabemos nada de eso.
+[0:13:45.68]-[0:13:46.68]  ¿Y tocino?
+[0:13:46.68]-[0:13:49.68]  Tocino, pues lo mismo, también lo gastan mucho para el jabón.
+[0:13:49.68]-[0:13:52.68]  ¿Se utilizaba tocino, por ejemplo, para el cocido, no?
+[0:13:52.68]-[0:13:54.68]  Sí, señora.
+[0:13:54.68]-[0:13:55.68]  ¿Se echaba tocino al cocido?
+[0:13:55.68]-[0:14:00.68]  Cuando teníamos que dar el jabón por tocino, ¿qué pasaba?
+[0:14:00.68]-[0:14:03.68]  ¿Y los huesos? ¿Utilizaban los huesos del cerdo?
+[0:14:03.68]-[0:14:05.68]  También sí, también se picaban.
+[0:14:05.68]-[0:14:06.68]  ¿Para qué?
+[0:14:06.68]-[0:14:10.68]  Se picaban también y para echarle una manteca, con la manteca envuelta.
+[0:14:10.68]-[0:14:14.68]  ¿Y qué hacían con los huesos? ¿Los preparaban en sal o...?
+[0:14:14.68]-[0:14:16.68]  Sí, hombre, echaban un poquito de sal.
+[0:14:16.68]-[0:14:19.68]  Después que se echaba la manteca derretida, ¿verdad?, en ellos,
+[0:14:19.68]-[0:14:23.68]  echaban un poquito de sal para conservarlo, ¿verdad?
+[0:14:23.68]-[0:14:28.68]  Por ejemplo, ¿tenían más animales en el pueblo ustedes
+[0:14:28.68]-[0:14:31.68]  que ganado tenían? ¿Tenían vacas, ovejas...?
+[0:14:31.68]-[0:14:33.68]  Este tenía, también.
+[0:14:33.68]-[0:14:34.68]  ¿Tenía usted vacas?
+[0:14:34.68]-[0:14:39.68]  A una, pocas, pero yo no tenía pocas nunca, pero a una había.
+[0:14:39.68]-[0:14:42.68]  ¿Y cómo cuidaba usted las vacas? ¿Cómo se cuidaban?
+[0:14:42.68]-[0:14:46.68]  Sí, pues llevarlas al paro y si había hierba, que lo comieran.
+[0:14:46.68]-[0:14:50.68]  ¿Sí? ¿Simplemente se echaba de comer hierba las vacas?
+[0:14:50.68]-[0:14:53.68]  Sí, lleno y seca, hierba seca también.
+[0:14:53.68]-[0:14:56.68]  ¿Y cómo, con qué se echaba esas cosas a las vacas?
+[0:14:56.68]-[0:14:57.68]  ¿Con qué?
+[0:14:57.68]-[0:15:01.68]  Sí, por ejemplo, ¿ustedes iban con una mula o...?
+[0:15:01.68]-[0:15:05.68]  No, nosotros lo recogíamos, este, le pasaba eso.
+[0:15:05.68]-[0:15:10.68]  Lo recogían en el paro, hacía un vuelo, ¿verdad?
+[0:15:10.68]-[0:15:13.68]  Y luego, pues, Dalí iba, cuando yo iba, hacía falta,
+[0:15:13.68]-[0:15:15.68]  iba a estar a comer Dalí.
+[0:15:15.68]-[0:15:16.68]  Muy bien.
+[0:15:16.68]-[0:15:20.68]  Y cogía al abrazar verdadero,
+[0:15:20.68]-[0:15:24.68]  la asaptaba con una soca y se lo llevaba donde le pareciera a él.
+[0:15:24.68]-[0:15:29.68]  ¿Y las vacas, por ejemplo, no se limpian o ustedes limpiaban las vacas?
+[0:15:29.68]-[0:15:30.68]  No.
+[0:15:30.68]-[0:15:32.68]  Las vacas, no, a la cuadra sí.
+[0:15:32.68]-[0:15:33.68]  ¿Y cómo limpiaban la cuadra?
+[0:15:33.68]-[0:15:37.68]  Pues quitaban la basura, la basura que echaban.
+[0:15:37.68]-[0:15:39.68]  ¿Y con esa basura se quemaba o...?
+[0:15:39.68]-[0:15:43.68]  No, señora, la echábamos en la huerta.
+[0:15:43.68]-[0:15:47.68]  ¿Y ordenaba usted las vacas?
+[0:15:47.68]-[0:15:48.68]  Normalmente no.
+[0:15:48.68]-[0:15:52.68]  Normalmente casi no, entonces casi lo primero no.
+[0:15:52.68]-[0:15:53.68]  ¿Y entonces...?
+[0:15:53.68]-[0:15:55.68]  Eran habileñas.
+[0:15:55.68]-[0:15:57.68]  ¿Y la leche entonces?
+[0:15:57.68]-[0:15:59.68]  La leche, pues, no daban, pues, ¿cómo lo íbamos a sacar?
+[0:15:59.68]-[0:16:03.68]  Sí, pero, por ejemplo, si usted no ordenaba la vaca, compraba la leche.
+[0:16:03.68]-[0:16:05.68]  No usábamos leche.
+[0:16:05.68]-[0:16:07.68]  No tomaban leche.
+[0:16:07.68]-[0:16:10.68]  Nosotros tomábamos patatas para mañana.
+[0:16:10.68]-[0:16:11.68]  Sí, desayunaban patatas.
+[0:16:11.68]-[0:16:12.68]  Y al torrer, no.
+[0:16:12.68]-[0:16:14.68]  Ahora, por ejemplo, sí que toman leche.
+[0:16:14.68]-[0:16:16.68]  Ahora sí, pero no sabemos dónde vienen.
+[0:16:16.68]-[0:16:17.68]  No es de las nuestras.
+[0:16:17.68]-[0:16:18.68]  Ya no es de las de ustedes.
+[0:16:18.68]-[0:16:21.68]  No.
+[0:16:21.68]-[0:16:24.68]  Le iba a preguntar qué leche le gustaba más,
+[0:16:24.68]-[0:16:26.68]  si la de antes o la de ahora, pero ya no...
+[0:16:26.68]-[0:16:28.68]  No, pues yo creo que, yo no sé,
+[0:16:28.68]-[0:16:31.68]  a mí me gustaba, si lo tiraba de lo de antes
+[0:16:31.68]-[0:16:35.68]  y lo de ahora me tiraba a lo de antes.
+[0:16:35.68]-[0:16:39.68]  ¿Y la nata de la leche esa que quedaba por encima?
+[0:16:39.68]-[0:16:42.68]  Pues eso, pues, como se cuajaba,
+[0:16:42.68]-[0:16:46.68]  y que no cuajaba la leche, pues iba todo al montón.
+[0:16:46.68]-[0:16:47.68]  ¿Se cuajaba la leche?
+[0:16:47.68]-[0:16:49.68]  Sí, para hacer el queso.
+[0:16:49.68]-[0:16:50.68]  ¿Hacían ustedes queso?
+[0:16:50.68]-[0:16:52.68]  Algunas veces sí, hemos hecho.
+[0:16:52.68]-[0:16:53.68]  ¿Y cómo se hacía el queso?
+[0:16:53.68]-[0:16:59.68]  Pues, están a la vez de cuajar y luego se hacía cuajada, la verdad,
+[0:16:59.68]-[0:17:03.68]  y luego, pues la cuajada, pues a hacer el queso.
+[0:17:03.68]-[0:17:05.68]  Sí, pero, por ejemplo, ¿cómo se cuajaba la leche?
+[0:17:05.68]-[0:17:09.68]  Se ría, yo es que no, eso se queda muy lejos,
+[0:17:09.68]-[0:17:13.68]  no lo sé, por eso le pregunto, no se ría.
+[0:17:13.68]-[0:17:16.68]  Es de esos.
+[0:17:16.68]-[0:17:18.68]  Cuéntemelo usted.
+[0:17:18.68]-[0:17:20.68]  Es que para cuajar la leche,
+[0:17:20.68]-[0:17:23.68]  había que echar un cuajo de encabrito,
+[0:17:23.68]-[0:17:26.68]  un de ternero, ¿verdad?
+[0:17:26.68]-[0:17:30.68]  Que se que eso era cuajo,
+[0:17:30.68]-[0:17:32.68]  y se cuajaba la leche con ello.
+[0:17:32.68]-[0:17:34.68]  ¿Pero qué es un cuajo?
+[0:17:34.68]-[0:17:39.68]  Leche, que el ternero, cuando estaba mamando, igual que un crío,
+[0:17:39.68]-[0:17:42.68]  pues tiene que tener un cuajo, cuando estaba mamando la leche.
+[0:17:42.68]-[0:17:44.68]  Pues igual.
+[0:17:44.68]-[0:17:48.68]  Es decir, se cuajaba la leche y se hacía el queso.
+[0:17:48.68]-[0:17:52.68]  Claro, se lo sacaba al cabrito o al ternero
+[0:17:52.68]-[0:17:56.68]  y se le colgaba donde se pudiera secar una temporada.
+[0:17:56.68]-[0:17:59.68]  Y luego, después se iba gastando poquito a poco
+[0:17:59.68]-[0:18:02.68]  a medida de la leche que tuvieras.
+[0:18:02.68]-[0:18:04.68]  ¿Y no se echaba nada más a la leche?
+[0:18:04.68]-[0:18:06.68]  Nada más.
+[0:18:06.68]-[0:18:08.68]  Nada más.
+[0:18:08.68]-[0:18:09.68]  Nada más.
+[0:18:09.68]-[0:18:11.68]  ¿Y ovejas? ¿Tenían ustedes ovejas?
+[0:18:11.68]-[0:18:13.68]  No, no poseaban.
+[0:18:13.68]-[0:18:15.68]  Las he visto, pero...
+[0:18:15.68]-[0:18:18.68]  Y entonces, por ejemplo, en algunos sitios dicen
+[0:18:18.68]-[0:18:22.68]  ¿qué leche es mejor, la de oveja o la de vaca, para el queso?
+[0:18:22.68]-[0:18:26.68]  Hombre, yo creo que siempre ha sido la de oveja, ¿verdad?
+[0:18:26.68]-[0:18:28.68]  ¿Por qué ha sido mejor la de oveja?
+[0:18:28.68]-[0:18:32.68]  Porque lo requerirá el ganado, ¿qué si?
+[0:18:32.68]-[0:18:34.68]  Cosas de esas, ¿no?
+[0:18:34.68]-[0:18:36.68]  Ahora, pues poca cantidad, oveja poca cantidad.
+[0:18:36.68]-[0:18:38.68]  Y entonces, si no tenían ovejas, ustedes,
+[0:18:38.68]-[0:18:40.68]  ¿la lana, dónde compraban lana?
+[0:18:40.68]-[0:18:43.68]  Al que no tenía, por ahí, al que no tenía.
+[0:18:43.68]-[0:18:45.68]  ¿Y hacían colchones de lana?
+[0:18:45.68]-[0:18:46.68]  Sí, señora.
+[0:18:46.68]-[0:18:47.68]  ¿Y cómo se hacían?
+[0:18:47.68]-[0:18:51.68]  Mero cuando había que dormir en un colchón de raspaja, de rastrojo.
+[0:18:53.68]-[0:18:56.68]  ¿Cómo hacían los colchones? Cuéntame usted.
+[0:18:56.68]-[0:19:01.68]  Hacían los colchones por la lana, se lo cortan a la oveja, ¿verdad?
+[0:19:01.68]-[0:19:04.68]  Y lo graban, y luego lo secan.
+[0:19:04.68]-[0:19:10.68]  Y luego después de seco, pues ya tienden una tela, un colchón que le vamos,
+[0:19:10.68]-[0:19:14.68]  y ya lo echan, y luego ya le cosen, y esas cosas, y gracias, y eso.
+[0:19:14.68]-[0:19:16.68]  ¿Secaban la lana de alguna manera?
+[0:19:16.68]-[0:19:17.68]  Sí, sí, sí.
+[0:19:17.68]-[0:19:18.68]  ¿La pegaban o...?
+[0:19:18.68]-[0:19:19.68]  Al sol.
+[0:19:19.68]-[0:19:20.68]  ¿Al sol?
+[0:19:20.68]-[0:19:24.68]  ¿En algunos pueblos dan con vara así a la...?
+[0:19:24.68]-[0:19:27.68]  Sí, también dan con vara así.
+[0:19:29.68]-[0:19:34.68]  Menos a mi consuegra, que lava la lana para la boda de...
+[0:19:35.68]-[0:19:40.68]  y lo tiende nadie en una piedra, y resulta que viene un airazo,
+[0:19:40.68]-[0:19:43.68]  y se lo lleva para allá, para los lanos, allá para el tiradero.
+[0:19:43.68]-[0:19:44.68]  ¡Ay!
+[0:19:45.68]-[0:19:48.68]  Se le quitó la lana del colchón de la boda.
+[0:19:49.68]-[0:19:51.68]  ¿Y corderos? ¿Tenían ustedes corderos?
+[0:19:51.68]-[0:19:54.68]  Que no, nada de eso, nada de eso, nada de eso.
+[0:19:55.68]-[0:19:56.68]  ¿Conejos?
+[0:19:56.68]-[0:19:57.68]  Sí, conejos.
+[0:19:57.68]-[0:19:58.68]  ¿Eh?
+[0:19:58.68]-[0:19:59.68]  ¿Conejos?
+[0:19:59.68]-[0:20:00.68]  Tampoco.
+[0:20:00.68]-[0:20:02.68]  El que había en el campo, y le pidió echar la uña.
+[0:20:02.68]-[0:20:03.68]  ¿El qué?
+[0:20:03.68]-[0:20:06.68]  El que había en el campo y le pidió echar la uña.
+[0:20:06.68]-[0:20:07.68]  ¿Qué es eso de echar la uña?
+[0:20:07.68]-[0:20:09.68]  Coño, pues echarle el guante.
+[0:20:09.68]-[0:20:10.68]  Ah, el conejo.
+[0:20:10.68]-[0:20:12.68]  Eso ya ha hecho este muchas veces, este.
+[0:20:12.68]-[0:20:13.68]  Sí, para ver cuándo lo ha hecho.
+[0:20:13.68]-[0:20:14.68]  Ese que hace más.
+[0:20:14.68]-[0:20:15.68]  Yo no, yo no.
+[0:20:15.68]-[0:20:18.68]  Es como que no está hablando nada, hasta un ratito.
+[0:20:18.68]-[0:20:19.68]  Yo ya me he cansado.
+[0:20:19.68]-[0:20:21.68]  Está cansado ya.
+[0:20:21.68]-[0:20:23.68]  Venga, háganos el favor.
+[0:20:23.68]-[0:20:25.68]  A ver qué más, qué más.
+[0:20:25.68]-[0:20:31.68]  Pues eso por ejemplo, conejos, ustedes, como le echaba la uña, ¿no?
+[0:20:31.68]-[0:20:33.68]  ¿Y cómo los cocinaban? ¿Cómo se cocinaban los conejos?
+[0:20:33.68]-[0:20:35.68]  Coño, pues igual que todas las cosas.
+[0:20:35.68]-[0:20:40.68]  Se ponían un puchero, se arreglaban con los arteros, lo que fuera.
+[0:20:41.68]-[0:20:43.68]  ¿Y caballos tenían para...?
+[0:20:43.68]-[0:20:46.68]  Algunos había también, burros.
+[0:20:46.68]-[0:20:49.68]  ¿Y cómo los cuidaban esos caballos?
+[0:20:49.68]-[0:20:55.68]  Pues nada más que metenlos en los prados y ahí se cuidaban los dos.
+[0:20:56.68]-[0:20:59.68]  ¿Y no echaban nada de comer a...?
+[0:20:59.68]-[0:21:01.68]  Algunas veces, otras veces no.
+[0:21:01.68]-[0:21:04.68]  Si había hierba en la fika, pues no.
+[0:21:04.68]-[0:21:06.68]  Si no había, pues sí que no.
+[0:21:06.68]-[0:21:07.68]  Venos que no salgamos aquí.
+[0:21:07.68]-[0:21:09.68]  Venos que no salgamos aquí.
+[0:21:09.68]-[0:21:12.68]  A ningún sitio salimos nosotros, aquí no salimos en ningún sitio.
+[0:21:12.68]-[0:21:15.68]  No, hablar si quieres, salemos, pero saldremos, pero...
+[0:21:15.68]-[0:21:17.68]  Tampoco sabemos hablar.
+[0:21:17.68]-[0:21:19.68]  Yo, pero no puedo.
+[0:21:21.68]-[0:21:23.68]  Tampoco sabemos hablar.
+[0:21:23.68]-[0:21:28.68]  ¿Y cultivaban en este pueblo? ¿O sea, tenían trigo, cereales...?
+[0:21:28.68]-[0:21:31.68]  A poco, pero algo había también.
+[0:21:31.68]-[0:21:32.68]  ¿Qué cereales había?
+[0:21:32.68]-[0:21:34.68]  Pues algarrobas, ¿no?
+[0:21:34.68]-[0:21:41.68]  Centeno que llamamos nosotros, trigo, cebada, todo a poco, pero todo había algo.
+[0:21:41.68]-[0:21:45.68]  ¿Y qué se hacía el trigo para trabajar?
+[0:21:45.68]-[0:21:49.68]  ¿Qué se hacía el trigo? Pues, ¡hondra de muño! Lo que había que hacer.
+[0:21:49.68]-[0:21:50.68]  Cuéntemelo usted.
+[0:21:50.68]-[0:21:51.68]  Lo que había que hacer.
+[0:21:51.68]-[0:21:52.68]  Venga, alete.
+[0:21:52.68]-[0:21:55.68]  Se lo diga este. Este estaba descansado ahora.
+[0:21:55.68]-[0:21:58.68]  A mí me habéis metido ahora a la propina. Se lo diga este.
+[0:21:58.68]-[0:21:59.68]  Venga, cuéntemelo a uno.
+[0:21:59.68]-[0:22:02.68]  No sé, ya no sé. Yo no sé a un gano.
+[0:22:02.68]-[0:22:04.68]  Que me se caguen los dientes.
+[0:22:04.68]-[0:22:05.68]  Anda.
+[0:22:05.68]-[0:22:06.68]  Me arreo.
+[0:22:06.68]-[0:22:09.68]  Resulta que el trigo, pues, ¿qué había que hacerlo?
+[0:22:09.68]-[0:22:11.68]  Primero, criarlo, ¿no?
+[0:22:11.68]-[0:22:14.68]  Lo segundo, sacarlo.
+[0:22:14.68]-[0:22:16.68]  Llevarlo a la era para estirarlo.
+[0:22:16.68]-[0:22:19.68]  Luego, limpiarlo.
+[0:22:19.68]-[0:22:21.68]  Al molino.
+[0:22:21.68]-[0:22:23.68]  Y muchas cosas, muchas cosas ya.
+[0:22:23.68]-[0:22:26.68]  No me lo quiero contar a usted. Se está cansando ya.
+[0:22:26.68]-[0:22:28.68]  Venga, que lo necesitamos para el trabajo en el colegio.
+[0:22:28.68]-[0:22:29.68]  Que trabaje este tropoco.
+[0:22:29.68]-[0:22:30.68]  Si es que me cae en el...
+[0:22:30.68]-[0:22:31.68]  Que trabaje este tropoco.
+[0:22:31.68]-[0:22:33.68]  Si yo no puedo hablar, hombre.
+[0:22:33.68]-[0:22:36.68]  Pues necesitamos para un trabajo en el colegio, en la facultad.
+[0:22:36.68]-[0:22:37.68]  Nos harían ustedes un favor.
+[0:22:37.68]-[0:22:38.68]  Ya.
+[0:22:38.68]-[0:22:40.68]  Ya hemos contado muchas cosas.
+[0:22:40.68]-[0:22:41.68]  No.
+[0:22:41.68]-[0:22:43.68]  ¿Y gallinas? ¿Tienen gallinas?
+[0:22:43.68]-[0:22:45.68]  Aquí, de todo, eh.
+[0:22:45.68]-[0:22:47.68]  Hay pocos, pero de todo hay algo.
+[0:22:47.68]-[0:22:50.68]  ¿Y qué se echaba de comer a las gallinas?
+[0:22:50.68]-[0:22:53.68]  Ayer se echaba a comer pienso.
+[0:22:53.68]-[0:22:58.68]  Y nada, y comen, y se los cierran luego.
+[0:22:58.68]-[0:23:01.68]  Y se los acuiden bien y ya está.
+[0:23:01.68]-[0:23:08.68]  ¿Y las gallinas, se desplumaban a las gallinas de alguna manera?
+[0:23:08.68]-[0:23:11.68]  No, ellas las despluman cuando viene el tiempo.
+[0:23:11.68]-[0:23:13.68]  ¿Cómo se mataban a las gallinas?
+[0:23:13.68]-[0:23:15.68]  ¿De qué forma?
+[0:23:15.68]-[0:23:17.68]  Yo no maté a ninguna.
+[0:23:17.68]-[0:23:19.68]  ¿O a los pollos?
+[0:23:19.68]-[0:23:22.68]  ¿Qué se hacía para matar a los pollos?
+[0:23:22.68]-[0:23:25.68]  Agarrar los pescados y matarlos.
+[0:23:25.68]-[0:23:29.68]  De todas maneras, le voy a volver a preguntar un momento.
+[0:23:29.68]-[0:23:33.68]  ¿A las vacas qué se les echaba de comer?
+[0:23:33.68]-[0:23:36.68]  Del campo lo que había.
+[0:23:36.68]-[0:23:44.68]  Del campo lo que había es garrobas, la hierba, de lo que había, maíz.
+[0:23:44.68]-[0:23:48.68]  ¿Y a las gallinas, me ha dicho usted que se echaba a las gallinas pienso?
+[0:23:48.68]-[0:23:50.68]  Claro, a este sí le echaba pienso.
+[0:23:50.68]-[0:23:52.68]  ¿A la trigo no se echaba a las gallinas?
+[0:23:52.68]-[0:23:55.68]  Cualquiera se echaba a la trigo.
+[0:23:55.68]-[0:23:57.68]  ¿No les gustaba las gallinas?
+[0:23:57.68]-[0:23:59.68]  No les gustaba, no.
+[0:23:59.68]-[0:24:04.68]  ¿Y a los cerdos qué se echaba de comer?
+[0:24:04.68]-[0:24:12.68]  Tampoco es igual, del campo, hasta higos, patatas, remolacha, todo lo que hay en el campo.
+[0:24:12.68]-[0:24:14.68]  ¿A los cerdos se comían todo?
+[0:24:14.68]-[0:24:16.68]  No, no se comían todo.
+[0:24:16.68]-[0:24:18.68]  ¿A los cerdos se comían todo?
+[0:24:18.68]-[0:24:22.68]  No, de todos los que hay en el campo.
+[0:24:22.68]-[0:24:24.68]  ¿A los cerdos se comían absolutamente todo?
+[0:24:24.68]-[0:24:32.68]  Todo lo que echabas, hasta la pochichula, si te descuidabas.
+[0:24:32.68]-[0:24:35.68]  ¿Y el pan de antes cómo se hacía?
+[0:24:35.68]-[0:24:36.68]  ¿Cómo se hacía?
+[0:24:36.68]-[0:24:38.68]  ¿Hacían pan ustedes?
+[0:24:38.68]-[0:24:40.68]  También almorbasado sí.
+[0:24:40.68]-[0:24:42.68]  ¿Y a los cerdos les interesa cómo se hace?
+[0:24:42.68]-[0:24:54.68]  Pues eso, mire, el trigo se mueve, se hace harina y luego ya se lleva al horno, las mujeres lo amasan,
+[0:24:54.68]-[0:25:00.68]  hacen unos panes y a meterlos en el horno a lo caliente.
+[0:25:00.68]-[0:25:04.68]  ¿Qué pan era mejor, el de antes o el pan de ahora?
+[0:25:04.68]-[0:25:07.68]  ¿Este qué pila?
+[0:25:07.68]-[0:25:10.68]  Normalmente era lo de antes.
+[0:25:10.68]-[0:25:13.68]  Todo lo de antes ya me acuerdo, ahora.
+[0:25:13.68]-[0:25:16.68]  Miren las personas, las personas son iguales.
+[0:25:16.68]-[0:25:18.68]  Igual que la carne, igual que todo.
+[0:25:18.68]-[0:25:20.68]  Lo de antes, vos que lo de antes.
+[0:25:20.68]-[0:25:22.68]  Con lo del pan, ¿los hornos dónde estaban?
+[0:25:22.68]-[0:25:24.68]  Por ahí, los teníamos, con cualquiera.
+[0:25:24.68]-[0:25:25.68]  ¿En casa o donde?
+[0:25:25.68]-[0:25:27.68]  En casa, en casa, en casa, claro.
+[0:25:27.68]-[0:25:28.68]  ¿En la casa tenías un horno?
+[0:25:28.68]-[0:25:37.68]  No, cada casa no, a lo mejor en el pueblo, si hay vecinos que haya, había ocho, diez hornos en el pueblo.
+[0:25:37.68]-[0:25:38.68]  ¿Para todos?
+[0:25:38.68]-[0:25:39.68]  Para todos, claro.
+[0:25:39.68]-[0:25:40.68]  ¿Y había que pagar?
+[0:25:40.68]-[0:25:42.68]  Hombre, pues sí, había que pagar.
+[0:25:42.68]-[0:25:46.68]  Pero si no era con dinero, era con un pan que daba.
+[0:25:49.68]-[0:25:53.68]  Pero la masa, ¿usted ha hecho masa para los panes?
+[0:25:53.68]-[0:25:54.68]  Hombre, claro, hay que hacer masa.
+[0:25:54.68]-[0:25:56.68]  Igual que para hacer los turros.
+[0:25:56.68]-[0:25:58.68]  Hay que hacer masa.
+[0:25:58.68]-[0:26:01.68]  ¿Cómo está este hombre que sabe más que yo?
+[0:26:01.68]-[0:26:06.68]  Este hombre sabe más que yo.
+[0:26:06.68]-[0:26:10.68]  Dice, sabe esto más que yo, pero no quiere.
+[0:26:10.68]-[0:26:15.68]  Yo es que no sé decirlo, que no sé decirlo, coño.
+[0:26:15.68]-[0:26:18.68]  Y qué más, hemos hecho todo.
+[0:26:18.68]-[0:26:20.68]  ¿La masa, por ejemplo, para el pan?
+[0:26:20.68]-[0:26:25.68]  La masa, hacer la masa y hacer el pan y meterlo en el horno y al lado.
+[0:26:25.68]-[0:26:28.68]  Por ejemplo, ¿la masa había alguna manera?
+[0:26:28.68]-[0:26:29.68]  La hacían las mujeres.
+[0:26:29.68]-[0:26:31.68]  ¿Y no sabe usted cómo se hacía la masa?
+[0:26:31.68]-[0:26:33.68]  Yo no, yo no sé hacerlo.
+[0:26:33.68]-[0:26:35.68]  ¿Lo ha visto nunca?
+[0:26:35.68]-[0:26:36.68]  No, nunca.
+[0:26:36.68]-[0:26:37.68]  Muchas veces, pero...
+[0:26:37.68]-[0:26:38.68]  Usted sí, usted nos ha dicho que sí.
+[0:26:38.68]-[0:26:42.68]  Pero no, yo no lo he visto, pero yo no eh.
+[0:26:42.68]-[0:26:43.68]  Yo esas cosas no las he visto.
+[0:26:43.68]-[0:26:45.68]  Este hombre que sí sabía y no lo que dijo.
+[0:26:45.68]-[0:26:47.68]  Yo no he sido nada más que un t
+[0:26:47.68]-[0:26:49.68]  tisto obrero por ahí, un campesino,
+[0:26:49.68]-[0:26:53.68]  que no he visto hacerla con un canuto.
+[0:26:53.68]-[0:26:57.68]  Eso no, que no sabemos hacerla con un canuto, pero sabemos hacerla con...
+[0:26:57.68]-[0:26:59.68]  ¿Masa de pan si saben hacer?
+[0:26:59.68]-[0:27:02.68]  Yo la he visto hacer, pero no la he visto nunca.
+[0:27:02.68]-[0:27:04.68]  ¿Cómo la ha visto usted?
+[0:27:04.68]-[0:27:06.68]  Eso es eso, como dice este.
+[0:27:06.68]-[0:27:09.68]  Echar harina y luego echar el agua y las mujeres envolverlo
+[0:27:09.68]-[0:27:12.68]  hasta que hecho la masa.
+[0:27:12.68]-[0:27:15.68]  Hasta que hecho la masa.
+[0:27:15.68]-[0:27:16.68]  ¿Y los hornos se limpiaban?
+[0:27:16.68]-[0:27:17.68]  Sí señor.
+[0:27:17.68]-[0:27:18.68]  ¿Cómo?
+[0:27:18.68]-[0:27:22.68]  Había que barrerlos también, porque había que meterlos al fuego.
+[0:27:22.68]-[0:27:24.68]  Había que calentarlos al fuego, ¿no?
+[0:27:24.68]-[0:27:26.68]  Y luego cuando estaban calientes, por ya las mujeres,
+[0:27:26.68]-[0:27:38.68]  barrían bien y a meter el pan para que se cociera.
+[0:27:39.68]-[0:27:41.68]  ¿Saben ellos más que nosotros?
+[0:27:41.68]-[0:27:43.68]  No, porque venimos de Madrid.
+[0:27:43.68]-[0:27:44.68]  No, si somos de Madrid.
+[0:27:44.68]-[0:27:45.68]  ¿No están preguntando?
+[0:27:45.68]-[0:27:46.68]  ¿Saben ellas más que nosotros?
+[0:27:46.68]-[0:27:49.68]  No, la historia es que venimos de distintos pueblos,
+[0:27:49.68]-[0:27:52.68]  entonces hay costumbres que cambian de un sitio a otro.
+[0:27:52.68]-[0:27:53.68]  No, poco.
+[0:27:53.68]-[0:27:54.68]  Uy, sí.
+[0:27:54.68]-[0:27:55.68]  Poco, pues con cariño.
+[0:27:55.68]-[0:27:58.68]  Bueno, las matanzas son las matanzas,
+[0:27:58.68]-[0:28:01.68]  que cada uno las hace como le parece, ¿verdad?
+[0:28:01.68]-[0:28:02.68]  Eso, esas cosas.
+[0:28:02.68]-[0:28:05.68]  Uno lo hace de una manera, otros lo hacen de otra.
+[0:28:05.68]-[0:28:08.68]  Por ejemplo, algo que cambia muchísimo son las fiestas.
+[0:28:08.68]-[0:28:10.68]  No me diga de pueblo a pueblo.
+[0:28:10.68]-[0:28:11.68]  Bueno, es que las fiestas cambian mucho,
+[0:28:11.68]-[0:28:14.68]  pero es porque las cambian, si no, no cambiaban ellas.
+[0:28:14.68]-[0:28:15.68]  No, que...
+[0:28:15.68]-[0:28:19.68]  El alcalde es el de la culpa, porque el alcalde cambia las fiestas.
+[0:28:19.68]-[0:28:21.68]  Yo no sé quién lo cambiará,
+[0:28:21.68]-[0:28:22.68]  ¿el de arriba o el de abajo?
+[0:28:22.68]-[0:28:25.68]  Aquí es el alcalde, el que manda aquí,
+[0:28:25.68]-[0:28:29.68]  se pone aquí en su presidencia y manda ahí en todo.
+[0:28:29.68]-[0:28:31.68]  Me han dicho también que cultivaban trigo,
+[0:28:31.68]-[0:28:33.68]  ¿y otros cereales?
+[0:28:33.68]-[0:28:36.68]  O sea, cebada o algo de eso en este pueblo.
+[0:28:36.68]-[0:28:37.68]  Cebada es para todos.
+[0:28:37.68]-[0:28:38.68]  ¿De todos?
+[0:28:38.68]-[0:28:40.68]  De todos, cogían poco más.
+[0:28:40.68]-[0:28:43.68]  ¿Este que ven por aquí, el que más cogía?
+[0:28:43.68]-[0:28:45.68]  Este, este, el que más cogía de todos.
+[0:28:45.68]-[0:28:47.68]  El condecible más grande era este.
+[0:28:47.68]-[0:28:48.68]  Era grande, sí.
+[0:28:48.68]-[0:28:52.68]  El condecible mayor era este.
+[0:28:52.68]-[0:28:54.68]  ¿Este mayor?
+[0:28:54.68]-[0:28:58.68]  Este mayor, porque se nació antes, sí, pero si no, no.
+[0:28:58.68]-[0:29:01.68]  El que primero nacía es Jesús.
+[0:29:01.68]-[0:29:04.68]  ¿Ustedes están casados, estuvieron casados?
+[0:29:04.68]-[0:29:07.68]  No, no, yo todavía tengo la mujer.
+[0:29:07.68]-[0:29:08.68]  ¿Todavía?
+[0:29:08.68]-[0:29:09.68]  Sí, señora.
+[0:29:09.68]-[0:29:11.68]  ¿Recuerda su boda o cómo se hacía en la frontera?
+[0:29:11.68]-[0:29:12.68]  ¿Dónde de dónde?
+[0:29:12.68]-[0:29:13.68]  ¿Dónde de dónde?
+[0:29:13.68]-[0:29:18.68]  Acá, hace 60 años ya que me casé yo.

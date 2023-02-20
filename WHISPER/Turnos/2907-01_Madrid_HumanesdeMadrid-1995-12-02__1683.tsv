@@ -1,0 +1,26 @@
+estandar	dialectal	whisper
+Y	Y	Y
+este	este	esta
+es	es	es
+el	el	el
+~,	~,	perro
+este	este	pequeño
+es	es	del
+el	el	de
+perro	perro	casa
+pequeño	pequeño
+del	del
+~|	~|
+[HS:E2	[HS:E2
+		¿~			¿~
+Y	Y
+este	este
+perro	perro
+~?	~?
+		]			]
+de	de
+caza	caza
+~,	~,
+¿~	¿~
+no	no
+~?	~?

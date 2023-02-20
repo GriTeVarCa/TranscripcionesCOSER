@@ -1,0 +1,24 @@
+estandar	dialectal	whisper
+Claro	Claro	¿Ustedes
+~,	~,	iban
+ustedes	ustedes	al
+iban	iban	colegio
+al	al	hasta
+~,	~,	muy
+al	al	jovencitos?
+colegio	colegio	¿Ustedes
+hasta	hasta	iban
+~,	~,	al
+hasta	hasta	colegio
+muy	muy	hasta
+jovencitos	jovencitos	muy
+~,	~,
+¿~	¿~
+no	no
+~?	~?
+[HS:I2	[HS:I2
+		Hasta			Hasta
+nada	nada
+~,	~,
+		]			]
+[A-Inn]	[A-Inn]

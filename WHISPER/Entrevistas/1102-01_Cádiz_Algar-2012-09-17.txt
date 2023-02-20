@@ -1,0 +1,1193 @@
+[0:00:00.00]-[0:00:05.00]  Hola, buenos días. ¿Qué tal?
+[0:00:05.00]-[0:00:09.00]  Mira hija, aquí estamos en Tampocuito. Estoy cansada.
+[0:00:09.00]-[0:00:10.00]  ¿Está cansada?
+[0:00:10.00]-[0:00:12.00]  Ya que barré y recoge hojas del árbol.
+[0:00:12.00]-[0:00:14.00]  Lo hemos visto, muy ascendosa.
+[0:00:19.00]-[0:00:21.00]  A ver qué pasa, hija, porque si no, no...
+[0:00:21.00]-[0:00:23.00]  Si no, no hay forma de oírse.
+[0:00:23.00]-[0:00:24.00]  Claro.
+[0:00:24.00]-[0:00:27.00]  Es que somos estudiantes, venimos de Madrid
+[0:00:27.00]-[0:00:30.00]  a investigar un poco sobre las costumbres del pueblo, antiguas.
+[0:00:30.00]-[0:00:31.00]  ¿Usted es de aquí?
+[0:00:31.00]-[0:00:32.00]  Sí.
+[0:00:32.00]-[0:00:33.00]  ¿De siempre? ¿Ha vivido siempre aquí?
+[0:00:33.00]-[0:00:35.00]  Sí, he nacido aquí en Mequidía.
+[0:00:35.00]-[0:00:39.00]  ¿Y le importaría concedernos un ratito para que le hagamos una entrevista?
+[0:00:39.00]-[0:00:40.00]  Claro.
+[0:00:40.00]-[0:00:41.00]  ¿Unas preguntas de las...? ¿Sí?
+[0:00:41.00]-[0:00:42.00]  Sí.
+[0:00:42.00]-[0:00:44.00]  Fenomenal. ¿Y no le importa que le grabemos?
+[0:00:44.00]-[0:00:46.00]  ¿Grabar, mira?
+[0:00:46.00]-[0:00:47.00]  Sí. Es que, ¿sabes lo que pasa?
+[0:00:47.00]-[0:00:51.00]  Que tenemos que hacer un trabajo y si no, tomamos notas, pero no nos da tiempo.
+[0:00:51.00]-[0:00:52.00]  ¿Sí o no?
+[0:00:52.00]-[0:00:53.00]  Sí.
+[0:00:53.00]-[0:00:56.00]  ¿Sí a usted no le importa?
+[0:00:56.00]-[0:00:58.00]  A mí me da igual.
+[0:00:58.00]-[0:01:01.00]  Lo que pasa es que voy a salir muy fea.
+[0:01:01.00]-[0:01:02.00]  No, que va.
+[0:01:02.00]-[0:01:03.00]  En absoluto.
+[0:01:03.00]-[0:01:05.00]  Lo que pasa es que, ¿dónde podemos sentarnos?
+[0:01:05.00]-[0:01:07.00]  Porque aquí igual va a haber mucho ruido.
+[0:01:07.00]-[0:01:09.00]  Bueno, ¿queréis entrar?
+[0:01:09.00]-[0:01:10.00]  Si a usted no le importa, sería...
+[0:01:10.00]-[0:01:11.00]  Ya.
+[0:01:11.00]-[0:01:12.00]  Bueno, bueno.
+[0:01:12.00]-[0:01:13.00]  Qué bien.
+[0:01:13.00]-[0:01:14.00]  Muchas gracias.
+[0:01:14.00]-[0:01:27.00]  Sí, muchísimas gracias.
+[0:01:27.00]-[0:01:34.00]  Para ahí, para ahí.
+[0:01:34.00]-[0:01:38.00]  Así la llevo frente a un truco.
+[0:01:38.00]-[0:01:40.00]  Cierra la puerta, la he dejado abierta.
+[0:01:40.00]-[0:01:44.00]  ¿La he dejado abierta?
+[0:01:44.00]-[0:01:50.00]  Sí, para que no se me ocurra.
+[0:01:50.00]-[0:01:52.00]  ¿Siéntese usted, sobre todo?
+[0:01:52.00]-[0:01:54.00]  Sí.
+[0:01:54.00]-[0:01:56.00]  Ahí está.
+[0:01:56.00]-[0:01:59.00]  Pues, ¿me importa si le engancho un micrófono?
+[0:01:59.00]-[0:02:00.00]  No, no.
+[0:02:00.00]-[0:02:04.00]  Parece usted una estrella de la tele, pero no se preocupe que esto no sale en ningún sitio.
+[0:02:04.00]-[0:02:06.00]  Que no, no va a salir en...
+[0:02:06.00]-[0:02:09.00]  No, no somos de la tele ni de nada.
+[0:02:09.00]-[0:02:11.00]  No somos de la universidad.
+[0:02:11.00]-[0:02:19.00]  Ah, claro.
+[0:02:19.00]-[0:02:21.00]  Pues yo me quería que venía y para...
+[0:02:21.00]-[0:02:23.00]  Que dice que sale un matadero abajo para el mes que viene.
+[0:02:23.00]-[0:02:24.00]  ¿Ah sí?
+[0:02:24.00]-[0:02:26.00]  Y me quería que venía y a...
+[0:02:26.00]-[0:02:27.00]  A investigar el tema.
+[0:02:27.00]-[0:02:29.00]  Claro.
+[0:02:29.00]-[0:02:31.00]  Pues mire, ¿nos puede empezar a contar eso?
+[0:02:31.00]-[0:02:34.00]  Porque la primera pregunta siempre es cómo era la matanza.
+[0:02:34.00]-[0:02:36.00]  O sea, que aquí tienen un matadero.
+[0:02:36.00]-[0:02:38.00]  Sí, este es el matadero viejo.
+[0:02:38.00]-[0:02:40.00]  ¿Y cómo era antes?
+[0:02:40.00]-[0:02:46.00]  Pues nada, mataban los cochinos, tenían una cartera ahí y calentaban el agua y los pelaban.
+[0:02:46.00]-[0:02:50.00]  Y los mataban y se los llevaban ya para las tiendas.
+[0:02:50.00]-[0:02:53.00]  ¿Pero los cochinos los criaban?
+[0:02:53.00]-[0:02:56.00]  No, eso los traían ellos de por ahí.
+[0:02:56.00]-[0:02:59.00]  Los compraban o los criaban en su casa en el campo.
+[0:02:59.00]-[0:03:01.00]  ¿Usted nunca ha criado cochinos en su casa?
+[0:03:01.00]-[0:03:02.00]  No, yo no.
+[0:03:02.00]-[0:03:03.00]  Yo no.
+[0:03:03.00]-[0:03:05.00]  Yo me criaba, vamos, aquí.
+[0:03:05.00]-[0:03:07.00]  Yo me criaba en la calle Rea.
+[0:03:07.00]-[0:03:10.00]  De Siquetita a la calle Rea.
+[0:03:10.00]-[0:03:14.00]  ¿Y cómo usted ha hecho matanzas? ¿Sabe hacer morcillas?
+[0:03:14.00]-[0:03:19.00]  Ah, sí, eso sí, porque luego como fuimos al campo, y luego ya en el campo sí,
+[0:03:19.00]-[0:03:22.00]  al matar al cochino a un hombre que está ahí que se llama...
+[0:03:22.00]-[0:03:25.00]  Pues ese hombre es muy bueno para las entrevistas.
+[0:03:25.00]-[0:03:26.00]  No, luego vamos.
+[0:03:26.00]-[0:03:32.00]  Es acá abajo, cruza la calle, hay una boca de calle para abajo, la primera puerta.
+[0:03:32.00]-[0:03:37.00]  Y ese hombre tiene unas entrevistas porque era contrabandista de antes cuando estaba abajo.
+[0:03:37.00]-[0:03:38.00]  Ah, sí.
+[0:03:38.00]-[0:03:41.00]  Y ese hombre tiene unas entrevistas.
+[0:03:41.00]-[0:03:42.00]  Pues luego...
+[0:03:42.00]-[0:03:45.00]  Se llama...
+[0:03:45.00]-[0:03:46.00]  Listo.
+[0:03:46.00]-[0:03:49.00]  A ver, a ver, cuéntenos un poco la morcilla.
+[0:03:49.00]-[0:03:54.00]  Pues nada, se mataba al cochino, ese hombre iba a matarlo que estaba allí en el campo también,
+[0:03:54.00]-[0:03:59.00]  y se sacaba la sangre y se hacía la morcilla con la sangre.
+[0:03:59.00]-[0:04:04.00]  Y looteaba la... la pringue y eso y se le echaba la sangre.
+[0:04:04.00]-[0:04:12.00]  Y allí se le echaban sus aliños de orégano, de pimienta, de comino, de todas las cositas, pimiento molido, todo.
+[0:04:12.00]-[0:04:17.00]  Y luego ya se hacían las morcillas, le ponían un cartero grande con el agua,
+[0:04:17.00]-[0:04:21.00]  y cuando eso, pues echaban las morcillas y se cocían.
+[0:04:21.00]-[0:04:25.00]  Cuando se cocían, se apartaban y a comérselas, estaban un poco buenas.
+[0:04:25.00]-[0:04:27.00]  ¿El mismo día se comían?
+[0:04:27.00]-[0:04:30.00]  Sí, se hacían las matanzas por la mañana el mismo día.
+[0:04:30.00]-[0:04:32.00]  ¿No se guardaban luego para...?
+[0:04:32.00]-[0:04:39.00]  Sí, hombre, ya se dejaban, ya se iban comiendo poquito a poco cuando se iban ellas secando y algunas se metían en manteca también.
+[0:04:39.00]-[0:04:41.00]  ¿En manteca? ¿En aceite?
+[0:04:41.00]-[0:04:43.00]  En aceite no, en manteca.
+[0:04:43.00]-[0:04:49.00]  Y luego sacaban una taja y la manteca al pan y la taja morcilla.
+[0:04:49.00]-[0:04:52.00]  Los chorizos, el poquito de lomo...
+[0:04:52.00]-[0:04:55.00]  ¿Y cómo, cómo? A ver, todo, todo lo queremos saber.
+[0:04:55.00]-[0:04:59.00]  ¿Sí? Pues el lomo se ponía, se cortaban las tabas,
+[0:04:59.00]-[0:05:06.00]  el lomo que tiene el cocino, que tiene dos, y se parte a lo largo y se iban haciendo tajaditas.
+[0:05:06.00]-[0:05:13.00]  Y se ponía igual un barreño o una cartera, lo que fuera, con el agua caliente.
+[0:05:13.00]-[0:05:18.00]  No, mentira, pesaba el lomo.
+[0:05:18.00]-[0:05:29.00]  Y allí se lesaba lauret, pimienta, ajo, suerto, así, no con pelado, sino con el pellejito.
+[0:05:29.00]-[0:05:35.00]  Y se lesaba una poca de agua y que se hirviera así bien, y sal.
+[0:05:35.00]-[0:05:39.00]  Y cuando ya estaba que se ponía eso, con todo se lesaba la manteca.
+[0:05:39.00]-[0:05:41.00]  Y ya se quedaba doradito, precioso.
+[0:05:41.00]-[0:05:44.00]  Y se metían tinaguita y también te palen bien.
+[0:05:44.00]-[0:05:45.00]  Ajá.
+[0:05:45.00]-[0:05:46.00]  Y luego...
+[0:05:46.00]-[0:05:47.00]  ¿Y cómo, cómo eran las tinajas?
+[0:05:47.00]-[0:05:50.00]  Pues las tinajas de estas de barro.
+[0:05:50.00]-[0:05:51.00]  Pero grandes.
+[0:05:51.00]-[0:05:55.00]  Grandecitas, según lo que hubiera, de lomo hecho.
+[0:05:55.00]-[0:05:57.00]  ¿Y se conservaban en manteca también?
+[0:05:57.00]-[0:06:00.00]  Se concentraba en manteca también.
+[0:06:00.00]-[0:06:06.00]  Te dejaban unas tajaditas para comerse las afín y lo demás a la manteca.
+[0:06:06.00]-[0:06:08.00]  Y los chorizos.
+[0:06:08.00]-[0:06:12.00]  Los chorizos lo mismo, se picaba la carne con una maquinita.
+[0:06:12.00]-[0:06:14.00]  ¿Cómo era la máquina?
+[0:06:14.00]-[0:06:19.00]  La máquina así entre larguita, con una trompita así adelante.
+[0:06:19.00]-[0:06:21.00]  Y tenía una manivela.
+[0:06:21.00]-[0:06:24.00]  Y se iba metiendo la carne por una cosita que tenía así.
+[0:06:24.00]-[0:06:26.00]  Se iba metiendo la carne.
+[0:06:26.00]-[0:06:29.00]  Se le daba la manivela y aquí se iba sujetando la carne.
+[0:06:29.00]-[0:06:32.00]  A la manivela, fin, fin, fin, fin, que tenía una...
+[0:06:32.00]-[0:06:35.00]  Y aquí la carne, aquí iba un barreño.
+[0:06:35.00]-[0:06:40.00]  Y cuando ya se tenía todo picado, pues entonces se lesaban los aliños.
+[0:06:40.00]-[0:06:46.00]  Un poquito de vino, pimiento molido, ajo picado, pimiento colorado,
+[0:06:46.00]-[0:06:51.00]  fuzá, y ya hacer los chorizos con la misma máquina,
+[0:06:51.00]-[0:06:55.00]  pues se le ponía otro patito en la punta y tenía un embudito.
+[0:06:55.00]-[0:06:57.00]  Y con las tripas del cocino se lavaban y se preparaban,
+[0:06:57.00]-[0:06:59.00]  y la idea era hacer las mortillas y los chorizos.
+[0:06:59.00]-[0:07:01.00]  ¿Y cómo se lavaban las tripas?
+[0:07:01.00]-[0:07:04.00]  Con las tripas, era un barreño grande.
+[0:07:04.00]-[0:07:07.00]  Se lavaban bien, bien, bien, bien y los frutos y monjua,
+[0:07:07.00]-[0:07:13.00]  y se lesaba vinagre, naranja agria y otro unjuago para que estuvieran más limpias.
+[0:07:13.00]-[0:07:17.00]  Y ya se iban llenando la maquinita esa, las mortillas y el chorizo,
+[0:07:17.00]-[0:07:20.00]  y ya se ponían a secar, los chorizos a secar.
+[0:07:20.00]-[0:07:23.00]  En un palo se iban colgando, pom, pom, pom, pom,
+[0:07:23.00]-[0:07:27.00]  y se ponían al aire para que se fueran secando.
+[0:07:27.00]-[0:07:31.00]  Cuando ya estaban sequitos, pues unos se lesaban en manteca también,
+[0:07:31.00]-[0:07:36.00]  ese trocito, y otros lo dejaban para comer, no lo hacían seco.
+[0:07:36.00]-[0:07:37.00]  ¿Y el cocido?
+[0:07:37.00]-[0:07:40.00]  Que estaba buenísimo, entonces sí que estaba bueno todo.
+[0:07:40.00]-[0:07:42.00]  Porque ahora ya...
+[0:07:42.00]-[0:07:43.00]  Es otra cosa.
+[0:07:43.00]-[0:07:46.00]  Y que ya está una que no puede comer de nada.
+[0:07:46.00]-[0:07:48.00]  El médico no...
+[0:07:48.00]-[0:07:50.00]  Ahora tengo que ir a las doce al médico.
+[0:07:50.00]-[0:07:51.00]  ¿Ah sí?
+[0:07:51.00]-[0:07:53.00]  Tiene una de todo.
+[0:07:53.00]-[0:07:56.00]  No puedo comer ni con lo que me gustan las frutas ni frutas dequiera.
+[0:07:56.00]-[0:07:58.00]  ¿De verdad?
+[0:07:58.00]-[0:08:01.00]  Digo, porque tengo el potasio alto.
+[0:08:01.00]-[0:08:03.00]  ¡Qué faena!
+[0:08:03.00]-[0:08:05.00]  Tengo de todo como en farmacia.
+[0:08:05.00]-[0:08:06.00]  ¡Qué estupenda!
+[0:08:06.00]-[0:08:09.00]  Pero es lo que tengo, la buena cara.
+[0:08:09.00]-[0:08:11.00]  Pero luego por dentro está lo de hecho.
+[0:08:11.00]-[0:08:12.00]  Claro.
+[0:08:12.00]-[0:08:13.00]  Digo.
+[0:08:13.00]-[0:08:16.00]  ¿Y cómo se criaba el cerdo?
+[0:08:16.00]-[0:08:19.00]  Porque dicen que sabía mejor antes.
+[0:08:19.00]-[0:08:20.00]  Claro, donde vais.
+[0:08:20.00]-[0:08:22.00]  Ya lo que comía todo era natural.
+[0:08:22.00]-[0:08:23.00]  Natural.
+[0:08:23.00]-[0:08:27.00]  Mira, si le echaba fellota del campo, que la cogía mi padre,
+[0:08:27.00]-[0:08:29.00]  y le echaba un fellota ahí, el maíz.
+[0:08:29.00]-[0:08:34.00]  Criaba maíz y luego se cogía la mazorca, se pelaba y se quedaba el maíz.
+[0:08:34.00]-[0:08:37.00]  Pues eso es lo que le echaba mi padre.
+[0:08:37.00]-[0:08:38.00]  ¿Maíz?
+[0:08:38.00]-[0:08:42.00]  O bellota en el invierno, o lo que cogiera en el campo.
+[0:08:42.00]-[0:08:45.00]  Pero si ahora todo lo que comemos es porquería.
+[0:08:45.00]-[0:08:47.00]  Y pienso...
+[0:08:47.00]-[0:08:51.00]  Pienso compuestos de eso, los huevos, todo, todo.
+[0:08:51.00]-[0:08:53.00]  Yo como no quiero la mitad de las cosas.
+[0:08:53.00]-[0:08:54.00]  Claro.
+[0:08:54.00]-[0:08:55.00]  Eso no.
+[0:08:55.00]-[0:08:57.00]  ¿Y cómo era el jamón?
+[0:08:57.00]-[0:08:58.00]  El jamón no lo hacíamos.
+[0:08:58.00]-[0:08:59.00]  ¿No?
+[0:08:59.00]-[0:09:00.00]  No.
+[0:09:00.00]-[0:09:01.00]  No teníamos sitio.
+[0:09:01.00]-[0:09:02.00]  Para churros.
+[0:09:02.00]-[0:09:05.00]  Porque eso hay que meterlo en sal, y tenerlo unos pocos días en sal.
+[0:09:05.00]-[0:09:07.00]  Cubierto, cubierto de sal.
+[0:09:07.00]-[0:09:09.00]  Y luego ponerlo a secar y nosotros no teníamos de ponerlo,
+[0:09:09.00]-[0:09:11.00]  porque vivíamos en un chozo.
+[0:09:11.00]-[0:09:12.00]  ¿Qué es un chozo?
+[0:09:12.00]-[0:09:16.00]  Una socita reza esa de pasto y...
+[0:09:16.00]-[0:09:18.00]  ¿No sabe lo que es un chocito?
+[0:09:18.00]-[0:09:20.00]  Ahora sí.
+[0:09:20.00]-[0:09:24.00]  Pues ahí vivíamos nosotros, pero lo teníamos como una casita.
+[0:09:24.00]-[0:09:28.00]  De precioso repellado por dentro, hasta una mediación así.
+[0:09:28.00]-[0:09:33.00]  Repelladito con barro, que lo hacíamos con barro arbero y paja.
+[0:09:33.00]-[0:09:35.00]  Y hacíamos la mezcla.
+[0:09:35.00]-[0:09:39.00]  Y nosotras mismas lo repellábamos, lo poníamos como una casa.
+[0:09:39.00]-[0:09:40.00]  O sea que la casa...
+[0:09:40.00]-[0:09:43.00]  El sofá era precioso, parecía una almita.
+[0:09:43.00]-[0:09:47.00]  Blanquito, blanquito, blanquito y todo muy bien puestecito.
+[0:09:47.00]-[0:09:51.00]  Sus bazares, lo que se llevaba antes.
+[0:09:51.00]-[0:09:52.00]  ¿Y cuántos vivían allí?
+[0:09:52.00]-[0:09:56.00]  Pues así vivíamos cuatro.
+[0:09:56.00]-[0:09:57.00]  ¿Sus padres?
+[0:09:57.00]-[0:10:00.00]  Ah no, cinco. Mis padres y nosotros tres.
+[0:10:00.00]-[0:10:03.00]  Que somos tres hermanos.
+[0:10:03.00]-[0:10:05.00]  ¿Y todo el pueblo vivía...
+[0:10:05.00]-[0:10:07.00]  No, esto era aquí.
+[0:10:07.00]-[0:10:09.00]  Ellos estaban en el campo.
+[0:10:09.00]-[0:10:12.00]  Ya cuando más grandecita, nos fuimos al campo.
+[0:10:12.00]-[0:10:17.00]  Y allí vivimos hasta 40 años, las 10 y ya.
+[0:10:17.00]-[0:10:19.00]  ¿Y qué más animales tenían?
+[0:10:19.00]-[0:10:21.00]  Pues tenía gallinas.
+[0:10:21.00]-[0:10:24.00]  Tenía los cocinos.
+[0:10:24.00]-[0:10:27.00]  Teníamos unas poquito de cabras también.
+[0:10:27.00]-[0:10:30.00]  Que me enzordeñaban cuando tenían al cibito.
+[0:10:30.00]-[0:10:34.00]  Y se hacía... Mi madre sacaba el alerce y hacíamos hasta un quesito.
+[0:10:34.00]-[0:10:35.00]  ¿Y cómo se hace el queso?
+[0:10:35.00]-[0:10:40.00]  El queso pues mira, se ponía el alerce y le echábamos un poquito de cuajo.
+[0:10:40.00]-[0:10:42.00]  Que el cuajo se saca del cibito.
+[0:10:42.00]-[0:10:47.00]  El cibito lo matan y tiene su estomaguito.
+[0:10:47.00]-[0:10:51.00]  Y el alerce que tenía el estomaguito, pues era el cuajo.
+[0:10:51.00]-[0:10:54.00]  Lo sacábamos secado, así en un árbol.
+[0:10:54.00]-[0:10:58.00]  Y ese era el cuajo para sacarle al alerce.
+[0:10:58.00]-[0:11:00.00]  Se les sabía que había que sacarle al alerce.
+[0:11:00.00]-[0:11:03.00]  Y luego se meneaba, se meneaba.
+[0:11:03.00]-[0:11:11.00]  Y una amplitilla que hay de pacto, pues se ponía así en redonditas.
+[0:11:11.00]-[0:11:14.00]  Y ahora se iba cogiendo el cuajo, ya cuajado, se movía.
+[0:11:14.00]-[0:11:16.00]  Y ya cuajado se iba pasando así.
+[0:11:16.00]-[0:11:18.00]  Y venga a aplastar, y venga a aplastar, y venga a aplastar.
+[0:11:18.00]-[0:11:20.00]  Hasta que se formó el alquesto.
+[0:11:20.00]-[0:11:22.00]  Y se sacaba, se ponía en un entremijo.
+[0:11:22.00]-[0:11:24.00]  Un entremijo, ¿eh?
+[0:11:24.00]-[0:11:28.00]  Una tabla con el morde del queso por abajo para ponerlo.
+[0:11:28.00]-[0:11:31.00]  Cuando luego se volviera, saliera con el morde.
+[0:11:31.00]-[0:11:35.00]  Y se dejaba así unos dos o tres días que se secara.
+[0:11:35.00]-[0:11:37.00]  Y luego otro hace otro.
+[0:11:37.00]-[0:11:39.00]  ¿Y eso para casa o lo vendían?
+[0:11:39.00]-[0:11:43.00]  Para casa, para casa, porque era siquitito.
+[0:11:43.00]-[0:11:45.00]  Tres cuartos, medio kilo, ese.
+[0:11:45.00]-[0:11:48.00]  Porque hombre, tantas cabras no teníamos.
+[0:11:48.00]-[0:11:51.00]  Pero no nos daba tiempo tomando la leche.
+[0:11:51.00]-[0:11:54.00]  Y mi madre, pues hacíamos un quesito y ya.
+[0:11:54.00]-[0:11:57.00]  ¿Y hacían algo más? ¿Mantequilla o...?
+[0:11:57.00]-[0:11:58.00]  No, no, eso no.
+[0:11:58.00]-[0:12:00.00]  Eso no, de antes no había eso.
+[0:12:00.00]-[0:12:02.00]  Eso no.
+[0:12:02.00]-[0:12:03.00]  Y ya.
+[0:12:03.00]-[0:12:07.00]  Nada más que el queso, y cuando parían las cabras,
+[0:12:07.00]-[0:12:10.00]  pues se hacían requezones también.
+[0:12:10.00]-[0:12:12.00]  Del mismo suero del queso.
+[0:12:12.00]-[0:12:15.00]  Se mueve, se mueve, se mueve y salen los requezones.
+[0:12:15.00]-[0:12:20.00]  Y se salen los requin como un furullito, ¿qué le decimos?
+[0:12:20.00]-[0:12:23.00]  Y luego se comía con azúcar.
+[0:12:23.00]-[0:12:24.00]  Qué rico, ¿no?
+[0:12:24.00]-[0:12:25.00]  Pero bueno.
+[0:12:25.00]-[0:12:28.00]  A la candela, mueve el suero, mueve, mueve, mueve,
+[0:12:28.00]-[0:12:31.00]  hasta que se quedaba eso una pata.
+[0:12:31.00]-[0:12:32.00]  Digo.
+[0:12:32.00]-[0:12:34.00]  ¿Y las gallinas?
+[0:12:34.00]-[0:12:36.00]  Las gallinas, los huevos, más buenos que todos.
+[0:12:36.00]-[0:12:38.00]  Nada más que comían maíz y trigo.
+[0:12:38.00]-[0:12:40.00]  Y en el campo.
+[0:12:40.00]-[0:12:42.00]  ¿Y cuántos huevos pone una gallina...?
+[0:12:42.00]-[0:12:47.00]  Pues hombre, hay épocas que ponen más y otras épocas que ponen menos.
+[0:12:47.00]-[0:12:49.00]  ¿Y dónde están?
+[0:12:49.00]-[0:12:51.00]  Así en el campo.
+[0:12:51.00]-[0:12:54.00]  Tenían un sofrito y así se quedaban.
+[0:12:54.00]-[0:12:57.00]  Le ponía mi padre unos palitos aquí a través pa'o.
+[0:12:57.00]-[0:13:00.00]  Y así se quedaban estas ganas.
+[0:13:00.00]-[0:13:04.00]  Y de día sueltas y esándoles de comer maíz o trigo.
+[0:13:04.00]-[0:13:05.00]  Lo que comían.
+[0:13:05.00]-[0:13:08.00]  ¿Y las llaman de alguna forma para que vengan?
+[0:13:08.00]-[0:13:12.00]  ¡Pito, pito, pito, pito!
+[0:13:12.00]-[0:13:16.00]  Y acudían a la la más de bien, no podía estar lo lejos que estuviera.
+[0:13:16.00]-[0:13:17.00]  Que venían.
+[0:13:17.00]-[0:13:18.00]  Digo.
+[0:13:18.00]-[0:13:20.00]  ¿Y como tenían pollitos también, o?
+[0:13:20.00]-[0:13:21.00]  También.
+[0:13:21.00]-[0:13:22.00]  Esa la gallina es mi madre.
+[0:13:22.00]-[0:13:24.00]  Cuando se quedaban cuecas.
+[0:13:24.00]-[0:13:25.00]  ¿Qué es eso de...?
+[0:13:25.00]-[0:13:29.00]  Pues cogía los huevos de ellas mismas, como tenían gallos.
+[0:13:29.00]-[0:13:31.00]  Pues tenían...
+[0:13:31.00]-[0:13:35.00]  Y cogía los huevos y esa era la gallina cuando estaba cueca.
+[0:13:35.00]-[0:13:41.00]  Achaban unas puertecitas o compajitas y así ponían los huevos y la gallina se ponía encima.
+[0:13:41.00]-[0:13:42.00]  ¿Cuántos cien?
+[0:13:42.00]-[0:13:45.00]  Y a los 21 días salían los pollitos.
+[0:13:45.00]-[0:13:46.00]  ¿A los 21 días?
+[0:13:46.00]-[0:13:48.00]  A los 21 días.
+[0:13:48.00]-[0:13:49.00]  Digo.
+[0:13:49.00]-[0:13:52.00]  ¿Y comían también gallina?
+[0:13:52.00]-[0:13:54.00]  Sí, que matábamos.
+[0:13:54.00]-[0:13:57.00]  Cuando iban siendo viejas, o barbuches.
+[0:13:57.00]-[0:14:00.00]  Y tenía pozo, muchos pozos, unos pozos de lindo.
+[0:14:00.00]-[0:14:03.00]  Con tres kilos, tres kilos y medio.
+[0:14:03.00]-[0:14:07.00]  Ay, qué carne más buena, qué toque de bueno estaba.
+[0:14:07.00]-[0:14:09.00]  Lo echó a usted de menos.
+[0:14:09.00]-[0:14:10.00]  ¡Ajú!
+[0:14:10.00]-[0:14:12.00]  Pero de menos.
+[0:14:12.00]-[0:14:15.00]  Uno está criando más que con eso y pan bueno de campo.
+[0:14:15.00]-[0:14:17.00]  ¿Y hacían el pan ustedes?
+[0:14:17.00]-[0:14:18.00]  Digo.
+[0:14:18.00]-[0:14:19.00]  ¿Cómo es eso?
+[0:14:19.00]-[0:14:29.00]  Teníamos unos mitos, eso, allí detrás de la soja y ponían un baño en un laberillo grande
+[0:14:29.00]-[0:14:33.00]  y le echaban la gallina y le echaban la levadura y un poco de sal.
+[0:14:33.00]-[0:14:39.00]  Y entonces amasaban por los puños, amasaban y ponían pan.
+[0:14:39.00]-[0:14:43.00]  Y luego ya cuando estaban las celeritas esas, pues al hornito.
+[0:14:43.00]-[0:14:48.00]  Estaban una hora, hora y media y cuando se veía que estaban doraditos y cocidos,
+[0:14:48.00]-[0:14:50.00]  a sacarlos y a comer.
+[0:14:50.00]-[0:14:53.00]  ¿Y cuántos panes hacían?
+[0:14:53.00]-[0:14:58.00]  Pues no mucho porque el hornito era musico.
+[0:14:58.00]-[0:14:59.00]  Pero duraban.
+[0:14:59.00]-[0:15:00.00]  Sí, duraban.
+[0:15:00.00]-[0:15:03.00]  Teníamos unas puertas grandes de antes, las cosas de antes.
+[0:15:03.00]-[0:15:08.00]  Y mi madre tenía una mantita limpita no más que para aquellos y un paño blanco
+[0:15:08.00]-[0:15:11.00]  y allí se metían las puertas y el pantapadito.
+[0:15:11.00]-[0:15:16.00]  Y duraban seis o siete días y no se salvo ni perdés.
+[0:15:16.00]-[0:15:17.00]  No como ahora.
+[0:15:17.00]-[0:15:18.00]  No como ahora.
+[0:15:18.00]-[0:15:21.00]  Pero tiene que ir para mañana y ya estamos hos.
+[0:15:21.00]-[0:15:22.00]  Es verdad.
+[0:15:22.00]-[0:15:23.00]  Digo.
+[0:15:23.00]-[0:15:26.00]  Y así estábamos muy bien nosotros.
+[0:15:26.00]-[0:15:27.00]  ¿Y la levadura?
+[0:15:27.00]-[0:15:31.00]  La levadura era esa del mismo pan.
+[0:15:31.00]-[0:15:33.00]  Teníamos un pasarrito así.
+[0:15:33.00]-[0:15:42.00]  Y colvía mi madre un eso así, un pedazo, un toron drito y lo metía en el puserito.
+[0:15:42.00]-[0:15:49.00]  Y ya se dejaba y cuando íbamos a hacer otra vez, pues con aquello.
+[0:15:49.00]-[0:15:51.00]  ¿Y volvían a...?
+[0:15:51.00]-[0:15:52.00]  Y volvían a hacer pan otra vez.
+[0:15:52.00]-[0:15:58.00]  Esabas el agua templaita y se derretía allí la levadura, señor.
+[0:15:58.00]-[0:16:03.00]  Como un pedazo de masa, sino que era la levadura.
+[0:16:03.00]-[0:16:04.00]  Digo.
+[0:16:04.00]-[0:16:06.00]  ¿Y hacían algo más en el horno?
+[0:16:06.00]-[0:16:07.00]  No, no más que eso.
+[0:16:07.00]-[0:16:09.00]  No teníamos nada, hija.
+[0:16:09.00]-[0:16:12.00]  Qué dolor y menos más que teníamos pan y coca.
+[0:16:12.00]-[0:16:14.00]  Ni bollos ni nada.
+[0:16:14.00]-[0:16:15.00]  ¿Qué va?
+[0:16:15.00]-[0:16:16.00]  Ni en las fiestas.
+[0:16:16.00]-[0:16:17.00]  Nada.
+[0:16:17.00]-[0:16:18.00]  No.
+[0:16:18.00]-[0:16:20.00]  Eso no había de antes.
+[0:16:20.00]-[0:16:21.00]  Ya.
+[0:16:21.00]-[0:16:25.00]  Y cumplíamos los años y cumplíamos el día y todo y no había nada.
+[0:16:25.00]-[0:16:30.00]  Y ya, porque estábamos mejor, porque de antes, antes menos.
+[0:16:30.00]-[0:16:31.00]  Claro.
+[0:16:31.00]-[0:16:35.00]  ¿Usted cuántos años tiene, si no sin discreción?
+[0:16:35.00]-[0:16:38.00]  Yo tengo setenta y nueve.
+[0:16:38.00]-[0:16:40.00]  ¡Está usted estupenda!
+[0:16:40.00]-[0:16:42.00]  Ya estoy mi tía noventa.
+[0:16:42.00]-[0:16:43.00]  Estoy usted...
+[0:16:43.00]-[0:16:45.00]  Soy una vieja, pelada.
+[0:16:45.00]-[0:16:46.00]  Qué difícil.
+[0:16:46.00]-[0:16:48.00]  Qué dolor y trabajamos mucho, hija.
+[0:16:48.00]-[0:16:49.00]  Se le va.
+[0:16:49.00]-[0:16:52.00]  Hemos trabajado mucho, mucho, mucho.
+[0:16:52.00]-[0:16:54.00]  Desde los ocho años.
+[0:16:54.00]-[0:16:55.00]  ¿Y qué hacía?
+[0:16:55.00]-[0:16:56.00]  ¿Qué hacía?
+[0:16:56.00]-[0:16:57.00]  Detón.
+[0:16:57.00]-[0:16:59.00]  Con ocho años.
+[0:16:59.00]-[0:17:00.00]  Iba yo aquí en...
+[0:17:00.00]-[0:17:02.00]  Entonces estábamos aquí.
+[0:17:02.00]-[0:17:05.00]  Iba yo a hacerle a las vecinas, a los mandados, por un poquito más.
+[0:17:05.00]-[0:17:06.00]  Así.
+[0:17:06.00]-[0:17:09.00]  Porque no teníamos nada, no pasaba yo hambre.
+[0:17:09.00]-[0:17:12.00]  Me cogió el año cuarenta, que era la hambre.
+[0:17:12.00]-[0:17:13.00]  Claro.
+[0:17:13.00]-[0:17:17.00]  Yo nací en el mil novecientos treintitrés.
+[0:17:17.00]-[0:17:20.00]  Con qué me cogió todo.
+[0:17:20.00]-[0:17:22.00]  La guerra y todo.
+[0:17:22.00]-[0:17:24.00]  ¿Y qué mandados le...
+[0:17:24.00]-[0:17:26.00]  Con las mujeres, lo que me encargaban.
+[0:17:26.00]-[0:17:28.00]  Iba yo y se lo hacía, hacía las tiendecitas que había.
+[0:17:28.00]-[0:17:31.00]  Que entonces acá eran más chicos y más pobres y más...
+[0:17:31.00]-[0:17:32.00]  ¿Dónde van?
+[0:17:32.00]-[0:17:34.00]  Estaban muy las últimas, ¿o es?
+[0:17:34.00]-[0:17:40.00]  Y iba yo, le hacía a sus mandaditos y me daban una rebanita para mí.
+[0:17:40.00]-[0:17:45.00]  Y me iba yo a mi casa a repartirla con mis hermanos.
+[0:17:45.00]-[0:17:48.00]  ¿Y qué... las tiendas que... que se...
+[0:17:48.00]-[0:17:50.00]  Las tiendas muy poca cosa.
+[0:17:50.00]-[0:17:53.00]  Porque había una mujer que vendía la carne de gallina.
+[0:17:53.00]-[0:17:56.00]  Nosotros no le pedíamos a años ni carne al posee.
+[0:17:56.00]-[0:17:57.00]  Ya.
+[0:17:57.00]-[0:17:58.00]  Porque no teníamos.
+[0:17:58.00]-[0:18:01.00]  Y con una gallina tenía la mujer para dos o tres días.
+[0:18:01.00]-[0:18:02.00]  Claro.
+[0:18:02.00]-[0:18:06.00]  Porque la compraban a mar que tenían.
+[0:18:06.00]-[0:18:09.00]  Y se compraba, pues, la sal o...
+[0:18:09.00]-[0:18:10.00]  Claro.
+[0:18:10.00]-[0:18:14.00]  Pero como es que no había dinero para comprar.
+[0:18:14.00]-[0:18:18.00]  Y mi copa no comía eso, tagarnina, zancosá y...
+[0:18:18.00]-[0:18:20.00]  Tagarnina del campo.
+[0:18:20.00]-[0:18:21.00]  ¿Eso qué es?
+[0:18:21.00]-[0:18:23.00]  Eso... tagarnina verde.
+[0:18:23.00]-[0:18:25.00]  Que se crían en el campo.
+[0:18:25.00]-[0:18:29.00]  Y yo a mi madre por ella y hacía... y las cortaba...
+[0:18:29.00]-[0:18:31.00]  Las pelaba y las partía.
+[0:18:31.00]-[0:18:33.00]  Y las ponía la pobre zancosá.
+[0:18:33.00]-[0:18:35.00]  Sin aceite y sin nada.
+[0:18:35.00]-[0:18:37.00]  Pero ¿y qué? ¿Salen de un árbol o es que no salen?
+[0:18:37.00]-[0:18:39.00]  No, no, del suelo.
+[0:18:39.00]-[0:18:42.00]  Esto es a un tallo largo para arriba las que quedan.
+[0:18:42.00]-[0:18:46.00]  Y luego esa en cimiento y con el viento pues se zarandea.
+[0:18:46.00]-[0:18:49.00]  Y caen por todo y luego salen las taraminas.
+[0:18:49.00]-[0:18:50.00]  ¿Son como cebolla o...?
+[0:18:50.00]-[0:18:51.00]  No, no.
+[0:18:51.00]-[0:18:53.00]  Tienen muchas pentitas.
+[0:18:53.00]-[0:18:55.00]  Muchas pentitas, muchas pentitas.
+[0:18:55.00]-[0:18:56.00]  Y esas pentitas son las que se comen.
+[0:18:56.00]-[0:19:00.00]  Y la coronita donde está el radito que están agarradas a tierra.
+[0:19:00.00]-[0:19:02.00]  Ajá.
+[0:19:02.00]-[0:19:05.00]  Digo, es un poco famoso ella.
+[0:19:05.00]-[0:19:07.00]  Vamos a seguir un poco con los animales.
+[0:19:07.00]-[0:19:09.00]  ¿Las ovejas tenían?
+[0:19:09.00]-[0:19:10.00]  No.
+[0:19:10.00]-[0:19:11.00]  ¿No?
+[0:19:11.00]-[0:19:13.00]  ¿Y los colchones y esas cosas?
+[0:19:13.00]-[0:19:14.00]  No, no, los colchones.
+[0:19:14.00]-[0:19:16.00]  ¿No eran de lana?
+[0:19:16.00]-[0:19:19.00]  Mi padre hizo allí en la soza unos catres.
+[0:19:19.00]-[0:19:21.00]  Con palitos atravesados.
+[0:19:21.00]-[0:19:22.00]  Palitos, palitos, palitos.
+[0:19:22.00]-[0:19:25.00]  Luego encima le puso retamas.
+[0:19:25.00]-[0:19:26.00]  ¿Súeblo que es retama, no?
+[0:19:26.00]-[0:19:27.00]  Sí.
+[0:19:27.00]-[0:19:30.00]  Pues retamas cortadas para rellenar los palos para que no estuvieran duros.
+[0:19:30.00]-[0:19:33.00]  Y luego encima pongo un colchoncito de paja.
+[0:19:33.00]-[0:19:35.00]  De paja.
+[0:19:35.00]-[0:19:40.00]  De la lanaza cuando trillaban el trigo y la ceba y eso.
+[0:19:40.00]-[0:19:44.00]  Pues se sacaba lo más gordo y eso se le metía el colchón.
+[0:19:44.00]-[0:19:46.00]  Y luego ya de tanto tiempo.
+[0:19:46.00]-[0:19:48.00]  Hasta el otro año no podía rellenar otro.
+[0:19:48.00]-[0:19:56.00]  Y de tanto hombre de dormíbrega, pues se hacía molía y ya nos clavábamos los palos de las costillas.
+[0:19:56.00]-[0:19:57.00]  Madre mía.
+[0:19:57.00]-[0:19:59.00]  Anda, mujer.
+[0:19:59.00]-[0:20:01.00]  Si yo te contara yo tengo una historia.
+[0:20:01.00]-[0:20:02.00]  Cuente, cuente.
+[0:20:02.00]-[0:20:05.00]  Y muy malamente, muy malamente, muy malamente.
+[0:20:05.00]-[0:20:09.00]  Y aquí en Arga, pues mi madre no tenía nada más que la cama de matrimonio.
+[0:20:09.00]-[0:20:14.00]  Y dos niños dormíamos los pies y ellos arriba, en la cabecera.
+[0:20:14.00]-[0:20:16.00]  No teníamos cama.
+[0:20:16.00]-[0:20:19.00]  Madre mía.
+[0:20:19.00]-[0:20:21.00]  Malamente, malamente, hija.
+[0:20:21.00]-[0:20:23.00]  Pero los animales fuera.
+[0:20:23.00]-[0:20:25.00]  No, esto era aquí en Arga.
+[0:20:25.00]-[0:20:31.00]  En el campo era lo de todo lo que yo les he contado de los animales y de los catres y eso.
+[0:20:31.00]-[0:20:35.00]  Pero aquí teníamos una cama como la mía, más o menos.
+[0:20:35.00]-[0:20:38.00]  Y mis padres dormían para arriba, nosotros los pies.
+[0:20:38.00]-[0:20:43.00]  Nos metían hasta patadas.
+[0:20:43.00]-[0:20:45.00]  Qué raro.
+[0:20:45.00]-[0:20:48.00]  ¿Y esa cama así que era de lana?
+[0:20:48.00]-[0:20:51.00]  De paja, también.
+[0:20:51.00]-[0:20:56.00]  Un cosón grande de matrimonio y lleno de paja, de lanasta que se le decía.
+[0:20:56.00]-[0:21:02.00]  Porque era lo más gordo que se sacaba de la parva de la era.
+[0:21:02.00]-[0:21:05.00]  Tú no entiendes la mitad de las cosas que yo te estoy diciendo.
+[0:21:05.00]-[0:21:10.00]  No, no, me entero, me entero.
+[0:21:10.00]-[0:21:13.00]  Porque tú que sabes, hija. Tú no te has criado como yo, que droga.
+[0:21:13.00]-[0:21:16.00]  Claro, porque soy de ciudad.
+[0:21:16.00]-[0:21:19.00]  Como venga la cosa, como está la cosa de malas.
+[0:21:19.00]-[0:21:23.00]  Yo he pasado de lo malo a lo bueno.
+[0:21:23.00]-[0:21:28.00]  Pero ahora como venga la cosa para atrás, estos van a pasar de lo bueno a lo malo.
+[0:21:28.00]-[0:21:31.00]  Y entonces se van a tirar...
+[0:21:31.00]-[0:21:33.00]  Las manos a la cabeza.
+[0:21:33.00]-[0:21:36.00]  Yo cuando veo el televisor me saca los palos de sombrajo.
+[0:21:36.00]-[0:21:40.00]  Porque es que digo, vamos, como mis nietas y mis hijas,
+[0:21:40.00]-[0:21:44.00]  tenga que pasar lo que yo he pasado, o estos se mueren.
+[0:21:44.00]-[0:21:46.00]  Claro, es que no sabemos.
+[0:21:46.00]-[0:21:50.00]  Es que no había nada, hija, es que no había nada que comer.
+[0:21:50.00]-[0:21:52.00]  Ni nada.
+[0:21:52.00]-[0:21:56.00]  Y nos lo comíamos todo el campo.
+[0:21:56.00]-[0:22:02.00]  Mira, la murta, las parmisas de las palmeras, las bellotas.
+[0:22:02.00]-[0:22:05.00]  Yo qué sé, de todo lo que viene del campo agarroba.
+[0:22:05.00]-[0:22:07.00]  ¿Qué es la murta?
+[0:22:07.00]-[0:22:13.00]  La murta es un eso que hay, un mato, y esas son las cositas negras.
+[0:22:13.00]-[0:22:15.00]  Y está muy rico, la murta.
+[0:22:15.00]-[0:22:17.00]  ¿Y cómo se comen?
+[0:22:17.00]-[0:22:21.00]  Pues aquí son chiquititas, se cogen estas negritas, negritas, se cogen,
+[0:22:21.00]-[0:22:25.00]  y vengan a sacarse a la boca y son más buenas.
+[0:22:25.00]-[0:22:29.00]  Yo ya sé que no las veo yo que te veo.
+[0:22:29.00]-[0:22:34.00]  Qué dolor, yo no las veo ya, pero yo todo me lo comía, todo.
+[0:22:34.00]-[0:22:37.00]  Qué lástima.
+[0:22:37.00]-[0:22:39.00]  ¿Y qué se cultivaba por aquí?
+[0:22:39.00]-[0:22:47.00]  Por aquí, sembrado, de trigo, de ceba, de haba, cocinera de esta que se le dice en el campo,
+[0:22:47.00]-[0:22:54.00]  de todo, garbanzo, maíz, pero eso más adelante ya, más adelante.
+[0:22:54.00]-[0:22:56.00]  Cuando usted ya era más...
+[0:22:56.00]-[0:22:58.00]  Ya yo era mayorcita.
+[0:22:58.00]-[0:23:04.00]  ¿Y cómo, sabe contarnos cómo era la siega, la siembra, quién iba?
+[0:23:04.00]-[0:23:11.00]  Ah, eso haraban con huelles, con huelles que domaban, y de no sé,
+[0:23:11.00]-[0:23:14.00]  pues había una estancia y allí los cuidaban hombres,
+[0:23:14.00]-[0:23:19.00]  y de día por la madrugada los cogían, los ponían ataditos así con un yugo,
+[0:23:19.00]-[0:23:25.00]  uno aquí y otro aquí, y el arao enganchado así al yugo aquí,
+[0:23:25.00]-[0:23:30.00]  y con eso haraban, y sembraban y todo, sembraban trigo, los garbanzos,
+[0:23:30.00]-[0:23:32.00]  todo, todo, no había más que nada ni ninguna.
+[0:23:32.00]-[0:23:33.00]  A mano.
+[0:23:33.00]-[0:23:37.00]  A mano, todo a mano, y se gama a mano.
+[0:23:37.00]-[0:23:42.00]  Y trillá, como te digo, en esa era grande que estaba, nosotros vivíamos más para abajo,
+[0:23:42.00]-[0:23:45.00]  y la era estábamos para arriba, eran tres eras,
+[0:23:45.00]-[0:23:50.00]  y cogían unas harrias de bestias, de yegua,
+[0:23:50.00]-[0:23:57.00]  y tres delante, cuatro detrás, otras tantas, y les daban huerta,
+[0:23:57.00]-[0:24:03.00]  y de ahí sacaban las cosas, y luego salían los moritos, que se les decían,
+[0:24:03.00]-[0:24:07.00]  a aventar, tenían que esperar que viniera el viento algunas veces,
+[0:24:07.00]-[0:24:11.00]  y de ahí salían trigo, las sembras, los garbanzos, todo.
+[0:24:11.00]-[0:24:13.00]  ¿Qué es eso de aventar?
+[0:24:13.00]-[0:24:17.00]  Aventar, bueno, hacer aquello como un montón, y hasta cinco,
+[0:24:17.00]-[0:24:23.00]  y el viento se llevaba las horas, y quedaba la cimiente,
+[0:24:23.00]-[0:24:30.00]  y luego acribarlas y a saco, eso era muy trabajoso, hija, muy trabajoso.
+[0:24:30.00]-[0:24:32.00]  ¿Y qué lo hacían los hombres?
+[0:24:32.00]-[0:24:37.00]  Los hombres, los hombres, mi carrete estaba allí, las carretas traían los hueyes,
+[0:24:37.00]-[0:24:41.00]  traían los aspes, iban cegando, iban haciendo unos aspes,
+[0:24:41.00]-[0:24:44.00]  y luego los tenían que cargar las carretas, descargarlos en la era,
+[0:24:44.00]-[0:24:47.00]  y atirarlas.
+[0:24:47.00]-[0:24:49.00]  ¿Y eso luego dónde se guardaba?
+[0:24:49.00]-[0:24:55.00]  Pues se lo llevaba su amo, para su casa, no al marceño, y para venderlo.
+[0:24:55.00]-[0:24:59.00]  O sea que esto, la gente del pueblo trabajaba para otro señor.
+[0:24:59.00]-[0:25:04.00]  Claro, para los ricos, y todo lo que había allí, pues eran pobres,
+[0:25:04.00]-[0:25:08.00]  ganando seis pesetas, o siete, cuando más.
+[0:25:08.00]-[0:25:11.00]  ¿Tenían un jornal?
+[0:25:11.00]-[0:25:14.00]  Seis o siete pesetas ganaban mis padres,
+[0:25:14.00]-[0:25:17.00]  todo el día trabajando de poa a poa.
+[0:25:17.00]-[0:25:19.00]  ¿Y las mujeres no iban al campo?
+[0:25:19.00]-[0:25:24.00]  Las mujeres también, yo cuando fui a la mayor también trabajamos en el campo,
+[0:25:24.00]-[0:25:31.00]  cogiendo garbanzos, sembrándome ahí, cogiendo maíz, cogiendo hielo,
+[0:25:31.00]-[0:25:35.00]  escardando el trigo, quitándole la selva, mojá, y hasta aquí,
+[0:25:35.00]-[0:25:39.00]  por las mañanas temprano, yo que sé, y así tú,
+[0:25:39.00]-[0:25:42.00]  atrás de los culos, por las tierras estas.
+[0:25:42.00]-[0:25:44.00]  Cuéntennos las aceitunas.
+[0:25:44.00]-[0:25:48.00]  Las aceitunas con nada, íbamos con un barejón grande, y una escalera,
+[0:25:48.00]-[0:25:52.00]  y se liaba con el olivo, mi padre, pom, pom, pom, pom,
+[0:25:52.00]-[0:25:55.00]  y la deshaba, y la que no ponía la escalera, la deshaba a mano, para abajo,
+[0:25:55.00]-[0:26:00.00]  y mi hermana y yo cogiéndola, y con una criba, hacíamos montones,
+[0:26:00.00]-[0:26:03.00]  y pom, pom, pom, pom, pom, pom.
+[0:26:03.00]-[0:26:05.00]  ¿Y eso cuánto se tardaba?
+[0:26:05.00]-[0:26:09.00]  Por eso, por todo el día, estábamos cogiendo aceitunas,
+[0:26:09.00]-[0:26:12.00]  desde por la mañana hasta la noche.
+[0:26:12.00]-[0:26:13.00]  Eso es en invierno, ¿no?
+[0:26:13.00]-[0:26:18.00]  En invierno, sí, allá para noviembre, en noviembre empieza,
+[0:26:18.00]-[0:26:22.00]  y se está, si era como era la deshía, que era muy grande,
+[0:26:22.00]-[0:26:26.00]  había muchos olivos, pues estábamos hasta dos meses.
+[0:26:26.00]-[0:26:28.00]  Madre mía.
+[0:26:28.00]-[0:26:31.00]  Digo, y ahora venían con las bestias, entonces no había nada,
+[0:26:31.00]-[0:26:36.00]  ni carrillos como ahora, ni nada, y venían con las bestias y las cargaban,
+[0:26:36.00]-[0:26:39.00]  las medían, o las medían, y según las fanejas que cogieran,
+[0:26:39.00]-[0:26:44.00]  teníamos un pedazo de palo así, y las hacían rajita, y estas eran las fanejas.
+[0:26:44.00]-[0:26:48.00]  A ver, a ver, esto no me entera. ¿Y la que es una faneja?
+[0:26:48.00]-[0:26:54.00]  Una faneja, pues, media con una media, una cosa así larga,
+[0:26:54.00]-[0:26:58.00]  y le pasaba una cosita por lo alto, y eso era media faneja.
+[0:26:58.00]-[0:27:05.00]  Eso era como un cajón, especie de un cajón, pero por aquí resbaladito así.
+[0:27:05.00]-[0:27:11.00]  Eso era la media. Y dos casas raras aquellas eran las fanejas.
+[0:27:11.00]-[0:27:14.00]  ¿Y les pagaban por faneja?
+[0:27:14.00]-[0:27:16.00]  Les pagaban por faneja.
+[0:27:16.00]-[0:27:18.00]  ¿Y a quién se lo llevaban?
+[0:27:18.00]-[0:27:22.00]  Al molino, al molino que había allí, en la desdía.
+[0:27:22.00]-[0:27:25.00]  Allí había un molino, y los señoritos tenían sufrido un molino,
+[0:27:25.00]-[0:27:29.00]  y salía de un aceite más bueno que... ¡ay, qué rico!
+[0:27:29.00]-[0:27:34.00]  Así hacían los molineros, los molineros, los hombres, los que cargaban los eso y todo,
+[0:27:34.00]-[0:27:38.00]  y hacían tostadas y rebanadas fritas, no estaban buenas.
+[0:27:38.00]-[0:27:41.00]  ¿Y eso cuándo lo hacían?
+[0:27:41.00]-[0:27:44.00]  Pues fue en el tiempo de la aceituna.
+[0:27:44.00]-[0:27:46.00]  ¿Para la gente que iba, cómo...?
+[0:27:46.00]-[0:27:48.00]  Para vender aceite.
+[0:27:48.00]-[0:27:49.00]  ¿Pero la rebanada?
+[0:27:49.00]-[0:27:52.00]  Ah, la rebanada, para ellos, para los mismos hombres,
+[0:27:52.00]-[0:27:56.00]  y vivíamos esos hombres trabajando, porque fuimos trabajosos.
+[0:27:56.00]-[0:28:01.00]  Ellos tienen que poner unos esteruches así que redondos como la mesa,
+[0:28:01.00]-[0:28:05.00]  y ahora esto lo rellenaban de aceituna molida,
+[0:28:05.00]-[0:28:11.00]  la molían, y lo aplastaban y le ponían todos los relojcillos de los altos.
+[0:28:11.00]-[0:28:15.00]  Ahora otro relleno, otro relojcillo, hasta que llegaba alto, alto.
+[0:28:15.00]-[0:28:16.00]  ¿Esteruche ha dicho?
+[0:28:16.00]-[0:28:21.00]  Esteruche, de esparto.
+[0:28:21.00]-[0:28:25.00]  Y luego ya, para ahora les daban por lo alto agua caliente.
+[0:28:25.00]-[0:28:30.00]  Y ya que eso iba excluyendo, y el alperchín que usaba la aceituna cogía para un lado,
+[0:28:30.00]-[0:28:32.00]  y el aceite cogía para otro.
+[0:28:32.00]-[0:28:36.00]  ¿Y qué se hacía con el alperchín?
+[0:28:36.00]-[0:28:37.00]  ¿Y qué se hacía con eso?
+[0:28:37.00]-[0:28:44.00]  Con eso se iba por un cancho que había, en el cortijo, se iba para la calle.
+[0:28:44.00]-[0:28:47.00]  Eso no servía.
+[0:28:47.00]-[0:28:50.00]  Por eso ahora tanto cosas hay, porque ahora los molinos,
+[0:28:50.00]-[0:28:55.00]  todos los echan a los ríos y a esas cosas, los esparchines esos.
+[0:28:55.00]-[0:28:57.00]  Y esos negros, negros, negros.
+[0:28:57.00]-[0:29:02.00]  La aceituna muy negra, muy buena, que estaba antes, no le echaban nada a los olivos.
+[0:29:02.00]-[0:29:03.00]  Buenísima.
+[0:29:03.00]-[0:29:07.00]  Le voy a hacer una pregunta tonta, pero ¿y el hueso de la aceituna?
+[0:29:07.00]-[0:29:08.00]  Pues molió.
+[0:29:08.00]-[0:29:09.00]  ¿Ah, sí?
+[0:29:09.00]-[0:29:11.00]  Ese era el orujo.
+[0:29:11.00]-[0:29:13.00]  ¿Cómo que era el orujo? A ver.
+[0:29:13.00]-[0:29:18.00]  Mira, la aceituna molía, pues cuando se junta tanto,
+[0:29:18.00]-[0:29:23.00]  esto está molidito, y entonces era cuando rellenaba el esteruche.
+[0:29:23.00]-[0:29:26.00]  Y el hueso y todo se molía ahí.
+[0:29:26.00]-[0:29:30.00]  Y ese era el alperchín que salía para abajo y el aceite,
+[0:29:30.00]-[0:29:34.00]  con el agua que le interesaban por lo alto.
+[0:29:34.00]-[0:29:35.00]  ¿Y eso luego lo vendía?
+[0:29:35.00]-[0:29:37.00]  Claro, vendía el aceite.
+[0:29:37.00]-[0:29:42.00]  Salían allí los pilones, pilones grandes, como la mesa más grande,
+[0:29:42.00]-[0:29:45.00]  y allí iba cayendo el aceitito, claro, claro, claro,
+[0:29:45.00]-[0:29:48.00]  el alperchín salía para atrás.
+[0:29:48.00]-[0:29:50.00]  ¿Y quién lo vendía? ¿Iban por...?
+[0:29:50.00]-[0:29:52.00]  Por el señorito.
+[0:29:52.00]-[0:29:53.00]  ¿Pero iban por los pueblos?
+[0:29:53.00]-[0:29:56.00]  No, no, no, no, allí venían por él.
+[0:29:56.00]-[0:30:00.00]  Allí iba todo el mundo, por aceite, al molino.
+[0:30:00.00]-[0:30:03.00]  ¿Y usaban el aceite para...?
+[0:30:03.00]-[0:30:06.00]  Para todo, y más bueno que el que comemos ahora.
+[0:30:06.00]-[0:30:07.00]  ¿Ah, sí?
+[0:30:07.00]-[0:30:11.00]  Puro, puro, puro, puro.
+[0:30:11.00]-[0:30:12.00]  Qué pasada.
+[0:30:12.00]-[0:30:17.00]  Por eso los que hemos comido todas esas cosas duramos más que los que se crían hoy.
+[0:30:17.00]-[0:30:21.00]  ¡Vaya!
+[0:30:21.00]-[0:30:30.00]  Yo vi tu navidecita que ha salido ahí, con 111 años, y es de Jaén.
+[0:30:30.00]-[0:30:31.00]  De verdad, por el ángel.
+[0:30:31.00]-[0:30:37.00]  Y le preguntaron a la navidecita que por qué había durado tanto que por qué duraba tanto,
+[0:30:37.00]-[0:30:42.00]  y dice que había comido mucho aceite.
+[0:30:42.00]-[0:30:45.00]  Mucho aceite, dice, comido mucho aceite.
+[0:30:45.00]-[0:30:50.00]  Y la viecita con su cabeza poco buena, pero una cara de rara ya quedó, tan viecita.
+[0:30:50.00]-[0:30:51.00]  ¿111?
+[0:30:51.00]-[0:30:53.00]  ¡111 años!
+[0:30:53.00]-[0:30:55.00]  Madre mía.
+[0:30:55.00]-[0:31:01.00]  Y aquí la mayoría que se mueren, yo también me moriré, pues todo de 90 para arriba.
+[0:31:01.00]-[0:31:02.00]  ¿De verdad?
+[0:31:02.00]-[0:31:05.00]  De verdad. Mi madre ha muerto con 93.
+[0:31:05.00]-[0:31:07.00]  Yo vengo aquí.
+[0:31:07.00]-[0:31:10.00]  Y ahí está un hombre que tiene ya 94 años.
+[0:31:10.00]-[0:31:12.00]  Madre mía.
+[0:31:12.00]-[0:31:18.00]  Sí, sí, sí. La generación de nosotros duramos más que la de ahora.
+[0:31:18.00]-[0:31:19.00]  Adiós.
+[0:31:19.00]-[0:31:22.00]  ¡Adiós! No sé quién eres.
+[0:31:22.00]-[0:31:24.00]  ¡Aquí la niña!
+[0:31:24.00]-[0:31:25.00]  ¡Mira, aquí la gente, mira!
+[0:31:25.00]-[0:31:28.00]  Mira, es que no puedo salir, tengo que ir a visitar.
+[0:31:28.00]-[0:31:29.00]  ¡Ah, bueno!
+[0:31:29.00]-[0:31:30.00]  Luego la veré.
+[0:31:30.00]-[0:31:31.00]  ¿Qué?
+[0:31:31.00]-[0:31:32.00]  Que luego la veré.
+[0:31:32.00]-[0:31:37.00]  Tú sabes que la gente piensa que voy aquí con el traje. ¿Sabe que tú lo desgaraste?
+[0:31:37.00]-[0:31:38.00]  ¡Sí!
+[0:31:38.00]-[0:31:40.00]  Me creía que iba a vestir a Deitana.
+[0:31:40.00]-[0:31:44.00]  ¡Ay, qué graciosa!
+[0:31:44.00]-[0:31:46.00]  ¡Adiós, hija!
+[0:31:46.00]-[0:31:47.00]  ¿Es su nieta?
+[0:31:47.00]-[0:31:49.00]  No, es su vecina.
+[0:31:49.00]-[0:31:50.00]  Ah.
+[0:31:50.00]-[0:31:52.00]  Y tiene una niña ahora.
+[0:31:52.00]-[0:32:00.00]  Se llama Mami, le regalé un trajecito y dice que le decía a la gente que parecía que iba a vestir a Deitana.
+[0:32:00.00]-[0:32:01.00]  ¿Y tú usted traje?
+[0:32:01.00]-[0:32:06.00]  Yo no, lo compré. Yo coci un muso, pero de nueva, un muso crochet.
+[0:32:06.00]-[0:32:09.00]  He hecho crochet.
+[0:32:09.00]-[0:32:10.00]  ¿Y eso qué es?
+[0:32:10.00]-[0:32:12.00]  Con la agujita y el hilo.
+[0:32:12.00]-[0:32:13.00]  Ajá.
+[0:32:13.00]-[0:32:14.00]  ¿Esto de aquí?
+[0:32:14.00]-[0:32:15.00]  No, eso, así, así.
+[0:32:15.00]-[0:32:16.00]  ¿Lo ha hecho usted?
+[0:32:16.00]-[0:32:17.00]  ¡Guau!
+[0:32:17.00]-[0:32:21.00]  Yo digo, yo he hecho muso, pero ya no veo, hija.
+[0:32:21.00]-[0:32:22.00]  Ya no puedo.
+[0:32:22.00]-[0:32:25.00]  Bueno, ¿y cómo era la ciega?
+[0:32:25.00]-[0:32:26.00]  ¿La ciega?
+[0:32:26.00]-[0:32:28.00]  La ciega, la ciega.
+[0:32:28.00]-[0:32:33.00]  Aquí iba con la joce, un hombre puesto con una rona y aquí una cosa para no cortarse.
+[0:32:33.00]-[0:32:40.00]  Y aquí llevaban un deí, aquí otro, aquí otro, aquí otro, no, esta más, la mano izquierda, porque con esta le daba la joce.
+[0:32:40.00]-[0:32:41.00]  ¿Llevaba qué?
+[0:32:41.00]-[0:32:45.00]  Deíles, para no cortarse los deíles.
+[0:32:45.00]-[0:32:55.00]  Y los habías haciendo haces y luego iban detrás con las carretas y unos pinchos, o pinchaban el hace y lo ponían en la carreta.
+[0:32:55.00]-[0:33:02.00]  Y la cargaban a trabado, harto, harto, harto y luego ya la traían a la era y a trillar.
+[0:33:02.00]-[0:33:04.00]  ¿Eso de trillar?
+[0:33:04.00]-[0:33:05.00]  Con las bestias.
+[0:33:05.00]-[0:33:07.00]  Ah, me lo ha explicado.
+[0:33:07.00]-[0:33:08.00]  Sí, sí.
+[0:33:08.00]-[0:33:15.00]  Y lo dejaban ya finito, finito, finito y cuando ya estaba finito, pues venga a aventar con una pala.
+[0:33:15.00]-[0:33:18.00]  Venga, sal, venga, sal, venga, hasta que se limpiaba.
+[0:33:18.00]-[0:33:23.00]  Si había viento, si no había viento, entonces que no hay que estar hasta que se viniera.
+[0:33:23.00]-[0:33:26.00]  Aquí hacía mucho frío en invierno, ¿no?
+[0:33:26.00]-[0:33:27.00]  Sí que hacía.
+[0:33:27.00]-[0:33:28.00]  Sí.
+[0:33:28.00]-[0:33:36.00]  Ahora se nota que hace hasta menos frío, pero nosotros aquí en el campo era, y unas helas que estaban antes y ahora no vienen ni las.
+[0:33:36.00]-[0:33:38.00]  ¿Y las helas son buenas para aceitunas o...?
+[0:33:38.00]-[0:33:45.00]  Ay, es algunas mañanas que de los nos escapaban de las manos las aceitunas, porque no podíamos ni cogerlas del frío.
+[0:33:45.00]-[0:33:46.00]  Claro.
+[0:33:46.00]-[0:33:58.00]  No podíamos cogerlas, teníamos que encender un candelón grande y ponerlo allí en un llanito o algo y que antes íbamos y nos calentábamos las manos,
+[0:33:58.00]-[0:34:03.00]  porque tenían que ser las manos peladas, no podías ponerte guantes ni nada porque te recaían.
+[0:34:03.00]-[0:34:04.00]  Qué frío.
+[0:34:04.00]-[0:34:08.00]  Y pinchándote con los ojos pinchos y de todo.
+[0:34:08.00]-[0:34:10.00]  Qué dolor.
+[0:34:10.00]-[0:34:11.00]  Madre mía.
+[0:34:11.00]-[0:34:13.00]  Por eso yo estoy ahora en cantar.
+[0:34:13.00]-[0:34:14.00]  Claro.
+[0:34:14.00]-[0:34:16.00]  Por lo que he pasado.
+[0:34:16.00]-[0:34:18.00]  Mejor ahora.
+[0:34:18.00]-[0:34:20.00]  Bueno, a ver, ahora...
+[0:34:20.00]-[0:34:23.00]  Mejor no estoy porque me he quedado viuda.
+[0:34:23.00]-[0:34:26.00]  ¿Ah, sí? ¿Hace poco?
+[0:34:26.00]-[0:34:29.00]  No, ya hace dichosos años.
+[0:34:29.00]-[0:34:33.00]  ¿Y cómo conoció a su marido? ¿Cómo se conocían antes...?
+[0:34:33.00]-[0:34:34.00]  Hoy se lo conocíamos, su hija.
+[0:34:34.00]-[0:34:35.00]  ¿Sí?
+[0:34:35.00]-[0:34:39.00]  Sí, porque esta misma casa venía yo a limpiársela su madre.
+[0:34:39.00]-[0:34:40.00]  ¿Ah, sí?
+[0:34:40.00]-[0:34:44.00]  Digo, aquí venía yo a limpiársela a la madre.
+[0:34:44.00]-[0:34:47.00]  Entonces él le empezó a... ¿le decía cosas o qué?
+[0:34:47.00]-[0:34:48.00]  Claro.
+[0:34:48.00]-[0:34:49.00]  A ver, ¿cómo era?
+[0:34:49.00]-[0:34:52.00]  Pero yo no le hacía caso porque yo no quería novio.
+[0:34:52.00]-[0:34:56.00]  Pero ya, fuerza de fuerza, pues ya sí.
+[0:34:56.00]-[0:34:59.00]  Pero le hablé con 18 años.
+[0:34:59.00]-[0:35:02.00]  ¿Empezaron a hablar con 18 años?
+[0:35:02.00]-[0:35:04.00]  Y nos hablamos nueve.
+[0:35:04.00]-[0:35:05.00]  Ah, sí.
+[0:35:05.00]-[0:35:07.00]  Digo.
+[0:35:07.00]-[0:35:10.00]  Y... ¿y cómo...?
+[0:35:10.00]-[0:35:13.00]  ¿Cuándo podía entrar él en su casa o tenían que...?
+[0:35:13.00]-[0:35:15.00]  ¡Qué va!
+[0:35:15.00]-[0:35:16.00]  ¡Uf!
+[0:35:16.00]-[0:35:17.00]  ¿Acondía por ahí?
+[0:35:17.00]-[0:35:18.00]  Sí.
+[0:35:18.00]-[0:35:19.00]  ¿Por dónde?
+[0:35:19.00]-[0:35:21.00]  Pues por esta casa.
+[0:35:21.00]-[0:35:23.00]  Aquí no podía venir.
+[0:35:23.00]-[0:35:27.00]  Ya cuando llevaba tiempo pues ya le digo a mi padre, a mi madre, y dice...
+[0:35:27.00]-[0:35:29.00]  Mmm...
+[0:35:29.00]-[0:35:32.00]  Ya la niña tiene dichosos años, pues ya...
+[0:35:32.00]-[0:35:34.00]  Te traía el novio aquí si quiere.
+[0:35:34.00]-[0:35:37.00]  Y ya otra día pero nada, ya la puerta.
+[0:35:37.00]-[0:35:39.00]  ¿Y con alguien vigilaba?
+[0:35:39.00]-[0:35:41.00]  Y con... y ellos dos sentados.
+[0:35:41.00]-[0:35:44.00]  ¡Qué vergüenza, no!
+[0:35:44.00]-[0:35:49.00]  No, y en el campo peor, porque en el campo era el sofá y tenía una puerta.
+[0:35:49.00]-[0:35:55.00]  Y nos poníamos a hablar en el invierno, pues abría la puerta del sofá así abierta, que era grande,
+[0:35:55.00]-[0:35:57.00]  y aquí se ponía uno y aquí se ponía otro.
+[0:35:57.00]-[0:36:01.00]  Y mis padres y mi madre sentados como así.
+[0:36:01.00]-[0:36:04.00]  Igual que ahora.
+[0:36:04.00]-[0:36:06.00]  Es igual.
+[0:36:06.00]-[0:36:08.00]  Igual que ahora.
+[0:36:08.00]-[0:36:10.00]  Antes ni un beso, antes de que...
+[0:36:10.00]-[0:36:11.00]  ¡Oh!
+[0:36:11.00]-[0:36:15.00]  Para darle un beso yo no sé ni en dónde se lo daba.
+[0:36:15.00]-[0:36:20.00]  En el verano cuando salíamos a la puerta, ya lo mejor le decía, le decía a mis padres,
+[0:36:20.00]-[0:36:22.00]  bueno, buenas noches.
+[0:36:22.00]-[0:36:26.00]  Y decía buenas noches, yo me iba un poquillo para allá y allí le daba un besillo corriendo para atrás,
+[0:36:26.00]-[0:36:30.00]  porque si no decía, decía que estaba estando mucho tiempo.
+[0:36:30.00]-[0:36:33.00]  Oye, ¡Dororio mío!
+[0:36:33.00]-[0:36:35.00]  ¿Qué le hubiera pasado a ella?
+[0:36:35.00]-[0:36:38.00]  ¿Y luego cómo cuando...
+[0:36:38.00]-[0:36:39.00]  ¿Qué le decía?
+[0:36:39.00]-[0:36:41.00]  Pues nos queremos casar.
+[0:36:41.00]-[0:36:42.00]  ¿Cómo era eso?
+[0:36:42.00]-[0:36:46.00]  Porque se lo tenía que decir a mi padre.
+[0:36:46.00]-[0:36:49.00]  Decirle a mi padre que nos íbamos a casar.
+[0:36:49.00]-[0:36:51.00]  Pedirla, que se decía pedirla.
+[0:36:51.00]-[0:36:53.00]  A pedir la novia.
+[0:36:53.00]-[0:36:56.00]  ¿Y se hacían una comida para...
+[0:36:56.00]-[0:36:58.00]  En aquello entonces no había comida.
+[0:36:58.00]-[0:37:00.00]  ¿Solo iba su novia a...
+[0:37:00.00]-[0:37:08.00]  Nos casamos y celebramos la boda en mi casa, con una tapita y una cervecita y ya está.
+[0:37:08.00]-[0:37:11.00]  Dame más na'.
+[0:37:11.00]-[0:37:13.00]  Esa fue mi boda, no tengo ni la foto.
+[0:37:13.00]-[0:37:15.00]  ¿A quién invitaron?
+[0:37:15.00]-[0:37:18.00]  Pues a la familia.
+[0:37:18.00]-[0:37:21.00]  La familia nomás.
+[0:37:21.00]-[0:37:23.00]  Invitaron ninguno, ¿no ve que no se podía?
+[0:37:23.00]-[0:37:24.00]  Claro.
+[0:37:24.00]-[0:37:26.00]  ¿Y vestida de...
+[0:37:26.00]-[0:37:28.00]  Una mesita como esta.
+[0:37:28.00]-[0:37:30.00]  Una mesita un poquito más grande.
+[0:37:30.00]-[0:37:33.00]  Y ya está, ahí estaba lo que había.
+[0:37:33.00]-[0:37:34.00]  ¿Vestida de blanco o...?
+[0:37:34.00]-[0:37:36.00]  No.
+[0:37:36.00]-[0:37:37.00]  ¿Cómo iba...?
+[0:37:37.00]-[0:37:38.00]  De verde.
+[0:37:38.00]-[0:37:39.00]  ¿Ah sí?
+[0:37:39.00]-[0:37:40.00]  ¿Y cómo era el traje?
+[0:37:40.00]-[0:37:41.00]  Verde.
+[0:37:41.00]-[0:37:42.00]  Pero...
+[0:37:42.00]-[0:37:45.00]  Con la manguita larga porque eso me hay que hacer en el invierno.
+[0:37:45.00]-[0:37:47.00]  Muy bonito era.
+[0:37:47.00]-[0:37:50.00]  Una telita gordita.
+[0:37:50.00]-[0:37:53.00]  Y llevaba una cosita en la cabeza y ya está.
+[0:37:53.00]-[0:37:55.00]  ¿Y la falda está...?
+[0:37:55.00]-[0:37:57.00]  No, el traje era...
+[0:37:57.00]-[0:37:58.00]  Largo.
+[0:37:58.00]-[0:38:00.00]  Lizo.
+[0:38:00.00]-[0:38:01.00]  Qué bonito, ¿no?
+[0:38:01.00]-[0:38:03.00]  Y un zapato negro.
+[0:38:03.00]-[0:38:04.00]  Y ya está.
+[0:38:04.00]-[0:38:05.00]  ¿Quién le hizo el traje?
+[0:38:05.00]-[0:38:07.00]  Pues una muchacha que cocía aquí muy bien.
+[0:38:07.00]-[0:38:10.00]  Era como una zastra de bengue que cocía.
+[0:38:10.00]-[0:38:12.00]  No hace mucho que lo tiré, el traje.
+[0:38:12.00]-[0:38:14.00]  Ah sí, qué pena.
+[0:38:14.00]-[0:38:17.00]  Yo estaba las altas de verlo.
+[0:38:17.00]-[0:38:18.00]  En los trastos.
+[0:38:18.00]-[0:38:19.00]  Digo.
+[0:38:19.00]-[0:38:22.00]  ¿Y le iba a preguntar más cosas?
+[0:38:22.00]-[0:38:23.00]  Pues yo también tengo que ir, ¿eh?
+[0:38:23.00]-[0:38:25.00]  Sí, ¿nos da 15 minutitos más?
+[0:38:25.00]-[0:38:30.00]  Porque es que tengo que estar al médico que voy.
+[0:38:30.00]-[0:38:34.00]  A las 12 nos ha dicho, ¿no?
+[0:38:34.00]-[0:38:36.00]  Pero está lejito, ¿eh?
+[0:38:36.00]-[0:38:38.00]  Y yo ando muy poco, hija.
+[0:38:38.00]-[0:38:39.00]  Si quiere le acercamos.
+[0:38:39.00]-[0:38:41.00]  Me se puede pasar.
+[0:38:41.00]-[0:38:42.00]  Ya.
+[0:38:42.00]-[0:38:45.00]  Como me nombran y no está así, pues ya me tengo que quedar para última.
+[0:38:45.00]-[0:38:48.00]  Claro, pues si quiere le acercamos luego en el coche.
+[0:38:48.00]-[0:38:50.00]  No, porque yo me tengo que vestir y todo.
+[0:38:50.00]-[0:38:51.00]  Tiene usted que cambiar.
+[0:38:51.00]-[0:38:52.00]  Vale.
+[0:38:52.00]-[0:38:56.00]  Y qué le iba a decir, ¿hacían el ajuar?
+[0:38:56.00]-[0:38:58.00]  ¿O no tenían la dote o...?
+[0:38:58.00]-[0:39:00.00]  Sí, sí, yo llevaba toda mi ropita.
+[0:39:00.00]-[0:39:02.00]  Eso, ¿cómo, quién la hizo?
+[0:39:02.00]-[0:39:06.00]  Pues me la hacían las mujeres que cocían aquí.
+[0:39:06.00]-[0:39:08.00]  ¿No era su madre ellos que...?
+[0:39:08.00]-[0:39:10.00]  No, no, no, no, no.
+[0:39:10.00]-[0:39:14.00]  Yo de bordar y de eso no sabía nada.
+[0:39:14.00]-[0:39:19.00]  Yo sabía más cocer, remendar, se arremiendo pantalones, eso sí sabía yo.
+[0:39:19.00]-[0:39:21.00]  Pero luego yo cocé fino, no.
+[0:39:21.00]-[0:39:24.00]  Porque yo no había, yo había estado toda la vida en el campo.
+[0:39:24.00]-[0:39:26.00]  Claro.
+[0:39:26.00]-[0:39:30.00]  Y luego me fui a servir a un campo también con una mujer.
+[0:39:30.00]-[0:39:34.00]  Y estuve 13 años con ella.
+[0:39:34.00]-[0:39:36.00]  Y nos juntábamos 10.
+[0:39:36.00]-[0:39:41.00]  10 personas, 7 hijos, el matrimonio y yo.
+[0:39:41.00]-[0:39:43.00]  Para darle la ropa así.
+[0:39:43.00]-[0:39:44.00]  En el lavadero.
+[0:39:44.00]-[0:39:45.00]  ¿Dónde está...?
+[0:39:45.00]-[0:39:47.00]  En la panera de tabla.
+[0:39:47.00]-[0:39:50.00]  Con unas cositas de satin en el fondo.
+[0:39:50.00]-[0:39:55.00]  Y ponía el agua aquí abajo y esto aquí para poder hacer así, resfregar.
+[0:39:55.00]-[0:39:57.00]  13 años lavando así.
+[0:39:57.00]-[0:39:58.00]  Madre mía.
+[0:39:58.00]-[0:40:01.00]  Y para planchar con un anácito de tres patas.
+[0:40:01.00]-[0:40:03.00]  ¿Tú sabes lo que es un anácito de tres patas?
+[0:40:03.00]-[0:40:05.00]  No.
+[0:40:05.00]-[0:40:07.00]  Yo no sé nada.
+[0:40:07.00]-[0:40:09.00]  Pues allí le echaba el carbón.
+[0:40:09.00]-[0:40:10.00]  Ajá.
+[0:40:10.00]-[0:40:12.00]  Y allí ponía las planchas.
+[0:40:12.00]-[0:40:19.00]  Y en una mesa, pum, pum, pum, las telas, eso, las chaquetas de los hombres de tela, de esta gorda.
+[0:40:19.00]-[0:40:22.00]  Para reventar los pantalones, lo mismo.
+[0:40:22.00]-[0:40:24.00]  Vamos, eso qué sé.
+[0:40:24.00]-[0:40:25.00]  Madre mía.
+[0:40:25.00]-[0:40:26.00]  ¿Y el jabón?
+[0:40:26.00]-[0:40:27.00]  Jabón verde.
+[0:40:27.00]-[0:40:28.00]  Pero lo hacían...
+[0:40:28.00]-[0:40:30.00]  Y soza.
+[0:40:30.00]-[0:40:33.00]  Soza que había como harina, se le echaba el agua.
+[0:40:33.00]-[0:40:39.00]  Cuando no clarilla, la ceniza de cocina con la leña, se echaba en un cubo.
+[0:40:39.00]-[0:40:41.00]  Y allí se le echaba agua.
+[0:40:41.00]-[0:40:45.00]  Y ese agua se sacaba en clarito y se echaba en la panera para abajo.
+[0:40:45.00]-[0:40:48.00]  Pero eso... ¿Y la ceniza no mancha?
+[0:40:48.00]-[0:40:49.00]  No.
+[0:40:49.00]-[0:40:51.00]  Eso se iba al fondo.
+[0:40:51.00]-[0:40:54.00]  Y eso qué estaba rebalocito y quitaba la...
+[0:40:54.00]-[0:40:56.00]  Pero cómo, ¿lo colaba, no qué...?
+[0:40:56.00]-[0:40:57.00]  Sí, sí, también lo colaba algunas veces.
+[0:40:57.00]-[0:41:04.00]  Cuando tenía mucho piconcillo y eso, lo colaba con un trapito y la echaba a colar.
+[0:41:04.00]-[0:41:07.00]  Y luego agarraba y la ponía al sol.
+[0:41:07.00]-[0:41:10.00]  Al sol, así, a currarse a rajita, para que le diera arco.
+[0:41:10.00]-[0:41:12.00]  Y con el sol quitaba las manchaitas.
+[0:41:12.00]-[0:41:13.00]  Se quedaba blanca blanca.
+[0:41:13.00]-[0:41:16.00]  Blanca como un espejo, vamos.
+[0:41:16.00]-[0:41:20.00]  Y hasta los dedos me se ponían picado, echando sangre.
+[0:41:20.00]-[0:41:22.00]  De tanto...
+[0:41:22.00]-[0:41:25.00]  De tanto... Madre mía.
+[0:41:25.00]-[0:41:26.00]  Digo...
+[0:41:26.00]-[0:41:29.00]  ¿Y cómo eran los partos?
+[0:41:29.00]-[0:41:31.00]  Yo no sé, porque yo tengo una hija sola.
+[0:41:31.00]-[0:41:32.00]  Ajá.
+[0:41:32.00]-[0:41:33.00]  Y me hicieron la cesárea.
+[0:41:33.00]-[0:41:36.00]  Ah, sí. ¿Usted ya fue al hospital o...?
+[0:41:36.00]-[0:41:37.00]  Al hospital, al hospital fui.
+[0:41:37.00]-[0:41:38.00]  ¿A dónde?
+[0:41:38.00]-[0:41:40.00]  A Jerez.
+[0:41:40.00]-[0:41:43.00]  Y que había un coche que...
+[0:41:43.00]-[0:41:47.00]  Que iba, un coche alquilado. No había ambulancia, ni venas.
+[0:41:47.00]-[0:41:50.00]  Y mi hija también tiene una cesárea esa.
+[0:41:50.00]-[0:41:54.00]  Y ella lo tuvo, la tenía la niña, porque tiene esos años.
+[0:41:54.00]-[0:41:57.00]  Y ella lleva diez años de capaz.
+[0:41:57.00]-[0:42:00.00]  También le hicieron la cesárea a mi hija.
+[0:42:00.00]-[0:42:03.00]  Pero, ¿y lo normal no era tener los niños en casa?
+[0:42:03.00]-[0:42:07.00]  Algunas los tenían, pero eso no pude, porque la niña venía de culo.
+[0:42:07.00]-[0:42:08.00]  Ah, claro.
+[0:42:08.00]-[0:42:11.00]  Entonces me tuvieron en cárcel la cesárea.
+[0:42:11.00]-[0:42:14.00]  Me estuvieron allí, me ahorraron la cesárea, y así viene para su caca.
+[0:42:14.00]-[0:42:17.00]  Y yo estuve allí ocho días, en el hospital.
+[0:42:17.00]-[0:42:22.00]  Y luego, ¿cómo cuidaban a la...
+[0:42:22.00]-[0:42:23.00]  Pues yo solita aquí.
+[0:42:23.00]-[0:42:25.00]  ¿Ah, sí?
+[0:42:25.00]-[0:42:29.00]  Yo aquí solita, con mi niña yo la cuidaba solita.
+[0:42:29.00]-[0:42:31.00]  ¿Y le daban el pecho?
+[0:42:31.00]-[0:42:33.00]  Ni dejármela a mi madre, ni nada, ni nada.
+[0:42:33.00]-[0:42:35.00]  No, no, no me salía la leche.
+[0:42:35.00]-[0:42:36.00]  Ah, no.
+[0:42:36.00]-[0:42:37.00]  Que va.
+[0:42:37.00]-[0:42:39.00]  ¿Y qué tenía que le daba?
+[0:42:39.00]-[0:42:42.00]  Pues biberón, se lo pusieron allí.
+[0:42:42.00]-[0:42:45.00]  Digo, trabajando también, hay que trabajar de...
+[0:42:45.00]-[0:42:48.00]  Esto en las casas, ¿cómo es?
+[0:42:48.00]-[0:42:51.00]  De auxiliar de...
+[0:42:51.00]-[0:42:55.00]  ¿Inmoviliares?
+[0:42:55.00]-[0:42:58.00]  No, a las casas, a lavar los mayores.
+[0:42:58.00]-[0:43:00.00]  Ah, vale, vale, vale.
+[0:43:00.00]-[0:43:02.00]  De enfermería, auxiliar de enfermería.
+[0:43:02.00]-[0:43:06.00]  A lavar los mayores, hacerle las cositas a las personas que no...
+[0:43:06.00]-[0:43:09.00]  Y viene a hacérmela también.
+[0:43:09.00]-[0:43:12.00]  Ya está, mañana está aquí...
+[0:43:12.00]-[0:43:13.00]  ¿Y su hija?
+[0:43:13.00]-[0:43:16.00]  No, la que viene a hacerme mis cosas.
+[0:43:16.00]-[0:43:20.00]  Mi hija va a otras casas, a las familias no se las pueden poner.
+[0:43:20.00]-[0:43:21.00]  Ah, vale, vale, vale.
+[0:43:21.00]-[0:43:23.00]  Porque entonces, lo que tienen es una aura.
+[0:43:23.00]-[0:43:26.00]  Y si va a la familia, es a madre Laura.
+[0:43:26.00]-[0:43:29.00]  Y entonces me ponen una extraña.
+[0:43:29.00]-[0:43:30.00]  Pero será simpática.
+[0:43:30.00]-[0:43:33.00]  Muy buena, muy buena la chiquilla.
+[0:43:33.00]-[0:43:35.00]  Claro.
+[0:43:35.00]-[0:43:36.00]  Y tenían un...
+[0:43:36.00]-[0:43:39.00]  Ahora que a mí me gusta todo muy bien eso.
+[0:43:39.00]-[0:43:41.00]  Todo muy bien eso me gusta a mí.
+[0:43:41.00]-[0:43:44.00]  Así que ella hace y luego usted repasa.
+[0:43:44.00]-[0:43:46.00]  Yo no lo puedo remediar.
+[0:43:46.00]-[0:43:47.00]  Hiza, yo estoy criada así.
+[0:43:47.00]-[0:43:50.00]  Mi madre era muy limpia.
+[0:43:50.00]-[0:43:52.00]  Y sabiendo lo hace todo como...
+[0:43:52.00]-[0:43:54.00]  Y yo igual.
+[0:43:54.00]-[0:44:00.00]  Yo limpia, me gusta una persona que no me ponga bigote ni me ponga nada.
+[0:44:00.00]-[0:44:02.00]  ¿Qué es eso de bigote?
+[0:44:02.00]-[0:44:04.00]  ¿Qué bigote?
+[0:44:04.00]-[0:44:05.00]  Los hojalillos.
+[0:44:05.00]-[0:44:09.00]  Cuando le dan con la pintura, pues se ponen bigote.
+[0:44:09.00]-[0:44:12.00]  Se corre para abajo y ahí se queda la pintura.
+[0:44:12.00]-[0:44:14.00]  Y yo eso no quiero.
+[0:44:14.00]-[0:44:16.00]  ¿Y eso que lo tiene que raspar?
+[0:44:16.00]-[0:44:19.00]  Claro, si yo tengo una muchacha que viene a hacérmelo.
+[0:44:19.00]-[0:44:24.00]  Cuando yo quiero limpiar o generar, pues tengo que meter una.
+[0:44:24.00]-[0:44:26.00]  Porque ella lo que tiene es una aura.
+[0:44:26.00]-[0:44:27.00]  Claro.
+[0:44:27.00]-[0:44:28.00]  Y no me puede hacer eso.
+[0:44:28.00]-[0:44:31.00]  Ella viene nada más a dar un cifaito, al porvito.
+[0:44:31.00]-[0:44:33.00]  Y ya está.
+[0:44:33.00]-[0:44:35.00]  La que viene.
+[0:44:35.00]-[0:44:36.00]  Pero cocina.
+[0:44:36.00]-[0:44:39.00]  Pero cuando a ellos me parece, pues meto a esta...
+[0:44:39.00]-[0:44:41.00]  que lleva dos años viniendo a mi casa.
+[0:44:41.00]-[0:44:46.00]  Y la pongo y me limpia mi cocina, me limpia mi cuarto baño, bien eso.
+[0:44:46.00]-[0:44:47.00]  Y ya está.
+[0:44:47.00]-[0:44:49.00]  Le pago lo que sea y fuera.
+[0:44:49.00]-[0:44:51.00]  Ah, fenomenal.
+[0:44:51.00]-[0:44:54.00]  Mientras yo fuera, a mí la mierda no me come.
+[0:44:54.00]-[0:44:57.00]  Claro que no.
+[0:44:57.00]-[0:45:01.00]  Y tengo aquí un lumbar que estoy bardadita.
+[0:45:01.00]-[0:45:04.00]  Madre mía, no se puede agachar ni nada, claro que no.
+[0:45:04.00]-[0:45:07.00]  Qué va, agacharme no puedo, hija.
+[0:45:07.00]-[0:45:09.00]  Y no es que me quite esto.
+[0:45:09.00]-[0:45:11.00]  Y mandí eso con los cequitas.
+[0:45:11.00]-[0:45:12.00]  Ya.
+[0:45:12.00]-[0:45:13.00]  Pero no me estoy quieta.
+[0:45:13.00]-[0:45:17.00]  Yo, mi gen y mi sangre no...
+[0:45:17.00]-[0:45:18.00]  No puede...
+[0:45:18.00]-[0:45:22.00]  Qué va, con los ojos de la cara, lo que puedo, los ojos.
+[0:45:22.00]-[0:45:24.00]  Digo, me tengo yo que ver sentadita aquí ya.
+[0:45:24.00]-[0:45:28.00]  No moverme para no hacer las cosillas.
+[0:45:28.00]-[0:45:30.00]  Usted no para.
+[0:45:30.00]-[0:45:32.00]  Yo no para.
+[0:45:32.00]-[0:45:35.00]  Y yo hago de comer, paminito.
+[0:45:35.00]-[0:45:37.00]  Y su hija ha dicho que vive aquí arriba.
+[0:45:37.00]-[0:45:39.00]  Mi hija vive arriba.
+[0:45:39.00]-[0:45:41.00]  Arriba vive mi hija.
+[0:45:41.00]-[0:45:42.00]  O sea que tiene la nieta acá.
+[0:45:42.00]-[0:45:44.00]  Ahí está, ahí está mi hija, mira.
+[0:45:44.00]-[0:45:46.00]  Aquí tengo fotos de ella y de mi nieta.
+[0:45:46.00]-[0:45:47.00]  Eso es verdad.
+[0:45:47.00]-[0:45:52.00]  Mira, esa fui yo la que está sola con la niña en brazos.
+[0:45:52.00]-[0:45:54.00]  Y ese es mi gen, ¿dónde están los tres?
+[0:45:54.00]-[0:45:58.00]  Soy yo, mi hija y mi gen.
+[0:45:58.00]-[0:46:02.00]  A un casamiento que fuimos, de una sobrina mía.
+[0:46:02.00]-[0:46:03.00]  ¿Dónde fue?
+[0:46:03.00]-[0:46:05.00]  En Borno.
+[0:46:05.00]-[0:46:07.00]  Ah, sí, que está por aquí.
+[0:46:07.00]-[0:46:10.00]  Así vive mi sobrina, en Borno.
+[0:46:10.00]-[0:46:14.00]  Y está aquí en Guadalinfos, o que sé cómo se llama eso.
+[0:46:14.00]-[0:46:18.00]  Es donde están muchos aparatos que pasan, ¿sí?
+[0:46:18.00]-[0:46:20.00]  Y los ordenadores y...
+[0:46:20.00]-[0:46:22.00]  Ahí trabaja ella.
+[0:46:22.00]-[0:46:24.00]  Ah, vale, vale.
+[0:46:24.00]-[0:46:27.00]  Y tengo mis dos hermanos aquí también acá.
+[0:46:27.00]-[0:46:28.00]  Qué bien, ¿no?
+[0:46:28.00]-[0:46:29.00]  Está muy acompañada.
+[0:46:29.00]-[0:46:31.00]  Estamos todos juntos.
+[0:46:31.00]-[0:46:34.00]  Mi hija, mira la casualidad que está casada con uno de acá.
+[0:46:34.00]-[0:46:36.00]  Y aquí está, la tengo aquí.
+[0:46:36.00]-[0:46:39.00]  Y si se hubiera ido por ahí, yo me hubiera vuelto en mi condensado,
+[0:46:39.00]-[0:46:41.00]  porque aquí no me quedo yo sola.
+[0:46:41.00]-[0:46:42.00]  Claro.
+[0:46:42.00]-[0:46:43.00]  Nada.
+[0:46:43.00]-[0:46:45.00]  ¿Cómo son las fiestas del pueblo?
+[0:46:45.00]-[0:46:47.00]  Muy graciosa, ahora vida ha sido la patrona.
+[0:46:47.00]-[0:46:48.00]  ¿Ah, sí?
+[0:46:48.00]-[0:46:49.00]  ¿Y qué se hace?
+[0:46:49.00]-[0:46:53.00]  Pues nada, sacan la procesión con su música muy bonita.
+[0:46:53.00]-[0:47:00.00]  Aquí, ahí viene un maestro de erés a darle clases a los muchachos de música.
+[0:47:00.00]-[0:47:03.00]  Y va la música preciosa, la Virgen de Guadalupe.
+[0:47:03.00]-[0:47:04.00]  ¿Ah, sí?
+[0:47:04.00]-[0:47:06.00]  Más bonita iba.
+[0:47:06.00]-[0:47:07.00]  Y de gente.
+[0:47:07.00]-[0:47:08.00]  Ay, ay.
+[0:47:08.00]-[0:47:11.00]  Porque para este día, que es el día 8 de septiembre,
+[0:47:11.00]-[0:47:16.00]  vienen muchísima gente que son de acá y están por ahí, en Barcelona y por ahí.
+[0:47:16.00]-[0:47:18.00]  Y vienen ese día aquí.
+[0:47:18.00]-[0:47:19.00]  ¿Se pone esto?
+[0:47:19.00]-[0:47:20.00]  ¿Esto?
+[0:47:20.00]-[0:47:21.00]  Ay, ay, ay.
+[0:47:21.00]-[0:47:23.00]  Y a mí me parece que habido más que nunca.
+[0:47:23.00]-[0:47:26.00]  Porque ¿cuánta gente son en el pueblo?
+[0:47:26.00]-[0:47:30.00]  Pues, no llegará a los dos mil.
+[0:47:30.00]-[0:47:34.00]  Habíamos más antes, cerca de tres mil, y están, se van por ahí.
+[0:47:34.00]-[0:47:35.00]  Claro.
+[0:47:35.00]-[0:47:39.00]  Y ¿y la Semana Santa?
+[0:47:39.00]-[0:47:41.00]  Muy bonita también, preciosa.
+[0:47:41.00]-[0:47:42.00]  ¿Tienen pasos?
+[0:47:42.00]-[0:47:43.00]  Sí.
+[0:47:43.00]-[0:47:44.00]  Y su música.
+[0:47:44.00]-[0:47:46.00]  ¿Y cómo es?
+[0:47:46.00]-[0:47:48.00]  Muy bien, mucha gente.
+[0:47:48.00]-[0:47:52.00]  Y aquí ponemos bonita a la Virgen y al Señor.
+[0:47:52.00]-[0:47:57.00]  Es que en la TV se ve que en Andalucía se vive la Semana Santa como en ningún otro sitio.
+[0:47:57.00]-[0:47:59.00]  Sí, sí, sí, aquí es muy bonita.
+[0:47:59.00]-[0:48:00.00]  Con mucha emoción.
+[0:48:00.00]-[0:48:02.00]  Sí.
+[0:48:02.00]-[0:48:05.00]  Aquí somos beatos.
+[0:48:05.00]-[0:48:07.00]  ¿Y qué sacan en procesión?
+[0:48:07.00]-[0:48:10.00]  Pues, unas veces sacan uno y otras veces sacan otro.
+[0:48:10.00]-[0:48:13.00]  La Virgen, el Señor.
+[0:48:13.00]-[0:48:17.00]  La Virgen siempre es la misma.
+[0:48:17.00]-[0:48:20.00]  ¿Y quién los cuida durante el año? ¿Quién se ocupa?
+[0:48:20.00]-[0:48:22.00]  Pues, mozasas que hay.
+[0:48:22.00]-[0:48:25.00]  Y un cura que tenemos muy bueno.
+[0:48:25.00]-[0:48:26.00]  ¿Siempre ha habido cura?
+[0:48:26.00]-[0:48:29.00]  Siempre. Aquí nos faltaron curas.
+[0:48:29.00]-[0:48:31.00]  Se va uno y viene otro.
+[0:48:31.00]-[0:48:37.00]  ¿Y cuando era usted pequeña al cura tanto respeto, más respeto que ahora?
+[0:48:37.00]-[0:48:39.00]  ¿No le besaban la mano a los niños?
+[0:48:39.00]-[0:48:40.00]  Sí.
+[0:48:40.00]-[0:48:41.00]  ¿Eso cómo era?
+[0:48:41.00]-[0:48:45.00]  Pues nada, que íbamos pasando en fila y le íbamos besando la mano al cura.
+[0:48:45.00]-[0:48:46.00]  ¿Cada vez que le veían?
+[0:48:46.00]-[0:48:48.00]  No, en la misa.
+[0:48:48.00]-[0:48:49.00]  Ah, ¿qué dice?
+[0:48:49.00]-[0:48:50.00]  ¿En la misa?
+[0:48:50.00]-[0:48:51.00]  Sí.
+[0:48:51.00]-[0:48:55.00]  Íbamos así en pasito, así los niños, iba dando la vueltecita y el cura de la mano
+[0:48:55.00]-[0:48:57.00]  cuesta y el besito.
+[0:48:57.00]-[0:48:58.00]  Todos los niños.
+[0:48:58.00]-[0:49:00.00]  Todos los niños.
+[0:49:00.00]-[0:49:02.00]  Eso de antes, ya no.
+[0:49:02.00]-[0:49:07.00]  Eso ya no puedo ir ni a misa, pero cuando paso por allí siempre les dejo hacer una visita.
+[0:49:07.00]-[0:49:10.00]  Es que está muy lejos y ya no puedo andar.
+[0:49:10.00]-[0:49:11.00]  Claro.
+[0:49:11.00]-[0:49:12.00]  Mucho.
+[0:49:12.00]-[0:49:14.00]  Me cuesta.
+[0:49:14.00]-[0:49:18.00]  ¿Y ya lo último tenían… usted fue al colegio, a la escuela?
+[0:49:18.00]-[0:49:20.00]  Nada.
+[0:49:20.00]-[0:49:22.00]  No pude ir.
+[0:49:22.00]-[0:49:24.00]  Hay que no había ni colegio, va.
+[0:49:24.00]-[0:49:30.00]  A mí me daba clase, me puso mi madre con una señora que sabía muy bien y cogió unos
+[0:49:30.00]-[0:49:31.00]  pocos de niños.
+[0:49:31.00]-[0:49:35.00]  Entonces, a ver dónde nos sentábamos porque no tenía ni fila, en piedra.
+[0:49:35.00]-[0:49:36.00]  ¿De verdad?
+[0:49:36.00]-[0:49:37.00]  De verdad.
+[0:49:37.00]-[0:49:38.00]  ¿Al aire libre era?
+[0:49:38.00]-[0:49:40.00]  No, en una casa.
+[0:49:40.00]-[0:49:42.00]  La calle real.
+[0:49:42.00]-[0:49:44.00]  ¿Y llevaban su piedra para…
+[0:49:44.00]-[0:49:49.00]  No, la mujer tenía un hijo y la ponía que trajera piedra gorda para sentarnos.
+[0:49:49.00]-[0:49:52.00]  Y nos daba nada más que la cartilla.
+[0:49:52.00]-[0:49:55.00]  ¡Ay, ay, ay!
+[0:49:55.00]-[0:49:58.00]  No tenía ni reloj para saber a la hora que nos vamos a estar fuera.
+[0:49:58.00]-[0:50:03.00]  Y enfrente había una casa grande muy bonita de Rafael Apiñero que tenía una tienda.
+[0:50:03.00]-[0:50:07.00]  Y cuando iba al Zopo los barcones, tenía dos barcones la casa, y cuando iba al Zopo
+[0:50:07.00]-[0:50:13.00]  los barcones eran las cinco y entonces nos daba de mano.
+[0:50:13.00]-[0:50:15.00]  Nos echaba a la calle.
+[0:50:15.00]-[0:50:16.00]  ¿Sabían la hora por el sol?
+[0:50:16.00]-[0:50:18.00]  Por el sol, en los barcones.
+[0:50:18.00]-[0:50:24.00]  Llegando a los filitos de los barcones ya son las cinco, ¡ahuy!
+[0:50:24.00]-[0:50:25.00]  Y entonces…
+[0:50:25.00]-[0:50:31.00]  Nos escapaban porque nos entraban ganas de hacer pipí y la mujer no tenía ni bate.
+[0:50:31.00]-[0:50:33.00]  ¿Y dónde iban?
+[0:50:33.00]-[0:50:34.00]  A las Rollo.
+[0:50:34.00]-[0:50:36.00]  ¿A sí?
+[0:50:36.00]-[0:50:37.00]  ¿Dónde se daba la vuelta?
+[0:50:37.00]-[0:50:40.00]  Entonces aquí no había bate ni había de nada.
+[0:50:40.00]-[0:50:46.00]  Y había unas barrancas por ahí y ahí íbamos a tirar las porquerías.
+[0:50:46.00]-[0:50:50.00]  Y hace pipí donde primero si te entraban ganas, pues a la calle misma.
+[0:50:50.00]-[0:50:52.00]  ¿Ah, sí?
+[0:50:52.00]-[0:50:58.00]  Y decía, decía que no estábamos haciendo pipí para escaparnos.
+[0:50:58.00]-[0:51:03.00]  Y yo iba a mi casa y decía a mi madre, todavía no es la hora, ¿eh?
+[0:51:03.00]-[0:51:08.00]  Le digo, yo le digo, mamá es que yo le he dicho que me estaba haciendo pipí y me he venido.
+[0:51:08.00]-[0:51:09.00]  ¿Te estás venido?
+[0:51:09.00]-[0:51:16.00]  Venga, me cogía por una oreja y me se va otra vez.
+[0:51:16.00]-[0:51:19.00]  Digo, para que sepa que no te tienes que escapar.
+[0:51:19.00]-[0:51:25.00]  Cuando tengas ganas de pipí, pues lo haces, pero decir que tienes y luego no, no.
+[0:51:25.00]-[0:51:26.00]  Digo.
+[0:51:26.00]-[0:51:29.00]  ¿Los padres eran muy conocidos?
+[0:51:29.00]-[0:51:34.00]  Era, era un homo severo, hija, a mí me han dado palo para que le diera la lengua.
+[0:51:34.00]-[0:51:35.00]  ¿Sí?
+[0:51:35.00]-[0:51:36.00]  ¿Cómo le dieron?
+[0:51:36.00]-[0:51:39.00]  Y eso era una travesa.
+[0:51:39.00]-[0:51:41.00]  Se escapaba, qué mal hacía.
+[0:51:41.00]-[0:51:46.00]  Me escapaba, le pegaba a los agales.
+[0:51:46.00]-[0:51:49.00]  Siempre estaba en conkea en mi casa mi madre.
+[0:51:49.00]-[0:51:51.00]  Qué loco.
+[0:51:51.00]-[0:51:53.00]  Era un malilla.
+[0:51:53.00]-[0:51:55.00]  Mi hermana nacía así.
+[0:51:55.00]-[0:52:00.00]  Por eso algunas veces se sienta mi hermana y viene a verme y me lo dice.
+[0:52:00.00]-[0:52:05.00]  Dice, porque sale la conversación, entonces le digo, hay que ver, papá, lo que me pegaba a mi hija, dice,
+[0:52:05.00]-[0:52:07.00]  porque tú no eras como yo.
+[0:52:07.00]-[0:52:09.00]  A ella nomás quedaba ringuible.
+[0:52:09.00]-[0:52:13.00]  Pero mi hermana agasaba la cabeza y se le daba a llorar.
+[0:52:13.00]-[0:52:14.00]  Era homo sentía.
+[0:52:14.00]-[0:52:21.00]  Y yo no, yo me daba los palos y salía corriendo como yo y tal cosa.
+[0:52:21.00]-[0:52:23.00]  Como si no me fuera pegado.
+[0:52:23.00]-[0:52:27.00]  Y decía, mi padre es posible que está sacando a la novia y una lágrima.
+[0:52:27.00]-[0:52:28.00]  Era de cuidado.
+[0:52:28.00]-[0:52:29.00]  ¿Yo?
+[0:52:29.00]-[0:52:32.00]  Oh, un ciclón.
+[0:52:32.00]-[0:52:34.00]  Digo.
+[0:52:34.00]-[0:52:35.00]  Madre mía.
+[0:52:35.00]-[0:52:36.00]  ¿Y a qué jugaban con...?
+[0:52:36.00]-[0:52:38.00]  Con mirato.
+[0:52:38.00]-[0:52:41.00]  Como según fuera la de Coca.
+[0:52:41.00]-[0:52:45.00]  En el Polo Santo y por ahí, a tejo.
+[0:52:45.00]-[0:52:46.00]  ¿Qué es el tejo?
+[0:52:46.00]-[0:52:51.00]  Hace una raya de la losa, poner uno, el dos, el tres, el cuatro,
+[0:52:51.00]-[0:52:56.00]  y coger un pedazo de tejillo y empujarlo con el pie.
+[0:52:56.00]-[0:53:00.00]  Y la que ganaba, la que hacía más, pues esa ganaba.
+[0:53:00.00]-[0:53:05.00]  Por lo santo también, a la comba, con una soga.
+[0:53:05.00]-[0:53:08.00]  ¿Se acuerda de la canción de la comba o no?
+[0:53:08.00]-[0:53:11.00]  Que va, ya no me acuerdo y sabía de mucha.
+[0:53:11.00]-[0:53:15.00]  Y luego también al cuco.
+[0:53:15.00]-[0:53:20.00]  Tú sabes, se escondían las niñas y una las buscaba.
+[0:53:20.00]-[0:53:25.00]  Jugaban niñas por un lado y niños por otro.
+[0:53:25.00]-[0:53:28.00]  Y otras veces las niñas solas,
+[0:53:28.00]-[0:53:32.00]  porque no querían los padres que nos juntáramos con los niños.
+[0:53:32.00]-[0:53:33.00]  Claro.
+[0:53:33.00]-[0:53:35.00]  Estaba mal visto.
+[0:53:35.00]-[0:53:37.00]  Estaba mal visto.
+[0:53:37.00]-[0:53:38.00]  Digo.
+[0:53:38.00]-[0:53:40.00]  Bueno hija, lo siento.
+[0:53:40.00]-[0:53:42.00]  No, muchísimas gracias.
+[0:53:42.00]-[0:53:43.00]  Eso.
+[0:53:43.00]-[0:53:47.00]  Voy a quitar esto también.
+[0:53:47.00]-[0:53:50.00]  Pues un montón de gracias, ¿verdad?
+[0:53:50.00]-[0:53:51.00]  De nada.
+[0:53:51.00]-[0:53:53.00]  Gracias.
+[0:53:53.00]-[0:53:57.00]  Pues nada, que el médico me dé buenas noticias.
+[0:53:57.00]-[0:54:00.00]  Yo voy más que nada para que me recete, tú sabes,
+[0:54:00.00]-[0:54:03.00]  que me hace un papel para cuatro o cinco meses,
+[0:54:03.00]-[0:54:06.00]  para no tener que ir así por la suya, que me lo haga.
+[0:54:06.00]-[0:54:09.00]  Entonces ahora me lo hace para cuatro o cinco meses.
+[0:54:09.00]-[0:54:12.00]  Y ya, yo no tengo más que ir a la farmacia para los medicinos.
+[0:54:12.00]-[0:54:15.00]  Bueno hija, voy a encantar.
+[0:54:15.00]-[0:54:16.00]  Muchas gracias.
+[0:54:16.00]-[0:54:20.00]  Que te venga el entrevisto y que salga bien la entrevista.
+[0:54:20.00]-[0:54:22.00]  Muchísimas gracias.
+[0:54:22.00]-[0:54:24.00]  Vamos a buscar a...
+[0:54:24.00]-[0:54:27.00]  Eso. Ahora cubrí y saca el cuchillo abajo.
+[0:54:27.00]-[0:54:29.00]  Hay una boca casi para allá.
+[0:54:29.00]-[0:54:31.00]  Esta no. La primera capa.
+[0:54:31.00]-[0:54:32.00]  Vale.
+[0:54:32.00]-[0:54:33.00]  No es...
+[0:54:33.00]-[0:54:34.00]  Espera.
+[0:54:34.00]-[0:54:36.00]  Bueno.
+[0:54:36.00]-[0:54:38.00]  Por contarte esto.
+[0:54:38.00]-[0:54:40.00]  Es más grandioso.
+[0:54:40.00]-[0:54:42.00]  Pues no, pues muchas gracias.
+[0:54:42.00]-[0:54:44.00]  De nada, hija.
+[0:54:44.00]-[0:54:46.00]  Esto está ahí.
+[0:54:46.00]-[0:54:48.00]  Fenomenal.
+[0:54:48.00]-[0:54:50.00]  Como precioso.
+[0:54:50.00]-[0:54:52.00]  Pues muchísimas gracias.
+[0:54:52.00]-[0:54:53.00]  De nada, hija.
+[0:54:53.00]-[0:54:54.00]  Hasta luego.
+[0:54:54.00]-[0:54:55.00]  Adiós.
+[0:54:55.00]-[0:55:18.00]  Adiós.

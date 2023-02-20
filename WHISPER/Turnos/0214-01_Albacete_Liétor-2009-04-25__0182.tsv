@@ -1,0 +1,11 @@
+estandar	dialectal	whisper
+[A-Inn]	[A-Inn]	No,
+con	con	no,
+viejos	viejos	no,
+~,	~,	no,
+con	con	con
+de	de	viejos,
+~|	~|	con
+con	con	de
+viejos	viejos
+~.	~.

@@ -1,0 +1,12 @@
+estandar	dialectal	whisper
+Castilla-La_Mancha	Castilla-La_Mancha	Así
+so-	so-	que
+~,	~,	la
+¿~	¿~	mancha,
+Cuántas	Cuántas	cuántas
+[A-InfErr:	[A-InfErr:
+		sos			sos
+		]			]
+~,	~,
+son	son
+~?	~?

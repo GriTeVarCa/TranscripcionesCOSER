@@ -1,0 +1,30 @@
+estandar	dialectal	whisper
+En	En	En
+el	el	el
+tiempo	tiempo	tiempo
+del	del	del
+verano	verano	verano
+salía	salía	salía
+fresquita	fresquita	frescita
+y	y	y
+ahora	ahora	ahora
+en	en	en
+tiempo	tiempo	el
+de	de	tiempo
+invierno	invierno	del
+salía	salía	invierno
+caliente	caliente	salía
+~.	~.	caliente.
+[A-Err]	[A-Err]	Pasalo
+[RISA]	[RISA]	mismo
+Pa-	Pa-	que
+~,	~,	el
+pasa	pasa	pozo
+lo	lo	es
+mismo	mismo
+que	que
+el	el
+pozo	pozo
+este	este
+nuestro	nuestro
+~.	~.

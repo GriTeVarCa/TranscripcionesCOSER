@@ -1,0 +1,114 @@
+estandar	dialectal	whisper
+gofio	gofio	el
+amasado	amasao	gofio
+y	y	másau
+papas	papas	y
+cocinadas	cocinás	papa
+~,	~,	cocinaba
+pescado	pescao	que
+salado	salao	causa
+o	o	la
+pescao	pescao	o,
+fresco	fresco	que
+~,	~,	causa
+como	como	freco
+fuera	fuera	como
+~,	~,	fuera,
+o	o	o
+carne	carne	carne
+cochino	cochino	cocinu
+~,	~,	como
+como	como	estamos
+estaba	estaba	diciendo
+uno	uno	también
+diciendo	diciendo	lo
+también	también	mismo
+~.	~.	tosino
+Lo	Lo	asau
+mismo	mismo	para
+es	es	un
+tocino	tocino	medio
+asado	asao	día
+pa	pa	eso,
+mediodía	mediodía	si
+~.	~.	tanto
+Eso	Eso	la
+~…	~…	noche
+~,	~,	ya
+si	si	es
+pa	pa	caldo,
+por	por	un
+la	la	poitaje
+noche	noche	como
+ya	ya	dice,
+es	es	pero
+caldo	caldo	para
+~.	~.	un
+Un	Un	medio
+potaje	potaje	día
+~,	~,	si
+como	como	no
+dicen	dicen	había
+~.	~.	otra
+Pero	Pero	cosa
+pa'l	pa'l	ya
+mediodía	mediodía	va
+~,	~,	a
+si	si	hacer
+no	no	un
+había	había	arlaque
+otra	otra	a
+cosa	cosa	esto
+~,	~,	sinudese
+echabas	echabas	y
+a	a	que,
+asar	asar	con
+en	en	gusto,
+unas	unas	si
+lacas	lacas	no
+de	e	pescausa
+tocino	tocino	la
+de	de	o
+ese	ese	lo
+y	y	mismo
+~,	~,	asau
+y	y	que
+[A-PIn:	[A-PIn:	cocinaba,
+		conducto			conducto	su
+		]			]	comida
+~.	~.	favorita,
+Y	Y	que
+si	si	era
+no	no	pecado
+pescao	pescao	freco
+salao	salao	freco,
+~,	~,	frito,
+lo	lo
+mismo	mismo
+asao	asao
+que	que
+~,	~,
+que	que
+cocinado	cocinao
+~.	~.
+[HS:E1	[HS:E1
+		[Asent]			[Asent]
+~.	~.
+¿~	¿~
+Su	Su
+comida	comida
+favorita	favorita
+~?	~?
+		]			]
+Como	Como
+si	si
+era	era
+pescao	pescao
+fresco	fresco
+o	o
+[A-InfErr:	[A-InfErr:
+		freíto			freíto
+		]			]
+~,	~,
+frito	frito
+~.	~.

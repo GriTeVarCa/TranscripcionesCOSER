@@ -1,0 +1,62 @@
+estandar	dialectal	whisper
+Pues	Pues	Pues
+el	el	yo
+cocido	cocido	el
+~,	~,	tocino,
+pues	pues	pues
+te	te	yo
+voy	voy	voy
+a	a	a
+decir	decir	decir
+~,	~,	a
+eran	eran	los
+los	los	garbanzos,
+garbanzos	garbanzos	se
+~,	~,	echaba
+se	se	un
+echaba	echaba	chorizo,
+un	un	tenía
+chorizo	chorizo	que
+~,	~,	projecer
+si	si	carne,
+podías	podías	le
+coger	coger	echaba
+carne	carne	la
+~,	~,	carne
+le	le	y
+echabas	echabas	el
+la	la	chorizo,
+carne	carne	un
+y	y	patotocino,
+el	el	y
+chorizo	chorizo	aquí
+~,	~,	hace
+y	y	el
+un	un	refideo,
+poco	poco	con
+tocino	tocino	el
+~,	~,	local
+y	y	del
+hacías	hacías	carne,
+el	el	los
+~|	~|	barbanzos,
+los	los	no
+fideos	fideos	recién,
+con	con	y
+~,	~,	así
+con	con	hace
+el	el	un
+caldo	caldo
+de	de
+los	los
+[HS:I2	[HS:I2
+		[A-Inn]			[A-Inn]
+rellenos	rellenos
+~.	~.
+		]			]
+garbanzos	garbanzos
+y	y
+hacías	hacías
+un	un
+relleno	relleno
+~…	~…

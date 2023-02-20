@@ -1,0 +1,39 @@
+estandar	dialectal	whisper
+|T14|	|T14|	Y
+Y	Y	cuénteme
+cuénteme	cuénteme	cómo
+cómo	cómo	se
+se	se	hicieron
+hicieron	hicieron	novios,
+novios	novios	usted
+usted	usted	y
+y	y	su
+su	su	marido,
+marido	marido	cómo
+~.	~.	se
+¿~	¿~	casaron,
+Cómo	Cómo	cómo
+~,	~,	eran
+cómo	cómo	novias,
+se	se	cómo
+casaron	casaron	eran
+~?	~?	los
+¿~	¿~	cortejos,
+Cómo	Cómo
+era	era
+el	el
+noviazgo	noviazgo
+~?	~?
+¿~	¿~
+Cómo	Cómo
+era	era
+~,	~,
+cómo	cómo
+era	era
+el	el
+cortejo	cortejo
+entonces	entonces
+~?	~?
+[HS:I1	[HS:I1
+		[A-Nul]			[A-Nul]
+		]			]

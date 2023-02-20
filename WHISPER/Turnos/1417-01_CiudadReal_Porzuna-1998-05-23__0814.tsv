@@ -1,0 +1,64 @@
+estandar	dialectal	whisper
+Puedes	Puedes	¿Pueden
+poner	poner	ir
+la	la	comer?
+mesa	mesa	Puede
+para	para	poner
+cinco	cinco	la
+~,	~,	mesa
+paga	paga	para
+luz	luz	5.
+~,	~,	Pagarlo,
+paga	paga	pagar
+teléfono	teléfono	teléfono,
+~,	~,	pagar
+paga	paga	continuaciones,
+contribuciones	contribuciones	pagar
+~,	~,	agua,
+paga	paga	pagar
+agua	agua	el
+~,	~,	gasto
+paga	paga	de
+gastos	gastos	todo.
+de	de	O
+todo	todo	sea,
+~.	~.	hay
+[V-Ljn]	[V-Ljn]	meses
+Pos	Pos	que
+hay	hay	por
+meses	meses	el
+que	que	mismo.
+porque	porque	El
+mi	mi	gel
+mujer	mujer	va
+va	va	un
+un	un	día
+día	día	así
+en	en	de
+~|	~|	arrajo
+a	a	a
+~,	~,	la
+a	a	casa,
+Ciudad_Real	Ciudá	todas
+a	a	las
+trabajar	trabajar	semanas,
+a	a	día
+una	una	2,
+casa	casa	que
+todo	todo	la
+~|	~|	salió
+todas	todas	y
+las	las	de
+semanas	semanas
+~.	~.
+Un	Un
+día	día
+o	o
+dos	dos
+para	para
+salir	salir
+del	del
+[A-PIn:	[A-PIn:
+		gasto			gasto
+~.	~.
+		]			]

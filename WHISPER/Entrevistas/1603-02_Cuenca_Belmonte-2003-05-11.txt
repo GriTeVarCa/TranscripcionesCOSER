@@ -1,0 +1,702 @@
+[0:00:00.00]-[0:00:07.00]  ¿Cómo se llama usted y cuántos años tiene usted?
+[0:00:07.00]-[0:00:08.00]  74.
+[0:00:08.00]-[0:00:09.00]  74 años.
+[0:00:09.00]-[0:00:13.00]  ¿Y ha vivido usted aquí toda la vida, en este pueblo?
+[0:00:13.00]-[0:00:14.00]  Toda la vida.
+[0:00:14.00]-[0:00:17.20]  ¿Y cuando era pequeña fue al colegio?
+[0:00:17.20]-[0:00:19.32]  Al colegio sí, de unas mujeres.
+[0:00:19.32]-[0:00:20.32]  ¿Cuántos años?
+[0:00:20.32]-[0:00:23.72]  Pues hasta que ya me hice mayorceta.
+[0:00:23.72]-[0:00:25.52]  ¿Después trabajó?
+[0:00:25.52]-[0:00:30.72]  Trabajé ayudándola a mis padres en el campo.
+[0:00:30.72]-[0:00:32.36]  ¿Cómo era el colegio entonces?
+[0:00:32.36]-[0:00:39.04]  El colegio, las monjas dominicas, y el colegio era pues que en un libro ahí venía todo.
+[0:00:39.04]-[0:00:41.04]  ¿Y era muy dura?
+[0:00:41.04]-[0:00:42.04]  ¿La castigaban?
+[0:00:42.04]-[0:00:43.04]  ¿Era una ciclopeda?
+[0:00:43.04]-[0:00:44.04]  ¿O era buena?
+[0:00:44.04]-[0:00:45.04]  Yo soy siempre muy buena.
+[0:00:45.04]-[0:00:46.04]  ¿O era mal?
+[0:00:46.04]-[0:00:49.04]  Oye, ¿no eres de esa camita niño?
+[0:00:49.04]-[0:00:50.04]  Claro.
+[0:00:50.04]-[0:00:55.44]  Que sí, que mira si sería buena que todavía me escriban mis monjas.
+[0:00:55.44]-[0:01:00.48]  Y ya está un día el convento, si lo han visto, es el convento que hay para allá, para la
+[0:01:00.48]-[0:01:01.48]  parroquia.
+[0:01:01.48]-[0:01:04.36]  No lo hemos visto, luego lo recamos.
+[0:01:04.36]-[0:01:07.88]  Está medio un día, o sea que está en ruinas.
+[0:01:07.88]-[0:01:08.88]  Ya no van al colegio allí.
+[0:01:08.88]-[0:01:09.88]  No.
+[0:01:09.88]-[0:01:10.88]  Ni nada.
+[0:01:10.88]-[0:01:14.20]  Y después usted dice que ayudó a sus padres en qué, ¿trabajó en el campo?
+[0:01:14.20]-[0:01:15.20]  En el campo, sí.
+[0:01:15.20]-[0:01:18.44]  La bendizmia, en la siega, he cegado a mano.
+[0:01:18.44]-[0:01:23.20]  ¿Y las tierras eran de sus padres o era trabajaba con él?
+[0:01:23.20]-[0:01:27.40]  No, no, no, era de mi padre y de mi madre.
+[0:01:27.40]-[0:01:30.40]  ¿Qué cultivaban?
+[0:01:30.40]-[0:01:34.20]  Cereales y viña.
+[0:01:34.20]-[0:01:41.48]  Ah, pues hemos sembrado mucho, pues ya nunca, pues por gastos hemos sembrado, pero bueno.
+[0:01:41.48]-[0:01:49.24]  A los principios pipas también, pipas negras, cosas de esas.
+[0:01:49.24]-[0:01:50.24]  ¿A qué hora se casó?
+[0:01:50.24]-[0:01:51.24]  ¿Qué, a qué hora?
+[0:01:51.24]-[0:01:52.24]  ¿A qué hora se casó?
+[0:01:52.24]-[0:01:53.24]  Ah, que se decía que aquí ahora no me pasaba nada.
+[0:01:53.24]-[0:01:54.24]  O si se casó usted, claro, porque claro.
+[0:01:54.24]-[0:01:55.24]  Que se acuerda de que me va a venir.
+[0:01:55.24]-[0:01:56.24]  Bueno, claro, si usted se casó.
+[0:01:56.24]-[0:01:57.24]  Pues sí, no, me casé un poco mayor ya.
+[0:01:57.24]-[0:01:58.24]  Me casé a los 33 años.
+[0:01:58.24]-[0:01:59.24]  ¿Y cómo era la boda, entonces?
+[0:01:59.24]-[0:02:00.24]  Pues con un vestido y un traje de chaqueta negro, llevaba, mi ramos y todo eso aquí.
+[0:02:00.24]-[0:02:01.24]  ¿No llevó traje de novela?
+[0:02:01.24]-[0:02:02.24]  No, traje de novela no.
+[0:02:02.24]-[0:02:03.24]  ¿Y la celebración?
+[0:02:03.24]-[0:02:04.24]  La celebración sí, en un salón, ahí se hizo un refresco y baile después y ya.
+[0:02:04.24]-[0:02:05.24]  ¿Y la celebración?
+[0:02:05.24]-[0:02:06.24]  La celebración sí, en un salón, ahí se hizo un refresco y baile después y ya.
+[0:02:06.24]-[0:02:07.24]  ¿Y la celebración?
+[0:02:07.24]-[0:02:26.24]  La celebración sí, en un salón, ahí se hizo un refresco y baile después y ya.
+[0:02:26.24]-[0:02:27.24]  ¿No hicieron más?
+[0:02:27.24]-[0:02:28.24]  ¿No había viaje de novio ni nada?
+[0:02:28.24]-[0:02:29.24]  Uy, que lejos pillaba eso.
+[0:02:29.24]-[0:02:30.24]  Esos que pillaban muy lejos para...
+[0:02:30.24]-[0:02:31.24]  ¿Eso no...
+[0:02:31.24]-[0:02:32.24]  No, eso se quedaba para las principales del pueblo y ya.
+[0:02:32.24]-[0:02:33.24]  ¿Y después usted siguió trabajando?
+[0:02:33.24]-[0:02:34.24]  ¿Y después de eso?
+[0:02:34.24]-[0:02:35.24]  Sí, sí.
+[0:02:35.24]-[0:02:38.24]  ¿Y después de casada?
+[0:02:38.24]-[0:02:46.52]  No, después de casada ya trabajó menos, porque mi marido era por cuenta ajena y a ser por
+[0:02:46.52]-[0:02:51.72]  cuenta ajena pues yo ya no tenía que ir porque él iba por dar ajeno, él iba a vendirme
+[0:02:51.72]-[0:02:56.24]  ajeno, él iba a las cosas ajenas y como yo no era mío pues yo ya no iba.
+[0:02:56.24]-[0:02:57.24]  ¿Le pagaban, no?
+[0:02:57.24]-[0:02:58.24]  Sí, a él le pagaban más o menos.
+[0:02:58.24]-[0:02:59.24]  ¿Cuánto le pagaban?
+[0:02:59.24]-[0:03:00.24]  Pues no lo sé, entonces poco, poco.
+[0:03:00.24]-[0:03:01.24]  ¿Poquito, no?
+[0:03:01.24]-[0:03:02.24]  Poquito, no.
+[0:03:02.24]-[0:03:03.24]  Bueno, andaban justitas.
+[0:03:03.24]-[0:03:04.24]  Sí, bueno, sí.
+[0:03:04.24]-[0:03:05.24]  Justitas, justitas.
+[0:03:05.24]-[0:03:06.24]  Pero bien justitas.
+[0:03:06.24]-[0:03:11.24]  ¿Se le pagaban más a los hombres que a las mujeres?
+[0:03:11.24]-[0:03:15.24]  Pues se solía pagar, y a los niños también.
+[0:03:15.24]-[0:03:18.24]  Mientras no tenían la edad les pagaban menos todavía.
+[0:03:18.24]-[0:03:19.24]  ¿Usted tiene hijos?
+[0:03:19.24]-[0:03:20.24]  Tengo una.
+[0:03:20.24]-[0:03:21.24]  Una hija.
+[0:03:21.24]-[0:03:22.24]  Y dos nietos.
+[0:03:22.24]-[0:03:27.24]  ¿Y cómo era entonces, cómo tenían las mujeres los niños entonces?
+[0:03:27.24]-[0:03:29.24]  ¿Tenía usted un médico?
+[0:03:29.24]-[0:03:32.24]  No, yo me la dejaba con mi madre.
+[0:03:32.24]-[0:03:34.24]  Pero cuando la tuvo, ¿cómo la tuvo?
+[0:03:34.24]-[0:03:35.24]  ¿Un médico?
+[0:03:35.24]-[0:03:36.24]  ¿Vino a casa?
+[0:03:36.24]-[0:03:37.24]  Aquí en el pueblo.
+[0:03:37.24]-[0:03:38.24]  ¿En su casa?
+[0:03:38.24]-[0:03:46.24]  Una comadrona de estas caserías que se atreve a todo por esas, que dicen yo misma, hola.
+[0:03:46.24]-[0:03:47.24]  ¿Y cómo los cuidaban entonces?
+[0:03:47.24]-[0:03:50.24]  Porque luego ahora hay más comodidades.
+[0:03:50.24]-[0:03:56.24]  Bueno, yo entonces ya a mi hija ya le daba que si celad, que si maicena, pero ahora...
+[0:03:56.24]-[0:04:09.24]  Antes no le daban nada más que las chejas de esas que llamaban de dulce, con harina de trigo y le echaban una poquita leche y así, o galletas marías solían hacer, cosas de esas.
+[0:04:09.24]-[0:04:10.24]  Pero no los están cogiendo hoy.
+[0:04:10.24]-[0:04:13.24]  Sí, sí, es verdad, lo sé yo.
+[0:04:13.24]-[0:04:17.24]  ¿Y la educación de los niños como era distinta, qué daba?
+[0:04:17.24]-[0:04:29.24]  Si no, la educación de los niños dependía de los padres también mucho, porque maestra ya digo yo, ayudó con monjas y la educación de las monjas a mí me parece que es un landa buena.
+[0:04:29.24]-[0:04:34.24]  Porque mira, ya los años que tengo...
+[0:04:34.24]-[0:04:39.24]  ¿Y qué diferencia ve usted entre los niños de ahora y los niños de su tiempo?
+[0:04:39.24]-[0:04:41.24]  Como de la noche al día.
+[0:04:41.24]-[0:04:44.24]  Como de la noche al día.
+[0:04:44.24]-[0:04:51.24]  Porque antes a lo mejor para desayunar te daban 300 o 1 hd de chocolate cuando no te daban media.
+[0:04:51.24]-[0:04:55.24]  Pero bueno, 1 hd de chocolate, bueno.
+[0:04:55.24]-[0:04:58.24]  ¿Y ahora qué? Acaprillo.
+[0:04:58.24]-[0:05:02.24]  Ahora, acaprillo. Lo que quieren y como quieren.
+[0:05:02.24]-[0:05:09.24]  Y dame que me voy a comprar y dame que me vea por switches y comprame un ordenador y comprame una videoconsola y cómrame antes.
+[0:05:09.24]-[0:05:11.24]  Eso no existía.
+[0:05:11.24]-[0:05:13.24]  ¿Y ustedes a qué jugaban?
+[0:05:13.24]-[0:05:14.24]  ¿A qué jugaban?
+[0:05:14.24]-[0:05:21.24]  Que a qué jugábamos nosotros pues, a la brisca, lo que más se jugaba entonces a la brisca.
+[0:05:21.24]-[0:05:23.24]  ¿Jugaban a lo mismo los chicos con las chicas?
+[0:05:23.24]-[0:05:24.24]  Sí.
+[0:05:24.24]-[0:05:25.24]  ¿Jugaban juntos?
+[0:05:25.24]-[0:05:33.24]  Sí. Y se jugaba también a las tres enrayas, al cantarillo, a cosas de aquellas de antiguamente.
+[0:05:33.24]-[0:05:35.24]  ¿Y qué les enseñaban en el colegio?
+[0:05:35.24]-[0:05:45.24]  Sí, en el colegio ya nos enseñaban, por de todo, nos enseñaban un poco de gramática, de geografía, de cosas de esas.
+[0:05:45.24]-[0:05:46.24]  ¿Y les pegaban en el colegio?
+[0:05:46.24]-[0:05:55.24]  No. Bueno, yo no sé si alguna deslíaba un poquito así. Yo no tenía ocasión porque yo no...
+[0:05:55.24]-[0:05:59.24]  ¿Por qué cosas les podía castigar alguien? ¿Recuerda a alguien que le había castigado?
+[0:05:59.24]-[0:06:08.24]  Pues no solían castigar. Pues a lo mejor por estar distraída en la escuela, por no hacer caso a la maestra, por hacer novillos, como se solía decir entonces,
+[0:06:08.24]-[0:06:17.24]  salían de casa diciendo que se iban al colegio y después no iban, se iban por ahí a jugar y claro, la maestra tenía que hacerle los babeles a sus padres.
+[0:06:17.24]-[0:06:20.24]  Bueno, como usted iba a un colegio de monjas, supongo que iría a la misa.
+[0:06:20.24]-[0:06:22.24]  Sí, eso es. Y sigo igual.
+[0:06:22.24]-[0:06:23.24]  Sigue usted yendo a la misa.
+[0:06:23.24]-[0:06:24.24]  Sí, vivo igual.
+[0:06:24.24]-[0:06:27.24]  ¿Y han notado diferencia en la iglesia, como era antes?
+[0:06:27.24]-[0:06:30.24]  Sí, en los curas y en los frailes y en los chichiribayles.
+[0:06:30.24]-[0:06:35.24]  Por ejemplo, ¿en lo oscura no dejaban a lo mejor ir en manga corta o alguna cosa así?
+[0:06:35.24]-[0:06:36.24]  No, antiguamente no.
+[0:06:36.24]-[0:06:37.24]  ¿No se podía?
+[0:06:37.24]-[0:06:44.24]  No, a las cortas no. No, ni escoteviéndose en las titas tampoco. Tampoco dejaban.
+[0:06:44.24]-[0:06:48.24]  Bueno, ¿recuerda usted que a alguien le regañasen por ir...?
+[0:06:48.24]-[0:06:50.24]  No, a mí no, porque no lo hacían.
+[0:06:50.24]-[0:06:51.24]  ¿No usted no?
+[0:06:51.24]-[0:06:59.24]  No, porque yo decía que no había que entrar de manga corta y yo no iba de manga corta a la iglesia, por supuesto.
+[0:06:59.24]-[0:07:06.24]  A lo mejor, ¿saben lo que hacía? Unos bañitos, me los entraba a la hora de entrar a la misa.
+[0:07:06.24]-[0:07:08.24]  Cuando salía de misa me los llevaba.
+[0:07:08.24]-[0:07:09.24]  Voy a ver.
+[0:07:09.24]-[0:07:11.24]  ¿Y usted de dónde se vivía?
+[0:07:11.24]-[0:07:13.24]  Usted de dos nietas.
+[0:07:13.24]-[0:07:16.24]  Tengo un nieto y una nieta. Hija de más de una.
+[0:07:16.24]-[0:07:21.24]  ¿Y los niños antiguamente tenían más obligaciones que ahora?
+[0:07:21.24]-[0:07:27.24]  No. Obligaciones, pues sí, porque en seguida los ponían a trabajar.
+[0:07:27.24]-[0:07:33.24]  En seguida se los llevaban los padres a ayudarlos a ellos, porque lo necesitaban.
+[0:07:33.24]-[0:07:39.24]  Y hoy no. Hoy no se casan porque viven mejor al abrigo de los padres.
+[0:07:39.24]-[0:07:43.24]  ¿Hacen lo que quieren en el mundo? A ver si me voy a ir a rincar un celé.
+[0:07:43.24]-[0:07:47.24]  ¿Hacen lo que quieren en el mundo? ¿Su padre y su madre les da la sopa a dos?
+[0:07:47.24]-[0:07:53.24]  Y dicen, ¿para qué quiero yo mantener hijos ni estar lavándoles la ropa a un marido?
+[0:07:53.24]-[0:07:55.24]  ¿Con qué edad empezó usted a trabajar?
+[0:07:55.24]-[0:07:56.24]  ¿Eh?
+[0:07:56.24]-[0:07:57.24]  ¿Con qué edad empezó a trabajar?
+[0:07:57.24]-[0:08:01.24]  A los 13 años. A los 13 años.
+[0:08:01.24]-[0:08:04.24]  ¿Y antes obedecía más a los padres que ahora?
+[0:08:04.24]-[0:08:09.24]  Sí, eso por supuesto. Eso por supuesto.
+[0:08:09.24]-[0:08:13.24]  Antes tu padre te decía que al encender las luces te quiero en casa.
+[0:08:13.24]-[0:08:18.24]  Y aquí en los pueblos por la dama casi siempre a la misma hora las luces.
+[0:08:18.24]-[0:08:20.24]  Por la sara de la hora tenías que estar en casa.
+[0:08:20.24]-[0:08:26.24]  Ahora querías ir a algún lado y le pedías permiso a tus padres, te lo dejaban bien y si no te lo dejaban.
+[0:08:26.24]-[0:08:35.24]  A lo mejor decías, pues mire me voy a dejar de quedarme esta noche un poco más porque esto, a lo mejor es mentira, pero...
+[0:08:35.24]-[0:08:42.24]  Le había que pedir el permiso. Hoy no, hoy los chicos no obedecen ni a nadie.
+[0:08:42.24]-[0:08:45.24]  ¿Y a qué edad le dejaban casarse ya?
+[0:08:45.24]-[0:08:51.24]  Bueno sí, la edad de casarse, pues en cuanto ya era la mayoría de edad, a lo mejor a los...
+[0:08:51.24]-[0:08:54.24]  Bueno, entonces ya era los 21 me parece.
+[0:08:54.24]-[0:08:59.24]  A los 21 pues ya le dejaban casarse. En cuanto ya...
+[0:08:59.24]-[0:09:05.24]  ¿Y usted ha conocido a alguien que se ha casado por dinero o obligado por sus padres o algo?
+[0:09:05.24]-[0:09:09.24]  Aquí en Belmonte que yo sepa no he oído así, no, pero por dinero.
+[0:09:09.24]-[0:09:15.24]  Es decir, me gusta más pulano pero ese no tiene por venir y este tiene y casa con el que tiene, eso sí.
+[0:09:15.24]-[0:09:17.24]  Eso sí.
+[0:09:17.24]-[0:09:19.24]  ¿Qué quiere?
+[0:09:19.24]-[0:09:22.24]  A mi se me hubiera gustado estudiar si hubiera podido.
+[0:09:22.24]-[0:09:27.24]  Pues sí, sí, aunque antes nos acopardábamos más que ahora.
+[0:09:27.24]-[0:09:35.24]  Ahora un chico, en cuanto tiene 10 o 12 años le dices que se te quiere ir fuera de con sus padres a estudiar y eso y está contento.
+[0:09:35.24]-[0:09:38.24]  Antiguamente eso se ponía por delante también.
+[0:09:38.24]-[0:09:41.24]  Pero de esta forma no había medios.
+[0:09:41.24]-[0:09:46.24]  Entonces que no había medios no había como ahora que si les dan una beca, que si les dan esto...
+[0:09:46.24]-[0:09:48.24]  Antes no existía todo eso.
+[0:09:48.24]-[0:09:52.24]  Antes lo más que eran los que se iban de curas que les pagaban una beca.
+[0:09:52.24]-[0:09:56.24]  Eso sí, las cuatro señoras del pueblo...
+[0:09:56.24]-[0:09:58.24]  Ponían dinero ¿no?
+[0:09:58.24]-[0:10:02.24]  Sí, ponían dinero para los estudiantes de chicos.
+[0:10:02.24]-[0:10:04.24]  Pero querías ser cura que no, no.
+[0:10:04.24]-[0:10:09.24]  ¿Y recuerda usted si alguna vez sus padres le decían si no haces esto va...
+[0:10:09.24]-[0:10:14.24]  No, mi padre no hizo severos con nosotros, nunca, nunca, nunca.
+[0:10:14.24]-[0:10:17.24]  ¿Eran ustedes familia numerosa?
+[0:10:17.24]-[0:10:19.24]  Éramos cuatro.
+[0:10:20.24]-[0:10:23.24]  Éramos tres chicas y un chico.
+[0:10:23.24]-[0:10:27.24]  ¿Y se podía, o ya no ustedes elegían en qué iban a trabajar o iban a ir a trabajar en lo que fueron?
+[0:10:27.24]-[0:10:30.24]  No, a trabajar en uno de la casa.
+[0:10:30.24]-[0:10:34.24]  Llevaban unas cierrecillas y en eso trabajaban.
+[0:10:34.24]-[0:10:37.24]  ¿Y tenían ustedes gente que venía a cosechar o algo así?
+[0:10:37.24]-[0:10:38.24]  No.
+[0:10:38.24]-[0:10:39.24]  ¿Ustedes lo hacían?
+[0:10:39.24]-[0:10:41.24]  Lo hacíamos a mano entonces.
+[0:10:41.24]-[0:10:48.24]  Luego ya así empezaron a venir las cosechadoras, empezaron a venir ya a matinaria y entonces ya sigue claro.
+[0:10:48.24]-[0:10:53.24]  ¿Pero no venía nadie de otros pueblos, por ejemplo, a cosechar o algo así?
+[0:10:53.24]-[0:10:59.24]  Sí venían, pero máquinas, máquinas de... pues murciado venían, murcianas y...
+[0:10:59.24]-[0:11:03.24]  Estos dos venían en máquinas, cuando todavía por aquí no existían, pero ahora ya...
+[0:11:03.24]-[0:11:06.24]  O sea que jornaleros ustedes no tuvieron, ¿no?
+[0:11:06.24]-[0:11:08.24]  No, nunca, nunca.
+[0:11:11.24]-[0:11:15.24]  ¿Y por qué no les deganaba su madre, por ejemplo? ¿Había algo que les deganara especialmente?
+[0:11:15.24]-[0:11:21.24]  A mí no me agregaron nunca, como no fuera de si llegué un poquito más tarde o cosa así, pero otra cosa no.
+[0:11:21.24]-[0:11:22.24]  ¿Y sus hermanos tampoco?
+[0:11:22.24]-[0:11:30.24]  Tampoco. Porque es que en mi casa lo que decían ellos aquel día, lo que decían mis padres y nosotros nunca les contestaba nada.
+[0:11:30.24]-[0:11:34.24]  ¿Y algún compañero que fuera así un poco más travesillo y...
+[0:11:34.24]-[0:11:35.24]  O algún amigo.
+[0:11:35.24]-[0:11:37.24]  O algún amigo.
+[0:11:37.24]-[0:11:45.24]  Pues si es que yo desde chica he querido ser monja y mis compañeras, claro, está...
+[0:11:45.24]-[0:11:52.24]  Que una está de monja en Madrid, está en Madrid en el plantío, en el plantío.
+[0:11:52.24]-[0:12:02.24]  Y otra hay que esa era mi maestra de toda la vida, que todavía me llama por teléfono y me llama también, está en Madrid, que está en...
+[0:12:02.24]-[0:12:09.24]  En el Hospital de Milagrosa me parece que es, ese que hace a... hace esquina en la puerta, así.
+[0:12:09.24]-[0:12:11.24]  Pues ahí.
+[0:12:11.24]-[0:12:13.24]  ¿Y por qué no se estaba usted monja?
+[0:12:13.24]-[0:12:21.24]  Porque los padres se oponían mucho a aquello, decían que era perder una hija, que no era lo mismo que ahora que ya la gente lo ve de otra manera esas cosas también.
+[0:12:21.24]-[0:12:25.24]  Entonces decían que dejar a una hija así era perdela.
+[0:12:25.24]-[0:12:26.24]  Y no querían.
+[0:12:26.24]-[0:12:27.24]  Sí.
+[0:12:27.24]-[0:12:30.24]  Y ya pues no, darles ese sería justo por...
+[0:12:30.24]-[0:12:36.24]  ¿Sabes de alguna compañera del colegio las tenía más que respeto o miedo, a las monjas?
+[0:12:36.24]-[0:12:38.24]  A las monjas no.
+[0:12:38.24]-[0:12:45.24]  Por lo menos ahí en ese sitio que yo estaba ahí es que eran muy buenas esas monjas. Muy buenas.
+[0:12:45.24]-[0:12:48.24]  ¿Y a qué le tenía miedo usted cuando era niña?
+[0:12:48.24]-[0:12:50.24]  A Coco.
+[0:12:55.24]-[0:12:58.24]  Ahí pone Coco López, mira.
+[0:12:58.24]-[0:13:02.24]  Y por ejemplo mucha gente nos ha dicho que tenía miedo a las tormentas. ¿Usted tenía miedo a las tormentas?
+[0:13:02.24]-[0:13:03.24]  Yo no.
+[0:13:03.24]-[0:13:05.24]  ¿O a las culebras en el campo?
+[0:13:05.24]-[0:13:09.24]  A los bichos sí. A los bichos sí que tenía miedo a las culebras.
+[0:13:09.24]-[0:13:12.24]  ¿Qué hacían si se encontraban un bicho en el campo?
+[0:13:12.24]-[0:13:15.24]  Si ya había visto un alevado.
+[0:13:15.24]-[0:13:17.24]  Y los hombres no los mataban.
+[0:13:17.24]-[0:13:19.24]  Sí, sí, los mataban. Ellos sí, los mataban.
+[0:13:19.24]-[0:13:22.24]  ¿Y aquí había ganado en este pueblo?
+[0:13:22.24]-[0:13:23.24]  Había ahí.
+[0:13:23.24]-[0:13:26.24]  ¿Ahí todavía? ¿Y qué había? ¿O qué hay?
+[0:13:26.24]-[0:13:29.24]  Ahí ganaba. Ahí todavía bastante.
+[0:13:29.24]-[0:13:30.24]  ¿Ovejas?
+[0:13:30.24]-[0:13:31.24]  Sí, ovejas.
+[0:13:31.24]-[0:13:32.24]  ¿Y vacas?
+[0:13:32.24]-[0:13:33.24]  No.
+[0:13:33.24]-[0:13:34.24]  ¿Vacas, madre?
+[0:13:34.24]-[0:13:37.24]  No sé si ahí tendrán alguna así por ahí, pero que no.
+[0:13:37.24]-[0:13:41.24]  Como ganaba así de vacas, no. Ovejas sí.
+[0:13:41.24]-[0:13:43.24]  ¿Y se hacía matanza por aquí?
+[0:13:43.24]-[0:13:47.24]  Sí, matanza. Cada uno criaba un cerdo o dos en su casa.
+[0:13:47.24]-[0:13:53.24]  Y luego se hacía la matanza, que luego eso se guardaba para el verano.
+[0:13:53.24]-[0:13:57.24]  ¿Y cómo se hacía? ¿Qué hacían los hombres? ¿Qué hacían las mujeres?
+[0:13:57.24]-[0:14:02.24]  Pues el hombre lo mataba, lo juatizaba, y luego ya las mujeres se encargaban de lavar el menudo,
+[0:14:02.24]-[0:14:09.24]  las tripas y todo, para hacer luego, picar la carne, para hacer los chorizos, adobarla, cosas de esas.
+[0:14:09.24]-[0:14:15.24]  ¿Y hay aquí en el pueblo algún plato típico, algo que sea típico de aquí del pueblo?
+[0:14:15.24]-[0:14:20.24]  Aquí desde el monte del monte, en la mancha, sí.
+[0:14:20.24]-[0:14:21.24]  ¿De qué?
+[0:14:21.24]-[0:14:23.24]  Y el gazpacho manchego.
+[0:14:23.24]-[0:14:25.24]  ¿Y cómo se hace el mortero veloso, usted sabe?
+[0:14:25.24]-[0:14:30.24]  Yo no lo he hecho nunca, porque es más bien para la parte de la parrilla y todo eso.
+[0:14:30.24]-[0:14:33.24]  Es por donde suelen hacer el mayor manchego.
+[0:14:33.24]-[0:14:36.24]  ¿Y el pisto? ¿Cómo hacen aquí el pisto?
+[0:14:36.24]-[0:14:38.24]  El pisto con pimiento y tomate.
+[0:14:38.24]-[0:14:42.24]  ¿Y para qué el gazpacho, por ejemplo?
+[0:14:42.24]-[0:14:46.24]  El gazpacho es con torta. Se cuece a lo mejor el conejo.
+[0:14:46.24]-[0:14:51.24]  Y ahí le echan muchas cosas a eso, ya se lo puede ir echando de más.
+[0:14:51.24]-[0:14:55.24]  Pero se cuece el gazpacho y se deshuesa. Se deshuesa.
+[0:14:55.24]-[0:15:00.24]  Y entonces ese líquido que ha soltado ya, después de lavar el conejo y todo eso,
+[0:15:00.24]-[0:15:04.24]  el caldo que suelta al cocelo, ese se le echa luego al gazpacho.
+[0:15:04.24]-[0:15:10.24]  Y se le echa, también le echan perdiz, le echan muchas cosas al gazpacho, le echan muchas cosas.
+[0:15:10.24]-[0:15:16.24]  Y lo van haciendo, que eso se queda casi como una tortilla, un poquito más melosa.
+[0:15:16.24]-[0:15:20.24]  Es una tortilla. Lo van haciendo, pero tiene que ser torta.
+[0:15:20.24]-[0:15:23.24]  No pan. Pan, pan, no.
+[0:15:23.24]-[0:15:26.24]  ¿Y cómo son las fiestas del pueblo?
+[0:15:26.24]-[0:15:29.24]  Estupendas. Eso es lo más de gusto que tengo.
+[0:15:29.24]-[0:15:32.24]  ¿Qué es lo que hacían cuando usted es joven en las fiestas?
+[0:15:32.24]-[0:15:35.24]  La fiesta, que yo sepa, es casi siempre lo mismo.
+[0:15:35.24]-[0:15:38.24]  Ahora, aquí hay unas feriadas buenísimas.
+[0:15:38.24]-[0:15:41.24]  ¿Qué había antes? ¿Cómo eran antes?
+[0:15:41.24]-[0:15:49.24]  Antes es que había mucho tratante. Venía el muletá, venían todos los abenderitos, las cosas también aquí.
+[0:15:49.24]-[0:15:55.24]  Y había feria de eso. Y había feria de bisutería también.
+[0:15:55.24]-[0:16:01.24]  Pero es que ahora todo eso ya no. Porque si ya es que todos los mercados es feria.
+[0:16:01.24]-[0:16:03.24]  ¿Y la música? ¿Qué había de música antes?
+[0:16:03.24]-[0:16:06.24]  Sí, hay una música de banda que viene estupenda.
+[0:16:06.24]-[0:16:08.24]  ¿Y es siempre banda? ¿Está de acuerdo?
+[0:16:08.24]-[0:16:12.24]  Sí, la banda de la Virgen. La música es toda de la Virgen.
+[0:16:12.24]-[0:16:15.24]  Eran los instrumentos y todo es de la Virgen.
+[0:16:15.24]-[0:16:17.24]  ¿Y cuándo son?
+[0:16:17.24]-[0:16:23.24]  En septiembre. La Virgen, la patrona de aquí, nuestra señora desgracia, es en septiembre.
+[0:16:23.24]-[0:16:33.24]  Y el patron, el patron es San Bartolomé, que es en... ¿Qué mes? ¿Qué mes? ¿Qué mes de agosto? ¿No?
+[0:16:33.24]-[0:16:35.24]  ¿Augusto?
+[0:16:35.24]-[0:16:37.24]  Sí, señora, que son las fiestas.
+[0:16:37.24]-[0:16:39.24]  Me parece que son las ferias de aquí.
+[0:16:39.24]-[0:16:44.24]  ¿Y ahora cómo son las fiestas? ¿Qué diferencia hay en Notoste? ¿Cómo se divierte ahora la gente?
+[0:16:44.24]-[0:16:52.24]  Pues ahora lo que más hay es la feria, bares, casetas de comida, como yo digo, y todas esas cosas.
+[0:16:52.24]-[0:16:56.24]  Más que otra cosa. Vienen conjuntos.
+[0:16:56.24]-[0:17:05.24]  Allá a la piscina, que es un este muy bonito, pues vienen, ya digo, conjuntos.
+[0:17:05.24]-[0:17:07.24]  Pero a cantar y a cosas de esas.
+[0:17:07.24]-[0:17:10.24]  ¿Y usted cómo se divertía las fiestas? ¿Bailaba?
+[0:17:10.24]-[0:17:12.24]  Entonces no venía de tosso.
+[0:17:12.24]-[0:17:18.24]  Cuando yo me criaba de más joven no venía de tosso. Entonces, bailando fuera con un candil...
+[0:17:18.24]-[0:17:22.24]  Es verdad, es verdad, antiguamente no...
+[0:17:22.24]-[0:17:27.24]  La vida ha cambiado completamente a mejores, a mejor.
+[0:17:27.24]-[0:17:30.24]  Y todavía no estamos conformes.
+[0:17:30.24]-[0:17:38.24]  Todavía decimos, si es que no, es que ahora a este viaje le vamos a votar a Fulano a ver si todavía no lo pone más a la espalda.
+[0:17:38.24]-[0:17:50.24]  Y no nos damos cuenta, como todos, a la hora de votar, ofrecen mucho y luego dar... eso ya cambia.
+[0:17:50.24]-[0:17:54.24]  ¿Y había fiestas para los quintos? ¿Hacían algo especial los quintos?
+[0:17:54.24]-[0:17:58.24]  Los quintos se tiraban de Rolra toda la noche por ahí ellos, pero ellos.
+[0:17:58.24]-[0:17:59.24]  Solo divertían ellos, ¿no?
+[0:17:59.24]-[0:18:04.24]  Sí, solo ellos y una función que le hacían a la Virgen siempre que se iba.
+[0:18:04.24]-[0:18:12.24]  A la Virgen le hacían una función y mucha gente iba a la misa de los copra de esa de los quintos.
+[0:18:12.24]-[0:18:17.24]  ¿Ustedes se tenían que ir antes las mujeres a casa? ¿No les desanestaba esta tarde?
+[0:18:17.24]-[0:18:22.24]  No, eso de andar las mujeres hasta las dos y las seis de la mañana, de eso nunca.
+[0:18:22.24]-[0:18:23.24]  Aquí nunca.
+[0:18:23.24]-[0:18:26.24]  Bueno, ahora sí, ahora por supuesto sí.
+[0:18:26.24]-[0:18:33.24]  Pues si ahora ya te digo que tengo un niñito que ya va para los 14, para cumplir enseguida los 14,
+[0:18:33.24]-[0:18:41.24]  y ese ya se va a echar el mayo por ahí, el mes de mayo, a las cruces, y a lo mejor te viene a las tres de la mañana
+[0:18:41.24]-[0:18:43.24]  y tienes que decidir cuándo está.
+[0:18:43.24]-[0:18:44.24]  Claro.
+[0:18:44.24]-[0:18:48.24]  Es que la verdad es que tú ir tomando la vida, conforme vaya viniendo,
+[0:18:48.24]-[0:18:54.24]  porque tampoco puedes tener a un hijo esclavo ni a una hija esclava porque a ti no te dejarán entonces.
+[0:18:54.24]-[0:18:58.24]  Eso tampoco puede ser. Así que hay que hacerlo como va viniendo.
+[0:18:58.24]-[0:19:03.24]  ¿Y cuando se casaba la gente había costumbre de molestar al novio por la noche o algo así?
+[0:19:03.24]-[0:19:09.24]  Sí, eso sí. Y hacerle fechorías, como yo digo, a la cama que si les meto aunque sea,
+[0:19:09.24]-[0:19:16.24]  te lavan un cepillo y le echaban todo lo estés a la cama, para que se estuvieran lanzando.
+[0:19:16.24]-[0:19:18.24]  Se reían.
+[0:19:18.24]-[0:19:21.24]  Con cejas de esas de aquí.
+[0:19:21.24]-[0:19:23.24]  ¿A ustedes les tiraron alguna?
+[0:19:23.24]-[0:19:29.24]  No, no. Porque lo primero que hizo mi marido, que ya no lo puede contar, que ya está muerto,
+[0:19:29.24]-[0:19:32.24]  fue echarse la llave de cuarillo.
+[0:19:32.24]-[0:19:34.24]  ¿De cuarillo se preocupó de que no hubiera nada en la cama?
+[0:19:34.24]-[0:19:37.24]  Sí, sí, sí, claro, claro.
+[0:19:37.24]-[0:19:42.24]  Es lo primero que hizo ya cuando terminamos de poner la casa y eso, cogió la llave y se le echó a los señores.
+[0:19:42.24]-[0:19:51.24]  O sea, las dejas a una vecina, lo que sea, para que... pues esas es la que los llevan a los hijos.
+[0:19:51.24]-[0:19:55.24]  ¿Y por la noche venían y tocaban la ventana o te daban piedras o algo así?
+[0:19:55.24]-[0:20:03.24]  Sí, algunas veces. Iban al cristal a dar. ¿Qué tal va eso? Detallejo eso.
+[0:20:03.24]-[0:20:08.24]  ¿Y qué más cosas hacían a los niños, por ejemplo, una vez una o algo así?
+[0:20:08.24]-[0:20:11.24]  Bueno, otra vez una los chicos, sí, pero se echó mucha.
+[0:20:11.24]-[0:20:14.24]  Por ejemplo, ¿recuerdas alguna?
+[0:20:14.24]-[0:20:19.24]  Pues de salirse en la corral y ver todos los juegos que habían puesto las gallinas,
+[0:20:19.24]-[0:20:23.24]  para estar uno con otro, pin pin, ¡hala!
+[0:20:23.24]-[0:20:26.24]  Pero a los chicos pequeños no tenían en qué, claro.
+[0:20:26.24]-[0:20:30.24]  Antes decían, hay muchos chicos, familias numerosas.
+[0:20:30.24]-[0:20:35.24]  No había televisión ni nada que entretener, ¿no?
+[0:20:35.24]-[0:20:38.24]  Claro. Pero ahora se ponen adelante la televisión,
+[0:20:38.24]-[0:20:43.24]  terminan la película, aunque sea a las dos de la mañana, y dicen, ahora me voy a poner a hacer el hongo.
+[0:20:43.24]-[0:20:47.24]  Ahora me duermo.
+[0:20:47.24]-[0:20:51.24]  ¿Y qué diferencia hay de las travesuras de los niños de ahora de las de antes?
+[0:20:51.24]-[0:20:55.24]  Ahora con más maldad.
+[0:20:55.24]-[0:21:01.24]  Antiguamente eran travesuras sanas, pero ahora ya no.
+[0:21:01.24]-[0:21:05.24]  Ya más que ahora no le puedes arañar a un niño.
+[0:21:05.24]-[0:21:11.24]  Antes mi nieto, mi nieta, mi hija iba por la calle y le decían, eso no se hace.
+[0:21:11.24]-[0:21:13.24]  Amagaba la cabeza y no decía no.
+[0:21:13.24]-[0:21:21.24]  Si le dices ahora, eso no se hace, te mandan, cerca, te mandan.
+[0:21:21.24]-[0:21:23.24]  Ahora no le puedes arañar a un chico.
+[0:21:23.24]-[0:21:28.24]  Aunque si lo veas que está haciendo mal hecho, no le puedes arañar.
+[0:21:28.24]-[0:21:33.24]  Antes robaban los chicos en el campo. Usted sabe cómo hace a alguien.
+[0:21:33.24]-[0:21:34.24]  Robar en el campo.
+[0:21:34.24]-[0:21:36.24]  Sí, robar fruta y esas cosas.
+[0:21:36.24]-[0:21:41.24]  Bueno, eso sí, pero pasa lo mismo, eso había que perdonárselo.
+[0:21:41.24]-[0:21:42.24]  El hambre.
+[0:21:42.24]-[0:21:45.24]  Porque antes es que no era lo mismo que ahora.
+[0:21:45.24]-[0:21:51.24]  Ahora cómo van a ir a quitar un kilo de tomates si los tienen en su casa y no se lo comen.
+[0:21:51.24]-[0:21:56.24]  Pero antes es que no veía un tomate, a lo mejor, nada más que de fiesta en fiesta,
+[0:21:56.24]-[0:21:59.24]  o le decía, pues cómo pueda, que el que ha sembrado yo se lo quito.
+[0:21:59.24]-[0:22:02.24]  Y ya está. Y era eso.
+[0:22:02.24]-[0:22:04.24]  ¿Sabes de alguno que le pillabas un guardia o algo así?
+[0:22:04.24]-[0:22:05.24]  No.
+[0:22:05.24]-[0:22:12.24]  No, no, porque de que ella... Bueno, que yo ya vivía más bien para esta vida que para la otra.
+[0:22:12.24]-[0:22:16.24]  Porque para la otra yo iba a un taller y yo estaba...
+[0:22:16.24]-[0:22:20.24]  ¿Y en qué ha cambiado la vida de antes con la de ahora?
+[0:22:20.24]-[0:22:24.24]  Por ejemplo, usted con lo que hacía antes y con lo que hace ahora, ¿cómo es la diferencia?
+[0:22:24.24]-[0:22:25.24]  Mucha, mucha, mucho.
+[0:22:25.24]-[0:22:29.24]  Yo ha cambiado, ya digo, de todo, de todo, de todo, de todo.
+[0:22:29.24]-[0:22:37.24]  Ha cambiado porque antes tú no eras dueña de contestarle a una persona mayor.
+[0:22:37.24]-[0:22:42.24]  Tú no podías hacer así ninguna cosa y decir porque todo se sabía, porque...
+[0:22:42.24]-[0:22:46.24]  Y si tenían que venir los guardias a la casa de una reina, les di, pues también lo hacían.
+[0:22:46.24]-[0:22:50.24]  Pero lo he visto ya en esta época.
+[0:22:50.24]-[0:22:57.24]  En esta época de amenazarles, qué te voy a decir, al cura, pero ponerle un letrero así largo,
+[0:22:57.24]-[0:23:03.24]  con la flecha inclinada donde decía el cura, y después ya hacían así.
+[0:23:03.24]-[0:23:09.24]  Así como diciendo que iban a cortar el cuello, que luego los pillaron, pero...
+[0:23:09.24]-[0:23:10.24]  ¿Usted cree que le estuvieron mal?
+[0:23:10.24]-[0:23:14.24]  Y subir al cementerio. Hacer rechorías en el cementerio también, eso no hace tanto.
+[0:23:14.24]-[0:23:17.24]  Hace, a lo mejor, cosa de cuatro o cinco años.
+[0:23:17.24]-[0:23:18.24]  ¿Y qué han hecho?
+[0:23:18.24]-[0:23:26.24]  Pues rompían todas las urnas, esas que hay así que meten un santejo dentro y rompían las tapidas.
+[0:23:26.24]-[0:23:28.24]  ¿Antes había más respeto por la iglesia?
+[0:23:28.24]-[0:23:31.24]  Sí, sí, antes había mucho respeto.
+[0:23:31.24]-[0:23:36.24]  Si ahora es gente joven, gente joven va como poquita a misa.
+[0:23:36.24]-[0:23:42.24]  Cuando caigamos los cuatro viejos, oye, salvo excepciones porque hay mucha gente...
+[0:23:42.24]-[0:23:48.24]  Y tampoco quiero decir con eso que una persona, porque vaya a misa, es mejor que otra que no va.
+[0:23:48.24]-[0:23:56.24]  A lo mejor la que no va es mejor. Pero esa que no va, si es buena, podría ser mejor si juntara las dos cosas.
+[0:23:58.24]-[0:24:01.24]  ¿Y en la fiesta hay procesión de santos aquí?
+[0:24:01.24]-[0:24:03.24]  Aquí hay muchas.
+[0:24:03.24]-[0:24:06.24]  ¿Y quién le viste al santuario? ¿Lo viste diferente o...?
+[0:24:06.24]-[0:24:14.24]  Los chicos, las confradías. Aquí la Semana Santa cada uno tiene su confradía,
+[0:24:14.24]-[0:24:20.24]  unos son de San Juan, otros son de la Verónica, otros son de...
+[0:24:20.24]-[0:24:26.24]  Porque la Semana Santa aquí es estupenda, estupenda. La Semana Santa no rima.
+[0:24:26.24]-[0:24:29.24]  Y salen muchas bandas de tambores y...
+[0:24:29.24]-[0:24:32.24]  ¿Y el que viste al santo tiene algún nombre?
+[0:24:32.24]-[0:24:33.24]  ¿El qué?
+[0:24:33.24]-[0:24:34.24]  ¿El que viste al santo?
+[0:24:34.24]-[0:24:38.24]  No, porque es que la visten entre todos ellos, los de la junta.
+[0:24:38.24]-[0:24:41.24]  Todas las cosas tienen su junta.
+[0:24:41.24]-[0:24:45.24]  Pues ellos tienen una junta, la directiva, este es el que manda más, este es el que...
+[0:24:45.24]-[0:24:49.24]  Y entre todos esos pues los colabora luego a ayudar a vestir.
+[0:24:49.24]-[0:24:54.24]  ¿Y quién sería? ¿Quién? ¿Pizar el cura y después todos?
+[0:24:54.24]-[0:24:58.24]  Así antes le llamaban a la que vestía a la Virgen, le llamaban la camarera de la Virgen.
+[0:25:01.24]-[0:25:03.24]  ¿Tienen costaderos o van en carros?
+[0:25:03.24]-[0:25:09.24]  Van andando. Los santos los llevan andando, bueno andando a hombro.
+[0:25:09.24]-[0:25:14.24]  Pero a lo mejor en cada anda van al menos veinte.
+[0:25:17.24]-[0:25:20.24]  Ya digo, aquí la Semana Santa es estupenda.
+[0:25:22.24]-[0:25:23.24]  ¿Y usted?
+[0:25:23.24]-[0:25:25.24]  ¿No viste nunca por el monte? ¿Es la primera vez?
+[0:25:25.24]-[0:25:26.24]  No, es la primera vez, sí.
+[0:25:26.24]-[0:25:30.24]  Pues no lo vayas, si me desgracié yo lo digo de tú, pues yo soy vuestra abuela.
+[0:25:30.24]-[0:25:32.24]  No lo vayas sin ver el castillo.
+[0:25:32.24]-[0:25:38.24]  ¿Qué, por ejemplo, te dice que ve usted a la hora de desayunar, de comer, cuando está la pequeña pone ahora?
+[0:25:38.24]-[0:25:39.24]  ¿Las comidas?
+[0:25:39.24]-[0:25:40.24]  Sí, mucha.
+[0:25:41.24]-[0:25:48.24]  Mucha porque ya te digo que antes a lo mejor te daban un cantero pan o un poco pan y una oza de chocolate y te iban dando a la escuela.
+[0:25:49.24]-[0:25:54.24]  Y ahora le ponen su vaso de leche y sus magdalenas y sus cosas de esas.
+[0:25:54.24]-[0:25:55.24]  ¿Y a la hora de comer?
+[0:25:55.24]-[0:25:57.24]  Y a la hora de comer lo mismo.
+[0:25:57.24]-[0:26:02.24]  A la hora de comer, si ponían potaje, era potaje, para todo el mundo potaje.
+[0:26:02.24]-[0:26:05.24]  Y allí no se echaba nada, y ahora yo no quiero eso.
+[0:26:06.24]-[0:26:07.24]  Yo quiero comidas otras cosas.
+[0:26:08.24]-[0:26:13.24]  Y ya no es una cosa sola, ahora ya ponen que sí eso, pero después a lo mejor ponen unos filetes,
+[0:26:13.24]-[0:26:19.24]  después ponen, aunque sean unas sardinas, que no se refiere todo a los filetes, cosas de esas.
+[0:26:19.24]-[0:26:30.24]  Y por ejemplo, cuando usted, cuando usted iba al cole, por ejemplo, al colegio, ¿le daban algo para llevarse, para recreo, como ahora que van los niños y se llevan un bollo?
+[0:26:30.24]-[0:26:31.24]  No, nunca.
+[0:26:32.24]-[0:26:33.24]  Nunca, nunca, nunca.
+[0:26:35.24]-[0:26:37.24]  ¿Y cuando se casaban llevaban un ajuar?
+[0:26:37.24]-[0:26:38.24]  Sí.
+[0:26:39.24]-[0:26:40.24]  ¿Y era hecho por ustedes?
+[0:26:40.24]-[0:26:43.24]  Sí, yo por lo menos sí, en mi caso sí.
+[0:26:43.24]-[0:26:44.24]  ¿Nos dientes de niña?
+[0:26:44.24]-[0:26:45.24]  Sí.
+[0:26:45.24]-[0:26:47.24]  Yo llevé a mi hija, yo le di a mi hija.
+[0:26:47.24]-[0:26:49.24]  ¿Nos dientes de niña?
+[0:26:49.24]-[0:26:52.24]  Sí, yo llevé a mi hija a jugar al bordado y lo hice yo.
+[0:26:53.24]-[0:26:56.24]  ¿Y la ropa, cómo la hacían, la compraban o lo hacían ustedes?
+[0:26:56.24]-[0:27:02.24]  La hacíamos nosotros, casi siempre, ahora es cuando ya no la hago, no veo. Es verdad.
+[0:27:03.24]-[0:27:07.24]  ¿Lo hacían todos, desde la ropa de los niños hasta la de los mayores?
+[0:27:08.24]-[0:27:13.24]  Sí, antes a lo mejor de una camisa de su padre le sacaba su nanquico.
+[0:27:13.24]-[0:27:17.24]  ¿Y para comprar comida? ¿No había tiendas?
+[0:27:17.24]-[0:27:18.24]  Sí, tiendas.
+[0:27:18.24]-[0:27:19.24]  ¿Ha habido siempre?
+[0:27:21.24]-[0:27:25.24]  Mejor o peor que las de ahora, pero ha habido siempre tiendas aquí.
+[0:27:26.24]-[0:27:28.24]  ¿Podían comprar ya el panecho y todo eso?
+[0:27:28.24]-[0:27:32.24]  Sí, se podía cocer, pero se podía comprar el panecho también.
+[0:27:33.24]-[0:27:34.24]  ¿Y había médicos aquí?
+[0:27:34.24]-[0:27:40.24]  Siempre, siempre. Y ahora ya pues cambia porque ahora ya es el centro de salud.
+[0:27:40.24]-[0:27:44.24]  Ya cambia mucho porque ahora ya, antiguamente la que se ponía mal,
+[0:27:44.24]-[0:27:46.24]  iba el médico a su casa a visitarla.
+[0:27:46.24]-[0:27:49.24]  Y ahora si tienes fiebre como si no, tú tienes que ir al centro.
+[0:27:51.24]-[0:27:54.24]  ¿Y cómo lo avisaron al médico antes?
+[0:27:54.24]-[0:27:57.24]  ¿En su tiempo, cómo se ponía malo?
+[0:27:57.24]-[0:27:59.24]  Y no hay persona, ahí lo avisaron.
+[0:27:59.24]-[0:28:04.24]  Y no hay persona, lo mismo que ahora cojas el teléfono y llamas al centro de salud,
+[0:28:04.24]-[0:28:07.24]  que vengan que no puedes subir y vienen, rápido. Eso sí lo hago.
+[0:28:07.24]-[0:28:13.24]  Tenemos dos médicos, tenemos aquí. Dos practicantes.
+[0:28:13.24]-[0:28:17.24]  ¿Se atendía todo el mundo por igual? ¿O había algunos que tenían...?
+[0:28:17.24]-[0:28:21.24]  Pues hombre, yo no me he ocurrido porque a mí me han tratado bien,
+[0:28:21.24]-[0:28:23.24]  ya les digo que yo en mi caso no he...
+[0:28:23.24]-[0:28:25.24]  Pero siempre ha habido excepciones.
+[0:28:25.24]-[0:28:29.24]  Y las hablan de que si igualen los dedos de la mano es igual a las de la mano.
+[0:28:30.24]-[0:28:33.24]  Y mira, ¿qué es difícil que si igualen los dedos de la mano?
+[0:28:33.24]-[0:28:35.24]  Pues igual va a pasar con todo.
+[0:28:35.24]-[0:28:38.24]  Ni que manden los unos ni que manden los otros.
+[0:28:38.24]-[0:28:40.24]  No soy política ni ni nada.
+[0:28:40.24]-[0:28:46.24]  Pero si mandan unos y si mandan otros, la igualdad para todos no puede ser.
+[0:28:47.24]-[0:28:50.24]  ¿Y la comadrona cómo se la avisaba cuando...?
+[0:28:50.24]-[0:28:53.24]  Pues ibas en persona, bueno, no la que iba a parir.
+[0:28:53.24]-[0:29:00.24]  Iba otra vez al lado y decía, oye ven que fulana llama a la luz y venía la mujer.
+[0:29:00.24]-[0:29:02.24]  ¿Eran a quién?
+[0:29:02.24]-[0:29:05.24]  A esas de pago, pues no esas le daban a los perias.
+[0:29:05.24]-[0:29:07.24]  A esas ya cada una le daba.
+[0:29:07.24]-[0:29:09.24]  ¿Los partos eran aquí en el pueblo?
+[0:29:09.24]-[0:29:12.24]  ¿En la misma casa normalmente?
+[0:29:13.24]-[0:29:17.24]  En la misma casa. Yo cuando me dejaba en mi casa.
+[0:29:17.24]-[0:29:19.24]  Y en cambio ella ya no.
+[0:29:20.24]-[0:29:23.24]  ¿Y los maridos estaban presentes en el parto o no?
+[0:29:23.24]-[0:29:25.24]  Pues no. No.
+[0:29:25.24]-[0:29:31.24]  Bueno, si hay alguno que dice que quiere estar, pues si le dejan también saber.
+[0:29:31.24]-[0:29:35.24]  Pero pasa igual que ahora en Cuenca que quiere estar y que no quiere nada.
+[0:29:35.24]-[0:29:38.24]  ¿En su caso estaba su marido fuera o estaba trabajando?
+[0:29:38.24]-[0:29:40.24]  Estaba trabajando.
+[0:29:40.24]-[0:29:42.24]  Estaba trabajando.
+[0:29:42.24]-[0:29:46.24]  El pillo en el verano, el pillo en el mediodoto, estaban haciendo la recolección.
+[0:29:46.24]-[0:29:48.24]  Y el que vino le dijo, ya tienes una niña.
+[0:29:48.24]-[0:29:50.24]  Y le dijo, ya tienes una niña.
+[0:29:50.24]-[0:29:52.24]  Una que no dejó de trabajar.
+[0:29:52.24]-[0:29:59.24]  Y para que dejar, si en cuanto dejara de trabajar dejaba de cobrar y andan que se en eso pueden hacer ellos algo.
+[0:30:00.24]-[0:30:02.24]  ¿No podían pedir un día como ahora?
+[0:30:03.24]-[0:30:07.24]  No, ahora por eso digo que no tenemos conocimiento.
+[0:30:07.24]-[0:30:10.24]  Muchas personas, si yo no me refiero, claro.
+[0:30:10.24]-[0:30:15.24]  Ustedes no se mal no pueden decir que yo me he dirigido a ustedes ni a nadie.
+[0:30:15.24]-[0:30:22.24]  Pero no tienen conocimiento porque ahora una, porque están en estado un mes antes y dos o tres después.
+[0:30:22.24]-[0:30:24.24]  El parto le dejan.
+[0:30:24.24]-[0:30:52.24]  Y todavía no estamos conformes porque decimos que no estamos bien atendidos, que no nos ocupan de nosotros porque queremos más.
+[0:30:52.24]-[0:30:57.24]  Yo me lo imagino así, yo que como me conformaba con menos.
+[0:30:57.24]-[0:31:02.24]  ¿Se asustaban antes con las enfermedades cuando veían a alguien que no sabían lo que tenía?
+[0:31:02.24]-[0:31:03.24]  ¿Se asustaban ustedes?
+[0:31:03.24]-[0:31:06.24]  Pues no, porque ya lo habían visto así.
+[0:31:07.24]-[0:31:09.24]  Y sí, se sabía lo que era.
+[0:31:11.24]-[0:31:16.24]  Se sabía a lo mejor, ustedes decían lo que tenía porque el médico creó el médico.
+[0:31:16.24]-[0:31:20.24]  Pero que antes se morían sin tener que operarlos.
+[0:31:20.24]-[0:31:22.24]  Sin tener que operarlos.
+[0:31:22.24]-[0:31:24.24]  Había medicina, ¿no?
+[0:31:24.24]-[0:31:26.24]  Sí, había menú.
+[0:31:28.24]-[0:31:32.24]  ¿En el médico había uno para cada pueblo o tenía que venir de un pueblo?
+[0:31:32.24]-[0:31:33.24]  No, aquí siempre ha habido dos.
+[0:31:33.24]-[0:31:35.24]  ¿Dos médicos para un pueblo?
+[0:31:35.24]-[0:31:37.24]  Para el mismo pueblo, no se iba a ningún lado.
+[0:31:38.24]-[0:31:40.24]  Aquí siempre ha habido dos médicos.
+[0:31:40.24]-[0:31:42.24]  Y ahora también.
+[0:31:42.24]-[0:31:43.24]  Hay dos.
+[0:31:43.24]-[0:31:45.24]  Y dos practicantes.
+[0:31:46.24]-[0:31:48.24]  Cada médico lleva el suyo.
+[0:31:48.24]-[0:31:51.24]  ¿Aquí se cultivaba uva?
+[0:31:51.24]-[0:31:52.24]  Sí.
+[0:31:52.24]-[0:31:54.24]  ¿Se hacía vino?
+[0:31:54.24]-[0:31:56.24]  Antes sí, ahora ya no lo hacen.
+[0:31:57.24]-[0:31:59.24]  ¿Y se ha hecho vino? ¿Cómo la hacían el vino?
+[0:31:59.24]-[0:32:02.24]  El vino, pues había unas estrujadoras que le llamaban.
+[0:32:03.24]-[0:32:06.24]  Iban echando la uva con orcas.
+[0:32:07.24]-[0:32:12.24]  Con orcas le iban echando a la estrujadora y otro dándole vueltas y se moría la uva.
+[0:32:12.24]-[0:32:13.24]  ¿Qué son las orcas?
+[0:32:13.24]-[0:32:19.24]  Las otras porcesas que llevaban a la seda, la gente llevaban orcas para volver las parvas.
+[0:32:19.24]-[0:32:20.24]  ¿De estos?
+[0:32:21.24]-[0:32:24.24]  Sí, de hierro, no podían llevar porque se pinchaban las lunas.
+[0:32:29.24]-[0:32:32.24]  Y eso, que ya luego después lo pasaban a la prensa.
+[0:32:33.24]-[0:32:40.24]  A la prensa que también eran cosas así, con tablajas así de madera, un redondo grande.
+[0:32:40.24]-[0:32:46.24]  Eso lo llenaban, le bajaba un torno, que era como un torno, le iban dando el torno,
+[0:32:46.24]-[0:32:51.24]  le iban dando el torno, hasta que se iba ocurriendo todo esto y se querían dar los lujos.
+[0:32:52.24]-[0:32:54.24]  Y antes de moler, aquí también.
+[0:32:54.24]-[0:32:55.24]  ¿Aquí también?
+[0:32:55.24]-[0:32:56.24]  Sí, aquí también.
+[0:32:56.24]-[0:32:57.24]  ¿Aquí hacían aceite también?
+[0:32:57.24]-[0:32:59.24]  Aquí hacían aceite también, nada de lleno.
+[0:32:59.24]-[0:33:01.24]  ¿Usted recogía aceituna?
+[0:33:01.24]-[0:33:03.24]  Sí, nuestra.
+[0:33:04.24]-[0:33:07.24]  ¿Y cómo se le cogía aceituna entonces? Porque ahora vemos que hay máquinas.
+[0:33:07.24]-[0:33:12.24]  No, nosotros la seguimos cogiendo a mano, con unos ganchos las cogemos.
+[0:33:13.24]-[0:33:19.24]  Hay unos ganchos que llevan así mucho, y van haciendo así en la oliva y va cayendo a las lunas.
+[0:33:19.24]-[0:33:21.24]  Tengo las puertas abajo.
+[0:33:21.24]-[0:33:23.24]  ¿Y miel cultivan aquí?
+[0:33:23.24]-[0:33:31.24]  No, ha habido algunos casos en particular que ha tenido algunas colmenas y eso, pero no.
+[0:33:31.24]-[0:33:33.24]  Como productor de eso no.
+[0:33:34.24]-[0:33:35.24]  ¿Y queso?
+[0:33:35.24]-[0:33:37.24]  Queso también hacen aquí.
+[0:33:37.24]-[0:33:44.24]  Hacen, pero tampoco vive la gente del pueblo con eso del queso.
+[0:33:44.24]-[0:33:49.24]  ¿Los vende alguien en esas cosas, el aceite y eso?
+[0:33:49.24]-[0:33:50.24]  Sí, claro.
+[0:33:50.24]-[0:33:51.24]  ¿Lo de la matanza?
+[0:33:51.24]-[0:33:55.24]  Sí, nosotros mismos. Hemos vendido un poco de aceite que nos robaba ahí y lo hemos vendido.
+[0:33:55.24]-[0:33:59.24]  ¿Pero la matanza, cuando se llama matanza, lo vendían también o era para ustedes?
+[0:33:59.24]-[0:34:05.24]  No, no. La matanza cada uno criaba si necesitaba un perro, como si necesitaba dos.
+[0:34:05.24]-[0:34:11.24]  Lo criabas con la ceba que cogías de tu cosecha, lo criabas y lo hubiá tenido.
+[0:34:11.24]-[0:34:14.24]  Harían los chorizos y esos chorizos se guardaban para el verano.
+[0:34:14.24]-[0:34:18.24]  ¿Cuando mataban al cerdo, había que llamar al veterinario o al materife?
+[0:34:19.24]-[0:34:20.24]  Eso sí.
+[0:34:20.24]-[0:34:21.24]  ¿Qué hablaba tú?
+[0:34:21.24]-[0:34:23.24]  Tenías que llevar las muestras al veterinario.
+[0:34:23.24]-[0:34:29.24]  Y el materife que iban hasta el otro, ya cuantízalo y lo corrieron.
+[0:34:29.24]-[0:34:31.24]  Porque si no, pues no sabes...
+[0:34:33.24]-[0:34:36.24]  ¿Qué enfermedades podía tener, por ejemplo?
+[0:34:36.24]-[0:34:37.24]  Claro, claro.
+[0:34:37.24]-[0:34:41.24]  Por un terdo, aunque mal comparaste, es igual que una persona.
+[0:34:41.24]-[0:34:45.24]  Porque él tiene sus enfermedades como...
+[0:34:45.24]-[0:34:48.24]  Y así cogían de qué.
+[0:34:48.24]-[0:34:55.24]  Cogían de un poco de hígado y cogían también de entre el pulmón y...
+[0:34:55.24]-[0:35:00.24]  Cogían así de esas telas, para llevarlo a los que iban, muchas veces a llevarlo.
+[0:35:00.24]-[0:35:03.24]  Y de las hijas que también cogían.
+[0:35:04.24]-[0:35:07.24]  ¿Venía gente a llevar en la matanza o hacían ustedes?
+[0:35:07.24]-[0:35:09.24]  No, nosotros siempre nosotras los de la casa.
+[0:35:10.24]-[0:35:17.24]  Claro, nosotros éramos tres chicas y un chico, porque nosotras nos apayábamos para...
+[0:35:17.24]-[0:35:21.24]  ¿Y cómo hacían chorizo y el jamón, crechada?
+[0:35:21.24]-[0:35:25.24]  Pues se les echaba pimentón, se les echaba especias.
+[0:35:25.24]-[0:35:27.24]  Especias de a lo mejor como...
+[0:35:29.24]-[0:35:34.24]  Piquería gente, si eran un poco picantes pues le echabas un poco de esas, pimienta.
+[0:35:34.24]-[0:35:37.24]  Una poca pimienta y cosas de esas.
+[0:35:37.24]-[0:35:40.24]  Pero ajo, azaón, el ajo azaón también se les echaba.
+[0:35:40.24]-[0:35:47.24]  Yo no era muy este para las especias, que no me hacía mucha gracia, muchas especias, los chorizos.
+[0:35:47.24]-[0:35:52.24]  ¿Y el jamón se hacía de una forma especial para que no le picara a la mosca o algo así?
+[0:35:52.24]-[0:35:56.24]  Les echaban luego después ya sal más jamónero.
+[0:35:56.24]-[0:36:00.24]  Les echaban una cosa que decían que se llamaba, que lo ponían en la caja, sal más jamónero.
+[0:36:00.24]-[0:36:05.24]  Y les echaban hasta el otro del hueso así un poquito y ya no iba la mosca.
+[0:36:05.24]-[0:36:08.24]  ¿Y sabían mejor qué es lo que se hace ahora?
+[0:36:08.24]-[0:36:11.24]  Bueno, yo ahora no quiero.
+[0:36:11.24]-[0:36:13.24]  Y ahora es que no me gusta.
+[0:36:13.24]-[0:36:20.24]  Es que ni aún el olor de que ponen sopa, ponen sopa que es olor antes tan rica al caldo del cocido,
+[0:36:20.24]-[0:36:23.24]  pues ahora no, ni bueno ni disapé.
+[0:36:23.24]-[0:36:26.24]  ¿En qué época hacía la matanza?
+[0:36:26.24]-[0:36:33.24]  Pues hay por el mes de... a últimos de noviembre y por ahí.
+[0:36:33.24]-[0:36:35.24]  ¿Para conservar el oso?
+[0:36:35.24]-[0:36:41.24]  Por lo tanto sí, y en la Pascua, con el frío, eso se ha devolvido.
+[0:36:41.24]-[0:36:42.24]  ¿Y por qué?
+[0:36:42.24]-[0:36:47.24]  Porque se ve que es mejor en la matanza, el frío.
+[0:36:47.24]-[0:36:51.24]  ¿Cuándo se hacía la cosecha, cómo se avisaban los cosechadores para que fuera la cosecha?
+[0:36:51.24]-[0:36:52.24]  ¿Cómo?
+[0:36:52.24]-[0:36:56.24]  ¿Cómo se avisaban los cosechadores? ¿Ahora a campana o cómo se hacía?
+[0:36:56.24]-[0:37:00.24]  No, porque si iba la máquina a rolar todo, no te tenías que preocupar nada más que a ti
+[0:37:00.24]-[0:37:05.24]  con el trastorio como el que te robas realmente como este.
+[0:37:05.24]-[0:37:07.24]  ¿Y antes de que hubiesen máquinas cómo lo hacían?
+[0:37:07.24]-[0:37:12.24]  Antes de... acá no, pero con uno...
+[0:37:12.24]-[0:37:16.24]  ¿Su marido cómo le avisaban para que fuera la cosecha?
+[0:37:16.24]-[0:37:18.24]  ¿Venías a llamarle o...?
+[0:37:18.24]-[0:37:25.24]  Pues no, ellos ya saben que a los tres entran y procuran estar a esa hora o ya les dicen la hora
+[0:37:25.24]-[0:37:30.24]  y van a que millen loba con una cosecha a la hora.
+[0:37:30.24]-[0:37:31.24]  ¿Siguen dedicándose al campo?
+[0:37:31.24]-[0:37:32.24]  Sí.
+[0:37:32.24]-[0:37:33.24]  ¿Y parte de su familia?
+[0:37:33.24]-[0:37:35.24]  Sí, ellos siguen con el campo.
+[0:37:35.24]-[0:37:37.24]  ¿Y las mujeres siguen ayudando o ya...?
+[0:37:37.24]-[0:37:44.24]  Pues no, ahora ya no tanto, ahora ya es tanto más mecanizado y ya no se necesita tanta mano de obra como...
+[0:37:44.24]-[0:37:47.24]  ¿Y el pueblo ha cambiado mucho de justo la niña ahora?
+[0:37:47.24]-[0:37:53.24]  Pues sí ha cambiado también mucho, antes nos hacían obras ni a la de tres, porque no había cuatro,
+[0:37:53.24]-[0:37:55.24]  ya no había cuatro y ahora sí.
+[0:37:55.24]-[0:38:02.24]  Ha habido algunos que por caprichar ni una casa para volver a hacer más poder.
+[0:38:02.24]-[0:38:04.24]  ¿Y hay gente, viene mucha gente de fuera aquí?
+[0:38:04.24]-[0:38:08.24]  Sí, vienen a ver el castillo, viene mucha gente.
+[0:38:08.24]-[0:38:10.24]  ¿Y si tienen aquí casa, mejor...?
+[0:38:10.24]-[0:38:17.24]  Sí, tienen casa, aquí hay muchos, muchos que tienen casa aquí, que no la tienen nada más que para veniros a vacaciones,
+[0:38:17.24]-[0:38:22.24]  el verano, el Semana Santa y en las Pascuas.
+[0:38:22.24]-[0:38:25.24]  ¿Ha salido gente del pueblo, salió mucha?
+[0:38:25.24]-[0:38:29.24]  Sí, antes sí, se con mucha gente, ahora ya salen menos.
+[0:38:29.24]-[0:38:36.24]  Bueno, ahora ya salen, a lo mejor gente joven que se va a estudiar y ya a lo mejor si se coloca por ahí o eso, pues ya.
+[0:38:36.24]-[0:38:47.24]  O si aquí no hay plaza de maestros, porque hay instituto, que pueden estar hasta los 16 ó 17 años, parece que.
+[0:38:47.24]-[0:38:50.24]  Pueden estar en el instituto.
+[0:38:50.24]-[0:38:53.24]  Y, no sé, me ha preguntado, ¿de verdad?
+[0:38:53.24]-[0:38:57.24]  Pues, que mejor que me pregunten porque así no me siento yo mejor.
+[0:38:57.24]-[0:39:01.24]  ¿Cómo le gustaba más usted el pueblo, antes, cuando era usted niña o ahora?
+[0:39:01.24]-[0:39:02.24]  Ahora.
+[0:39:02.24]-[0:39:04.24]  Ahora.
+[0:39:04.24]-[0:39:09.24]  ¿Por qué? Porque las calles estaban de barro. Antes las calles estaban de barro.
+[0:39:09.24]-[0:39:15.24]  El alumbrado eran cuatro luces de esquina en esquina y de esas luces...
+[0:39:15.24]-[0:39:16.24]  Que no se veía...
+[0:39:16.24]-[0:39:20.24]  Y ya bombillas pequeñas y ya...
+[0:39:20.24]-[0:39:24.24]  ¿Y la gente? ¿Cómo ha cambiado?
+[0:39:24.24]-[0:39:30.24]  La gente yo aquí no hay malos todavía. Aquí no ha llegado todavía lo malo.
+[0:39:30.24]-[0:39:33.24]  Que tendrá que llegar algún día, pues, te acuerdo.
+[0:39:33.24]-[0:39:38.24]  Pero que todavía no ha llegado así de decir, han matado a un loco, o esto. No, no ha llegado.
+[0:39:38.24]-[0:39:39.24]  Todas esas cosas no han llegado.
+[0:39:39.24]-[0:39:47.24]  Ni así decir ahí robos alguna vez. Pues hace dos o tres años robaron en la Caja del Barro.
+[0:39:47.24]-[0:39:49.24]  O sea, pero...
+[0:39:49.24]-[0:39:54.24]  En el Estanco también robaron otra vez. Pero bueno, esos son ya, a lo mejor, alteros de mala muerte.
+[0:39:54.24]-[0:40:00.24]  Porque saben que en un pueblo de estos, finalmente en el Estanco no se ha dejado el dinero allí con la noche.
+[0:40:00.24]-[0:40:01.24]  ¿Verdad?
+[0:40:01.24]-[0:40:05.24]  Pues sí, se llevan a lo mejor el género o algo así.
+[0:40:05.24]-[0:40:07.24]  ¿Y le gusta a usted vivir aquí en este pueblo?
+[0:40:07.24]-[0:40:14.24]  Yo sí. Me gusta mucho mi pueblo. Me gusta mucho mi pueblo, la tranquilidad que hay en los pueblos.
+[0:40:14.24]-[0:40:16.24]  Hay mucha tranquilidad y de gusto.
+[0:40:16.24]-[0:40:21.24]  Que dice, ahora me voy a dar un paseo para las afueras.
+[0:40:21.24]-[0:40:25.24]  Pues te sales para las afueras, a dar un paseo tan ricamente que te da el aire.
+[0:40:25.24]-[0:40:32.24]  Y en la capital que tienes que estar, o tienes que estar ahí metida entre cuatro paredes, en tu casa.
+[0:40:32.24]-[0:40:37.24]  O si sales, o si no vienes, nada más que el vídeo el otro y...
+[0:40:37.24]-[0:40:41.24]  ¿Y constróe usted algún amigo de cuando era niña?
+[0:40:41.24]-[0:40:42.24]  ¿Cómo?
+[0:40:42.24]-[0:40:45.24]  ¿Amigo de cuando era niña? ¿Tiene usted alguno todavía?
+[0:40:45.24]-[0:40:49.24]  Yo sí. Sí, sí, sí, sí. Y amigos igual. Amigos igual.
+[0:40:49.24]-[0:40:50.24]  ¿De aquí en el pueblo?
+[0:40:50.24]-[0:40:51.24]  Sí.
+[0:40:51.24]-[0:40:54.24]  ¿De aquí en el invierno queda gente? ¿O se queda...?
+[0:40:54.24]-[0:40:56.24]  Sí, queda la gente aquí ahí.
+[0:40:56.24]-[0:41:02.24]  Cuatro que tienen por aquí casas que vienen a pasar así el verano y luego se van.
+[0:41:02.24]-[0:41:12.24]  Pero sí, sí queda más tranquilo porque esas que vienen, aunque dicen que está la vida mala, vienen nada más que a llevar en paz.
+[0:41:12.24]-[0:41:17.24]  A lo mejor vienen diciendo eso, te estoy diciendo.
+[0:41:17.24]-[0:41:22.24]  Es que hay que ver que vida hay tan mala que no sé qué, que no sé cuándo, si esté...
+[0:41:22.24]-[0:41:29.24]  Y luego a lo mejor llegan esos días y que si me meto en este barco, si me salgo de aquel y que si me meto en el otro.
+[0:41:29.24]-[0:41:31.24]  Y si están hasta las dos de la mañana.
+[0:41:31.24]-[0:41:34.24]  Cosas que a lo mejor lo que el pueblo no lo hace.
+[0:41:34.24]-[0:41:37.24]  Pues a lo mejor vienen buscando tranquilidad.
+[0:41:37.24]-[0:41:43.24]  Tranquilidad o huyanga. A ver si la tranquilidad está en sus casas.
+[0:41:43.24]-[0:41:49.24]  ¿Y sus padres se andan aquí del pueblo también? ¿Vivieron siempre aquí? ¿Vivieron aquí también?
+[0:41:49.24]-[0:41:54.24]  Sí, sí. Y si irían sin ver el mundo por un agujero. ¿Qué te crees?
+[0:41:54.24]-[0:41:58.24]  Sí, mis padres ya allí.
+[0:41:58.24]-[0:42:01.24]  ¿Usted viajó alguna vez?
+[0:42:01.24]-[0:42:06.24]  Yo sí he estado en la... no mucho, pero bueno, he cuencaído mucho, mucho.
+[0:42:06.24]-[0:42:09.24]  He cuencaído mucho, al Bacete también he estado.
+[0:42:09.24]-[0:42:17.24]  En Madrid lo he visto, en el Valle Los Caídos, las Cuevas de Ávila, todo eso lo he visto yo, ¿sabes?
+[0:42:17.24]-[0:42:20.24]  En el Coriado también estuve.
+[0:42:20.24]-[0:42:22.24]  ¿Su marido también era aquí del pueblo?
+[0:42:22.24]-[0:42:23.24]  Sí.
+[0:42:23.24]-[0:42:25.24]  ¿Te conoció usted aquí?
+[0:42:25.24]-[0:42:26.24]  Aquí, sí.
+[0:42:26.24]-[0:42:28.24]  Bueno, pues nada más.
+[0:42:28.24]-[0:42:31.24]  Yo creo que ya sí, ya lo hemos preguntado a todos, muchas gracias.
+[0:42:31.24]-[0:42:32.24]  No.
+[0:42:32.24]-[0:42:33.24]  Usted me vale.
+[0:42:33.24]-[0:42:36.24]  Yo me he creído que, como estamos ya en votaciones...
+[0:42:36.24]-[0:42:40.24]  Mucha gente la ha pasado, nos ha preguntado a mí.
+[0:42:40.24]-[0:42:44.24]  Es que una vez me pillaron en el parque, en el parque.
+[0:42:44.24]-[0:42:50.24]  Me pillaron y era preso de política, y digo, si son pocas preguntas, si son muchas, lo posee usted vosotras.
+[0:42:50.24]-[0:42:52.24]  Y dice, no, van a ser pocas.
+[0:42:52.24]-[0:42:53.24]  Uy, pocas.
+[0:42:53.24]-[0:42:55.24]  Nosotras hemos estado un rato, pero...
+[0:42:55.24]-[0:42:56.24]  Un dos chorros.
+[0:42:56.24]-[0:42:59.24]  Bueno, pues muchas gracias.
+[0:42:59.24]-[0:43:18.24]  No, no, no.

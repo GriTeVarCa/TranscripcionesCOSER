@@ -1,0 +1,3212 @@
+[0:00:00.00]-[0:00:02.00]  Hola, ¿cómo estás?
+[0:00:02.00]-[0:00:04.00]  ¿Cómo te llamas?
+[0:00:04.00]-[0:00:06.00]  Yo soy José
+[0:00:06.00]-[0:00:08.00]  ¿Cómo te llamas?
+[0:00:08.00]-[0:00:10.00]  ¿Por qué no entras a la izquierda?
+[0:00:10.00]-[0:00:12.00]  Aquí a la izquierda
+[0:00:12.00]-[0:00:14.00]  Hola
+[0:00:14.00]-[0:00:16.00]  No se levanten, no se levanten
+[0:00:16.00]-[0:00:18.00]  Uy, qué jóvenes
+[0:00:18.00]-[0:00:20.00]  ¿Cómo estás?
+[0:00:20.00]-[0:00:22.00]  ¿Cómo estás niña?
+[0:00:22.00]-[0:00:24.00]  Como su nieta
+[0:00:24.00]-[0:00:26.00]  Hola
+[0:00:26.00]-[0:00:28.00]  Pues nada, afetalos por ahí
+[0:00:28.00]-[0:00:30.00]  ¿Cómo estás, chiquetería?
+[0:00:30.00]-[0:00:32.00]  Muy bien
+[0:00:32.00]-[0:00:34.00]  ¿Qué se llama su nombre?
+[0:00:34.00]-[0:00:36.00]  ¿Os dejo con ella?
+[0:00:36.00]-[0:00:38.00]  Gracias
+[0:00:38.00]-[0:00:40.00]  ¿Quiere una amiga que sabe romance y demás?
+[0:00:40.00]-[0:00:42.00]  Así
+[0:00:42.00]-[0:00:44.00]  Tráele así de un silloncillo de los de ahí
+[0:00:44.00]-[0:00:46.00]  Que está más cómoda
+[0:00:46.00]-[0:00:48.00]  No se preocupe, de verdad que con esto estamos muy bien
+[0:00:48.00]-[0:00:50.00]  No se preocupe
+[0:00:52.00]-[0:00:54.00]  ¿Ahora tenéis calor?
+[0:00:54.00]-[0:00:56.00]  No, no está bien
+[0:00:56.00]-[0:00:58.00]  Gracias, gracias
+[0:00:58.00]-[0:01:00.00]  Está muy bien, así de verdad
+[0:01:00.00]-[0:01:02.00]  No sé que se quiera sentar usted
+[0:01:02.00]-[0:01:04.00]  No, yo os dejo con ella
+[0:01:04.00]-[0:01:06.00]  Mira que yo he puesto el brazo
+[0:01:06.00]-[0:01:08.00]  Lo que ilusión está en la la
+[0:01:08.00]-[0:01:10.00]  Pero yo tenía un poco de fresco
+[0:01:10.00]-[0:01:12.00]  Sí
+[0:01:12.00]-[0:01:14.00]  Hoy ha llovido
+[0:01:14.00]-[0:01:16.00]  ¿Quién es la capitana?
+[0:01:16.00]-[0:01:18.00]  No, en general
+[0:01:20.00]-[0:01:22.00]  ¿Qué le iba a decir?
+[0:01:22.00]-[0:01:24.00]  ¿Le importa que le grabemos?
+[0:01:24.00]-[0:01:26.00]  Porque tomamos nota pero no nos da tiempo
+[0:01:26.00]-[0:01:28.00]  ¿Cómo? ¿No digo mi nombre?
+[0:01:28.00]-[0:01:30.00]  ¿O que diga un disparate?
+[0:01:30.00]-[0:01:32.00]  Ningún disparate va a decir
+[0:01:32.00]-[0:01:34.00]  Usted no sabe lo que es
+[0:01:34.00]-[0:01:36.00]  Si lo colocamos aquí
+[0:01:36.00]-[0:01:38.00]  A ver si lo grabamos aquí en la tele
+[0:01:38.00]-[0:01:40.00]  Parece de la tele
+[0:01:42.00]-[0:01:44.00]  Así, ya está
+[0:01:44.00]-[0:01:46.00]  Pero a mí me dijeron que iba a venir más que una
+[0:01:46.00]-[0:01:48.00]  A matarme y va a venir 4
+[0:01:48.00]-[0:01:50.00]  No, hemos venido 4
+[0:01:50.00]-[0:01:52.00]  Que jóvenes
+[0:01:52.00]-[0:01:54.00]  El papelito de esa calle
+[0:01:54.00]-[0:01:56.00]  Su dirección
+[0:01:56.00]-[0:01:58.00]  Pues ya
+[0:01:58.00]-[0:02:00.00]  ¿Tú ha gustado el trabajo de llegar aquí?
+[0:02:00.00]-[0:02:02.00]  Bueno, hemos ido preguntando
+[0:02:02.00]-[0:02:04.00]  Hemos tardado un poquito en aparcar
+[0:02:04.00]-[0:02:06.00]  Pero nos han guiado bien, todo el mundo conoce la calle
+[0:02:06.00]-[0:02:08.00]  Aquí atrás si hay mucho sitio para aparcar
+[0:02:08.00]-[0:02:10.00]  Sí, ahí hemos aparcado
+[0:02:10.00]-[0:02:12.00]  Está la evacuada
+[0:02:12.00]-[0:02:14.00]  Sí, creo que
+[0:02:14.00]-[0:02:16.00]  Le ha explicado
+[0:02:16.00]-[0:02:18.00]  Un poco, ¿no?
+[0:02:18.00]-[0:02:20.00]  Me ha dicho
+[0:02:20.00]-[0:02:22.00]  A ti me dió mi sobrina
+[0:02:22.00]-[0:02:24.00]  Dídate
+[0:02:24.00]-[0:02:26.00]  Tú quieres que venga una...
+[0:02:26.00]-[0:02:28.00]  Tengo una amiga
+[0:02:28.00]-[0:02:30.00]  Y esa amiga tiene otra amiga
+[0:02:30.00]-[0:02:32.00]  Yo a ella no la conozco
+[0:02:32.00]-[0:02:34.00]  Pero esa amiga me ha dicho que quiere conocer
+[0:02:34.00]-[0:02:36.00]  Cosas antiguas de Antequera
+[0:02:36.00]-[0:02:38.00]  Y yo le he dicho tu nombre
+[0:02:38.00]-[0:02:40.00]  ¿Te parece bien? Digo, bueno
+[0:02:40.00]-[0:02:42.00]  Eso es lo que me han dicho ustedes
+[0:02:42.00]-[0:02:44.00]  Ya no sé si soy de España
+[0:02:44.00]-[0:02:46.00]  Si todas las tres
+[0:02:46.00]-[0:02:48.00]  ¿Las cuatro soy española?
+[0:02:48.00]-[0:02:50.00]  No
+[0:02:50.00]-[0:02:52.00]  ¿Tú de dónde eres?
+[0:02:52.00]-[0:02:54.00]  Yo de Madrid, así soy española
+[0:02:54.00]-[0:02:56.00]  ¿De dónde? De Madrid
+[0:02:56.00]-[0:02:58.00]  ¿De Madrid y de España?
+[0:02:58.00]-[0:03:00.00]  Nosotras dos somos españolas
+[0:03:00.00]-[0:03:02.00]  Nosotras dos somos romanas
+[0:03:02.00]-[0:03:04.00]  Romanas
+[0:03:04.00]-[0:03:06.00]  ¿Un país muy maligna también?
+[0:03:06.00]-[0:03:08.00]  Ya se pondrá derecho
+[0:03:08.00]-[0:03:10.00]  El pobre
+[0:03:10.00]-[0:03:12.00]  Como España, ¿no?
+[0:03:12.00]-[0:03:14.00]  España también
+[0:03:14.00]-[0:03:16.00]  Tu derecho también
+[0:03:16.00]-[0:03:18.00]  Hay mucho gasto y hay muchas cosas ahí
+[0:03:18.00]-[0:03:20.00]  Y no hay mucha orden tampoco
+[0:03:20.00]-[0:03:22.00]  Bueno, ya
+[0:03:22.00]-[0:03:24.00]  Ya habrá, ¿no?
+[0:03:24.00]-[0:03:26.00]  Ya habrá, si Dios quiere
+[0:03:26.00]-[0:03:28.00]  Pues sí, le íbamos a preguntar
+[0:03:28.00]-[0:03:30.00]  Que nos cuente un poco usted
+[0:03:30.00]-[0:03:32.00]  De las cosas que se acuerda
+[0:03:32.00]-[0:03:34.00]  Que eran diferentes, por ejemplo
+[0:03:34.00]-[0:03:36.00]  Muchas veces preguntamos por el
+[0:03:36.00]-[0:03:38.00]  El cura, qué trato tenía
+[0:03:38.00]-[0:03:40.00]  Cómo ha cambiado
+[0:03:40.00]-[0:03:42.00]  No sé
+[0:03:42.00]-[0:03:44.00]  Antes era así de grande
+[0:03:44.00]-[0:03:46.00]  Así de grande
+[0:03:46.00]-[0:03:48.00]  Bueno, han crecido también
+[0:03:48.00]-[0:03:50.00]  Después de la guerra han crecido
+[0:03:50.00]-[0:03:52.00]  Pero
+[0:03:52.00]-[0:03:54.00]  Yo soy de la guerra
+[0:03:54.00]-[0:03:56.00]  Entonces lo que tengo más en la cabeza siempre
+[0:03:56.00]-[0:03:58.00]  Yo ahora voy a mi cuarto
+[0:03:58.00]-[0:04:00.00]  ¿A qué vengo? ¿A qué vengo?
+[0:04:00.00]-[0:04:02.00]  Me tengo que venir otra vez
+[0:04:02.00]-[0:04:04.00]  Voy otra vez, que venía por esto
+[0:04:04.00]-[0:04:06.00]  Pero si ahora me habla de la guerra
+[0:04:06.00]-[0:04:08.00]  Yo tenía ocho años, entonces
+[0:04:08.00]-[0:04:10.00]  Esos sustos y esas cosas, entonces es cuando yo cambié
+[0:04:10.00]-[0:04:12.00]  Yo era una niña muy mimada
+[0:04:12.00]-[0:04:14.00]  Porque mi madre
+[0:04:14.00]-[0:04:16.00]  Se crió sin madre y entonces
+[0:04:16.00]-[0:04:18.00]  Todo lo que yo
+[0:04:18.00]-[0:04:20.00]  Quería, lo que hacía
+[0:04:20.00]-[0:04:22.00]  Caprichosa
+[0:04:22.00]-[0:04:24.00]  Mare educadita
+[0:04:24.00]-[0:04:26.00]  No, pero cuando iba con ella íbamos a vivir
+[0:04:26.00]-[0:04:28.00]  Pero entonces
+[0:04:28.00]-[0:04:30.00]  Era más bien reverde
+[0:04:30.00]-[0:04:32.00]  Las comidas, no quiero esto, no quiero eso
+[0:04:32.00]-[0:04:34.00]  La mareaba mucho
+[0:04:34.00]-[0:04:36.00]  Pero ya vino la guerra
+[0:04:36.00]-[0:04:38.00]  Vinieron las escasas
+[0:04:38.00]-[0:04:40.00]  Yo no pasé hambre
+[0:04:40.00]-[0:04:42.00]  Porque mis tíos abuelos tenían tiendas
+[0:04:42.00]-[0:04:44.00]  Entonces como las cosas estaban racionadas
+[0:04:44.00]-[0:04:46.00]  Como en todos los países que hay guerra
+[0:04:46.00]-[0:04:48.00]  Ponía las raciones
+[0:04:48.00]-[0:04:50.00]  La azúcar, no había
+[0:04:50.00]-[0:04:52.00]  El chocolate, pero tampoco venía
+[0:04:52.00]-[0:04:54.00]  Bueno, y las comidas
+[0:04:54.00]-[0:04:56.00]  Porque las cosas de campo también
+[0:04:56.00]-[0:04:58.00]  Con las cosas de los tres años de guerra
+[0:04:58.00]-[0:05:00.00]  Pues se quedó el campo
+[0:05:00.00]-[0:05:02.00]  Que no había de nada
+[0:05:02.00]-[0:05:04.00]  Y entonces había
+[0:05:04.00]-[0:05:06.00]  Agarrobes
+[0:05:06.00]-[0:05:08.00]  La cosa se puso de moda
+[0:05:08.00]-[0:05:10.00]  Compraban las agarrobes
+[0:05:10.00]-[0:05:12.00]  Ahora ya no se ve
+[0:05:14.00]-[0:05:16.00]  Que son estas cosas
+[0:05:16.00]-[0:05:18.00]  Como negras, ¿no?
+[0:05:18.00]-[0:05:20.00]  Sí, como negras, unas pipitas tienen
+[0:05:20.00]-[0:05:22.00]  No sé lo que hacen de las agarrobes
+[0:05:22.00]-[0:05:24.00]  Pues se iban a la Intercampo
+[0:05:24.00]-[0:05:26.00]  Para poder comer las agarrobes
+[0:05:26.00]-[0:05:28.00]  Cuando había también
+[0:05:28.00]-[0:05:30.00]  Tenían que esperar
+[0:05:30.00]-[0:05:32.00]  Y cosas malas también
+[0:05:32.00]-[0:05:34.00]  Porque pasaba aquí
+[0:05:34.00]-[0:05:36.00]  En una cuesta
+[0:05:36.00]-[0:05:38.00]  Ya no me acuerdo cómo
+[0:05:38.00]-[0:05:40.00]  La cuesta roja, les decían una cuesta
+[0:05:40.00]-[0:05:42.00]  Y los camiones, entonces no eran
+[0:05:42.00]-[0:05:44.00]  La velocidad de Ura
+[0:05:44.00]-[0:05:46.00]  Se atrancaban más, se subían niños
+[0:05:46.00]-[0:05:48.00]  A los altos y tiraban los sacos
+[0:05:48.00]-[0:05:50.00]  De lo que llevaban
+[0:05:50.00]-[0:05:52.00]  Y ya estaban la gente con Dios
+[0:05:52.00]-[0:05:54.00]  Para robarlos
+[0:05:54.00]-[0:05:56.00]  Y entonces los civiles
+[0:05:56.00]-[0:05:58.00]  Pues dijeron, esto se va a acabar
+[0:05:58.00]-[0:06:00.00]  Y mataron a un niño que tenía 14 años
+[0:06:00.00]-[0:06:02.00]  Tirando el saco
+[0:06:02.00]-[0:06:04.00]  De verdad, ya no se subieron ningún niño más
+[0:06:04.00]-[0:06:06.00]  Y eso también me impresionó muchísimo
+[0:06:06.00]-[0:06:08.00]  De que el muchacho
+[0:06:08.00]-[0:06:10.00]  Que lo que iba era buscando comida
+[0:06:10.00]-[0:06:12.00]  La escasía de la guerra es muy malo
+[0:06:12.00]-[0:06:14.00]  Entonces cuando a mí me hablan
+[0:06:14.00]-[0:06:16.00]  De guerra o de algo, no
+[0:06:16.00]-[0:06:18.00]  Cuando ahora
+[0:06:18.00]-[0:06:20.00]  Se filmó
+[0:06:20.00]-[0:06:22.00]  Un parte, como se
+[0:06:22.00]-[0:06:24.00]  Como le dice
+[0:06:24.00]-[0:06:26.00]  Que estaba
+[0:06:26.00]-[0:06:28.00]  Carlos Sotelo, como se llama
+[0:06:28.00]-[0:06:30.00]  Que teníamos que filmar
+[0:06:30.00]-[0:06:32.00]  Para la OTA
+[0:06:32.00]-[0:06:34.00]  Y no filmaba
+[0:06:34.00]-[0:06:36.00]  Entonces me dijeron, ¿ustedes creen que eres comunista?
+[0:06:36.00]-[0:06:38.00]  Y yo dije, yo ni soy comunista
+[0:06:38.00]-[0:06:40.00]  Ni soy socialista, yo en la guerra me partieron
+[0:06:40.00]-[0:06:42.00]  Y yo no soy de partido
+[0:06:42.00]-[0:06:44.00]  Pero ahora
+[0:06:44.00]-[0:06:46.00]  Para la guerra no filmo para nada
+[0:06:46.00]-[0:06:48.00]  Yo guerra no quiero ninguna
+[0:06:48.00]-[0:06:50.00]  Ni soldados
+[0:06:50.00]-[0:06:52.00]  Los soldados que van a defender, defenderlo de otro
+[0:06:52.00]-[0:06:54.00]  Entonces yo de guerra
+[0:06:54.00]-[0:06:56.00]  Es que me pongo
+[0:06:56.00]-[0:06:58.00]  Muerta
+[0:06:58.00]-[0:07:00.00]  Nosotros filmamos
+[0:07:00.00]-[0:07:02.00]  Y enseguida de los nacionales
+[0:07:02.00]-[0:07:04.00]  Que entraron los moros, venían
+[0:07:04.00]-[0:07:06.00]  Que todas esas cosas
+[0:07:06.00]-[0:07:08.00]  De la guerra, eso, vamos a dejar la guerra
+[0:07:08.00]-[0:07:10.00]  Ahora
+[0:07:10.00]-[0:07:12.00]  De cosas de religión
+[0:07:12.00]-[0:07:14.00]  Pues yo hice la comunión con 7 años
+[0:07:14.00]-[0:07:16.00]  Entonces era el año antes de la guerra
+[0:07:18.00]-[0:07:20.00]  Y quizás, quizás
+[0:07:20.00]-[0:07:22.00]  Yo me sentaba y no
+[0:07:22.00]-[0:07:24.00]  No me llegaban las piernas al suelo y era
+[0:07:24.00]-[0:07:26.00]  La monja me regañaba
+[0:07:26.00]-[0:07:28.00]  Me decía, las piernas quietas
+[0:07:28.00]-[0:07:30.00]  Y yo me decía, pff
+[0:07:30.00]-[0:07:32.00]  Eso si me acuerdo
+[0:07:32.00]-[0:07:34.00]  Y también del sermón que nos dieron
+[0:07:34.00]-[0:07:36.00]  Que tenía 7 años
+[0:07:36.00]-[0:07:38.00]  Recuerdo que era sobre
+[0:07:38.00]-[0:07:40.00]  Van Crassio
+[0:07:40.00]-[0:07:42.00]  Que iba a llevarle la comunión a los presos
+[0:07:42.00]-[0:07:44.00]  Que había cristianos
+[0:07:44.00]-[0:07:46.00]  Y que San Sebastián
+[0:07:46.00]-[0:07:48.00]  Los niños como
+[0:07:48.00]-[0:07:50.00]  No quería jugar, era un hijo único
+[0:07:52.00]-[0:07:54.00]  Y le tiraron piedras
+[0:07:54.00]-[0:07:56.00]  Lo tenía casi medio matado
+[0:07:56.00]-[0:07:58.00]  Y lo llevaba con el pecho porque ahí llevaba
+[0:07:58.00]-[0:08:00.00]  La sagrada forma para dársela al or
+[0:08:00.00]-[0:08:02.00]  A los presos que estaban en el círculo
+[0:08:02.00]-[0:08:04.00]  Romanos, dárselo por las ventanas
+[0:08:04.00]-[0:08:06.00]  Entonces, Sebastián
+[0:08:06.00]-[0:08:08.00]  Aunque era soldado romano, ya era cristiano
+[0:08:08.00]-[0:08:10.00]  Lo cogió y lo llevó para
+[0:08:10.00]-[0:08:12.00]  Que lo llevara y luego se lo llevó a su madre ya muerto
+[0:08:12.00]-[0:08:14.00]  Y entonces
+[0:08:14.00]-[0:08:16.00]  Esa cosa del sermón que nos dieron
+[0:08:16.00]-[0:08:18.00]  A mí, de los cristianos
+[0:08:18.00]-[0:08:20.00]  Y de eso, pues se me metió mucho en la cabeza
+[0:08:20.00]-[0:08:22.00]  Que memoria
+[0:08:22.00]-[0:08:24.00]  Sí, mucho me dejó en la cabeza
+[0:08:24.00]-[0:08:26.00]  Y me dijo, ahora me pregunta que voy a comer
+[0:08:26.00]-[0:08:28.00]  No sé
+[0:08:28.00]-[0:08:30.00]  Pero eso le pasa a todo el mundo
+[0:08:30.00]-[0:08:32.00]  Pero me acuerdo todo eso de la
+[0:08:32.00]-[0:08:34.00]  Comunión y de mi vestido que era
+[0:08:34.00]-[0:08:36.00]  Muy feo, no cullona
+[0:08:36.00]-[0:08:38.00]  Por ahí porque mi madre le dio
+[0:08:38.00]-[0:08:40.00]  Porque ya era una costura muy buena
+[0:08:40.00]-[0:08:42.00]  Bueno, a vuestro gusto, a vuestro gusto
+[0:08:42.00]-[0:08:44.00]  Y tenía así, uno, uno solo cullona
+[0:08:44.00]-[0:08:46.00]  Y por abajo
+[0:08:46.00]-[0:08:48.00]  Tres cullonas, la tela sin risa
+[0:08:48.00]-[0:08:50.00]  Trinchichi
+[0:08:50.00]-[0:08:52.00]  Vaya yo, ayer iba loca de contenta con él
+[0:08:52.00]-[0:08:54.00]  Pero luego después cuando me veo en los retratos
+[0:08:54.00]-[0:08:56.00]  Y veo a mi amiga, digo, mi mamá, me metió mi velo
+[0:08:56.00]-[0:08:58.00]  En el bocateto
+[0:08:58.00]-[0:09:00.00]  Y era blanco también
+[0:09:00.00]-[0:09:02.00]  Blanco y velo blanco
+[0:09:02.00]-[0:09:04.00]  Nosotros ya no llevamos velo, ¿no?
+[0:09:04.00]-[0:09:06.00]  No
+[0:09:06.00]-[0:09:08.00]  No, ahora no, yo mi velo
+[0:09:08.00]-[0:09:10.00]  Y mi coronita
+[0:09:10.00]-[0:09:12.00]  Ahora solo coronita
+[0:09:12.00]-[0:09:14.00]  Mi corona me llevaba y ramo de flora
+[0:09:14.00]-[0:09:16.00]  Que luego había que dejarlo en el
+[0:09:16.00]-[0:09:18.00]  Versus que se decía por la tarde
+[0:09:18.00]-[0:09:20.00]  En la función
+[0:09:20.00]-[0:09:22.00]  Y seguía dos veces por la mañana a la misa
+[0:09:22.00]-[0:09:24.00]  Para comorgar
+[0:09:24.00]-[0:09:26.00]  Y después por la tarde el sermón que nos daba
+[0:09:26.00]-[0:09:28.00]  Como era el mes de mayo
+[0:09:28.00]-[0:09:30.00]  Leiría algo del mes de mayo, del mes de maría
+[0:09:30.00]-[0:09:32.00]  O lo que fuera
+[0:09:32.00]-[0:09:34.00]  ¿Y se acuerda de qué cosas les decía
+[0:09:34.00]-[0:09:36.00]  El cura antes de hacer
+[0:09:36.00]-[0:09:38.00]  La comunión?
+[0:09:38.00]-[0:09:40.00]  Cuando estaban preparándonos, sí
+[0:09:40.00]-[0:09:42.00]  Nos preparaba una monja
+[0:09:42.00]-[0:09:44.00]  Yo estaba en un colegio de
+[0:09:44.00]-[0:09:46.00]  Monjas
+[0:09:46.00]-[0:09:48.00]  De teresianas
+[0:09:48.00]-[0:09:50.00]  Teresianas no, no
+[0:09:50.00]-[0:09:52.00]  Teresianas son otras
+[0:09:52.00]-[0:09:54.00]  Clases de monjas que no me...
+[0:09:56.00]-[0:09:58.00]  Franciscana
+[0:09:58.00]-[0:10:00.00]  Franciscana
+[0:10:00.00]-[0:10:02.00]  De la orden tercera de San Francisco
+[0:10:02.00]-[0:10:04.00]  Y era la
+[0:10:04.00]-[0:10:06.00]  La madre
+[0:10:06.00]-[0:10:08.00]  General
+[0:10:08.00]-[0:10:10.00]  Fundadora de aquí de Antequera
+[0:10:10.00]-[0:10:12.00]  ¿Queréis que os diga la fundadora como era?
+[0:10:12.00]-[0:10:18.00]  Sí
+[0:10:18.00]-[0:10:20.00]  Y era
+[0:10:20.00]-[0:10:22.00]  De la gente
+[0:10:22.00]-[0:10:24.00]  Bien de Antequera
+[0:10:24.00]-[0:10:26.00]  La gente bien quiere decir con dinero
+[0:10:26.00]-[0:10:28.00]  Entonces
+[0:10:28.00]-[0:10:30.00]  Ella desde niña
+[0:10:30.00]-[0:10:32.00]  Quería ser monja
+[0:10:32.00]-[0:10:34.00]  En la descarcer, la clausura
+[0:10:34.00]-[0:10:36.00]  Pero
+[0:10:36.00]-[0:10:38.00]  Su padre se casó tres veces
+[0:10:38.00]-[0:10:40.00]  Entonces ella tuvo varias
+[0:10:40.00]-[0:10:42.00]  Madres, ya vamos a poner por la última
+[0:10:42.00]-[0:10:44.00]  Que ella tenía
+[0:10:44.00]-[0:10:46.00]  Ya mayor, lo que quería era
+[0:10:46.00]-[0:10:48.00]  Casarla, casarla y casarla y casarla
+[0:10:48.00]-[0:10:50.00]  Y entonces pues
+[0:10:50.00]-[0:10:52.00]  La casa con un tal
+[0:10:52.00]-[0:10:54.00]  Que
+[0:10:54.00]-[0:10:56.00]  Le gustaba mucho el juego
+[0:10:56.00]-[0:10:58.00]  Entonces aunque era rico
+[0:10:58.00]-[0:11:00.00]  Como ella, pues también se quedó
+[0:11:00.00]-[0:11:02.00]  Sin dinero
+[0:11:02.00]-[0:11:04.00]  Y fueron por el preso, entonces
+[0:11:04.00]-[0:11:06.00]  Ella cogió su alaja y la dio
+[0:11:06.00]-[0:11:08.00]  Para que no se lo llevaran preso y entonces
+[0:11:08.00]-[0:11:10.00]  La suegra ya la miraba un poquito bien
+[0:11:10.00]-[0:11:12.00]  Porque ella lo que quería hacer
+[0:11:12.00]-[0:11:14.00]  Siempre es obra de caridad, con las niñas
+[0:11:14.00]-[0:11:16.00]  Vestiditos para la ardilla de comunión
+[0:11:16.00]-[0:11:18.00]  Se iba la hermanita a fregar
+[0:11:18.00]-[0:11:20.00]  El suelo, que entonces era el suelo
+[0:11:20.00]-[0:11:22.00]  Y venía con la enagua moja por abajo
+[0:11:22.00]-[0:11:24.00]  Porque era un vestido largo
+[0:11:24.00]-[0:11:26.00]  La suegra se ponía incapaz
+[0:11:26.00]-[0:11:28.00]  Y fregaste el suelo cuando tú tienes aquí tres
+[0:11:28.00]-[0:11:30.00]  Mozas, entonces le decían mozas
+[0:11:30.00]-[0:11:32.00]  A las muchachas de servicio
+[0:11:32.00]-[0:11:34.00]  Palabra antigua
+[0:11:34.00]-[0:11:36.00]  Y
+[0:11:36.00]-[0:11:38.00]  Luego ya se quedó viuda
+[0:11:40.00]-[0:11:42.00]  Pasó mucho con el marido, pero por fin
+[0:11:42.00]-[0:11:44.00]  Hasta le hizo que
+[0:11:44.00]-[0:11:46.00]  Que se hiciera cristiano
+[0:11:46.00]-[0:11:48.00]  O sea que era estaba
+[0:11:48.00]-[0:11:50.00]  Botizado, pero no quería nada de la iglesia
+[0:11:50.00]-[0:11:52.00]  Con la iglesia no quería nada, pero al fin
+[0:11:52.00]-[0:11:54.00]  Así, entonces luego después
+[0:11:54.00]-[0:11:56.00]  Ella ya quiere fundar
+[0:11:56.00]-[0:11:58.00]  El obispo nos quiere darle
+[0:11:58.00]-[0:12:00.00]  Permiso y entonces
+[0:12:00.00]-[0:12:02.00]  Ya ella vive
+[0:12:02.00]-[0:12:04.00]  Cuando ya, sí
+[0:12:04.00]-[0:12:06.00]  Cuando ya muere el marido está en la calle Cantarero
+[0:12:08.00]-[0:12:10.00]  Al lado de una farmacia que había
+[0:12:10.00]-[0:12:12.00]  Y luego ya viene ella a una casa que era de sus padres
+[0:12:12.00]-[0:12:14.00]  En esta calle
+[0:12:14.00]-[0:12:16.00]  Por donde hay una esquina
+[0:12:16.00]-[0:12:18.00]  Hay una fábrica de mantecaos
+[0:12:18.00]-[0:12:20.00]  En la otra esquina, así que la calle La Vega
+[0:12:20.00]-[0:12:22.00]  La esquina
+[0:12:22.00]-[0:12:24.00]  Y entonces ella ahí
+[0:12:24.00]-[0:12:26.00]  Empieza a llamar niñas
+[0:12:26.00]-[0:12:28.00]  Le gustaba tener siete niñas y siete niños
+[0:12:28.00]-[0:12:30.00]  A los niños a leer
+[0:12:30.00]-[0:12:32.00]  Y a escribir
+[0:12:32.00]-[0:12:34.00]  Y ella tenía que abordar y acosar
+[0:12:34.00]-[0:12:36.00]  Y ella rezaba
+[0:12:36.00]-[0:12:38.00]  Cantando
+[0:12:38.00]-[0:12:40.00]  El catecismo, para que aprendieran
+[0:12:40.00]-[0:12:42.00]  A rezar las almas, el credo, el Padre Nuestro
+[0:12:42.00]-[0:12:44.00]  Cantando, cantando
+[0:12:44.00]-[0:12:46.00]  Y ella dedicándose
+[0:12:46.00]-[0:12:48.00]  Entonces ella empezó a querer fundar
+[0:12:48.00]-[0:12:50.00]  Para los niños pobres
+[0:12:50.00]-[0:12:52.00]  Y el obispo pues no quería
+[0:12:52.00]-[0:12:54.00]  Dice una viuda, esta va a fundar ahora
+[0:12:54.00]-[0:12:56.00]  Y entonces pues le puso
+[0:12:56.00]-[0:12:58.00]  Unas cosas muy trabajosas
+[0:12:58.00]-[0:13:00.00]  A las seis de la tarde tenía que salir
+[0:13:00.00]-[0:13:02.00]  De esta calle a otra calle
+[0:13:02.00]-[0:13:04.00]  Entrar a los portales
+[0:13:04.00]-[0:13:06.00]  Tocar atravesar la campana y salirse
+[0:13:06.00]-[0:13:08.00]  Y no hablar con nadie
+[0:13:08.00]-[0:13:10.00]  Y entonces, ella ha vuelto loca
+[0:13:10.00]-[0:13:12.00]  Y ella pasó a Vica
+[0:13:12.00]-[0:13:14.00]  Allí con la campana, está loca
+[0:13:14.00]-[0:13:16.00]  Y la creían que era loca
+[0:13:16.00]-[0:13:18.00]  Entonces ella por fin le da
+[0:13:18.00]-[0:13:20.00]  Ella con un capuchino le hace que
+[0:13:20.00]-[0:13:22.00]  Que la pueda fundar
+[0:13:22.00]-[0:13:24.00]  Y en ese tiempo también funda
+[0:13:24.00]-[0:13:26.00]  La madre
+[0:13:26.00]-[0:13:30.00]  Bueno, ella se llamaba
+[0:13:30.00]-[0:13:32.00]  ¿Has visto la del Valle?
+[0:13:32.00]-[0:13:34.00]  Pues la del Valle también es de ese tiempo
+[0:13:34.00]-[0:13:36.00]  Era niña sin madre
+[0:13:36.00]-[0:13:38.00]  También muy bonita
+[0:13:38.00]-[0:13:40.00]  Y entonces, esta ya funda
+[0:13:40.00]-[0:13:42.00]  En la carrera que hay un
+[0:13:42.00]-[0:13:44.00]  Convento
+[0:13:44.00]-[0:13:46.00]  De franciscanos que
+[0:13:46.00]-[0:13:48.00]  Que lo habían abandonado los franciscanos
+[0:13:48.00]-[0:13:50.00]  Por lo que fuera, no sé si fue por otra guerra
+[0:13:50.00]-[0:13:52.00]  Estaba abandonado
+[0:13:52.00]-[0:13:54.00]  Y se lo da el obispo a ella
+[0:13:54.00]-[0:13:56.00]  Y ella allí trabaja con los niños pobres
+[0:13:56.00]-[0:13:58.00]  Entonces su amiga
+[0:13:58.00]-[0:14:00.00]  La señorita
+[0:14:00.00]-[0:14:02.00]  Cuando yo decía
+[0:14:02.00]-[0:14:04.00]  Ay, por Dios
+[0:14:04.00]-[0:14:06.00]  Que la niña de mi muchacha hace la reverencia
+[0:14:06.00]-[0:14:08.00]  De la iglesia del santísimo
+[0:14:08.00]-[0:14:10.00]  Ay, por Dios, ¿por qué no me traes
+[0:14:10.00]-[0:14:12.00]  Mis niñas? Yo te damos dinero
+[0:14:12.00]-[0:14:14.00]  Que para que me vayan a decir
+[0:14:14.00]-[0:14:16.00]  Pues mira, me vienen bien
+[0:14:16.00]-[0:14:18.00]  Que venga dinero para tener libretas para otras
+[0:14:18.00]-[0:14:20.00]  Pero venía a una sillita
+[0:14:20.00]-[0:14:22.00]  Y escribían allí
+[0:14:22.00]-[0:14:24.00]  Las ricas con las pobres
+[0:14:24.00]-[0:14:26.00]  Y juntas
+[0:14:26.00]-[0:14:28.00]  Pero ya la madre
+[0:14:28.00]-[0:14:30.00]  La otra
+[0:14:30.00]-[0:14:32.00]  Que ya estaba muy vieja, que ya está acá
+[0:14:32.00]-[0:14:34.00]  Y tiene muchas complicaciones
+[0:14:34.00]-[0:14:36.00]  En su convento
+[0:14:36.00]-[0:14:38.00]  Y ya se queda ella de monja
+[0:14:38.00]-[0:14:40.00]  Y otras superiores
+[0:14:40.00]-[0:14:42.00]  Y ya empiezan a poner, yo creo que mientras ella vivió
+[0:14:42.00]-[0:14:44.00]  Pero cuando ella murió
+[0:14:44.00]-[0:14:46.00]  Empezó a apartar
+[0:14:46.00]-[0:14:48.00]  En la misma clase, aquí las que pagan y aquí las que no pagan
+[0:14:48.00]-[0:14:50.00]  A apartarlas
+[0:14:50.00]-[0:14:52.00]  Cuando yo ya iba al colegio
+[0:14:52.00]-[0:14:54.00]  Pues ya teníamos clases
+[0:14:54.00]-[0:14:56.00]  Ellas tenían una clase y nosotras otra
+[0:14:58.00]-[0:15:00.00]  Yo pagaba un duro
+[0:15:00.00]-[0:15:02.00]  Como cinco pesetas
+[0:15:02.00]-[0:15:04.00]  Entonces dice que era cinco pesetas
+[0:15:04.00]-[0:15:06.00]  Pero cinco pesetas era
+[0:15:06.00]-[0:15:08.00]  Era dinero, ¿o? Sí, sí, al mes
+[0:15:08.00]-[0:15:10.00]  Eso tenía que pagar mi madre
+[0:15:10.00]-[0:15:12.00]  Entonces siempre decía mi madre
+[0:15:12.00]-[0:15:14.00]  Estas mojas siempre buscan algo
+[0:15:14.00]-[0:15:16.00]  Porque una vez que si la niña le breta
+[0:15:16.00]-[0:15:18.00]  Que si la otra siempre era con
+[0:15:18.00]-[0:15:20.00]  Un
+[0:15:20.00]-[0:15:22.00]  75 céntimos
+[0:15:22.00]-[0:15:24.00]  No llegaba la peseta pero
+[0:15:24.00]-[0:15:26.00]  Siempre a las veces había que comprar algo en el colegio
+[0:15:26.00]-[0:15:28.00]  La goma de borrar, que si el lápiz
+[0:15:28.00]-[0:15:30.00]  Que si la libreta
+[0:15:30.00]-[0:15:32.00]  Y siempre era cinco con algo de pico
+[0:15:32.00]-[0:15:34.00]  Y siempre
+[0:15:34.00]-[0:15:36.00]  Al menos al pico ya te digo que a lo mejor era 50 o 75
+[0:15:38.00]-[0:15:40.00]  Y la otra era de esos
+[0:15:40.00]-[0:15:42.00]  No jugaban en el patio conmigo
+[0:15:42.00]-[0:15:44.00]  No jugaban nada
+[0:15:44.00]-[0:15:46.00]  Pero como yo ya te di, era un poquillo más chilla
+[0:15:46.00]-[0:15:48.00]  Porque yo tenía dos hermanos mayores
+[0:15:48.00]-[0:15:50.00]  Y un tío
+[0:15:50.00]-[0:15:52.00]  Primo hermano de mi madre
+[0:15:52.00]-[0:15:54.00]  Que era de la edad de mi mano
+[0:15:54.00]-[0:15:56.00]  Me criaba con tres perones
+[0:15:58.00]-[0:16:00.00]  Entonces, pues
+[0:16:00.00]-[0:16:02.00]  Era maluca
+[0:16:02.00]-[0:16:04.00]  Y quería ser joven también
+[0:16:04.00]-[0:16:06.00]  Cuando veía que me mandaban
+[0:16:06.00]-[0:16:08.00]  Con el pito que yo no quería
+[0:16:08.00]-[0:16:10.00]  También tenía el pito
+[0:16:10.00]-[0:16:12.00]  Y mi madre me decía
+[0:16:12.00]-[0:16:14.00]  Cuando salga el arcoíris
+[0:16:14.00]-[0:16:16.00]  Que si tú tengas dinero para comprar un reoplanos
+[0:16:16.00]-[0:16:18.00]  Porque entonces los aviones
+[0:16:18.00]-[0:16:20.00]  Se les decía aquí
+[0:16:20.00]-[0:16:22.00]  Reoplanos
+[0:16:22.00]-[0:16:24.00]  Y se te sube y en el arcoíris te orinas
+[0:16:24.00]-[0:16:26.00]  Y ya te haces niño
+[0:16:26.00]-[0:16:28.00]  Y yo decía, tienes que tener mucho dinero
+[0:16:28.00]-[0:16:30.00]  Siempre me dejaban
+[0:16:30.00]-[0:16:32.00]  Que guardaran la lucha
+[0:16:32.00]-[0:16:34.00]  Pero yo quería ser niño
+[0:16:34.00]-[0:16:36.00]  Porque allá empezaban a jugar
+[0:16:36.00]-[0:16:38.00]  En la escalera de la casa de suelo
+[0:16:38.00]-[0:16:40.00]  Ya en los días de la guerra
+[0:16:40.00]-[0:16:42.00]  Que no nos dejaban de salir
+[0:16:42.00]-[0:16:44.00]  En las escaleras y en el patio
+[0:16:44.00]-[0:16:46.00]  En mi casa había dos escaleras
+[0:16:46.00]-[0:16:48.00]  La Farsa y la otra
+[0:16:48.00]-[0:16:50.00]  Porque cuando fregaban la otra
+[0:16:50.00]-[0:16:52.00]  De Marmú
+[0:16:52.00]-[0:16:54.00]  Pues no queríamos que la pisaran
+[0:16:54.00]-[0:16:56.00]  Hasta que estuviera muy seca
+[0:16:56.00]-[0:16:58.00]  Por la otra escalera subíamos
+[0:16:58.00]-[0:17:00.00]  Y yo estaba con ellos
+[0:17:00.00]-[0:17:02.00]  Y quería ser amigo aquello
+[0:17:02.00]-[0:17:04.00]  Capitán, lo mío
+[0:17:04.00]-[0:17:06.00]  Pero yo era la más chica
+[0:17:06.00]-[0:17:08.00]  Y aprendí a encender los mitos antes de aquello
+[0:17:08.00]-[0:17:10.00]  Mi mano era
+[0:17:10.00]-[0:17:12.00]  Un 4 años conmigo
+[0:17:12.00]-[0:17:14.00]  Pero se quemó y dio susto
+[0:17:14.00]-[0:17:16.00]  Y luego empezaba a silbar antes que ellos
+[0:17:16.00]-[0:17:18.00]  Y ellos eran todos mayores
+[0:17:18.00]-[0:17:20.00]  Estos eran mis amigos de la guerra
+[0:17:20.00]-[0:17:22.00]  Que no nos dejaban de salir
+[0:17:22.00]-[0:17:24.00]  Y estábamos allí
+[0:17:24.00]-[0:17:26.00]  No, los domingos nos bañaban
+[0:17:26.00]-[0:17:28.00]  No teníamos tina
+[0:17:28.00]-[0:17:30.00]  En la casa de mi abuela
+[0:17:30.00]-[0:17:32.00]  En frente había una palabar
+[0:17:32.00]-[0:17:34.00]  La ropa
+[0:17:34.00]-[0:17:36.00]  Era cuadrada
+[0:17:36.00]-[0:17:38.00]  Pero forrada en
+[0:17:38.00]-[0:17:40.00]  En latú
+[0:17:40.00]-[0:17:42.00]  No sé cómo se llamaba aquel latú
+[0:17:42.00]-[0:17:44.00]  Ahora mismo
+[0:17:44.00]-[0:17:46.00]  Y allí con el sol se calentaba
+[0:17:46.00]-[0:17:48.00]  Y allí nos iban a bañar
+[0:17:48.00]-[0:17:50.00]  Yo sí me acuerdo que a mí era la primera
+[0:17:50.00]-[0:17:52.00]  Y ya me llevaban para cocinar
+[0:17:52.00]-[0:17:54.00]  Y allí me secaban
+[0:17:54.00]-[0:17:56.00]  Y a los otros los secaban en el comedor
+[0:17:56.00]-[0:17:58.00]  Pues ya eran más mayores
+[0:17:58.00]-[0:18:00.00]  Y yo, puntuosa, quería ser niño
+[0:18:00.00]-[0:18:02.00]  Ya en el colegio
+[0:18:02.00]-[0:18:04.00]  Ya empecé con la amiga
+[0:18:04.00]-[0:18:06.00]  Y entonces las niñas gratuitas
+[0:18:06.00]-[0:18:08.00]  Yo era que comía
+[0:18:08.00]-[0:18:10.00]  Me tenía que ir al colegio
+[0:18:10.00]-[0:18:12.00]  Pero mi mamá, mi mamá
+[0:18:12.00]-[0:18:14.00]  Si no abren hasta las
+[0:18:14.00]-[0:18:16.00]  Hasta las dos no lo abren
+[0:18:16.00]-[0:18:18.00]  Pues yo ya me voy
+[0:18:18.00]-[0:18:20.00]  Yo ya he comido, pues me voy
+[0:18:20.00]-[0:18:22.00]  También caprichosa
+[0:18:22.00]-[0:18:24.00]  Yo comía en mi casa
+[0:18:24.00]-[0:18:26.00]  Aquí que hay que comer
+[0:18:26.00]-[0:18:28.00]  Mamá, que me voy a comer allí
+[0:18:28.00]-[0:18:30.00]  Yo comía donde a mí me gustaba
+[0:18:30.00]-[0:18:32.00]  Y entonces terminábamos pronto
+[0:18:32.00]-[0:18:34.00]  Y me iba
+[0:18:34.00]-[0:18:36.00]  Y yo con las niñas gratuitas
+[0:18:36.00]-[0:18:38.00]  Yo teniendo muchas amigas
+[0:18:38.00]-[0:18:40.00]  De la otra clase, porque algunas niñas
+[0:18:40.00]-[0:18:42.00]  De mi clase eran muy estiradas
+[0:18:42.00]-[0:18:44.00]  Y no querían nada
+[0:18:44.00]-[0:18:46.00]  Yo no, yo no
+[0:18:46.00]-[0:18:48.00]  Yo nunca me sentí
+[0:18:48.00]-[0:18:50.00]  Más que a otras niñas
+[0:18:50.00]-[0:18:52.00]  Hasta vaya yo a una
+[0:18:52.00]-[0:18:54.00]  Que ahora está con la cabeza
+[0:18:54.00]-[0:18:56.00]  Perdí a la pobre
+[0:18:56.00]-[0:18:58.00]  Yo le decía
+[0:18:58.00]-[0:19:00.00]  Vente a mi patio a jugar
+[0:19:00.00]-[0:19:02.00]  No puedo, digo, ¿por qué no puedes?
+[0:19:02.00]-[0:19:04.00]  Dice, porque yo no me deja
+[0:19:04.00]-[0:19:06.00]  Yo no puedo pasar por tu patio
+[0:19:06.00]-[0:19:08.00]  Para salir a la calle
+[0:19:08.00]-[0:19:10.00]  Pues vente a jugar, tú dices que vienes a jugar conmigo
+[0:19:10.00]-[0:19:12.00]  Yo no comprendía
+[0:19:12.00]-[0:19:14.00]  Que ellas tenían que estar en un lado
+[0:19:14.00]-[0:19:16.00]  Y yo tenía que estar en otro
+[0:19:16.00]-[0:19:18.00]  Eso me costó mucho trabajo
+[0:19:18.00]-[0:19:20.00]  Y usted no podía pasar tampoco a su lado
+[0:19:20.00]-[0:19:22.00]  No, yo iba a la clase de ellas
+[0:19:22.00]-[0:19:24.00]  Porque para prepararnos la comunión
+[0:19:24.00]-[0:19:26.00]  Ya se iban todas las niñas
+[0:19:26.00]-[0:19:28.00]  Y quedaban unas más que las que ellas eran más
+[0:19:28.00]-[0:19:30.00]  Y nosotros éramos siete, ocho
+[0:19:30.00]-[0:19:32.00]  Y en su edición ella ya había muchos más
+[0:19:32.00]-[0:19:34.00]  Y además tenían una monja
+[0:19:34.00]-[0:19:36.00]  Que las tenía así de recta
+[0:19:36.00]-[0:19:38.00]  Y llegaban, ellas iban así
+[0:19:38.00]-[0:19:40.00]  Y se sentaban en los bancos
+[0:19:40.00]-[0:19:42.00]  La monja con el libro
+[0:19:42.00]-[0:19:44.00]  ¡Pum!
+[0:19:44.00]-[0:19:46.00]  Y no se movían
+[0:19:46.00]-[0:19:48.00]  Más bien
+[0:19:48.00]-[0:19:50.00]  Y nosotros muy malas
+[0:19:50.00]-[0:19:52.00]  Yo con las piernas
+[0:19:52.00]-[0:19:54.00]  Y ella mirando para el otro
+[0:19:54.00]-[0:19:56.00]  Si soltaba la puerta, ve que entraba
+[0:19:56.00]-[0:19:58.00]  Y de arriba me veía la monja
+[0:19:58.00]-[0:20:00.00]  ¡Que no miras para atrás!
+[0:20:00.00]-[0:20:02.00]  ¡Que no miras para atrás!
+[0:20:02.00]-[0:20:04.00]  Eso me regañaba mucho
+[0:20:04.00]-[0:20:06.00]  Y me metía el pie debajo del asiento
+[0:20:06.00]-[0:20:08.00]  Muy mala
+[0:20:08.00]-[0:20:10.00]  Muy mala educada
+[0:20:10.00]-[0:20:12.00]  Para pagar dinero
+[0:20:12.00]-[0:20:14.00]  No nos molestaban
+[0:20:14.00]-[0:20:16.00]  No nos regañaban
+[0:20:16.00]-[0:20:18.00]  Y la otra era un encanto
+[0:20:18.00]-[0:20:20.00]  Además, era muchísimas más
+[0:20:20.00]-[0:20:22.00]  Y se llenaba la hilencia con la de ellas
+[0:20:22.00]-[0:20:24.00]  Y yo me quería ir con ellas
+[0:20:24.00]-[0:20:26.00]  Entonces los dineros
+[0:20:26.00]-[0:20:28.00]  No me entraba mucho en la cabeza
+[0:20:28.00]-[0:20:30.00]  ¿Y las demás de su clase
+[0:20:30.00]-[0:20:32.00]  Se peleaban a lo mejor
+[0:20:32.00]-[0:20:34.00]  Con los niños gratuitas?
+[0:20:34.00]-[0:20:36.00]  No, no
+[0:20:36.00]-[0:20:38.00]  Te llevaban bien
+[0:20:38.00]-[0:20:40.00]  Lo que es que no las miraban
+[0:20:40.00]-[0:20:42.00]  A otras sí
+[0:20:42.00]-[0:20:44.00]  A otras también eran caritativas
+[0:20:44.00]-[0:20:46.00]  Con ellas
+[0:20:46.00]-[0:20:48.00]  Pero
+[0:20:48.00]-[0:20:50.00]  De pelear no
+[0:20:50.00]-[0:20:52.00]  Es que salíamos
+[0:20:52.00]-[0:20:54.00]  Unos para un lado y otras por otro
+[0:20:54.00]-[0:20:56.00]  Y nos llevábamos uniformes
+[0:20:56.00]-[0:20:58.00]  Y decíamos capitanas
+[0:20:58.00]-[0:21:00.00]  Y ellas no
+[0:21:00.00]-[0:21:02.00]  Y esa cosa me dolía a mí
+[0:21:02.00]-[0:21:04.00]  Y luego más después
+[0:21:04.00]-[0:21:06.00]  Cuando ahora ya han empezado que no
+[0:21:06.00]-[0:21:08.00]  Hay una clase
+[0:21:08.00]-[0:21:10.00]  Ahora como paga mucho el Estado
+[0:21:10.00]-[0:21:12.00]  Pues ya allí no hay niñas gratuitas
+[0:21:12.00]-[0:21:14.00]  Ni con pago, allí son todas iguales
+[0:21:14.00]-[0:21:16.00]  Y eso ha cambiado mucho
+[0:21:16.00]-[0:21:18.00]  Eso sí me gusta
+[0:21:18.00]-[0:21:20.00]  Y luego las monjas también
+[0:21:20.00]-[0:21:22.00]  Me acudí a una niña gitana
+[0:21:22.00]-[0:21:24.00]  Y otro día no llevaba ni una pargata
+[0:21:24.00]-[0:21:26.00]  Y se ponía a jugar con nosotros
+[0:21:26.00]-[0:21:28.00]  A saltar
+[0:21:28.00]-[0:21:30.00]  Cuando no debía de entrar con ellos
+[0:21:30.00]-[0:21:32.00]  Ya tendría los 7 años
+[0:21:32.00]-[0:21:34.00]  O los 8
+[0:21:34.00]-[0:21:36.00]  Y había una monja
+[0:21:36.00]-[0:21:38.00]  Era americana
+[0:21:38.00]-[0:21:40.00]  Y yo dije no
+[0:21:40.00]-[0:21:42.00]  No, tú no puedes entrar
+[0:21:42.00]-[0:21:44.00]  Y yo dije es malo
+[0:21:44.00]-[0:21:46.00]  Porque de ahora que entres y aprendas también
+[0:21:46.00]-[0:21:48.00]  Dice no, eso la madre roba
+[0:21:48.00]-[0:21:50.00]  Son mitanos, esa madre roba
+[0:21:50.00]-[0:21:52.00]  Y yo dije, roba
+[0:21:52.00]-[0:21:54.00]  Pero luego de más ya digo, bueno claro que robaría
+[0:21:54.00]-[0:21:56.00]  Porque tenía que dar de comer a su cío
+[0:21:56.00]-[0:21:58.00]  Y si no lo reclamaba tendría que robar
+[0:21:58.00]-[0:22:00.00]  Pero eso lo comprendí más tarde
+[0:22:00.00]-[0:22:02.00]  Y no la dejaban de entrar al colegio
+[0:22:02.00]-[0:22:04.00]  Y a mí me daba lástima de ella
+[0:22:04.00]-[0:22:06.00]  Porque ella muchas veces quería entrar
+[0:22:06.00]-[0:22:08.00]  Me entró contigo
+[0:22:08.00]-[0:22:10.00]  Y digo sí, métete detrás
+[0:22:10.00]-[0:22:12.00]  De esa niña
+[0:22:12.00]-[0:22:14.00]  Y luego ya
+[0:22:14.00]-[0:22:16.00]  No es porque diga que yo sea más carida
+[0:22:16.00]-[0:22:18.00]  Pero luego después
+[0:22:18.00]-[0:22:20.00]  Cuando yo tenía
+[0:22:20.00]-[0:22:22.00]  Los 16 años
+[0:22:22.00]-[0:22:24.00]  A los 17
+[0:22:24.00]-[0:22:26.00]  Una abuela mía era de la Viñuela
+[0:22:26.00]-[0:22:28.00]  Entonces había primahermana de mi padre
+[0:22:28.00]-[0:22:30.00]  Y como yo tuve disfos a los 13 años
+[0:22:30.00]-[0:22:32.00]  Me quedé mudergadilla
+[0:22:32.00]-[0:22:34.00]  Me mandaban allí porque ahí había mucha comida más
+[0:22:34.00]-[0:22:36.00]  Que en mi casa a lo mejor
+[0:22:36.00]-[0:22:38.00]  Y se murió
+[0:22:38.00]-[0:22:40.00]  Había la estación
+[0:22:40.00]-[0:22:42.00]  Estaba a 3 kilómetros
+[0:22:42.00]-[0:22:44.00]  Y yo estaba en la estación
+[0:22:44.00]-[0:22:46.00]  Y yo estaba en la estación
+[0:22:46.00]-[0:22:48.00]  La estación estaba a 3 kilómetros
+[0:22:48.00]-[0:22:50.00]  Una estación que ya desaparecido
+[0:22:50.00]-[0:22:52.00]  Que era la del sur urbano
+[0:22:52.00]-[0:22:54.00]  Y esa llegaba hasta
+[0:22:54.00]-[0:22:56.00]  Periana
+[0:22:56.00]-[0:22:58.00]  Y a Periana había
+[0:22:58.00]-[0:23:00.00]  Un tren de cremallera
+[0:23:00.00]-[0:23:02.00]  Se quitaban los vagones
+[0:23:02.00]-[0:23:04.00]  Y se quedaba uno y subía de cremallera
+[0:23:04.00]-[0:23:06.00]  A otro pueblo
+[0:23:06.00]-[0:23:08.00]  Entonces de
+[0:23:08.00]-[0:23:10.00]  La estación al
+[0:23:10.00]-[0:23:12.00]  Pueblo pues había unos 3 kilómetros
+[0:23:12.00]-[0:23:14.00]  Entonces había una madre
+[0:23:14.00]-[0:23:16.00]  Gitana con una niña en brazo
+[0:23:16.00]-[0:23:18.00]  Que venía de operar la de la espina
+[0:23:18.00]-[0:23:20.00]  Y le dio de subirla
+[0:23:20.00]-[0:23:22.00]  Para mí habían mandado mis tíos una tartana
+[0:23:22.00]-[0:23:24.00]  Y el hombre dice no
+[0:23:24.00]-[0:23:26.00]  Que va a llevar todas las cosas
+[0:23:26.00]-[0:23:28.00]  Y yo le digo no
+[0:23:28.00]-[0:23:30.00]  Porque la tartana
+[0:23:30.00]-[0:23:32.00]  Puede contraer con 4 porque no va a poder con la niña
+[0:23:32.00]-[0:23:34.00]  Que si que se suba aquí a mi lado
+[0:23:34.00]-[0:23:36.00]  Que si que si
+[0:23:36.00]-[0:23:38.00]  Eso si lo he sentido
+[0:23:38.00]-[0:23:40.00]  Será por mi madre
+[0:23:40.00]-[0:23:42.00]  Que no tenía madre y lo acudía mucho
+[0:23:42.00]-[0:23:44.00]  Yo nunca
+[0:23:44.00]-[0:23:46.00]  Yo soy un carita
+[0:23:46.00]-[0:23:48.00]  Y la gente conmigo
+[0:23:48.00]-[0:23:50.00]  Era una abuelita muy contenta
+[0:23:50.00]-[0:23:52.00]  Y a la madre no la dio de subir
+[0:23:52.00]-[0:23:54.00]  Y tenía que venir a la pobrecita
+[0:23:54.00]-[0:23:56.00]  Es muy contenta la madre de que venía a subir a su vida
+[0:23:56.00]-[0:23:58.00]  Pues en aquel verano
+[0:23:58.00]-[0:24:00.00]  Que yo estaba allí pues se murió
+[0:24:00.00]-[0:24:02.00]  Entonces empecé
+[0:24:02.00]-[0:24:04.00]  Dieron mira cuando aquí no se muere
+[0:24:04.00]-[0:24:06.00]  Le llevan flores, yo coí muchos jarmines
+[0:24:06.00]-[0:24:08.00]  Porque allí en el jardín de mis tíos tenían muchos jarmines
+[0:24:08.00]-[0:24:10.00]  Para llevarlo y quise yo ir a llevarlo
+[0:24:10.00]-[0:24:12.00]  Y el otro día me dió que no
+[0:24:12.00]-[0:24:14.00]  Y yo dije tú que vas a ir allí
+[0:24:14.00]-[0:24:16.00]  Y yo dije no me viva allí arriba por el castillo
+[0:24:16.00]-[0:24:18.00]  Que él decía yo voy a preguntar
+[0:24:18.00]-[0:24:20.00]  Y le llevo los jarmines
+[0:24:20.00]-[0:24:22.00]  Y yo dije tú que los jarmines
+[0:24:22.00]-[0:24:24.00]  Los mandamos con
+[0:24:24.00]-[0:24:26.00]  ¿Cómo se llama?
+[0:24:26.00]-[0:24:28.00]  Era una muchacha
+[0:24:28.00]-[0:24:30.00]  Allí había 4
+[0:24:30.00]-[0:24:32.00]  Unas para la baja para el otro
+[0:24:32.00]-[0:24:34.00]  No, no tú no vas allí que a ellos no les gustamos nosotros
+[0:24:34.00]-[0:24:36.00]  Que ellos dicen para yo
+[0:24:36.00]-[0:24:38.00]  Que no, uy tú vas allí y allí no quieren
+[0:24:38.00]-[0:24:40.00]  ¿Por qué no les puedo llevar los jarmines a la niña?
+[0:24:40.00]-[0:24:42.00]  Que no
+[0:24:42.00]-[0:24:44.00]  No me diaron de llevar los jarmines
+[0:24:44.00]-[0:24:46.00]  Y aquel sentimiento lo tenía yo siempre
+[0:24:46.00]-[0:24:48.00]  Dijo bueno porque no me iba yo a entrar
+[0:24:48.00]-[0:24:50.00]  Es que me iba a salar a la oita
+[0:24:50.00]-[0:24:52.00]  No me iban a matar
+[0:24:52.00]-[0:24:54.00]  Al contrario, ahora comprendo lo que es
+[0:24:54.00]-[0:24:56.00]  Lo que me agradecería
+[0:24:56.00]-[0:24:58.00]  Porque ahora es la otra calle que yo viví
+[0:24:58.00]-[0:25:00.00]  Y el niño lo pilló el coche
+[0:25:00.00]-[0:25:02.00]  En la calle
+[0:25:02.00]-[0:25:04.00]  Y enseguida fui yo a su casa a verlo
+[0:25:04.00]-[0:25:06.00]  Bueno por lo agradecía
+[0:25:06.00]-[0:25:08.00]  Siempre estamos ya de amiga, amiga, amiga
+[0:25:08.00]-[0:25:10.00]  Y ahora me venía yo de otra calle
+[0:25:10.00]-[0:25:12.00]  Y siempre que me abraza
+[0:25:12.00]-[0:25:14.00]  Los gitanos son buenos
+[0:25:14.00]-[0:25:16.00]  Lo que pasa es que lo vemos
+[0:25:16.00]-[0:25:18.00]  Siempre lo vemos apartado mucho
+[0:25:18.00]-[0:25:20.00]  Y hoy no
+[0:25:20.00]-[0:25:22.00]  Ya se están educando
+[0:25:22.00]-[0:25:24.00]  Con mucho trabajo
+[0:25:24.00]-[0:25:26.00]  Pero se van metiendo
+[0:25:26.00]-[0:25:28.00]  En la sociedad
+[0:25:28.00]-[0:25:30.00]  Y ya se aceptan
+[0:25:30.00]-[0:25:32.00]  Ya hay muchos con dinero
+[0:25:32.00]-[0:25:34.00]  Pues ya se aceptan más los gitanos
+[0:25:34.00]-[0:25:36.00]  ¿Qué más queréis que os diga?
+[0:25:36.00]-[0:25:38.00]  Pues yo estoy hablando mucho
+[0:25:38.00]-[0:25:40.00]  Sí, sí, pero bueno
+[0:25:40.00]-[0:25:42.00]  Cuando diga disparate
+[0:25:42.00]-[0:25:44.00]  Me dejas ahí
+[0:25:44.00]-[0:25:46.00]  Pues no dice usted ningún disparate
+[0:25:46.00]-[0:25:48.00]  Tiene mucha razón
+[0:25:48.00]-[0:25:50.00]  He contado cosas de la niñez
+[0:25:50.00]-[0:25:52.00]  ¿A qué cosas jugaban con sus hermanos?
+[0:25:52.00]-[0:25:54.00]  Oh, con mi hermano
+[0:25:54.00]-[0:25:56.00]  ¡Qué pelea!
+[0:25:56.00]-[0:25:58.00]  A ellos los reyes le echaban patines
+[0:25:58.00]-[0:26:00.00]  Había una muñeca
+[0:26:00.00]-[0:26:02.00]  La muñeca suelta
+[0:26:02.00]-[0:26:04.00]  Yo quiero un patín
+[0:26:04.00]-[0:26:06.00]  Y pues que los reyes a mí no me han echado patines
+[0:26:06.00]-[0:26:08.00]  Entonces, mi primo
+[0:26:08.00]-[0:26:10.00]  Yo le digo primo
+[0:26:10.00]-[0:26:12.00]  Que era tío
+[0:26:12.00]-[0:26:14.00]  Se llamaba...
+[0:26:14.00]-[0:26:16.00]  Y acá a él le decíamos García
+[0:26:16.00]-[0:26:18.00]  Y a mi hermano me...
+[0:26:18.00]-[0:26:20.00]  Entonces ellos me emprestaban patines
+[0:26:20.00]-[0:26:22.00]  Desde la esquina Barrero
+[0:26:22.00]-[0:26:24.00]  A la calle de Ovipo
+[0:26:24.00]-[0:26:26.00]  Hasta aquella esquina, venga, venga
+[0:26:26.00]-[0:26:28.00]  Mi hermano nunca
+[0:26:28.00]-[0:26:30.00]  Yo tenía que ser niña
+[0:26:30.00]-[0:26:34.00]  Y qué otra reyes que también pasé yo mucho más rato
+[0:26:34.00]-[0:26:36.00]  La bicicleta tampoco era para las niñas
+[0:26:36.00]-[0:26:42.00]  La bicicleta yo le hiciera unos tres ciclos que eran de tres ruedas
+[0:26:42.00]-[0:26:44.00]  Y tampoco a mí no
+[0:26:44.00]-[0:26:46.00]  A mí no
+[0:26:46.00]-[0:26:48.00]  A mí me echaban las cosas de niña
+[0:26:48.00]-[0:26:50.00]  Entonces que yo
+[0:26:50.00]-[0:26:52.00]  Los más rato que yo pasaba los reyes
+[0:26:52.00]-[0:26:54.00]  Y con ellos
+[0:26:54.00]-[0:26:56.00]  Y mi hermano
+[0:26:56.00]-[0:26:58.00]  Mi hermano siempre me ha emprestado todo
+[0:26:58.00]-[0:27:00.00]  Jugaban ellos mucho al salto rato
+[0:27:00.00]-[0:27:02.00]  Ellos un se agacha y el otro así
+[0:27:02.00]-[0:27:04.00]  Le pone las manos y saltan por arriba
+[0:27:04.00]-[0:27:06.00]  Eso era de niño
+[0:27:06.00]-[0:27:08.00]  Pues yo quería jugar
+[0:27:08.00]-[0:27:10.00]  Entonces mi hermano y mi hija me llevaban a mi casa
+[0:27:10.00]-[0:27:12.00]  Y en el cuerpo casa
+[0:27:12.00]-[0:27:14.00]  Que era muy grande
+[0:27:14.00]-[0:27:16.00]  Venga, yo te me agacho
+[0:27:16.00]-[0:27:18.00]  Salta tú
+[0:27:18.00]-[0:27:20.00]  Y jugaba yo al salto rato
+[0:27:20.00]-[0:27:22.00]  En la calle nunca te ven y tú eras niña
+[0:27:22.00]-[0:27:24.00]  Así que yo en la calle no podía jugar al salto rato
+[0:27:24.00]-[0:27:26.00]  Yo al saltar
+[0:27:26.00]-[0:27:28.00]  A una, a otra
+[0:27:28.00]-[0:27:30.00]  Eso también jugábamos
+[0:27:30.00]-[0:27:32.00]  Los aros
+[0:27:32.00]-[0:27:34.00]  También
+[0:27:34.00]-[0:27:36.00]  Eran más de niños pero vaya
+[0:27:36.00]-[0:27:38.00]  Yo también tuve aros
+[0:27:38.00]-[0:27:40.00]  Y que me ha jugado te digo yo
+[0:27:40.00]-[0:27:42.00]  Los niños jugaban mucho a las bolas
+[0:27:42.00]-[0:27:44.00]  Entonces nosotros en el colegio también jugábamos
+[0:27:44.00]-[0:27:46.00]  A las bolas
+[0:27:46.00]-[0:27:48.00]  Y
+[0:27:48.00]-[0:27:50.00]  Ya después de la guerra
+[0:27:50.00]-[0:27:52.00]  Ya tenía yo para los doce años
+[0:27:52.00]-[0:27:54.00]  Y entonces había
+[0:27:54.00]-[0:27:56.00]  Como en la guerra
+[0:27:56.00]-[0:27:58.00]  No se podían llevar niñas internas
+[0:27:58.00]-[0:28:00.00]  Que había una
+[0:28:00.00]-[0:28:02.00]  Que todavía está en la casa
+[0:28:02.00]-[0:28:04.00]  Y vive una hermana
+[0:28:04.00]-[0:28:06.00]  Y había la más chica
+[0:28:06.00]-[0:28:08.00]  Que tenía unos catorce o quince años
+[0:28:08.00]-[0:28:10.00]  Por la meter en el colegio
+[0:28:10.00]-[0:28:12.00]  Interna, porque al padre lo mataron
+[0:28:12.00]-[0:28:14.00]  En la guerra
+[0:28:14.00]-[0:28:16.00]  Y
+[0:28:16.00]-[0:28:18.00]  Y a ella la metieron interna
+[0:28:18.00]-[0:28:20.00]  En la victoria, que ella ninguna
+[0:28:20.00]-[0:28:22.00]  Había ido, la hermana había una
+[0:28:22.00]-[0:28:24.00]  O
+[0:28:24.00]-[0:28:26.00]  Nunca fueron a los colegios
+[0:28:26.00]-[0:28:28.00]  De aquí de Antequera, estaban en
+[0:28:28.00]-[0:28:30.00]  En Madrid, en el corazón
+[0:28:30.00]-[0:28:32.00]  De Jesús, no sé
+[0:28:32.00]-[0:28:34.00]  A esa no, y luego después
+[0:28:34.00]-[0:28:36.00]  No sé si fue
+[0:28:36.00]-[0:28:38.00]  A Suiza, a un colegio de Suiza
+[0:28:38.00]-[0:28:40.00]  Todo de bien
+[0:28:40.00]-[0:28:42.00]  Pero entonces pues no podría ir al extranjero
+[0:28:42.00]-[0:28:44.00]  Lo que fuera, a la
+[0:28:44.00]-[0:28:46.00]  Interna allí
+[0:28:46.00]-[0:28:48.00]  Y era un poquillo
+[0:28:48.00]-[0:28:50.00]  Rarilla, ella se ponía bueno
+[0:28:50.00]-[0:28:52.00]  Y le gané un día una bola
+[0:28:52.00]-[0:28:54.00]  Que era
+[0:28:54.00]-[0:28:56.00]  Blanca con unas cosas azules
+[0:28:56.00]-[0:28:58.00]  Una bola más especial que la de otras
+[0:28:58.00]-[0:29:00.00]  De barro, pero decía que
+[0:29:00.00]-[0:29:02.00]  Había hecho fujería y yo decía que no
+[0:29:02.00]-[0:29:04.00]  Que la había ganado, que la había ganado
+[0:29:04.00]-[0:29:06.00]  Y entonces, correr por todos los lados
+[0:29:06.00]-[0:29:08.00]  Tanto corrí, corrí, que me metí
+[0:29:08.00]-[0:29:10.00]  En la clausura
+[0:29:10.00]-[0:29:12.00]  Y me metí detrás de una puerta y era
+[0:29:12.00]-[0:29:14.00]  La cocina, y había
+[0:29:14.00]-[0:29:16.00]  Eso se me acuerda los clavillos y algunos paños
+[0:29:16.00]-[0:29:18.00]  Y coroaba detrás, y las monjas
+[0:29:18.00]-[0:29:20.00]  Resando, yo yo yo yo
+[0:29:20.00]-[0:29:22.00]  Había dos, las novices
+[0:29:22.00]-[0:29:24.00]  Y había un banquillo
+[0:29:24.00]-[0:29:26.00]  Y se subía una para mover la hoja, yo que sé
+[0:29:26.00]-[0:29:28.00]  Porque sería una hoja muy grande
+[0:29:28.00]-[0:29:30.00]  Y yo chica ya, hasta que ya vi
+[0:29:30.00]-[0:29:32.00]  Que ella no me veía, me escapé
+[0:29:32.00]-[0:29:34.00]  Entonces, era la maestra
+[0:29:34.00]-[0:29:36.00]  Mía, dice, ¿dónde está?
+[0:29:36.00]-[0:29:38.00]  Digo, está en la cocina
+[0:29:38.00]-[0:29:40.00]  Había dos con los velos blancos
+[0:29:40.00]-[0:29:42.00]  Que eran novices, yo estaba
+[0:29:42.00]-[0:29:44.00]  Dice, tú acierta, aquí hay clausura
+[0:29:44.00]-[0:29:46.00]  Como entro, digo, ¿qué voy a hacer?
+[0:29:46.00]-[0:29:48.00]  Me quería pegar
+[0:29:48.00]-[0:29:50.00]  Y yo, me metí
+[0:29:50.00]-[0:29:54.00]  En la clausura, que yo era malísima
+[0:29:54.00]-[0:29:56.00]  Nosotros, la clausura que yo era
+[0:29:56.00]-[0:29:58.00]  Que no se podía ver nada de las novices
+[0:29:58.00]-[0:30:00.00]  Ni podían hablar con nosotros
+[0:30:00.00]-[0:30:02.00]  Ni nada, hubo una amiga mía
+[0:30:02.00]-[0:30:04.00]  Que después fue monja, era un poquito mayor
+[0:30:04.00]-[0:30:06.00]  Se llamaba
+[0:30:06.00]-[0:30:08.00]  Y hoy un día
+[0:30:08.00]-[0:30:10.00]  Un rato
+[0:30:10.00]-[0:30:12.00]  Lo lió y se lo echó al barcón
+[0:30:12.00]-[0:30:14.00]  De las novices, al rato
+[0:30:14.00]-[0:30:16.00]  Las novices, como eran muertas
+[0:30:16.00]-[0:30:18.00]  Muchachas mojadas
+[0:30:18.00]-[0:30:20.00]  Pues formaron chillería horrorosa
+[0:30:20.00]-[0:30:22.00]  Pero luego ella se metió monja
+[0:30:22.00]-[0:30:24.00]  Y llegó a ser superiora
+[0:30:24.00]-[0:30:26.00]  Y en el alto mando también se metió
+[0:30:26.00]-[0:30:30.00]  Pero le pusieron un nombre tan largo
+[0:30:34.00]-[0:30:36.00]  Estuvo muchos años en América
+[0:30:36.00]-[0:30:38.00]  ¿De misionera?
+[0:30:38.00]-[0:30:40.00]  Ella estuvo
+[0:30:40.00]-[0:30:42.00]  Esperate, hubo un terremoto muy malo
+[0:30:42.00]-[0:30:44.00]  Que dice la cocina se nos quedaba
+[0:30:44.00]-[0:30:46.00]  Nicaragua
+[0:30:46.00]-[0:30:48.00]  ¿Cómo hay otra cosa?
+[0:30:48.00]-[0:30:50.00]  ¿En Honduras?
+[0:30:50.00]-[0:30:52.00]  No, en Honduras no
+[0:30:52.00]-[0:30:54.00]  Nicaragua
+[0:30:54.00]-[0:30:56.00]  Nicaragua sería
+[0:30:56.00]-[0:30:58.00]  Allí tendrán convento las monjas
+[0:30:58.00]-[0:31:00.00]  El que tiene más panillas ricas
+[0:31:00.00]-[0:31:02.00]  Es en Santo Domingo
+[0:31:02.00]-[0:31:04.00]  Que salen de abogados
+[0:31:04.00]-[0:31:06.00]  Tienen ya
+[0:31:06.00]-[0:31:08.00]  De estudios
+[0:31:08.00]-[0:31:10.00]  Como aquí la Inmaculada
+[0:31:10.00]-[0:31:12.00]  Salen más heterios
+[0:31:12.00]-[0:31:14.00]  Pues allí tenían de niña abogada
+[0:31:14.00]-[0:31:16.00]  Eso en Santo Domingo
+[0:31:16.00]-[0:31:18.00]  Que también decía
+[0:31:18.00]-[0:31:20.00]  Yo no voy a estar, pero algunas monjas
+[0:31:20.00]-[0:31:22.00]  Que eran amigas mías
+[0:31:22.00]-[0:31:24.00]  Decían, este día allí también hay muchas clases
+[0:31:24.00]-[0:31:26.00]  Muchas pobres
+[0:31:26.00]-[0:31:28.00]  Nosotros estamos con los ricos
+[0:31:28.00]-[0:31:30.00]  Pero allí hay mucha gente pobre
+[0:31:30.00]-[0:31:32.00]  En Santo Domingo
+[0:31:32.00]-[0:31:34.00]  Hablaban allá
+[0:31:34.00]-[0:31:36.00]  Que te digo yo
+[0:31:36.00]-[0:31:38.00]  Pues en los años 50 y eso sí
+[0:31:38.00]-[0:31:40.00]  Ya en los 50 me casé yo
+[0:31:40.00]-[0:31:42.00]  En los 57
+[0:31:42.00]-[0:31:44.00]  Me parece a mí que me casé
+[0:31:44.00]-[0:31:46.00]  ¿Y cómo se conocían
+[0:31:46.00]-[0:31:48.00]  Con los chicos?
+[0:31:48.00]-[0:31:50.00]  ¿Cuántos se ennojaban y todo eso?
+[0:31:50.00]-[0:31:52.00]  Ah, aquello ha cambiado muchísimo
+[0:31:52.00]-[0:31:54.00]  Sí, verdad
+[0:31:54.00]-[0:31:56.00]  Mi hermano
+[0:31:56.00]-[0:31:58.00]  Ya cuando yo tenía los 14
+[0:31:58.00]-[0:32:00.00]  Ya me había dado cuenta que yo ya era
+[0:32:00.00]-[0:32:02.00]  Mi niña y mi amiga aparte
+[0:32:02.00]-[0:32:04.00]  Toda aparte
+[0:32:04.00]-[0:32:06.00]  Pues llegaban los amigos de mi hermano
+[0:32:06.00]-[0:32:08.00]  ¿Cómo se llamaba?
+[0:32:08.00]-[0:32:10.00]  ¿El antiguo?
+[0:32:10.00]-[0:32:12.00]  Ese sí está vivo
+[0:32:12.00]-[0:32:14.00]  Bueno
+[0:32:14.00]-[0:32:16.00]  Tres, casi siempre había tres
+[0:32:16.00]-[0:32:18.00]  Por mi hermano
+[0:32:18.00]-[0:32:20.00]  Porque luego se iba a San Pedro a misa
+[0:32:20.00]-[0:32:22.00]  Y era de la Ación Católica
+[0:32:22.00]-[0:32:24.00]  Y yo estaba en mi parroquia
+[0:32:24.00]-[0:32:26.00]  En San Sebastián
+[0:32:26.00]-[0:32:28.00]  Y la misa era a las 11 de la tarde en un lado y al otro
+[0:32:28.00]-[0:32:30.00]  Bueno, pues yo
+[0:32:30.00]-[0:32:32.00]  Cuarto baño todavía no teníamos
+[0:32:32.00]-[0:32:34.00]  Teníamos un cuarto donde nos lavábamos
+[0:32:34.00]-[0:32:36.00]  Y había una cosa como lata
+[0:32:36.00]-[0:32:38.00]  Un latón o un cuchillo lo conocía
+[0:32:38.00]-[0:32:40.00]  Para sentarse y por aquí era
+[0:32:40.00]-[0:32:42.00]  Alto y se sentaba y se lavaba
+[0:32:42.00]-[0:32:44.00]  Y aquello se calentaba en mi casa
+[0:32:44.00]-[0:32:46.00]  Cuando a mis padres les dolía el riñón
+[0:32:46.00]-[0:32:48.00]  Que se los sentaba y les ponían agua caliente
+[0:32:48.00]-[0:32:50.00]  Y yo me tenía que ponerlo
+[0:32:50.00]-[0:32:52.00]  Por el oído para mirar pero claro como estaba
+[0:32:52.00]-[0:32:54.00]  Que yo hacía un alto no lo veía yo
+[0:32:54.00]-[0:32:56.00]  Nada más que de qué hacía, ay, ay
+[0:32:56.00]-[0:32:58.00]  Que le daba dolor de riñón
+[0:32:58.00]-[0:33:00.00]  Y entonces aquello lo calentaba para mi padre
+[0:33:00.00]-[0:33:02.00]  A nosotros nos lavaban en una palancana
+[0:33:02.00]-[0:33:04.00]  Grande y un baño después a mi hermano
+[0:33:04.00]-[0:33:06.00]  Y cuando era verano
+[0:33:06.00]-[0:33:08.00]  A casa de mis tíos
+[0:33:08.00]-[0:33:10.00]  A lo de la agua con el sol
+[0:33:10.00]-[0:33:12.00]  No teníamos cuarto baño
+[0:33:12.00]-[0:33:14.00]  Y un retrete teníamos en el patio
+[0:33:14.00]-[0:33:16.00]  Cuando yo era chica
+[0:33:16.00]-[0:33:18.00]  Un retrete en el patio
+[0:33:18.00]-[0:33:20.00]  Teníamos que cruzar si llovía
+[0:33:20.00]-[0:33:22.00]  No teníamos luz
+[0:33:22.00]-[0:33:24.00]  Y después cuando yo ya me casé un poco antes
+[0:33:24.00]-[0:33:26.00]  Había hecho un cuarto baño
+[0:33:26.00]-[0:33:28.00]  Bueno, ya digo, ahora voy a hacer cuarto baño
+[0:33:28.00]-[0:33:30.00]  Ahora que me voy a ir yo de aquí
+[0:33:30.00]-[0:33:34.00]  Se hizo un retrete arriba
+[0:33:34.00]-[0:33:36.00]  Porque mi padre le daba dolor de riñón
+[0:33:36.00]-[0:33:38.00]  Para que no saliera en el invierno
+[0:33:38.00]-[0:33:40.00]  Y ahí hicieron un retrete arriba
+[0:33:40.00]-[0:33:44.00]  Y una pilita de agua
+[0:33:44.00]-[0:33:46.00]  Pero para quebara el agua no teníamos
+[0:33:46.00]-[0:33:48.00]  Se puso mucho después
+[0:33:48.00]-[0:33:50.00]  También
+[0:33:50.00]-[0:33:52.00]  Y los juegos, ya te digo que
+[0:33:52.00]-[0:33:54.00]  Nosotros las niñas aparte
+[0:33:54.00]-[0:33:56.00]  Jugábamos mucho al diablo
+[0:33:56.00]-[0:33:58.00]  A tirar al diablo para arriba
+[0:33:58.00]-[0:34:00.00]  Y jugaba a la pelota
+[0:34:00.00]-[0:34:02.00]  Unas, dos, tres, dentro de la pared
+[0:34:02.00]-[0:34:04.00]  Eso yo sola también jugaba
+[0:34:04.00]-[0:34:06.00]  Pero
+[0:34:06.00]-[0:34:08.00]  Distinto a los niños
+[0:34:08.00]-[0:34:12.00]  En los días de la guerra
+[0:34:12.00]-[0:34:14.00]  Nosotros nos tomaron los primeros
+[0:34:14.00]-[0:34:16.00]  Y para la guerra tardaba dos o seis meses
+[0:34:16.00]-[0:34:18.00]  Y entonces había
+[0:34:18.00]-[0:34:20.00]  Había un capitán
+[0:34:20.00]-[0:34:22.00]  O teniente
+[0:34:22.00]-[0:34:24.00]  Ya tenía una casa y un asistente
+[0:34:24.00]-[0:34:26.00]  Y había un asistente
+[0:34:26.00]-[0:34:28.00]  Era casi como mi hermano
+[0:34:28.00]-[0:34:30.00]  17 años
+[0:34:30.00]-[0:34:32.00]  Tenía hasta 14
+[0:34:32.00]-[0:34:34.00]  Tenía unos 16 años
+[0:34:34.00]-[0:34:36.00]  Se venían con los capitán
+[0:34:36.00]-[0:34:38.00]  Pero era un niño
+[0:34:38.00]-[0:34:40.00]  Y jugaba con nosotros
+[0:34:40.00]-[0:34:42.00]  A correr, a pillar
+[0:34:42.00]-[0:34:44.00]  O a escondernos detrás de las puertas
+[0:34:44.00]-[0:34:46.00]  Eso era lo que teníamos
+[0:34:46.00]-[0:34:48.00]  Y ese morú jugaba también con nosotros
+[0:34:48.00]-[0:34:50.00]  ¿Y no les daban miedo los soldados?
+[0:34:50.00]-[0:34:52.00]  No, no, mi hermano no
+[0:34:52.00]-[0:34:54.00]  Como era media de los soldados
+[0:34:54.00]-[0:34:56.00]  Pero me trajo un...
+[0:34:56.00]-[0:34:58.00]  Ah, porque los moros
+[0:34:58.00]-[0:35:00.00]  Cuando entraban a las casas
+[0:35:00.00]-[0:35:02.00]  Pues tenían permiso para robar
+[0:35:02.00]-[0:35:04.00]  Los que se iban
+[0:35:04.00]-[0:35:06.00]  Por ejemplo en Antequera
+[0:35:06.00]-[0:35:08.00]  Cuando les iban a tomar las
+[0:35:08.00]-[0:35:10.00]  Pues empezaron a asustar mucho
+[0:35:10.00]-[0:35:12.00]  Que se vienen cortando los pechos
+[0:35:12.00]-[0:35:14.00]  Que ellos no sé qué
+[0:35:14.00]-[0:35:16.00]  Que vienen entrando moros
+[0:35:16.00]-[0:35:18.00]  Y mucha gente se asustaron
+[0:35:18.00]-[0:35:20.00]  Uno era... porque eran republicanos
+[0:35:20.00]-[0:35:22.00]  O fueran socialistas
+[0:35:22.00]-[0:35:24.00]  O lo que sea, pues se iban
+[0:35:24.00]-[0:35:26.00]  Pero otros no
+[0:35:26.00]-[0:35:28.00]  Otros se iban porque estaban asustados
+[0:35:28.00]-[0:35:30.00]  De ver cómo iban a entrar las tropas
+[0:35:30.00]-[0:35:32.00]  Como nosotros éramos de los primeros
+[0:35:32.00]-[0:35:34.00]  Cuando que Hipotellano se...
+[0:35:34.00]-[0:35:36.00]  Se sublegó en Sevilla
+[0:35:36.00]-[0:35:38.00]  Pues fue de los primeros
+[0:35:38.00]-[0:35:40.00]  Y se fueron muchos para Málaga
+[0:35:40.00]-[0:35:42.00]  Para donde podían parcar
+[0:35:42.00]-[0:35:44.00]  Y todo eso
+[0:35:44.00]-[0:35:46.00]  Y entonces había una casa cerrada
+[0:35:46.00]-[0:35:48.00]  Y la rompían
+[0:35:48.00]-[0:35:50.00]  Y allí en mi calle unas 4 casas más
+[0:35:50.00]-[0:35:52.00]  Que todavía no han hecho la obra
+[0:35:52.00]-[0:35:54.00]  Hay un curral ahora
+[0:35:54.00]-[0:35:56.00]  Eso era un...
+[0:35:56.00]-[0:35:58.00]  Era como una media clase alta
+[0:35:58.00]-[0:36:00.00]  La madre
+[0:36:00.00]-[0:36:02.00]  Sacaba muelas
+[0:36:02.00]-[0:36:04.00]  Y el padre era relojero
+[0:36:04.00]-[0:36:06.00]  Entonces aquella casa me envían movil
+[0:36:06.00]-[0:36:08.00]  Y tenían una casa en Málaga
+[0:36:08.00]-[0:36:10.00]  En la calle Álamo
+[0:36:10.00]-[0:36:12.00]  Y se iban los veranos allí
+[0:36:12.00]-[0:36:14.00]  Yo no sé si se bañaban ellas
+[0:36:14.00]-[0:36:16.00]  Porque entonces bañarse las muelas
+[0:36:16.00]-[0:36:18.00]  Y ponerse el cuero
+[0:36:18.00]-[0:36:20.00]  Ellos eran tres hermanas y un hermano
+[0:36:20.00]-[0:36:22.00]  Y eso se iban a Málaga
+[0:36:22.00]-[0:36:24.00]  Y entonces los moros como estaba cerrada
+[0:36:24.00]-[0:36:26.00]  La rompieron
+[0:36:26.00]-[0:36:28.00]  Y cogieron las cosas
+[0:36:28.00]-[0:36:30.00]  Y entonces de allí
+[0:36:30.00]-[0:36:32.00]  Mi madre decía eso es de allí
+[0:36:32.00]-[0:36:34.00]  Me regaló un anillo
+[0:36:34.00]-[0:36:36.00]  Me acuerdo que era con una emeralda
+[0:36:36.00]-[0:36:38.00]  Entonces yo no sabía emeralda
+[0:36:38.00]-[0:36:40.00]  Yo sabía verde, una piedra verde
+[0:36:40.00]-[0:36:42.00]  Y...
+[0:36:42.00]-[0:36:44.00]  Y dice, oye papá que me ha dado...
+[0:36:44.00]-[0:36:46.00]  Maumé, yo no sé qué, cómo se llamaba
+[0:36:46.00]-[0:36:48.00]  Pues ahí se lo da
+[0:36:48.00]-[0:36:50.00]  Sabes de donde es, quién es
+[0:36:50.00]-[0:36:52.00]  Venga, te voy a dar el anillo
+[0:36:52.00]-[0:36:54.00]  Si crees que nosotros vamos a coger las cosas
+[0:36:54.00]-[0:36:56.00]  Porque algunos vecinos se aprovechaban
+[0:36:56.00]-[0:36:58.00]  Y entraban y robaban también
+[0:36:58.00]-[0:37:00.00]  Los paisanos también hacían cosas
+[0:37:00.00]-[0:37:02.00]  Entonces tuve que dar el anillo
+[0:37:02.00]-[0:37:04.00]  No me pude quedar con el anillo
+[0:37:04.00]-[0:37:06.00]  Mi madre no quería nada
+[0:37:06.00]-[0:37:08.00]  No sabía que se me tiraba algo
+[0:37:08.00]-[0:37:10.00]  No quería líos
+[0:37:10.00]-[0:37:12.00]  Tuve que devolver
+[0:37:12.00]-[0:37:14.00]  Y ese morunga va con nosotros
+[0:37:14.00]-[0:37:16.00]  Y yo puedo decir que murió
+[0:37:18.00]-[0:37:20.00]  En la guerra aquí murieron muchos moros
+[0:37:22.00]-[0:37:24.00]  Un cementerio de moros
+[0:37:24.00]-[0:37:26.00]  Los que también mataron para ir a tomar Málaga
+[0:37:26.00]-[0:37:28.00]  Murieron muchos moros también
+[0:37:28.00]-[0:37:30.00]  Me parece a mí que eran nueve
+[0:37:30.00]-[0:37:32.00]  Quizás los que el cementerio que hicieron aquí
+[0:37:32.00]-[0:37:34.00]  Aparte
+[0:37:34.00]-[0:37:36.00]  Pero ya eso se lo han llevado a Marruecos y lo han quitado
+[0:37:36.00]-[0:37:38.00]  Eso allí
+[0:37:38.00]-[0:37:40.00]  Italianos también siete
+[0:37:40.00]-[0:37:42.00]  Pero ya estaban en el cementerio nuestro
+[0:37:42.00]-[0:37:44.00]  Los italianos
+[0:37:44.00]-[0:37:46.00]  Los moros tenían uno diferente
+[0:37:46.00]-[0:37:48.00]  Sí, de cristiano
+[0:37:48.00]-[0:37:50.00]  Los protestantes tampoco podían ir
+[0:37:50.00]-[0:37:52.00]  Que habían pocos pero había algo
+[0:37:52.00]-[0:37:54.00]  No podían entrar
+[0:37:54.00]-[0:37:56.00]  Si no estaban bautizados tampoco podían entrar
+[0:37:56.00]-[0:37:58.00]  En el campo santo que se llamaba
+[0:37:58.00]-[0:38:00.00]  Los cementerios
+[0:38:00.00]-[0:38:02.00]  Y ahora me parece a mí que entra todo
+[0:38:02.00]-[0:38:04.00]  Pagando el taxis y todo
+[0:38:04.00]-[0:38:06.00]  Han cambiado las cosas
+[0:38:06.00]-[0:38:08.00]  El que se ahorcaba no podía entrar
+[0:38:08.00]-[0:38:10.00]  Ah, claro
+[0:38:10.00]-[0:38:12.00]  Tampoco
+[0:38:12.00]-[0:38:14.00]  Mucha diferencia de cosas
+[0:38:14.00]-[0:38:16.00]  Y antes de la guerra
+[0:38:16.00]-[0:38:18.00]  Las mujeres a los bares no iban
+[0:38:18.00]-[0:38:20.00]  Mi madre no había ido a entrar a un bar
+[0:38:20.00]-[0:38:22.00]  Y yo ya con 14 años
+[0:38:22.00]-[0:38:24.00]  Los 15 me dijeron a mi amiga
+[0:38:24.00]-[0:38:26.00]  Vamos a entrar aquí a la cervecería que ahí en la calle
+[0:38:26.00]-[0:38:28.00]  Todavía existe
+[0:38:28.00]-[0:38:30.00]  A tomar un refresco
+[0:38:30.00]-[0:38:32.00]  Nosotros no sabíamos ni lo que era el refresco
+[0:38:32.00]-[0:38:34.00]  Fafarrilla
+[0:38:34.00]-[0:38:36.00]  Yo no sabía lo que era fafarrilla
+[0:38:36.00]-[0:38:38.00]  Entonces yo no me había ido a tomar un refresco
+[0:38:38.00]-[0:38:40.00]  Yo no sabía lo que era fafarrilla
+[0:38:40.00]-[0:38:42.00]  La otra la había pedido de fresa
+[0:38:42.00]-[0:38:44.00]  De menta
+[0:38:44.00]-[0:38:46.00]  Cada una pedía un desfile
+[0:38:46.00]-[0:38:48.00]  Éramos cuatro, cuatro demonios
+[0:38:48.00]-[0:38:50.00]  Yo la más chica pero la más mala
+[0:38:50.00]-[0:38:52.00]  Y entrábamos ahí
+[0:38:52.00]-[0:38:54.00]  Y luego fui yo, mamá, estamos en el bar
+[0:38:54.00]-[0:38:56.00]  Está eso
+[0:38:56.00]-[0:38:58.00]  Ay, por dios, ay, que nos haya visto
+[0:38:58.00]-[0:39:00.00]  Pero había mucha hombre allí
+[0:39:00.00]-[0:39:02.00]  No mamá, allí no había nadie, está fuera
+[0:39:02.00]-[0:39:04.00]  Había vida a las 4
+[0:39:04.00]-[0:39:06.00]  Ay, digo, si tu padre este entero
+[0:39:06.00]-[0:39:08.00]  Verás cómo se va a poner tu padre
+[0:39:08.00]-[0:39:10.00]  Así que no se podía ir a los padres
+[0:39:10.00]-[0:39:12.00]  Ya empezó más
+[0:39:12.00]-[0:39:14.00]  Ya empezaron las ferias ahí
+[0:39:14.00]-[0:39:16.00]  Después como también había tantos lutos
+[0:39:16.00]-[0:39:18.00]  Uno porque la guerra y otro porque lo mataban
+[0:39:18.00]-[0:39:20.00]  Había mucha tristeza
+[0:39:20.00]-[0:39:22.00]  Las mujeres estaban vueltas de negro
+[0:39:22.00]-[0:39:24.00]  Eso sí me acuerdo yo
+[0:39:24.00]-[0:39:26.00]  Pero los chicos sí, entraban
+[0:39:26.00]-[0:39:28.00]  Los niños sí
+[0:39:28.00]-[0:39:30.00]  Mi mano mía
+[0:39:30.00]-[0:39:32.00]  Había puesto en el café
+[0:39:32.00]-[0:39:34.00]  Un café de café
+[0:39:34.00]-[0:39:36.00]  Había puesto en el café
+[0:39:36.00]-[0:39:38.00]  Unos servicios
+[0:39:38.00]-[0:39:40.00]  No sé cómo era
+[0:39:40.00]-[0:39:42.00]  Sí, serían de esas cosas
+[0:39:42.00]-[0:39:44.00]  Ya colgarlas pa' arriba
+[0:39:44.00]-[0:39:46.00]  Y siempre que pasaba
+[0:39:46.00]-[0:39:48.00]  Que me hago pepi
+[0:39:48.00]-[0:39:50.00]  Y les dice, ay, madre, bueno
+[0:39:50.00]-[0:39:52.00]  Pero era para entrar
+[0:39:52.00]-[0:39:54.00]  Y yo, ¿qué has visto?
+[0:39:54.00]-[0:39:56.00]  Dice, mira, el retrato es más bonito esto
+[0:39:56.00]-[0:39:58.00]  Y me explicaba lo que allí había
+[0:39:58.00]-[0:40:00.00]  Yo no podía entrar
+[0:40:00.00]-[0:40:02.00]  Bueno, ahí se entraban los hombres
+[0:40:02.00]-[0:40:06.00]  Y la feria es más distinta también
+[0:40:06.00]-[0:40:10.00]  Había muchos niños que querían subirse a la Serena
+[0:40:10.00]-[0:40:12.00]  Y les daban guarda ellos
+[0:40:12.00]-[0:40:14.00]  Para que empezara guarda
+[0:40:14.00]-[0:40:16.00]  Y luego ya a fin se subían
+[0:40:16.00]-[0:40:18.00]  Y por eso se ponían allí
+[0:40:18.00]-[0:40:20.00]  Lo que les dieron
+[0:40:20.00]-[0:40:22.00]  Entonces no venían más que
+[0:40:22.00]-[0:40:24.00]  Una Serena
+[0:40:24.00]-[0:40:26.00]  De caballito
+[0:40:26.00]-[0:40:28.00]  Y para sentarse
+[0:40:28.00]-[0:40:30.00]  La Nuria
+[0:40:30.00]-[0:40:32.00]  Y siempre han venido
+[0:40:32.00]-[0:40:34.00]  Yo desde chiquitín he visto la Nuria
+[0:40:34.00]-[0:40:36.00]  Y luego ya cuando vinieron las cadenas
+[0:40:36.00]-[0:40:38.00]  Que ya tendía yo los quince años
+[0:40:38.00]-[0:40:40.00]  Las cadenas, eso era
+[0:40:40.00]-[0:40:42.00]  Y me dije, no te vayas a subir
+[0:40:42.00]-[0:40:44.00]  Claro que me subía
+[0:40:44.00]-[0:40:46.00]  Digo, ¿tú no te ves?
+[0:40:46.00]-[0:40:48.00]  Las piernas las muerde
+[0:40:48.00]-[0:40:50.00]  Mamá, yo cruzo las piernas
+[0:40:50.00]-[0:40:52.00]  Así, y me digo, a mí no me se ha visto nada
+[0:40:52.00]-[0:40:54.00]  Y me dio el vestido
+[0:40:54.00]-[0:40:56.00]  Me dio
+[0:40:56.00]-[0:40:58.00]  Pero si se suelta la cadena
+[0:40:58.00]-[0:41:00.00]  Se te va a
+[0:41:02.00]-[0:41:04.00]  A la Vega
+[0:41:04.00]-[0:41:06.00]  Ahora han sacado un chiste a la Vega
+[0:41:08.00]-[0:41:10.00]  La Vega de aquí donde quedan es muy bonita
+[0:41:10.00]-[0:41:12.00]  Es muy grande
+[0:41:12.00]-[0:41:14.00]  Ya se han quedado más chicas
+[0:41:14.00]-[0:41:16.00]  Pero se ha cogido mucho terreno
+[0:41:18.00]-[0:41:20.00]  Y ahora la Vega
+[0:41:20.00]-[0:41:22.00]  Pues quieren poner un anillo
+[0:41:22.00]-[0:41:24.00]  Que creo que es una cosa de ese evento
+[0:41:24.00]-[0:41:26.00]  Para que pasen
+[0:41:26.00]-[0:41:28.00]  Para estrenar los trenes
+[0:41:28.00]-[0:41:30.00]  Para ver si corren mucho
+[0:41:30.00]-[0:41:32.00]  O corren poco, una cosa así
+[0:41:32.00]-[0:41:34.00]  Y ahora ya
+[0:41:34.00]-[0:41:36.00]  Aquí en Andalucía, a todos les sacan versos
+[0:41:38.00]-[0:41:40.00]  Los andaluces nos destacamos mucho
+[0:41:40.00]-[0:41:42.00]  De los demás españoles
+[0:41:42.00]-[0:41:44.00]  Y ahora lo han sacado
+[0:41:44.00]-[0:41:46.00]  A la Vega le ha salido un novio
+[0:41:46.00]-[0:41:48.00]  Le ha regalado un anillo
+[0:41:48.00]-[0:41:50.00]  O le va a regalar un anillo
+[0:41:50.00]-[0:41:52.00]  Porque quieren hacer el anillo
+[0:41:52.00]-[0:41:54.00]  Para los trenes
+[0:41:54.00]-[0:41:56.00]  Y eso le propia a mucha gente
+[0:41:56.00]-[0:41:58.00]  Y muchos viven de ese campo
+[0:41:58.00]-[0:42:00.00]  Otros son muy ricos
+[0:42:00.00]-[0:42:02.00]  También les pilla mucho rico
+[0:42:02.00]-[0:42:04.00]  Pero es que les pilla mucho pobre
+[0:42:04.00]-[0:42:06.00]  De la Vega de aquí
+[0:42:06.00]-[0:42:08.00]  Y es una lástima que hay un sitio
+[0:42:08.00]-[0:42:10.00]  Para estrenar los trenes
+[0:42:10.00]-[0:42:12.00]  Que hay muchas estaciones vacías
+[0:42:12.00]-[0:42:14.00]  Los trenes en otro lado
+[0:42:14.00]-[0:42:16.00]  No sé lo que pasará
+[0:42:16.00]-[0:42:18.00]  Eso es lo que hay ahora mismo
+[0:42:18.00]-[0:42:20.00]  Con la Vega
+[0:42:20.00]-[0:42:22.00]  Que queréis más que os cuente
+[0:42:22.00]-[0:42:26.00]  O sea, ¿ustedes queréis tomar un cafelito o algo?
+[0:42:26.00]-[0:42:28.00]  No, muchas gracias
+[0:42:28.00]-[0:42:30.00]  Yo estoy con mi niño y lo hace lo que sea
+[0:42:30.00]-[0:42:32.00]  ¿Queréis leche?
+[0:42:32.00]-[0:42:34.00]  ¿Nana?
+[0:42:34.00]-[0:42:36.00]  Hemos comido antes de venir aquí
+[0:42:36.00]-[0:42:38.00]  Acabamos de desayunar
+[0:42:38.00]-[0:42:40.00]  Bueno, pues si más tarde queréis
+[0:42:40.00]-[0:42:42.00]  Un Coca-Cola o una cerveza
+[0:42:42.00]-[0:42:44.00]  Con alcohol sin alcohol
+[0:42:44.00]-[0:42:46.00]  Tengo
+[0:42:46.00]-[0:42:48.00]  ¿Todo está saliendo?
+[0:42:48.00]-[0:42:52.00]  Está todo bien
+[0:42:52.00]-[0:42:54.00]  Ahora vamos a ver los juegos, ¿no?
+[0:42:54.00]-[0:42:56.00]  La pelota, las cosas de esas
+[0:42:56.00]-[0:42:58.00]  ¿Qué más queréis que hable?
+[0:42:58.00]-[0:43:00.00]  Pues de cómo...
+[0:43:00.00]-[0:43:02.00]  Cuando ya éramos mayores y cómo
+[0:43:02.00]-[0:43:04.00]  Que nos iba a contar cómo nos vivíamos
+[0:43:04.00]-[0:43:06.00]  A los niños
+[0:43:06.00]-[0:43:08.00]  Yo, mi marido
+[0:43:08.00]-[0:43:10.00]  Vivía
+[0:43:10.00]-[0:43:12.00]  Muy cerca de la casa
+[0:43:12.00]-[0:43:14.00]  Entonces era hermano
+[0:43:14.00]-[0:43:16.00]  Era amigo de mi hermano
+[0:43:16.00]-[0:43:18.00]  Entraba mucho a mi casa
+[0:43:18.00]-[0:43:20.00]  Y yo, amiga de su hermana
+[0:43:20.00]-[0:43:24.00]  No estaba ya en el colegio conmigo
+[0:43:24.00]-[0:43:26.00]  O sea, cuando yo entré al colegio la otra salía
+[0:43:26.00]-[0:43:30.00]  Pero casi, era un año mayor que yo
+[0:43:30.00]-[0:43:32.00]  Era un año mayor
+[0:43:32.00]-[0:43:34.00]  Más chico que yo
+[0:43:34.00]-[0:43:36.00]  Entonces estaba en la victoria
+[0:43:36.00]-[0:43:38.00]  Los niños iban a la victoria hasta que hacían la comunión
+[0:43:38.00]-[0:43:40.00]  Cuando hacían la comunión ya no podían estar los niños con las niñas
+[0:43:40.00]-[0:43:44.00]  Aunque ellos en la clase que estaban tenían una barca para ellos
+[0:43:44.00]-[0:43:48.00]  Entonces lo conocía del colegio
+[0:43:48.00]-[0:43:50.00]  Estaba en Monicoto
+[0:43:50.00]-[0:43:52.00]  Ayudaba a la misa
+[0:43:52.00]-[0:43:54.00]  Y le daban de veredad
+[0:43:54.00]-[0:43:56.00]  Y yo como tal las niñas
+[0:43:56.00]-[0:43:58.00]  Iba a buscarles para que me dieran un poquillo de chocolate
+[0:43:58.00]-[0:44:00.00]  O lo que estaba
+[0:44:00.00]-[0:44:02.00]  O nueces con pan le daban
+[0:44:02.00]-[0:44:04.00]  Y las cosas que no le daban a nadie
+[0:44:04.00]-[0:44:08.00]  Ya les decía, ya sabía yo que te tenía que dar antes de comer
+[0:44:08.00]-[0:44:10.00]  Porque o me daban la mitad de la nuez
+[0:44:10.00]-[0:44:12.00]  O me daban una milla de chocolate
+[0:44:12.00]-[0:44:14.00]  Pero yo no estaba enamorada de ellos
+[0:44:14.00]-[0:44:16.00]  Yo estaba enamorada de otro monicote
+[0:44:16.00]-[0:44:18.00]  Que daba la cuenta de la campana
+[0:44:18.00]-[0:44:20.00]  Y yo como era las cosas del circo
+[0:44:20.00]-[0:44:22.00]  Me gustaba mucho
+[0:44:22.00]-[0:44:24.00]  Pues yo siempre estaba mirando al otro monicote
+[0:44:24.00]-[0:44:26.00]  Y no miraba yo a...
+[0:44:26.00]-[0:44:28.00]  Y luego siempre
+[0:44:28.00]-[0:44:30.00]  Mi mano me cuenta hacer
+[0:44:30.00]-[0:44:32.00]  Yo de mayor, si vamos por paseo
+[0:44:32.00]-[0:44:34.00]  ¿Qué es? ¿Qué es?
+[0:44:34.00]-[0:44:36.00]  ¿Va a buscar novia? No, voy a buscar yo no sé qué
+[0:44:36.00]-[0:44:38.00]  Siempre se paraba y hablaba más con nosotros
+[0:44:38.00]-[0:44:40.00]  Primero que yo salía con su hermana
+[0:44:40.00]-[0:44:42.00]  Y también siempre, muchas veces
+[0:44:42.00]-[0:44:44.00]  Si íbamos al circo
+[0:44:44.00]-[0:44:46.00]  Como se venía con su hermana y yo con mi hermano
+[0:44:46.00]-[0:44:48.00]  Pero con mi padre y mi madre
+[0:44:48.00]-[0:44:50.00]  Al circo solos no íbamos yo
+[0:44:50.00]-[0:44:52.00]  No iba yo con mi hermano sola
+[0:44:52.00]-[0:44:54.00]  Eso ya cuando éramos novios
+[0:44:54.00]-[0:44:56.00]  Ya venía uno hermano conmigo
+[0:44:56.00]-[0:44:58.00]  Pero de chicos, no
+[0:44:58.00]-[0:45:00.00]  Veníamos como amigos, como amigos
+[0:45:00.00]-[0:45:02.00]  Quizás por eso porque
+[0:45:02.00]-[0:45:04.00]  Me escribió uno una carta
+[0:45:04.00]-[0:45:06.00]  Y yo ni le contesté
+[0:45:06.00]-[0:45:08.00]  Salió...
+[0:45:08.00]-[0:45:10.00]  Y salió muy rico de mochila
+[0:45:10.00]-[0:45:12.00]  Y la prima, que mi primo, que mi primo
+[0:45:12.00]-[0:45:14.00]  Que tiene mucho compo, que tiene...
+[0:45:14.00]-[0:45:16.00]  Yo no le contestaba
+[0:45:16.00]-[0:45:18.00]  Tuvo que mandar una mujer
+[0:45:18.00]-[0:45:20.00]  Y le dije a mi madre
+[0:45:20.00]-[0:45:22.00]  Aquí tengo que estar hasta que vea a su hija
+[0:45:22.00]-[0:45:24.00]  Yo le digo esta carta, la tiene que leer
+[0:45:24.00]-[0:45:26.00]  Y que dame la contestación, y aquí estoy
+[0:45:26.00]-[0:45:28.00]  Era una mujer que venía a traer los huevos
+[0:45:28.00]-[0:45:30.00]  Que no sé cómo le llamaban
+[0:45:30.00]-[0:45:32.00]  Entonces a esas mujeres
+[0:45:32.00]-[0:45:34.00]  Traían cosas de allí
+[0:45:34.00]-[0:45:36.00]  Bueno, y en el campo
+[0:45:36.00]-[0:45:38.00]  Y yo le digo
+[0:45:38.00]-[0:45:40.00]  Que no le escribo
+[0:45:40.00]-[0:45:42.00]  Que no quiero nada, toma usted la carta
+[0:45:42.00]-[0:45:44.00]  A raíz de esa
+[0:45:44.00]-[0:45:46.00]  Que yo no quiero novio
+[0:45:46.00]-[0:45:48.00]  Yo tenía 14 años
+[0:45:48.00]-[0:45:50.00]  Yo no tengo, yo me veía pa novio
+[0:45:52.00]-[0:45:54.00]  Y eso, las primas
+[0:45:54.00]-[0:45:56.00]  Que eran amigas mías
+[0:45:56.00]-[0:45:58.00]  Pues se pusieron muy deustadas
+[0:45:58.00]-[0:46:00.00]  Porque su primo le había roto la carta
+[0:46:02.00]-[0:46:04.00]  Era usted una rompecorazones
+[0:46:04.00]-[0:46:06.00]  Yo no quería novio
+[0:46:06.00]-[0:46:08.00]  Yo me encontraba muy niña
+[0:46:08.00]-[0:46:10.00]  Yo no me encontraba con eso
+[0:46:10.00]-[0:46:12.00]  Yo ahora veo, mi niña
+[0:46:12.00]-[0:46:14.00]  Quizás con 14 años ya tenía novio
+[0:46:14.00]-[0:46:16.00]  Sí
+[0:46:16.00]-[0:46:18.00]  Pero yo entonces no
+[0:46:18.00]-[0:46:20.00]  Y otro contacto ya con los otros niños
+[0:46:20.00]-[0:46:22.00]  Y después cuando ya iba a la viñuela
+[0:46:22.00]-[0:46:24.00]  Con los privas, con los privas si tenía
+[0:46:24.00]-[0:46:26.00]  Bailaba con ellas
+[0:46:26.00]-[0:46:28.00]  Ah, desde el pueblo no
+[0:46:28.00]-[0:46:30.00]  Mira, me decían
+[0:46:30.00]-[0:46:32.00]  Vaya, corrí a bailar con...
+[0:46:32.00]-[0:46:34.00]  Tendría que ser algo pariente
+[0:46:34.00]-[0:46:36.00]  Porque se llamaba...
+[0:46:36.00]-[0:46:38.00]  Y mi abuela era...
+[0:46:38.00]-[0:46:40.00]  Allí del pueblo tenían que ser parientes
+[0:46:40.00]-[0:46:42.00]  Que no vaya a bailar con...
+[0:46:42.00]-[0:46:44.00]  Con las agentes
+[0:46:44.00]-[0:46:46.00]  Y... mira tú, te vayas a bailar tú
+[0:46:46.00]-[0:46:48.00]  Con los primos y se acabó
+[0:46:48.00]-[0:46:50.00]  Por los primos también es malo
+[0:46:52.00]-[0:46:54.00]  Con la chaja de primos, yo te veo
+[0:46:54.00]-[0:46:56.00]  Eso era mucha...
+[0:46:56.00]-[0:46:58.00]  Disperación y las clases
+[0:46:58.00]-[0:47:00.00]  También en la feria aquí
+[0:47:00.00]-[0:47:02.00]  Había casetas
+[0:47:02.00]-[0:47:04.00]  Para los que tenían dinero
+[0:47:04.00]-[0:47:06.00]  Y los pobres no...
+[0:47:06.00]-[0:47:08.00]  No sabían asomarse por las cañas
+[0:47:08.00]-[0:47:10.00]  Para verlas
+[0:47:10.00]-[0:47:12.00]  No sabía la diferencia de clases
+[0:47:12.00]-[0:47:14.00]  Pero ya...
+[0:47:14.00]-[0:47:16.00]  Y cuando Franco todavía me ha chuchado
+[0:47:16.00]-[0:47:18.00]  Pero ya después nos saltamos el pelotón
+[0:47:18.00]-[0:47:20.00]  Y ya las casetas de los...
+[0:47:20.00]-[0:47:22.00]  Había el casino y el círculo
+[0:47:22.00]-[0:47:24.00]  Y ya después nos saltamos el pelotón
+[0:47:24.00]-[0:47:26.00]  Y ya las casetas de los...
+[0:47:26.00]-[0:47:28.00]  Había el casino y el círculo
+[0:47:28.00]-[0:47:30.00]  Había el casino y el círculo
+[0:47:30.00]-[0:47:32.00]  El círculo era de la media clase
+[0:47:32.00]-[0:47:34.00]  Mami
+[0:47:34.00]-[0:47:36.00]  Pero ya entraban también
+[0:47:36.00]-[0:47:38.00]  Y entonces
+[0:47:38.00]-[0:47:40.00]  Los del casino se iban al círculo
+[0:47:40.00]-[0:47:42.00]  Porque ya estaban los chuchurriollis
+[0:47:42.00]-[0:47:44.00]  Y en el otro era...
+[0:47:44.00]-[0:47:46.00]  Había más ambiente de...
+[0:47:46.00]-[0:47:48.00]  Y las casetas, ya las ferias
+[0:47:48.00]-[0:47:50.00]  Las casetas más grandes para todo el público
+[0:47:50.00]-[0:47:52.00]  Y estábamos ya más
+[0:47:52.00]-[0:47:54.00]  Reliados
+[0:47:54.00]-[0:47:56.00]  Y ya empezó la...
+[0:47:56.00]-[0:47:58.00]  La cosa de otra manera
+[0:47:58.00]-[0:48:00.00]  Y cuando murió Franco ya se...
+[0:48:00.00]-[0:48:02.00]  Ya cambió
+[0:48:02.00]-[0:48:04.00]  Con tu trabajo
+[0:48:04.00]-[0:48:06.00]  ¿Ustedes tenéis algún jefe
+[0:48:06.00]-[0:48:08.00]  Muy importante?
+[0:48:08.00]-[0:48:10.00]  Sí, el presidente
+[0:48:10.00]-[0:48:12.00]  ¿El Ruani qué es?
+[0:48:12.00]-[0:48:14.00]  ¿Democracia no tenéis, no?
+[0:48:14.00]-[0:48:16.00]  Sí, claro que somos un país democrático
+[0:48:16.00]-[0:48:18.00]  Pero antes estaba...
+[0:48:18.00]-[0:48:20.00]  Antes no, el comunismo
+[0:48:20.00]-[0:48:22.00]  Mucho
+[0:48:22.00]-[0:48:24.00]  Cuando yo nací ya...
+[0:48:24.00]-[0:48:26.00]  Se fue el comunismo
+[0:48:26.00]-[0:48:28.00]  La revolución
+[0:48:28.00]-[0:48:30.00]  ¿La religión estaría aparte?
+[0:48:30.00]-[0:48:32.00]  O desapareció como en Polonia
+[0:48:32.00]-[0:48:34.00]  No, también es igual
+[0:48:34.00]-[0:48:36.00]  Como en el comunismo
+[0:48:36.00]-[0:48:38.00]  No hay tanta creencia
+[0:48:38.00]-[0:48:40.00]  Como entonces
+[0:48:40.00]-[0:48:42.00]  Es casi igual
+[0:48:42.00]-[0:48:44.00]  En Polonia por lo menos 22 años
+[0:48:44.00]-[0:48:46.00]  Me parece a mí que fueron comunistas
+[0:48:46.00]-[0:48:48.00]  Y entonces la religión tenía que estar
+[0:48:48.00]-[0:48:50.00]  En mutapá, mutapá
+[0:48:50.00]-[0:48:52.00]  Yo sé más cosas de Polonia
+[0:48:52.00]-[0:48:54.00]  Que de vuestra tierra
+[0:48:54.00]-[0:48:56.00]  Así que ya mismo voy yo
+[0:48:56.00]-[0:48:58.00]  A preguntar a ustedes
+[0:48:58.00]-[0:49:00.00]  Así esperábamos
+[0:49:00.00]-[0:49:02.00]  Pero así
+[0:49:02.00]-[0:49:04.00]  La democracia ya
+[0:49:04.00]-[0:49:06.00]  Yo lo veo aquí
+[0:49:06.00]-[0:49:08.00]  Sí, me acuerdo
+[0:49:08.00]-[0:49:10.00]  Y además
+[0:49:10.00]-[0:49:12.00]  Yo pondría una cosa
+[0:49:12.00]-[0:49:14.00]  En España
+[0:49:14.00]-[0:49:16.00]  Que ahora es el gobierno
+[0:49:16.00]-[0:49:18.00]  Zapatero
+[0:49:18.00]-[0:49:20.00]  ¿Cómo le dice?
+[0:49:20.00]-[0:49:22.00]  ¿Cómo se llama?
+[0:49:22.00]-[0:49:24.00]  Luis yo no sé qué
+[0:49:24.00]-[0:49:26.00]  Pero que no me viene a la razón
+[0:49:26.00]-[0:49:28.00]  José Luis Rodríguez Zapatero
+[0:49:28.00]-[0:49:30.00]  ¿Cómo?
+[0:49:30.00]-[0:49:32.00]  José Luis Rodríguez Zapatero
+[0:49:32.00]-[0:49:34.00]  Pues
+[0:49:34.00]-[0:49:36.00]  Salen, pues bueno
+[0:49:36.00]-[0:49:38.00]  Tú que eres abogado antes
+[0:49:38.00]-[0:49:40.00]  No, que usted tiene que llevar sueldo
+[0:49:40.00]-[0:49:42.00]  Y ya hay uno con tanta suerte
+[0:49:42.00]-[0:49:44.00]  Tan grande, tanto otro, otro, otro
+[0:49:44.00]-[0:49:46.00]  Y hasta si se muere la viuda
+[0:49:46.00]-[0:49:48.00]  Que España está ahora
+[0:49:48.00]-[0:49:50.00]  Que de aquí no tiene nada
+[0:49:50.00]-[0:49:52.00]  Está
+[0:49:52.00]-[0:49:54.00]  Está pegado
+[0:49:54.00]-[0:49:56.00]  Está en una crisis ahora muy grande
+[0:49:56.00]-[0:49:58.00]  Luego también por la construcción
+[0:49:58.00]-[0:50:00.00]  Que había mucha gente
+[0:50:00.00]-[0:50:02.00]  Y ahora para hacer la construcción
+[0:50:02.00]-[0:50:04.00]  También para allá, hasta una hija mía
+[0:50:04.00]-[0:50:06.00]  Tiene más molera
+[0:50:06.00]-[0:50:08.00]  Pues ahora
+[0:50:08.00]-[0:50:10.00]  Para la construcción, pues también
+[0:50:10.00]-[0:50:12.00]  Antes tenían bloques
+[0:50:12.00]-[0:50:14.00]  Las cocinas pues eran 50
+[0:50:14.00]-[0:50:16.00]  O 40, los bloques enteros
+[0:50:16.00]-[0:50:18.00]  Otros han hecho
+[0:50:18.00]-[0:50:20.00]  40 años a la gran empresa
+[0:50:20.00]-[0:50:22.00]  Y eso también
+[0:50:22.00]-[0:50:24.00]  Se paró
+[0:50:24.00]-[0:50:26.00]  Entonces
+[0:50:26.00]-[0:50:28.00]  De dos hombres que tenía y un niño
+[0:50:28.00]-[0:50:30.00]  Pues aquí es con el niño
+[0:50:30.00]-[0:50:32.00]  Pidiendo y el niño
+[0:50:34.00]-[0:50:36.00]  Y ya no hay
+[0:50:36.00]-[0:50:38.00]  Sabedilla abajo, eso también
+[0:50:38.00]-[0:50:40.00]  Y eso entonces ha hecho mucho para
+[0:50:40.00]-[0:50:42.00]  El obrero en España
+[0:50:42.00]-[0:50:44.00]  Eso mucho también
+[0:50:44.00]-[0:50:46.00]  Y eso después que debe de ser
+[0:50:46.00]-[0:50:48.00]  Después también
+[0:50:48.00]-[0:50:50.00]  Hay muchas pagas
+[0:50:50.00]-[0:50:52.00]  En la viuda de más y otras de menos
+[0:50:54.00]-[0:50:56.00]  También la que hay en un brazo
+[0:50:56.00]-[0:50:58.00]  Yo tengo una paga
+[0:50:58.00]-[0:51:00.00]  Mi marido estaba, me tenía seguro
+[0:51:00.00]-[0:51:02.00]  Y teníamos coches primero
+[0:51:04.00]-[0:51:06.00]  Y entonces tengo una paga de viuda
+[0:51:06.00]-[0:51:08.00]  Que es de 600
+[0:51:08.00]-[0:51:10.00]  Cinco, una cosa así
+[0:51:10.00]-[0:51:12.00]  Me han puesto ahora
+[0:51:12.00]-[0:51:14.00]  800
+[0:51:16.00]-[0:51:18.00]  780
+[0:51:20.00]-[0:51:22.00]  Antes tenía 500
+[0:51:22.00]-[0:51:24.00]  Con 80
+[0:51:24.00]-[0:51:26.00]  Y ahora
+[0:51:26.00]-[0:51:28.00]  Tengo 675
+[0:51:30.00]-[0:51:32.00]  Yo no tengo que pagar casa
+[0:51:32.00]-[0:51:34.00]  No tengo agua
+[0:51:34.00]-[0:51:36.00]  Yo vivo, vi
+[0:51:36.00]-[0:51:38.00]  Solo para los niños
+[0:51:38.00]-[0:51:40.00]  Porque nosotros teníamos
+[0:51:40.00]-[0:51:42.00]  Era seguro
+[0:51:42.00]-[0:51:44.00]  Y entonces lo seguro lo tiene
+[0:51:44.00]-[0:51:46.00]  Lo mío porque cuando mi marido ya se jubiló
+[0:51:46.00]-[0:51:48.00]  Pues tenía que poner al frente
+[0:51:50.00]-[0:51:52.00]  Alguien que propuso a mi hijo que es abogado
+[0:51:52.00]-[0:51:54.00]  Ya no tenía que tener a los otros
+[0:51:54.00]-[0:51:56.00]  Y ya está, tengo
+[0:51:56.00]-[0:51:58.00]  Tres niñas
+[0:51:58.00]-[0:52:00.00]  He tenido seis
+[0:52:00.00]-[0:52:02.00]  Pero han sido abortos
+[0:52:02.00]-[0:52:04.00]  Pero se sienten
+[0:52:04.00]-[0:52:06.00]  Muchos
+[0:52:06.00]-[0:52:08.00]  Yo tenía un aborto
+[0:52:08.00]-[0:52:10.00]  De tres meses
+[0:52:10.00]-[0:52:12.00]  Y ahí un niño
+[0:52:12.00]-[0:52:14.00]  De esa edad
+[0:52:14.00]-[0:52:16.00]  Yo no sé si los míos iban a ser niño o niña
+[0:52:16.00]-[0:52:18.00]  Y lo veo
+[0:52:18.00]-[0:52:20.00]  Y digo yo, así podría yo tener otro
+[0:52:20.00]-[0:52:22.00]  Tengo tres niñas
+[0:52:22.00]-[0:52:24.00]  Y un niño
+[0:52:24.00]-[0:52:26.00]  Me casé mayorcita
+[0:52:26.00]-[0:52:28.00]  No me casé tampoco
+[0:52:28.00]-[0:52:30.00]  Tenía 26 años
+[0:52:32.00]-[0:52:34.00]  Y ya mis amigas
+[0:52:34.00]-[0:52:38.00]  Se habían casado con 22, 22 por ahí
+[0:52:38.00]-[0:52:40.00]  Usted era una rebelde
+[0:52:40.00]-[0:52:42.00]  Sí
+[0:52:42.00]-[0:52:44.00]  Mi abuela se casó a la 16
+[0:52:46.00]-[0:52:48.00]  Ahora aquí se casa también más joven
+[0:52:48.00]-[0:52:50.00]  Yo tengo una
+[0:52:50.00]-[0:52:52.00]  Una hija mía
+[0:52:52.00]-[0:52:54.00]  Se casó muy joven
+[0:52:54.00]-[0:52:56.00]  Porque corrió, como dicen aquí
+[0:52:56.00]-[0:52:58.00]  Se me quedó embarazada
+[0:52:58.00]-[0:53:00.00]  Y vaya
+[0:53:00.00]-[0:53:02.00]  Yo le di al novio también
+[0:53:02.00]-[0:53:04.00]  Cuando me lo dieron
+[0:53:04.00]-[0:53:06.00]  Digo mira, usted tiene que ir a la mili
+[0:53:06.00]-[0:53:08.00]  Yo me pensé
+[0:53:08.00]-[0:53:10.00]  ¿Por qué nos queremos casar?
+[0:53:10.00]-[0:53:12.00]  Digo, espérate, que se lo podemos decir
+[0:53:12.00]-[0:53:14.00]  Porque mi marido era más duro que yo
+[0:53:14.00]-[0:53:16.00]  Digo, espérate, eso lo diga más
+[0:53:16.00]-[0:53:18.00]  Digo, pero mira
+[0:53:18.00]-[0:53:20.00]  Usted puede ir a la mili, puede ser
+[0:53:20.00]-[0:53:22.00]  Porque luego después tú eres muy niño
+[0:53:22.00]-[0:53:24.00]  Y luego después
+[0:53:24.00]-[0:53:26.00]  Se casa y dice, no, no, yo me quiero casar ahora
+[0:53:26.00]-[0:53:28.00]  Yo la quiero mucho
+[0:53:28.00]-[0:53:30.00]  Pero vaya, que yo no quiero que te cases
+[0:53:30.00]-[0:53:32.00]  Yo ya que he embarazado
+[0:53:32.00]-[0:53:34.00]  Vamos que después nos llevamos bien
+[0:53:34.00]-[0:53:36.00]  Dependemente va
+[0:53:36.00]-[0:53:38.00]  Pero luego después
+[0:53:38.00]-[0:53:40.00]  Dice, ¿quién se lo dice al padre?
+[0:53:40.00]-[0:53:42.00]  ¿Quién es el valiente?
+[0:53:42.00]-[0:53:44.00]  Venía
+[0:53:44.00]-[0:53:46.00]  Mi madre ha comprado
+[0:53:46.00]-[0:53:48.00]  Una pulsera que quiere venir a pedir
+[0:53:48.00]-[0:53:50.00]  Que si puede venir
+[0:53:50.00]-[0:53:52.00]  Esta semana que si puede venir
+[0:53:52.00]-[0:53:54.00]  El lunes, espérate que le diga
+[0:53:54.00]-[0:53:56.00]  Algo al perro
+[0:53:56.00]-[0:53:58.00]  Espérate
+[0:53:58.00]-[0:54:00.00]  Y cómo se lo tomó
+[0:54:00.00]-[0:54:02.00]  Se lo tomó
+[0:54:02.00]-[0:54:04.00]  Entonces como yo no le podía decir nada
+[0:54:04.00]-[0:54:06.00]  Porque si yo le decía
+[0:54:06.00]-[0:54:08.00]  Tú tienes la culpa, que no hagas tan cuidado de la niña
+[0:54:08.00]-[0:54:10.00]  Yo tenía la culpa de tú
+[0:54:10.00]-[0:54:12.00]  Tanto es que a mi niño este cuando le escribo
+[0:54:12.00]-[0:54:14.00]  Le escribía las cartas y al final
+[0:54:14.00]-[0:54:16.00]  Le ponía de tu culpa
+[0:54:18.00]-[0:54:20.00]  Y entonces
+[0:54:20.00]-[0:54:22.00]  La más pasible
+[0:54:22.00]-[0:54:24.00]  La mejor
+[0:54:24.00]-[0:54:26.00]  Se llegó a su padre allí donde estaba
+[0:54:26.00]-[0:54:28.00]  La máquina de grabar las lápidas
+[0:54:28.00]-[0:54:30.00]  Y eso que teníamos
+[0:54:30.00]-[0:54:32.00]  Y dice, papá
+[0:54:32.00]-[0:54:34.00]  Mira, ella se casaba
+[0:54:34.00]-[0:54:36.00]  El 6 de mayo
+[0:54:36.00]-[0:54:38.00]  Porque la familia
+[0:54:38.00]-[0:54:40.00]  De mi yesno
+[0:54:40.00]-[0:54:42.00]  Estaban por Barcelona
+[0:54:42.00]-[0:54:44.00]  Migraron porque eran más pobres
+[0:54:44.00]-[0:54:46.00]  Migraron mucho por Barcelona
+[0:54:46.00]-[0:54:48.00]  Y estaban allí colocadas las hermanas
+[0:54:48.00]-[0:54:50.00]  De mi consueño, casi hasta
+[0:54:50.00]-[0:54:52.00]  Es que eran 10 hermanos
+[0:54:52.00]-[0:54:54.00]  Y su madre era la que trabajaba más
+[0:54:54.00]-[0:54:56.00]  Y su padre era un poquillo borracho y estaba a menos
+[0:54:56.00]-[0:54:58.00]  Y los hijos pues se tuvieron que repartir
+[0:54:58.00]-[0:55:00.00]  Y había mucha en Barcelona
+[0:55:00.00]-[0:55:02.00]  Y ellos querían la vacación en Barcelona
+[0:55:02.00]-[0:55:04.00]  Para venir a la boda del
+[0:55:04.00]-[0:55:06.00]  Subrino del hijo de su hermano
+[0:55:06.00]-[0:55:08.00]  Entonces era el 6
+[0:55:08.00]-[0:55:10.00]  Ya estaban las tarjetas hechas
+[0:55:10.00]-[0:55:12.00]  Y yo dije, papá, me hemos pensado
+[0:55:12.00]-[0:55:14.00]  Que ella se case el día 6
+[0:55:14.00]-[0:55:16.00]  Y yo me caso después
+[0:55:16.00]-[0:55:18.00]  En agosto, al final de agosto
+[0:55:18.00]-[0:55:20.00]  Y dice, papá, estas las tarjetas
+[0:55:20.00]-[0:55:22.00]  Y la gente que se los sabe
+[0:55:22.00]-[0:55:24.00]  Y la familia de...
+[0:55:24.00]-[0:55:26.00]  Y porque ella se quiere casar
+[0:55:26.00]-[0:55:28.00]  Porque se espera, como un alma de perrito
+[0:55:28.00]-[0:55:30.00]  Digo, se va a casar
+[0:55:30.00]-[0:55:32.00]  Y yo digo, ¿se quiere casar antes que yo?
+[0:55:32.00]-[0:55:34.00]  Y que se la metió eso
+[0:55:34.00]-[0:55:36.00]  Y yo digo, ¿qué?
+[0:55:36.00]-[0:55:38.00]  Eso te lo aguanta alguno, las dobas
+[0:55:40.00]-[0:55:42.00]  Pero casarse ni hablar
+[0:55:42.00]-[0:55:44.00]  Y yo digo, papá
+[0:55:44.00]-[0:55:46.00]  Es que mamá quiere que se case ante ella
+[0:55:46.00]-[0:55:48.00]  Porque ella está embarazada
+[0:55:48.00]-[0:55:50.00]  Y ella se echó a llorar
+[0:55:50.00]-[0:55:52.00]  Y yo digo, mamá, se echó a papá a llorar
+[0:55:52.00]-[0:55:54.00]  Y yo digo, nada
+[0:55:54.00]-[0:55:56.00]  Yo voy a desayunar
+[0:55:56.00]-[0:55:58.00]  Yo le ponía café y me salía del comedor
+[0:55:58.00]-[0:56:00.00]  Para hablar
+[0:56:00.00]-[0:56:02.00]  Y no me preguntara nada siquiera
+[0:56:02.00]-[0:56:04.00]  Y también...
+[0:56:08.00]-[0:56:10.00]  Me acosté y dormía
+[0:56:10.00]-[0:56:12.00]  Antes que nada, bueno, yo no quería hablar con él
+[0:56:12.00]-[0:56:14.00]  Pero yo le digo, papá
+[0:56:14.00]-[0:56:16.00]  Que los padres de...
+[0:56:16.00]-[0:56:18.00]  Quieren venir esta semana
+[0:56:18.00]-[0:56:20.00]  Que venga el lunes, martes o el viernes
+[0:56:20.00]-[0:56:22.00]  ¿Qué día quieres tú?
+[0:56:22.00]-[0:56:24.00]  Que van a venir a pedir a...
+[0:56:24.00]-[0:56:26.00]  Pero tu madre lo sabe ya
+[0:56:26.00]-[0:56:28.00]  Dice, sí
+[0:56:28.00]-[0:56:30.00]  A mamá ya se lo hemos dicho
+[0:56:30.00]-[0:56:32.00]  Dice, bueno, pues el día que ellos quieran
+[0:56:32.00]-[0:56:34.00]  Ya digo, bueno, el día que ellos quieran
+[0:56:34.00]-[0:56:36.00]  Entonces ella subió a desayunar
+[0:56:36.00]-[0:56:38.00]  Y dice, ¿que van a venir los padres?
+[0:56:38.00]-[0:56:40.00]  Y yo digo, sí
+[0:56:40.00]-[0:56:42.00]  Yo como que no sé dar
+[0:56:42.00]-[0:56:44.00]  ¿Y cuándo van a venir?
+[0:56:44.00]-[0:56:46.00]  Dice que en esta semana
+[0:56:46.00]-[0:56:48.00]  Y yo le digo que cuando ellos quieran
+[0:56:48.00]-[0:56:50.00]  Después que lo diga la niña, pues qué día
+[0:56:50.00]-[0:56:52.00]  La... no veía a su padre
+[0:56:52.00]-[0:56:54.00]  Para...
+[0:56:54.00]-[0:56:56.00]  Le fuera a decirle algo
+[0:56:56.00]-[0:56:58.00]  Estaba asustadita
+[0:56:58.00]-[0:57:00.00]  Y yo le digo, mira, que no le digan nada a la niña
+[0:57:00.00]-[0:57:02.00]  Que ni ella abre el libro ni lo va a cerrar
+[0:57:02.00]-[0:57:04.00]  Así que no le vaya a decir
+[0:57:04.00]-[0:57:06.00]  Ni le regañe nada ni nada
+[0:57:06.00]-[0:57:08.00]  Dice, no, no, yo que le voy a regañar
+[0:57:08.00]-[0:57:10.00]  Bueno, pues ya está
+[0:57:10.00]-[0:57:12.00]  Ya está allá de un mes
+[0:57:12.00]-[0:57:14.00]  Y no va a...
+[0:57:14.00]-[0:57:16.00]  Ya está más rato
+[0:57:16.00]-[0:57:18.00]  Lo de eso del libro
+[0:57:18.00]-[0:57:20.00]  Siempre lo estaba yo diciendo
+[0:57:20.00]-[0:57:22.00]  Ni abre el libro ni lo cierra
+[0:57:22.00]-[0:57:24.00]  Y ya, pues se dijo
+[0:57:24.00]-[0:57:26.00]  Pero bueno, el día que van a venir
+[0:57:26.00]-[0:57:28.00]  Que van a venir esta tarde, sí
+[0:57:28.00]-[0:57:30.00]  Tú vas a preparar algo para la merienda
+[0:57:30.00]-[0:57:32.00]  Tú vas a preparar
+[0:57:32.00]-[0:57:34.00]  Que van a tomar de comida
+[0:57:34.00]-[0:57:36.00]  Viene ahora, si quiere café
+[0:57:36.00]-[0:57:38.00]  Si no, pues ponemos la cerveza
+[0:57:38.00]-[0:57:40.00]  Ya se fue, ya me trajo las tapas
+[0:57:40.00]-[0:57:42.00]  Me trajo de todo
+[0:57:42.00]-[0:57:46.00]  Pero después, pues decían que ellas fueron los padrinos
+[0:57:46.00]-[0:57:48.00]  Y yo le dije...
+[0:57:48.00]-[0:57:50.00]  Yo hablaba allá con la consuegra
+[0:57:50.00]-[0:57:52.00]  Y yo, mira, yo no le dije nada
+[0:57:52.00]-[0:57:54.00]  Y tú me dices, bueno, yo me voy a arreglar
+[0:57:54.00]-[0:57:56.00]  Y yo te dije, ya hablando de la boda
+[0:57:56.00]-[0:57:58.00]  Y ella se puso de pie y dice
+[0:57:58.00]-[0:58:00.00]  Ay, por favor, ponerte de pie a mi lado
+[0:58:00.00]-[0:58:02.00]  Y ella dice, oye, mira
+[0:58:02.00]-[0:58:04.00]  No estemos más con mis tacones
+[0:58:04.00]-[0:58:06.00]  Porque usted será el padrino y yo la madrina
+[0:58:06.00]-[0:58:08.00]  Dice, sí
+[0:58:08.00]-[0:58:10.00]  Claro que seré el padrino
+[0:58:10.00]-[0:58:12.00]  Dice, por eso, ponme usted
+[0:58:12.00]-[0:58:14.00]  Yo creo que hacemos buena paridad
+[0:58:14.00]-[0:58:16.00]  Sí, sí, porque ella ya sabía el cara
+[0:58:16.00]-[0:58:18.00]  Y ya le digo, pues tienes padrino
+[0:58:18.00]-[0:58:20.00]  Y yo digo, no, no quería ser padrino de la niña
+[0:58:20.00]-[0:58:22.00]  Fue padrino de las dos
+[0:58:22.00]-[0:58:24.00]  Entonces se casó el primero
+[0:58:24.00]-[0:58:26.00]  Y ella se casó el 18 de agosto
+[0:58:26.00]-[0:58:28.00]  Porque la otra viniera
+[0:58:28.00]-[0:58:30.00]  Vino para la boda
+[0:58:30.00]-[0:58:32.00]  No podía venir antes porque iban a ir a Barcelona
+[0:58:32.00]-[0:58:34.00]  Para la familia
+[0:58:34.00]-[0:58:36.00]  Y ya se casó el otro
+[0:58:36.00]-[0:58:38.00]  Y ella se casó el 18 de agosto
+[0:58:38.00]-[0:58:40.00]  Y ya se casó con una bella familia
+[0:58:40.00]-[0:58:42.00]  Y ya se casaron las dos en agosto
+[0:58:42.00]-[0:58:44.00]  Entonces, esa era 17
+[0:58:44.00]-[0:58:46.00]  Pero a tener la niña ya tenía 18
+[0:58:46.00]-[0:58:48.00]  Y eso era un...
+[0:58:48.00]-[0:58:50.00]  Por eso le digo que ahora
+[0:58:50.00]-[0:58:52.00]  Con una niña que se casa, mucho más joven
+[0:58:52.00]-[0:58:54.00]  O se van con los novios
+[0:58:54.00]-[0:58:56.00]  Sí, creo que se van
+[0:58:56.00]-[0:58:58.00]  Pero de casar un...
+[0:58:58.00]-[0:59:00.00]  Se rejunta
+[0:59:00.00]-[0:59:02.00]  Sí
+[0:59:02.00]-[0:59:04.00]  Pero no tienen que estar
+[0:59:04.00]-[0:59:06.00]  Yo lo veo muy bien
+[0:59:06.00]-[0:59:08.00]  Ya mi marido me lo decía
+[0:59:08.00]-[0:59:10.00]  Que yo era moderna
+[0:59:10.00]-[0:59:12.00]  Yo estoy haciendo
+[0:59:12.00]-[0:59:14.00]  ¿Cómo se dice?
+[0:59:14.00]-[0:59:16.00]  Para los nietos
+[0:59:16.00]-[0:59:18.00]  Le estoy haciendo toallas
+[0:59:18.00]-[0:59:20.00]  Le pongo unas puntitas
+[0:59:20.00]-[0:59:22.00]  Manteles
+[0:59:22.00]-[0:59:24.00]  Que se quieren ir con la novia
+[0:59:24.00]-[0:59:26.00]  Que se lo lleven de brazos
+[0:59:26.00]-[0:59:28.00]  Que se quieren ir de casa de soltero
+[0:59:28.00]-[0:59:30.00]  Yo estoy haciendo agua para ellos
+[0:59:30.00]-[0:59:32.00]  Para lo que les dé la gana
+[0:59:32.00]-[0:59:34.00]  La vida es moderna, de otra manera
+[0:59:34.00]-[0:59:36.00]  Yo no me asusto
+[0:59:36.00]-[0:59:38.00]  Mi marido, bueno, ya lleva 11 años muerto
+[0:59:38.00]-[0:59:40.00]  Pero que...
+[0:59:40.00]-[0:59:42.00]  De hoy me dice a los nietos
+[0:59:42.00]-[0:59:44.00]  Cuando queráis, se vais
+[0:59:48.00]-[0:59:50.00]  ¿Y cómo es su relación con sus nietos?
+[0:59:50.00]-[0:59:52.00]  ¿Nota usted que es diferente?
+[0:59:52.00]-[0:59:54.00]  Que cuando era usted pequeña
+[0:59:54.00]-[0:59:56.00]  Sí, yo...
+[0:59:56.00]-[0:59:58.00]  Ya te digo que yo era un poquillo...
+[0:59:58.00]-[1:00:00.00]  Pero vaya, con mis tías abuelas
+[1:00:00.00]-[1:00:02.00]  Le hablaba y le contaba mis cosas
+[1:00:02.00]-[1:00:04.00]  Y lo que subían, lo mejor le contaban a ellas
+[1:00:04.00]-[1:00:06.00]  Yo hablaba con mis tías abuelas
+[1:00:06.00]-[1:00:08.00]  Ellas se reían
+[1:00:08.00]-[1:00:10.00]  Si yo decía
+[1:00:10.00]-[1:00:12.00]  Vigo, estaba en la calle Estepa
+[1:00:12.00]-[1:00:14.00]  Y fulanito me ha tirado un nabo
+[1:00:14.00]-[1:00:16.00]  Nabo era una cosa que se pegaba al pelo
+[1:00:16.00]-[1:00:18.00]  Y yo me suelo caminar
+[1:00:18.00]-[1:00:20.00]  Como me pongo otro nabo de estos
+[1:00:20.00]-[1:00:22.00]  Me tiro en la cabeza
+[1:00:22.00]-[1:00:24.00]  Y ellas pues se reían
+[1:00:24.00]-[1:00:26.00]  Ya sabían que los niños los me han tirado para hablar con las niñas
+[1:00:26.00]-[1:00:28.00]  Y yo iba y lo contaba todo
+[1:00:28.00]-[1:00:30.00]  Lo que subían, lo contaban
+[1:00:30.00]-[1:00:32.00]  Era más...
+[1:00:32.00]-[1:00:34.00]  Si ya se iba diferenciando
+[1:00:34.00]-[1:00:36.00]  Y yo con mis niñas
+[1:00:36.00]-[1:00:38.00]  Yo con 13 años
+[1:00:38.00]-[1:00:40.00]  No sabía por donde venían los niños
+[1:00:40.00]-[1:00:42.00]  Pero me parece a mí que ellas me lo podían haber dicho, ¿no?
+[1:00:42.00]-[1:00:44.00]  Nada
+[1:00:44.00]-[1:00:46.00]  Y una amiga mía
+[1:00:46.00]-[1:00:48.00]  Me decía
+[1:00:48.00]-[1:00:50.00]  Lo tiene en la barriga
+[1:00:50.00]-[1:00:52.00]  Una vecina que estaba embarazada
+[1:00:52.00]-[1:00:54.00]  Lo tiene en la barriga
+[1:00:54.00]-[1:00:56.00]  Y yo, bueno...
+[1:00:56.00]-[1:00:58.00]  Y yo...
+[1:00:58.00]-[1:01:00.00]  Y yo...
+[1:01:00.00]-[1:01:02.00]  Mamá, dice...
+[1:01:02.00]-[1:01:04.00]  Que el niño lo tiene en la barriga
+[1:01:04.00]-[1:01:06.00]  ¿Qué es?
+[1:01:06.00]-[1:01:08.00]  ¿Que lo caga mamá o le rana la barriga como al lobo?
+[1:01:08.00]-[1:01:10.00]  No, mujer
+[1:01:10.00]-[1:01:12.00]  Tú te pones ahí en la ventana
+[1:01:12.00]-[1:01:14.00]  Que hoy va a venir una mujer en un coche
+[1:01:14.00]-[1:01:16.00]  Y trae una cartera
+[1:01:16.00]-[1:01:18.00]  Tú mira cómo trae la cartera y ahí trae el niño
+[1:01:18.00]-[1:01:20.00]  Por eso con 13 años
+[1:01:20.00]-[1:01:22.00]  ¿Verdad?
+[1:01:22.00]-[1:01:24.00]  En la ventana para ver que vivía al lado de mi casa
+[1:01:24.00]-[1:01:26.00]  Pero me daba un rato venía
+[1:01:26.00]-[1:01:28.00]  Estaba chillando y estaba llorando
+[1:01:28.00]-[1:01:30.00]  ¿Qué pasa?
+[1:01:30.00]-[1:01:32.00]  ¿Es el niño que trae la barriga?
+[1:01:32.00]-[1:01:34.00]  ¿Que le va a dar raya a la barriga?
+[1:01:34.00]-[1:01:36.00]  Ella tampoco lo sabía
+[1:01:36.00]-[1:01:38.00]  Ella no lo sabía
+[1:01:38.00]-[1:01:40.00]  Pero sabía que el niño estaba en la barriga
+[1:01:40.00]-[1:01:42.00]  Y yo darle la lata a mi madre
+[1:01:42.00]-[1:01:44.00]  No me lo digo
+[1:01:44.00]-[1:01:46.00]  Ya con 13 años
+[1:01:46.00]-[1:01:48.00]  Y cuando me desarrollé tonta perdía
+[1:01:48.00]-[1:01:50.00]  Porque como no tenía hermanas, no había visto otro
+[1:01:50.00]-[1:01:52.00]  Pues yo digo, ¡Ay mamá!
+[1:01:52.00]-[1:01:54.00]  Aquí tengo que tener un grano
+[1:01:54.00]-[1:01:56.00]  Y mi madre dice, sí que tienes un grano
+[1:01:56.00]-[1:01:58.00]  Mira, ponte este trapito ahí
+[1:01:58.00]-[1:02:00.00]  Para el grano que no te salga la sangre
+[1:02:00.00]-[1:02:02.00]  No sé qué
+[1:02:02.00]-[1:02:04.00]  Luego llegaba a mis tías, mis primas
+[1:02:04.00]-[1:02:06.00]  Las mayores
+[1:02:06.00]-[1:02:08.00]  Mira, ¿se ha caído por la escalera?
+[1:02:08.00]-[1:02:10.00]  Y yo digo, mamá
+[1:02:10.00]-[1:02:12.00]  Que yo no me he caído por la escalera
+[1:02:12.00]-[1:02:14.00]  Es que tengo un grano
+[1:02:14.00]-[1:02:16.00]  Pero yo por la escalera no me he caído
+[1:02:16.00]-[1:02:18.00]  Y yo dije, niña
+[1:02:18.00]-[1:02:20.00]  Eso va a tenerlo todos los meses
+[1:02:20.00]-[1:02:22.00]  Esto, lo otro, esto
+[1:02:22.00]-[1:02:24.00]  Yo a mi niña
+[1:02:24.00]-[1:02:26.00]  Fui con mi padre a la Jarrón
+[1:02:26.00]-[1:02:28.00]  Y tenía los 12
+[1:02:28.00]-[1:02:30.00]  Y ella 100 para 13
+[1:02:30.00]-[1:02:32.00]  Y yo dije, si un día te va a dar sangre algo
+[1:02:32.00]-[1:02:34.00]  Que la desee, toma, llévate los pañitos
+[1:02:34.00]-[1:02:36.00]  Por si acaso te desarrolla
+[1:02:36.00]-[1:02:38.00]  Mira, que tú ya estás en una edad
+[1:02:38.00]-[1:02:40.00]  Que te va a desarrollar
+[1:02:40.00]-[1:02:42.00]  Que si te duele la barriguita abajo o algo
+[1:02:42.00]-[1:02:44.00]  Que se lo diga la abuela
+[1:02:44.00]-[1:02:46.00]  Y si te pones mala con sangre
+[1:02:46.00]-[1:02:48.00]  Que no te asusta, que te ponga esto, esto
+[1:02:48.00]-[1:02:50.00]  Lo he dicho
+[1:02:50.00]-[1:02:52.00]  Pero a mí no me lo dieron
+[1:02:52.00]-[1:02:54.00]  Yo no sé por qué era eso aquello tan tapado
+[1:02:54.00]-[1:02:58.00]  Si era algo de la naturaleza, no?
+[1:02:58.00]-[1:03:00.00]  Pues, a casal cambia mucho
+[1:03:00.00]-[1:03:02.00]  Bueno, y ya mi nieta
+[1:03:02.00]-[1:03:04.00]  Por 5 años
+[1:03:04.00]-[1:03:06.00]  Sabía que su hermana estaba en la barriguita
+[1:03:06.00]-[1:03:08.00]  Y su madre, que chiquichí, chiquichú
+[1:03:08.00]-[1:03:10.00]  Y lo sabía todo
+[1:03:10.00]-[1:03:12.00]  Y mi marido decía
+[1:03:12.00]-[1:03:14.00]  Mira que las cosas que le han enseñado
+[1:03:14.00]-[1:03:16.00]  Y yo, que va a hacer
+[1:03:16.00]-[1:03:18.00]  Si lo tiene su madre en la barriguita
+[1:03:18.00]-[1:03:20.00]  Ella sabe que lo tiene, le toca
+[1:03:20.00]-[1:03:22.00]  Y ella decía hermanito, hermanito
+[1:03:22.00]-[1:03:24.00]  Luego era una hermanita
+[1:03:24.00]-[1:03:26.00]  Y mi marido se asustaba
+[1:03:26.00]-[1:03:28.00]  Uff, esas cosas
+[1:03:28.00]-[1:03:30.00]  Enseñar esas cosas
+[1:03:30.00]-[1:03:32.00]  Yo era muy rescatado
+[1:03:32.00]-[1:03:34.00]  Y eso de bañarnos los dos juntos
+[1:03:34.00]-[1:03:36.00]  Yo entraba a darles la espalda
+[1:03:36.00]-[1:03:38.00]  A los otros
+[1:03:38.00]-[1:03:40.00]  Y yo decía, pues, me da la espalda
+[1:03:40.00]-[1:03:42.00]  Se sentaba en la tina
+[1:03:42.00]-[1:03:44.00]  Pero yo miraba lo que lo vieron, nada
+[1:03:44.00]-[1:03:46.00]  Eramos rescatados demasiado
+[1:03:46.00]-[1:03:48.00]  Mis niñas se bañan
+[1:03:48.00]-[1:03:50.00]  Con su marido, van lo que sea
+[1:03:50.00]-[1:03:52.00]  Se entran los dos al cuarto de baño
+[1:03:52.00]-[1:03:54.00]  Eso también ha cambiado mucho
+[1:03:54.00]-[1:03:56.00]  Mi marido es que era muy antiguo
+[1:03:56.00]-[1:03:58.00]  Pero no era pa otra
+[1:04:00.00]-[1:04:02.00]  ¿Qué más queréis saber?
+[1:04:02.00]-[1:04:04.00]  Pues, que no me describí yo
+[1:04:04.00]-[1:04:06.00]  Sobre... ¿Las comidas?
+[1:04:06.00]-[1:04:08.00]  Sí, por ejemplo, las comidas
+[1:04:08.00]-[1:04:10.00]  Exacto
+[1:04:10.00]-[1:04:12.00]  Las comidas también han cambiado
+[1:04:12.00]-[1:04:14.00]  Porque...
+[1:04:16.00]-[1:04:18.00]  Mi madre decía que la ensalada
+[1:04:20.00]-[1:04:22.00]  La ensalada era como un postre
+[1:04:22.00]-[1:04:24.00]  Y yo también
+[1:04:24.00]-[1:04:26.00]  Mi padre se comía la ensalada a lo último
+[1:04:26.00]-[1:04:28.00]  La había a las caroles
+[1:04:28.00]-[1:04:30.00]  Que la hacían con ajo frito
+[1:04:30.00]-[1:04:32.00]  Y se la echaban a las caroles
+[1:04:32.00]-[1:04:34.00]  Y si era invierno, ponían una mitad
+[1:04:34.00]-[1:04:36.00]  De agua a templar
+[1:04:36.00]-[1:04:38.00]  Y en el verano me había la otra
+[1:04:38.00]-[1:04:40.00]  La ensalada, los cojollos, ¿cómo le llamáis ustedes?
+[1:04:40.00]-[1:04:42.00]  Los cojollos
+[1:04:42.00]-[1:04:44.00]  Los cojollos y las ensaladas, que hay de las dos cosas
+[1:04:44.00]-[1:04:46.00]  En invierno que había esa risa
+[1:04:48.00]-[1:04:50.00]  La hacían con los ajos fritos
+[1:04:50.00]-[1:04:52.00]  Y ahora la ensalada
+[1:04:52.00]-[1:04:54.00]  La ponemos nosotros
+[1:04:54.00]-[1:04:56.00]  Desde el principio hacemos la ensaladilla
+[1:04:56.00]-[1:04:58.00]  En el principio ponemos la ensalada
+[1:04:58.00]-[1:05:00.00]  Con cebolla, con pimientos
+[1:05:00.00]-[1:05:02.00]  Pero la ponemos de principio
+[1:05:02.00]-[1:05:04.00]  Antes se ponía
+[1:05:04.00]-[1:05:06.00]  A lo último como un postre
+[1:05:06.00]-[1:05:08.00]  Como tampoco había tanta fruta
+[1:05:08.00]-[1:05:10.00]  Porque ahora tenemos en invierno
+[1:05:10.00]-[1:05:12.00]  Naranja, tenemos de todo porque las traemos
+[1:05:12.00]-[1:05:14.00]  De otro lado
+[1:05:14.00]-[1:05:16.00]  Y antes era el tiempo de los pimientos
+[1:05:16.00]-[1:05:18.00]  Eso sí, guardar los pimientos
+[1:05:18.00]-[1:05:20.00]  Guardaban muchas cosas con aceite
+[1:05:20.00]-[1:05:22.00]  Ahora como tenemos las neveras
+[1:05:22.00]-[1:05:24.00]  Pues yo me meto
+[1:05:24.00]-[1:05:26.00]  Mi desayuno
+[1:05:26.00]-[1:05:34.70]  Hoy estaba mi
+[1:05:34.70]-[1:05:36.70]  La hierbabuena la guardo
+[1:05:36.70]-[1:05:38.70]  La tengo en la nevera y saco
+[1:05:38.70]-[1:05:40.70]  Porque a nosotros nos gusta mucho
+[1:05:40.70]-[1:05:42.70]  Esta parte de Andalucía
+[1:05:42.70]-[1:05:44.70]  Usaban mucho la hierbabuena
+[1:05:44.70]-[1:05:46.70]  Y en la parte de Jaén
+[1:05:46.70]-[1:05:48.70]  Lo que usan mucho es el comino
+[1:05:48.70]-[1:05:50.70]  El comino
+[1:05:50.70]-[1:05:52.70]  Tú has dicho que eres de Madrid
+[1:05:52.70]-[1:05:54.70]  Bueno, mis abuelos son de Ciudad Real
+[1:05:54.70]-[1:05:56.70]  De Ciudad Real, bueno
+[1:05:56.70]-[1:05:58.70]  Pero de La Mancha
+[1:05:58.70]-[1:06:00.70]  De La Mancha
+[1:06:00.70]-[1:06:02.70]  Así es, está ahí más cerca
+[1:06:02.70]-[1:06:04.70]  Nosotros estamos más lejos
+[1:06:04.70]-[1:06:06.70]  Hasta el manzal
+[1:06:06.70]-[1:06:08.70]  ¿Y tú?
+[1:06:08.70]-[1:06:10.70]  Yo de Madrid también
+[1:06:10.70]-[1:06:12.70]  ¿Y tu padre? ¿Y tu abuelo?
+[1:06:12.70]-[1:06:14.70]  Mi padre es de Madrid
+[1:06:14.70]-[1:06:16.70]  Mi abuela, tengo una abuela de la Carolina
+[1:06:16.70]-[1:06:18.70]  Que está ahí en Jaén
+[1:06:18.70]-[1:06:20.70]  Hola, hola
+[1:06:20.70]-[1:06:22.70]  Este es mi niño
+[1:06:22.70]-[1:06:24.70]  Bueno, niño mayor
+[1:06:24.70]-[1:06:26.70]  Se llama como yo
+[1:06:26.70]-[1:06:28.70]  Y su marido
+[1:06:28.70]-[1:06:30.70]  Mira, estas dos españoles
+[1:06:30.70]-[1:06:32.70]  Estas dos españoles y estas dos romanas
+[1:06:32.70]-[1:06:34.70]  Bueno, pues entonces
+[1:06:34.70]-[1:06:36.70]  Ahora luego venimos
+[1:06:36.70]-[1:06:38.70]  ¿A dónde vais?
+[1:06:38.70]-[1:06:40.70]  A ver, darte una vuelta a ver
+[1:06:40.70]-[1:06:42.70]  Pero veo que está muy bien
+[1:06:42.70]-[1:06:44.70]  ¿A dónde nos mandas?
+[1:06:44.70]-[1:06:46.70]  Parece que se va a ir mañana
+[1:06:46.70]-[1:06:48.70]  Bueno, cuando tú te vienes para allá
+[1:06:48.70]-[1:06:50.70]  Ahora luego venimos
+[1:06:50.70]-[1:06:52.70]  Yo venía a darle un poquito
+[1:06:52.70]-[1:06:54.70]  Este chino es muy malo
+[1:06:54.70]-[1:06:56.70]  Porque ahora tengo una medicina
+[1:06:56.70]-[1:06:58.70]  Este niño dice que le doy la patilla para él
+[1:06:58.70]-[1:07:00.70]  Adiós
+[1:07:00.70]-[1:07:02.70]  Esta es la segunda
+[1:07:02.70]-[1:07:04.70]  Pero yo el niño
+[1:07:04.70]-[1:07:06.70]  Es la que apaciguaba a su marido
+[1:07:06.70]-[1:07:08.70]  Cuando
+[1:07:08.70]-[1:07:10.70]  No, no, esta es muy moderna
+[1:07:10.70]-[1:07:12.70]  Esta es la que hablaba a mi marido
+[1:07:12.70]-[1:07:14.70]  Nosotros le decimos la predileta
+[1:07:14.70]-[1:07:16.70]  Porque
+[1:07:16.70]-[1:07:18.70]  Para que con los niños
+[1:07:18.70]-[1:07:20.70]  El otro
+[1:07:20.70]-[1:07:22.70]  Ella es patada
+[1:07:22.70]-[1:07:24.70]  Tiene un cáncer
+[1:07:24.70]-[1:07:26.70]  Tiene un pecho
+[1:07:26.70]-[1:07:28.70]  Lleva ya 8 años
+[1:07:28.70]-[1:07:30.70]  Y le digo, vamos
+[1:07:30.70]-[1:07:32.70]  Tiene que andar
+[1:07:32.70]-[1:07:34.70]  Tiene pastillitas, tiene cosas
+[1:07:34.70]-[1:07:36.70]  Que lo hace casa, pero después va
+[1:07:36.70]-[1:07:38.70]  Va delante de todo
+[1:07:38.70]-[1:07:40.70]  Pero vaya para los vecinos allí
+[1:07:40.70]-[1:07:42.70]  En la calle, que ellos viven más
+[1:07:42.70]-[1:07:44.70]  Pues detrás del cambio
+[1:07:44.70]-[1:07:46.70]  Oye, aquí es lo que hay, unas islas preciosas
+[1:07:46.70]-[1:07:48.70]  Pues a ver si ahora las podemos ir a visitar
+[1:07:48.70]-[1:07:50.70]  Que estos son
+[1:07:50.70]-[1:07:52.70]  Que hay, ¿cómo se llama?
+[1:07:52.70]-[1:07:54.70]  Ay, ay, ay
+[1:07:54.70]-[1:07:56.70]  Cuando entra
+[1:07:56.70]-[1:07:58.70]  A los grandes, ¿cómo se llama?
+[1:07:58.70]-[1:08:00.70]  Cuando el gobierno dice esto es nacional
+[1:08:00.70]-[1:08:02.70]  ¿Cómo se llama?
+[1:08:02.70]-[1:08:04.70]  Eso antes no me pasaba
+[1:08:04.70]-[1:08:06.70]  Pero es que hace dos años
+[1:08:06.70]-[1:08:08.70]  Me dio una trombosis
+[1:08:08.70]-[1:08:10.70]  Me cogí un poquito este lado
+[1:08:10.70]-[1:08:12.70]  El médico me dio pelotitas
+[1:08:12.70]-[1:08:14.70]  Y me puse a hacer ya crochet
+[1:08:14.70]-[1:08:16.70]  Y hago mucho crochet, eso es por eso le estoy haciendo
+[1:08:16.70]-[1:08:18.70]  Cosas a los nietos
+[1:08:18.70]-[1:08:20.70]  Y entonces tardó
+[1:08:20.70]-[1:08:22.70]  En decir las cosas
+[1:08:22.70]-[1:08:24.70]  Y bueno
+[1:08:24.70]-[1:08:26.70]  Yo nunca me ha gustado la gramática
+[1:08:26.70]-[1:08:28.70]  Ni
+[1:08:28.70]-[1:08:30.70]  Los números
+[1:08:30.70]-[1:08:32.70]  Se hasta dividir
+[1:08:32.70]-[1:08:34.70]  Pero ya está
+[1:08:34.70]-[1:08:36.70]  Y del otro
+[1:08:36.70]-[1:08:38.70]  Los verbos a la fuerza
+[1:08:38.70]-[1:08:40.70]  Aprende los verbos
+[1:08:40.70]-[1:08:42.70]  Sin embargo la historia sagrada, la historia de España
+[1:08:42.70]-[1:08:44.70]  La geografía
+[1:08:44.70]-[1:08:46.70]  O los mapas, eso
+[1:08:46.70]-[1:08:48.70]  Hubo una cosa que pasó en Mississippi
+[1:08:48.70]-[1:08:50.70]  Eso es en América
+[1:08:50.70]-[1:08:52.70]  En el colegio como había un mapa grande
+[1:08:52.70]-[1:08:54.70]  Y yo iba a ir a buscar
+[1:08:54.70]-[1:08:56.70]  No me gustó trabajar contra Mississippi
+[1:08:56.70]-[1:08:58.70]  Esas cosas
+[1:08:58.70]-[1:09:00.70]  Si me gustan mucho
+[1:09:00.70]-[1:09:02.70]  Y hay un nieto mío que está estudiando
+[1:09:02.70]-[1:09:04.70]  Historia
+[1:09:04.70]-[1:09:06.70]  Digo vaya, va a salir a mí
+[1:09:06.70]-[1:09:08.70]  Pero los números
+[1:09:08.70]-[1:09:10.70]  Nada
+[1:09:10.70]-[1:09:12.70]  La gramática tampoco
+[1:09:12.70]-[1:09:14.70]  Ahora si
+[1:09:14.70]-[1:09:16.70]  Voy a escribir
+[1:09:16.70]-[1:09:18.70]  Pero si falta lo que sea
+[1:09:18.70]-[1:09:20.70]  Pero ya escribo también
+[1:09:20.70]-[1:09:22.70]  Y que va
+[1:09:22.70]-[1:09:24.70]  ¿Qué me estabas diciendo?
+[1:09:24.70]-[1:09:26.70]  Los novios ya te he dicho
+[1:09:26.70]-[1:09:28.70]  Los novios en los tiempos de mi madre
+[1:09:28.70]-[1:09:30.70]  Le mandaban una tarjetita
+[1:09:30.70]-[1:09:32.70]  Que las conservo yo, las tarjetas
+[1:09:32.70]-[1:09:34.70]  A alguno que la quería
+[1:09:34.70]-[1:09:36.70]  Y ella si contestaba dándole las gracias
+[1:09:36.70]-[1:09:38.70]  Y si no daba las gracias ya sabía que no había nada que hacer
+[1:09:38.70]-[1:09:40.70]  Y
+[1:09:40.70]-[1:09:42.70]  Y luego después ya se acercaba
+[1:09:42.70]-[1:09:44.70]  Procuraban siempre
+[1:09:44.70]-[1:09:46.70]  Las clases porque yo tengo un sobrino
+[1:09:46.70]-[1:09:48.70]  Mío
+[1:09:48.70]-[1:09:50.70]  Un poquito mayor que mi hijo
+[1:09:50.70]-[1:09:52.70]  Pues le gustaba a una niña
+[1:09:52.70]-[1:09:54.70]  Y la niña a ellos también, pero como era
+[1:09:54.70]-[1:09:56.70]  De la aristocracia
+[1:09:56.70]-[1:09:58.70]  Y ellos eran más de media clase
+[1:09:58.70]-[1:10:00.70]  Y su padre luego daba mucho dinero
+[1:10:00.70]-[1:10:02.70]  Su padre tenía una tienda
+[1:10:02.70]-[1:10:04.70]  No le parecía bien
+[1:10:04.70]-[1:10:06.70]  Y no, rompieron, eran del instituto y rompieron
+[1:10:06.70]-[1:10:08.70]  Luego se casó con mi madre
+[1:10:08.70]-[1:10:10.70]  Y luego un niño
+[1:10:10.70]-[1:10:12.70]  Venía a nuestra casa
+[1:10:12.70]-[1:10:14.70]  Que quería colocarse
+[1:10:14.70]-[1:10:16.70]  Y le dio
+[1:10:16.70]-[1:10:18.70]  Y mi marido dice, uy
+[1:10:18.70]-[1:10:20.70]  Mi sobrino estuvo detrás de tu madre
+[1:10:20.70]-[1:10:22.70]  Que le gustaba mucho
+[1:10:22.70]-[1:10:24.70]  Pero no
+[1:10:24.70]-[1:10:26.70]  No llegaron a eso
+[1:10:26.70]-[1:10:28.70]  Y dice, hasta que el niño se lo dijo
+[1:10:28.70]-[1:10:30.70]  Y la madre nos mandó un regalo
+[1:10:30.70]-[1:10:32.70]  Y la que estaba loca por ahí era yo
+[1:10:32.70]-[1:10:34.70]  Y dice, médica
+[1:10:34.70]-[1:10:36.70]  Está de separar del marido
+[1:10:36.70]-[1:10:38.70]  Y nos echamos buenísimas
+[1:10:38.70]-[1:10:40.70]  Y se hubieran sido también felices
+[1:10:40.70]-[1:10:42.70]  Luego se casó ella
+[1:10:42.70]-[1:10:46.70]  Fue feliz y ha sido de Sevilla
+[1:10:46.70]-[1:10:48.70]  Como se llama
+[1:10:48.70]-[1:10:52.70]  Pues trae venía con guardaespaldas
+[1:10:52.70]-[1:10:54.70]  A un alcalde o...
+[1:10:54.70]-[1:10:56.70]  No, no, no
+[1:10:56.70]-[1:10:58.70]  Concejal
+[1:10:58.70]-[1:11:00.70]  Concejal de las cosas del gobierno
+[1:11:00.70]-[1:11:02.70]  De la Junta de Andalucía
+[1:11:02.70]-[1:11:06.70]  No es que fuera mucho político era
+[1:11:06.70]-[1:11:08.70]  Porque en bolito
+[1:11:08.70]-[1:11:10.70]  La carrera la hizo todo
+[1:11:10.70]-[1:11:14.70]  Con las becas que las ganaba
+[1:11:14.70]-[1:11:16.70]  Bueno, el colegio
+[1:11:16.70]-[1:11:18.70]  Mi suegro se venía contentísimo
+[1:11:18.70]-[1:11:20.70]  Mira la beca que le andaba a mi niño
+[1:11:20.70]-[1:11:22.70]  Mira que le andaba a otro
+[1:11:22.70]-[1:11:24.70]  Mi marido también lo quería mucho a su sobrino
+[1:11:24.70]-[1:11:26.70]  Estuviera en un accidente
+[1:11:26.70]-[1:11:30.70]  En el parlamento de Andalucía
+[1:11:30.70]-[1:11:32.70]  Estaba metido ahí
+[1:11:32.70]-[1:11:34.70]  Mi niño que te lo diga si queréis saberlo
+[1:11:34.70]-[1:11:36.70]  Y tuvo un accidente
+[1:11:36.70]-[1:11:40.70]  Tuve un accidente y le dio una rama del otro
+[1:11:40.70]-[1:11:42.70]  Que se metió en el coche
+[1:11:42.70]-[1:11:44.70]  De la parte de la carretera
+[1:11:44.70]-[1:11:46.70]  En la avena Horta
+[1:11:46.70]-[1:11:48.70]  Y se murió
+[1:11:48.70]-[1:11:50.70]  Uy, tiene dos niños
+[1:11:50.70]-[1:11:54.70]  No sé por qué iba yo a decir eso
+[1:11:56.70]-[1:12:00.70]  Estábamos antes hablando de las comidas
+[1:12:00.70]-[1:12:02.70]  Que ponía la ensalada de postre
+[1:12:02.70]-[1:12:04.70]  Luego se comía mucho cocido
+[1:12:04.70]-[1:12:08.70]  El cocido que es como...
+[1:12:08.70]-[1:12:10.70]  Me gustaba mucho cuando se hacía cola
+[1:12:10.70]-[1:12:14.70]  De la papá de los cerdos
+[1:12:14.70]-[1:12:18.70]  No sé si le llamaban a la papá
+[1:12:18.70]-[1:12:20.70]  Yo creo que se le llama algo de aquí
+[1:12:20.70]-[1:12:24.70]  Que lleva como si fuera jamoncito
+[1:12:24.70]-[1:12:26.70]  Es muy bueno ese tocino
+[1:12:26.70]-[1:12:28.70]  Y se le echaba costillas
+[1:12:28.70]-[1:12:30.70]  O no cuesta dañejo
+[1:12:30.70]-[1:12:32.70]  Y la carne, carne de ternera
+[1:12:32.70]-[1:12:34.70]  Aquí no te queda mucho la ternera
+[1:12:34.70]-[1:12:36.70]  Y entonces se ponía el cocido
+[1:12:36.70]-[1:12:40.70]  Sacaba la carne y eso
+[1:12:40.70]-[1:12:42.70]  La ponía la carne y con el tocino después
+[1:12:42.70]-[1:12:46.70]  Te ponía la cola, te ponía la bichuela
+[1:12:46.70]-[1:12:48.70]  También nos gustaba mucho tarragina
+[1:12:48.70]-[1:12:54.70]  Es una cosa del campo que son risailla
+[1:12:54.70]-[1:12:56.70]  Son muy buenas, como los cardillos
+[1:12:56.70]-[1:12:58.70]  Pero las tarraginas son más finas
+[1:12:58.70]-[1:13:00.70]  Que los cardillos
+[1:13:00.70]-[1:13:02.70]  Aquí también se le echaba eso
+[1:13:02.70]-[1:13:04.70]  Se echaban sus papas y sus garbanzas
+[1:13:04.70]-[1:13:06.70]  Y ese era el primer plato
+[1:13:06.70]-[1:13:08.70]  Y eso se lo tiene en su carne
+[1:13:08.70]-[1:13:16.70]  Ya vino más la moda de poner un pescado
+[1:13:16.70]-[1:13:18.70]  Conmigo sí
+[1:13:18.70]-[1:13:20.70]  Yo ya había visto pescado todos los días aquí
+[1:13:20.70]-[1:13:22.70]  Pero antes un pescado todos los días no venía
+[1:13:22.70]-[1:13:24.70]  Venía algún hombre de Ivala
+[1:13:24.70]-[1:13:26.70]  Que traía pescado fresco
+[1:13:26.70]-[1:13:30.70]  Y entonces compraban más el pescado
+[1:13:30.70]-[1:13:34.70]  Pero ya la casa se usaba mucho
+[1:13:34.70]-[1:13:36.70]  Y ahora con esto del congelado
+[1:13:36.70]-[1:13:38.70]  Tenemos de todas las plazas de pescado
+[1:13:38.70]-[1:13:40.70]  Pero entonces no era tampoco...
+[1:13:40.70]-[1:13:44.70]  Yo íbamos a la plaza a lo mejor por melusa
+[1:13:44.70]-[1:13:46.70]  No había que al día melusa
+[1:13:46.70]-[1:13:48.70]  Mamá ya sacaba la melusa
+[1:13:48.70]-[1:13:50.70]  Cuando me voy yo ya no
+[1:13:50.70]-[1:13:52.70]  Porque yo he sido una niña también
+[1:13:52.70]-[1:13:54.70]  Mi madre nunca ha ido a la plaza
+[1:13:54.70]-[1:13:56.70]  La muchacha
+[1:13:56.70]-[1:13:58.70]  Y mi amiga sí
+[1:13:58.70]-[1:14:00.70]  Tampoco
+[1:14:00.70]-[1:14:02.70]  Conmigo era calante porque estaba tan lejos
+[1:14:02.70]-[1:14:04.70]  Yo tenía que no iba nada a la plaza
+[1:14:04.70]-[1:14:06.70]  Y a mí me gustaba ir a la plaza
+[1:14:06.70]-[1:14:08.70]  Yo tenía que ir con la muchacha a la plaza
+[1:14:08.70]-[1:14:10.70]  Pero luego yo iba sola
+[1:14:10.70]-[1:14:12.70]  Que me gustaba ir a comprar yo sola
+[1:14:12.70]-[1:14:14.70]  El pescado, lo que yo quisiera
+[1:14:14.70]-[1:14:16.70]  Yo era un raro aquello
+[1:14:16.70]-[1:14:18.70]  Yo era media clase
+[1:14:18.70]-[1:14:20.70]  Mi padre era dependiente de tejido
+[1:14:20.70]-[1:14:22.70]  No era yo rica, rica
+[1:14:22.70]-[1:14:24.70]  Pero me consideraban como señorita
+[1:14:24.70]-[1:14:26.70]  Mi abuelo había sido más
+[1:14:26.70]-[1:14:28.70]  Mi padre había sido menos
+[1:14:28.70]-[1:14:30.70]  Por la novia
+[1:14:30.70]-[1:14:32.70]  Porque mi padre me dio la decisión de correo
+[1:14:32.70]-[1:14:36.70]  Pero tu amigo llegaron dos que se examinaron con él director
+[1:14:36.70]-[1:14:38.70]  Pero mi padre pues no hizo del lado de la novia
+[1:14:38.70]-[1:14:40.70]  Pues se metió a tejido
+[1:14:40.70]-[1:14:42.70]  Y nunca estuvo a tejido
+[1:14:42.70]-[1:14:44.70]  Dependiente
+[1:14:44.70]-[1:14:46.70]  Pero me consideraban
+[1:14:46.70]-[1:14:48.70]  Porque mi abuelo había sido más
+[1:14:48.70]-[1:14:50.70]  Lo que fuera era una media clase alta
+[1:14:50.70]-[1:14:52.70]  Y yo iba a la plaza
+[1:14:52.70]-[1:14:54.70]  Mis amigas no iban
+[1:14:54.70]-[1:14:56.70]  A mí me gustaba mucho
+[1:14:56.70]-[1:14:58.70]  Y a comprar y salir a la calle
+[1:15:00.70]-[1:15:02.70]  Hasta los días de la guerra
+[1:15:02.70]-[1:15:04.70]  Vaya terminando la guerra
+[1:15:04.70]-[1:15:06.70]  Hasta por carbón iba yo
+[1:15:06.70]-[1:15:08.70]  Yo fui por el carbón
+[1:15:08.70]-[1:15:10.70]  Estaba muy cerca
+[1:15:10.70]-[1:15:12.70]  Mi calle aquí
+[1:15:12.70]-[1:15:14.70]  Y el carbón estaba aquí en la otra calle
+[1:15:14.70]-[1:15:16.70]  Iba por el carbón, no me lo paro
+[1:15:16.70]-[1:15:18.70]  Entonces era picón
+[1:15:18.70]-[1:15:20.70]  Y se cogeía una coaíta, se sabe
+[1:15:20.70]-[1:15:22.70]  Y había que soplar, soplar, soplar
+[1:15:22.70]-[1:15:24.70]  Para pasar los brazeros
+[1:15:24.70]-[1:15:26.70]  Para denunciar
+[1:15:26.70]-[1:15:28.70]  Y toda la corriente no la teníamos entonces
+[1:15:28.70]-[1:15:30.70]  Claro
+[1:15:30.70]-[1:15:32.70]  Cuando yo era más mayor
+[1:15:32.70]-[1:15:34.70]  Un rallador era redondo
+[1:15:34.70]-[1:15:36.70]  Y eso sí
+[1:15:36.70]-[1:15:38.70]  Nosotros cuando eramos niños
+[1:15:38.70]-[1:15:40.70]  Ya teníamos un rallador de eso
+[1:15:40.70]-[1:15:42.70]  Pero no iba a bañarlo
+[1:15:42.70]-[1:15:44.70]  Pero antes de ir a la sierra por la mañana
+[1:15:44.70]-[1:15:46.70]  Y ya está
+[1:15:46.70]-[1:15:48.70]  Y el pan, ¿tenían pan aquí?
+[1:15:48.70]-[1:15:50.70]  ¿Lo hacían aquí donde querían?
+[1:15:50.70]-[1:15:52.70]  Bueno, el pan tuvo racionado mucho tiempo
+[1:15:52.70]-[1:15:54.70]  Y hubo un pan de maíz
+[1:15:54.70]-[1:15:56.70]  Y a mi hermano le gustaba
+[1:15:56.70]-[1:15:58.70]  Y comía, ahora mi padre y yo
+[1:15:58.70]-[1:16:00.70]  Los señoritos de la casa
+[1:16:00.70]-[1:16:02.70]  Tenían que buscar
+[1:16:02.70]-[1:16:04.70]  Había el estrapelo
+[1:16:04.70]-[1:16:06.70]  Por qué también valía cinco euros
+[1:16:06.70]-[1:16:08.70]  Un duro, porque yo era un huncho
+[1:16:08.70]-[1:16:10.70]  Había el estrapelista
+[1:16:10.70]-[1:16:12.70]  Me decían que traía el pan
+[1:16:12.70]-[1:16:14.70]  De este pueblo, de otro pueblo
+[1:16:14.70]-[1:16:16.70]  Teníamos mucha amistad
+[1:16:16.70]-[1:16:18.70]  En frente de la casa había una...
+[1:16:18.70]-[1:16:20.70]  Este es el teléfono
+[1:16:24.70]-[1:16:26.70]  No sé si va a coger este de mi cuarto
+[1:16:28.70]-[1:16:30.70]  Esa es bien
+[1:16:30.70]-[1:16:32.70]  Esa es la empachosa
+[1:16:32.70]-[1:16:34.70]  Esa tiene carrera
+[1:16:36.70]-[1:16:38.70]  Este es abogado
+[1:16:38.70]-[1:16:40.70]  La otra contabilidad
+[1:16:40.70]-[1:16:42.70]  El que está en la casa
+[1:16:42.70]-[1:16:44.70]  Es una abogada
+[1:16:44.70]-[1:16:46.70]  Es una caberilla
+[1:16:46.70]-[1:16:48.70]  La chica como corrió
+[1:16:48.70]-[1:16:50.70]  Estaba para delinear
+[1:16:50.70]-[1:16:52.70]  Y su padre dice que no ha delineado bien
+[1:16:54.70]-[1:16:56.70]  Tampoco tiene
+[1:16:56.70]-[1:16:58.70]  Esta es psicóloga
+[1:16:58.70]-[1:17:00.70]  Yo creo que será la que va a la casa
+[1:17:00.70]-[1:17:02.70]  Mi hermana también es psicóloga
+[1:17:02.70]-[1:17:04.70]  Sí
+[1:17:04.70]-[1:17:06.70]  Está acabando
+[1:17:06.70]-[1:17:08.70]  Está en ella
+[1:17:08.70]-[1:17:10.70]  Está psicóloga de esa
+[1:17:10.70]-[1:17:12.70]  Pero también trabaja en la oficina de los seguros
+[1:17:16.70]-[1:17:18.70]  Está tan con un cajito
+[1:17:18.70]-[1:17:20.70]  Está muy bien
+[1:17:20.70]-[1:17:22.70]  ¿Qué estábamos hablando?
+[1:17:22.70]-[1:17:24.70]  Con el pan
+[1:17:24.70]-[1:17:26.70]  Después de la guerra no había pan
+[1:17:26.70]-[1:17:28.70]  Entonces
+[1:17:28.70]-[1:17:30.70]  Dava
+[1:17:30.70]-[1:17:32.70]  Las raciones
+[1:17:32.70]-[1:17:34.70]  Como era aquello primero
+[1:17:34.70]-[1:17:36.70]  Las raciones las daban
+[1:17:36.70]-[1:17:38.70]  Pero había un otro
+[1:17:38.70]-[1:17:40.70]  Entonces
+[1:17:40.70]-[1:17:42.70]  Cojían la harina
+[1:17:42.70]-[1:17:44.70]  Se la daban a los panaderos de trigo
+[1:17:44.70]-[1:17:46.70]  O trigo
+[1:17:46.70]-[1:17:48.70]  Había panaderías con molinos
+[1:17:48.70]-[1:17:50.70]  Otras no
+[1:17:50.70]-[1:17:52.70]  Pero algunas le daban trigo y lo molían
+[1:17:52.70]-[1:17:54.70]  Pero lo estrapilaban
+[1:17:54.70]-[1:17:56.70]  El trigo lo vendían
+[1:17:56.70]-[1:17:58.70]  Entonces al pueblo
+[1:17:58.70]-[1:18:00.70]  Nos daban de maíz
+[1:18:00.70]-[1:18:02.70]  Pan de maíz
+[1:18:02.70]-[1:18:04.70]  Mi hermano le gustaba
+[1:18:04.70]-[1:18:06.70]  Después hubo también una temporada
+[1:18:06.70]-[1:18:08.70]  Cuando se comía a comer
+[1:18:08.70]-[1:18:10.70]  La espiga se lo molerían todo
+[1:18:10.70]-[1:18:12.70]  Porque en la garganta te raspeaba
+[1:18:12.70]-[1:18:14.70]  Ese no lo queríamos
+[1:18:14.70]-[1:18:16.70]  Y a la detrás
+[1:18:16.70]-[1:18:18.70]  Y luego después
+[1:18:18.70]-[1:18:20.70]  Algunas veces por el campo
+[1:18:20.70]-[1:18:22.70]  Por los puercillos que venían
+[1:18:22.70]-[1:18:24.70]  Una vez a la semana venía un hombre
+[1:18:24.70]-[1:18:26.70]  De Villanueva a la concesión
+[1:18:26.70]-[1:18:28.70]  Y traía pan blanco
+[1:18:28.70]-[1:18:30.70]  Y le traían uno a mi padre
+[1:18:30.70]-[1:18:32.70]  Lo tenía que pagar más caro
+[1:18:32.70]-[1:18:34.70]  Entonces por ahí teníamos uno a la semana
+[1:18:34.70]-[1:18:36.70]  Y luego por una amiga de mi madre
+[1:18:36.70]-[1:18:38.70]  Que tenía taona
+[1:18:38.70]-[1:18:40.70]  Teníamos que ir una noche
+[1:18:40.70]-[1:18:42.70]  A las 12 de la noche salía el pan para el campo
+[1:18:42.70]-[1:18:44.70]  Y como era para los ricos
+[1:18:44.70]-[1:18:46.70]  Para los labradores
+[1:18:46.70]-[1:18:48.70]  Hacían un pan blanco
+[1:18:48.70]-[1:18:50.70]  Entonces también lo daban uno
+[1:18:50.70]-[1:18:52.70]  Y mi madre lo partía y lo guardaba
+[1:18:52.70]-[1:18:54.70]  Para mi padre y para mí
+[1:18:54.70]-[1:18:56.70]  Porque no queríamos ir de maíz
+[1:18:56.70]-[1:18:58.70]  Y pillábamos también pan
+[1:18:58.70]-[1:19:00.70]  No estuvieron muy escasas
+[1:19:00.70]-[1:19:02.70]  Muchas veces no había
+[1:19:02.70]-[1:19:04.70]  Mi madre había unos que no tenían madre
+[1:19:04.70]-[1:19:06.70]  Y se ponían
+[1:19:06.70]-[1:19:08.70]  Pero es que no tengo nada que darle
+[1:19:08.70]-[1:19:10.70]  Si es que no hay pan
+[1:19:10.70]-[1:19:12.70]  Ni de uno ni de otro
+[1:19:12.70]-[1:19:14.70]  Si es que no tengo nada que darle
+[1:19:14.70]-[1:19:16.70]  ¿Qué le vamos a dar a estas criaturas?
+[1:19:16.70]-[1:19:18.70]  Y se volvía mi madre pura de vez
+[1:19:18.70]-[1:19:20.70]  Que no le podíamos dar algo
+[1:19:20.70]-[1:19:22.70]  Algunas veces el suyo
+[1:19:22.70]-[1:19:24.70]  El pedazo que ya le tocaba
+[1:19:24.70]-[1:19:26.70]  Me lo le untaba
+[1:19:26.70]-[1:19:28.70]  Es que no tenían como esas de chicharrones
+[1:19:28.70]-[1:19:30.70]  Y esas cosas de batalza
+[1:19:30.70]-[1:19:32.70]  A mí me gustaba mucho la lorizana
+[1:19:32.70]-[1:19:34.70]  Tampoco hubo en los tiempos de la guerra
+[1:19:34.70]-[1:19:36.70]  La lorizana que era más bien de León
+[1:19:36.70]-[1:19:38.70]  El país del norte donde venía esa marca
+[1:19:40.70]-[1:19:42.70]  Y el aceite escaso
+[1:19:42.70]-[1:19:44.70]  Todo muy escaso
+[1:19:44.70]-[1:19:46.70]  Y nosotros estábamos
+[1:19:46.70]-[1:19:48.70]  Teníamos un chocolate que ya lo hacían en Granada
+[1:19:48.70]-[1:19:50.70]  La Vida de los Rayos muy malo
+[1:19:50.70]-[1:19:52.70]  Darida, mamá, hacíamos malo
+[1:19:52.70]-[1:19:54.70]  Nosotros estábamos acostumbrados
+[1:19:54.70]-[1:19:56.70]  Que mi padre nos compraba los domingos
+[1:19:56.70]-[1:19:58.70]  Unos chocolates de Nelle
+[1:19:58.70]-[1:20:00.70]  Y un chiquitillo, unas tabletas
+[1:20:00.70]-[1:20:02.70]  Y traía unas estampitas para los arbúnes
+[1:20:04.70]-[1:20:06.70]  Mi hermano era el primero que cogía la estampa
+[1:20:06.70]-[1:20:08.70]  Y yo el segundo
+[1:20:08.70]-[1:20:10.70]  Y mi novia decía
+[1:20:10.70]-[1:20:12.70]  Ya después te se comprará a ti
+[1:20:12.70]-[1:20:14.70]  Y entonces las estampitas
+[1:20:14.70]-[1:20:16.70]  Las cambiaban los niños
+[1:20:16.70]-[1:20:18.70]  Yo tengo tres destas, yo tengo una
+[1:20:18.70]-[1:20:20.70]  Se las cambiaba para el arbú
+[1:20:20.70]-[1:20:22.70]  Y mi padre todos los domingos nos daba
+[1:20:22.70]-[1:20:24.70]  Un anonci de regalo por la mañana
+[1:20:24.70]-[1:20:26.70]  Eso no era de Covey
+[1:20:26.70]-[1:20:28.70]  Un chocolate fino de Nelle
+[1:20:28.70]-[1:20:30.70]  Yo no sé si usted no había llegado
+[1:20:30.70]-[1:20:32.70]  A esas tabletas
+[1:20:32.70]-[1:20:34.70]  Había pocos de esos
+[1:20:34.70]-[1:20:36.70]  Sí, tabletas de Nelle
+[1:20:36.70]-[1:20:38.70]  Ya no traía estampa
+[1:20:38.70]-[1:20:40.70]  Pero antes sí
+[1:20:40.70]-[1:20:42.70]  Y eso es lo que teníamos más
+[1:20:42.70]-[1:20:44.70]  El chocolate
+[1:20:44.70]-[1:20:46.70]  Y comíamos por la noche
+[1:20:46.70]-[1:20:48.70]  Muchas tortillas
+[1:20:48.70]-[1:20:50.70]  Y nuestra leche para dormir
+[1:20:50.70]-[1:20:52.70]  También a los tiempos de mi madre
+[1:20:52.70]-[1:20:54.70]  Comían a las 12 de la mañana
+[1:20:54.70]-[1:20:56.70]  Y a las 5 de la tarde
+[1:20:56.70]-[1:20:58.70]  Porque para las 7 o las 8 que las iba la luz
+[1:21:00.70]-[1:21:02.70]  Mi madre decía
+[1:21:02.70]-[1:21:04.70]  La luz eléctrica es mi abuela la que la empezó a ver
+[1:21:04.70]-[1:21:06.70]  La luz eléctrica
+[1:21:06.70]-[1:21:08.70]  Pero
+[1:21:08.70]-[1:21:10.70]  Tampoco había
+[1:21:10.70]-[1:21:12.70]  Mi abuelo no tuvieron luz
+[1:21:12.70]-[1:21:14.70]  Y mi abuelo
+[1:21:14.70]-[1:21:16.70]  Mi bisabuelo
+[1:21:16.70]-[1:21:18.70]  Levo a mi madre con unos 12 años
+[1:21:18.70]-[1:21:20.70]  Porque empezó a pasar un tren
+[1:21:20.70]-[1:21:22.70]  De Málaga para Granada
+[1:21:22.70]-[1:21:24.70]  Y pasaba a las 4
+[1:21:24.70]-[1:21:26.70]  Y ya empezaron a poner un vagón
+[1:21:26.70]-[1:21:28.70]  Era mucho para mercancías
+[1:21:28.70]-[1:21:30.70]  Un vagón de
+[1:21:30.70]-[1:21:32.70]  Viajeros, poquito
+[1:21:32.70]-[1:21:34.70]  Y bajo
+[1:21:34.70]-[1:21:36.70]  Mi madre dice que la llevó de la mano
+[1:21:36.70]-[1:21:38.70]  Su abuelo a ver
+[1:21:38.70]-[1:21:40.70]  Pasar el tren, dice que se ponían la gente ahí esperando
+[1:21:40.70]-[1:21:42.70]  Pero si van a las 12, hasta las 4 que pasaba el tren
+[1:21:42.70]-[1:21:44.70]  Si no traía retraso
+[1:21:44.70]-[1:21:46.70]  Y entonces que luego subió
+[1:21:46.70]-[1:21:48.70]  Y cuando subió le dio
+[1:21:48.70]-[1:21:50.70]  A su hija, dice, eso
+[1:21:50.70]-[1:21:52.70]  Tiene que acabarse, eso es de
+[1:21:52.70]-[1:21:54.70]  Demonios, va echando
+[1:21:54.70]-[1:21:56.70]  Candela, le va a caer a los campos
+[1:21:56.70]-[1:21:58.70]  Vamos a arder, vamos a arder España
+[1:21:58.70]-[1:22:00.70]  Eso no puede prosperar, eso tiene
+[1:22:00.70]-[1:22:02.70]  Que quitarlo, eso es una cosa
+[1:22:02.70]-[1:22:04.70]  Y mi madre dice
+[1:22:04.70]-[1:22:06.70]  Ay, yo he visto las mujeres que iban
+[1:22:06.70]-[1:22:08.70]  Llevaban sombreros, entonces para ir
+[1:22:08.70]-[1:22:10.70]  El tren ya se les tían muy
+[1:22:10.70]-[1:22:12.70]  Mudejadas, así que mi madre
+[1:22:12.70]-[1:22:14.70]  Con 11 o 12 años
+[1:22:14.70]-[1:22:16.70]  Ya vio ella el tren
+[1:22:16.70]-[1:22:18.70]  De pasar por aquí
+[1:22:18.70]-[1:22:20.70]  Y me dijo mi abuelo que yo era cosa de demonios
+[1:22:20.70]-[1:22:22.70]  También
+[1:22:22.70]-[1:22:24.70]  Hablaba que no podía hablar
+[1:22:24.70]-[1:22:26.70]  En la comida, porque mi madre, nosotros nos poníamos
+[1:22:26.70]-[1:22:28.70]  A pelear, no por esto, por otro
+[1:22:28.70]-[1:22:30.70]  Digo, a mi que mi abuelo
+[1:22:30.70]-[1:22:32.70]  No podía, yo pedía el pan, cuando yo quería
+[1:22:32.70]-[1:22:34.70]  El pan, tenía que soltar la cuchara, ¡pum!
+[1:22:34.70]-[1:22:36.70]  Ya sabía que me tenían que dar pan
+[1:22:36.70]-[1:22:38.70]  Se rezaba el padre nuestro
+[1:22:38.70]-[1:22:40.70]  Y allí nos mintía
+[1:22:40.70]-[1:22:42.70]  Como yo soltaba la cuchara
+[1:22:42.70]-[1:22:44.70]  Le daban risa, tenía que hacer porque su padre
+[1:22:44.70]-[1:22:46.70]  Era muy serio, dice mi abuelo
+[1:22:46.70]-[1:22:48.70]  Era muy religioso
+[1:22:48.70]-[1:22:50.70]  Muy así
+[1:22:50.70]-[1:22:52.70]  Eso me contaba
+[1:22:52.70]-[1:22:54.70]  Nosotros no, nosotros ya hablábamos mucho
+[1:22:54.70]-[1:22:56.70]  Y rezábamos
+[1:22:56.70]-[1:22:58.70]  La noche buena, yo sigo
+[1:22:58.70]-[1:23:00.70]  De rezar la noche buena
+[1:23:00.70]-[1:23:02.70]  Lo primero que rezo es
+[1:23:02.70]-[1:23:04.70]  Darle gracias al Señor, de que yo pongo
+[1:23:04.70]-[1:23:06.70]  A una mesa, que eso es un banquete
+[1:23:06.70]-[1:23:08.70]  Hay de todo, no falta
+[1:23:08.70]-[1:23:10.70]  De nada, de nada, de nada
+[1:23:10.70]-[1:23:12.70]  Tenemos gambas que tenemos
+[1:23:12.70]-[1:23:14.70]  Ensaladillas que tenemos, postres, 4 o 5 postres
+[1:23:14.70]-[1:23:16.70]  En fin, porque cada una lleva uno
+[1:23:16.70]-[1:23:18.70]  Me untan mi hermano
+[1:23:18.70]-[1:23:20.70]  Con sus niños
+[1:23:20.70]-[1:23:22.70]  Y que ahora un subrino mío
+[1:23:22.70]-[1:23:24.70]  Se casó con una peruana
+[1:23:24.70]-[1:23:26.70]  Y ahora digo yo
+[1:23:26.70]-[1:23:28.70]  Le untamos los peruanos
+[1:23:28.70]-[1:23:30.70]  Y los jandos a nosotros
+[1:23:30.70]-[1:23:32.70]  Porque ella se traba una niña
+[1:23:32.70]-[1:23:34.70]  Y un niño que tenía
+[1:23:34.70]-[1:23:36.70]  Porque ella era viuda
+[1:23:36.70]-[1:23:38.70]  Y la hija trae un niño
+[1:23:38.70]-[1:23:40.70]  Así que ella peruana
+[1:23:40.70]-[1:23:42.70]  Y el marido, pues yo solté ahí
+[1:23:42.70]-[1:23:44.70]  Y mi subrino se ha muerto
+[1:23:44.70]-[1:23:46.70]  Son 5
+[1:23:46.70]-[1:23:48.70]  Los peruanos, yo rezo a un padre nuestro
+[1:23:48.70]-[1:23:50.70]  Para los que nos faltan
+[1:23:50.70]-[1:23:52.70]  De nuestros difuntos y los nuestros
+[1:23:52.70]-[1:23:54.70]  Voy a comprar
+[1:23:54.70]-[1:23:56.70]  ¿Queres agua? ¿Queréis algo?
+[1:23:56.70]-[1:23:58.70]  Dile tú, ¿queréis cerveza o algo?
+[1:23:58.70]-[1:24:00.70]  Muchas gracias
+[1:24:00.70]-[1:24:02.70]  Cerveza la vas a poner, porque está perdida
+[1:24:02.70]-[1:24:04.70]  Una cacacola, una Fanta
+[1:24:04.70]-[1:24:06.70]  No, muchas gracias
+[1:24:06.70]-[1:24:08.70]  Y tú, ¿tienes agua?
+[1:24:08.70]-[1:24:10.70]  Te veo con el vaso que no le has tocado
+[1:24:10.70]-[1:24:12.70]  Un poquito
+[1:24:12.70]-[1:24:14.70]  Bueno, voy a comprar ahora
+[1:24:14.70]-[1:24:16.70]  Vuelve, venga, hasta ahora
+[1:24:16.70]-[1:24:18.70]  Hasta ahora
+[1:24:18.70]-[1:24:20.70]  ¿Quieres decir que la puerta es para mí?
+[1:24:20.70]-[1:24:22.70]  Sí
+[1:24:22.70]-[1:24:24.70]  Sí se llama
+[1:24:24.70]-[1:24:26.70]  Y yo digo, bueno, traeme el agua
+[1:24:26.70]-[1:24:28.70]  Eso, eso
+[1:24:28.70]-[1:24:30.70]  Es que esto no quiere que lo tenga
+[1:24:32.70]-[1:24:34.70]  Tiene una jarra
+[1:24:34.70]-[1:24:36.70]  Y yo la jarra
+[1:24:36.70]-[1:24:38.70]  Es que con esto que yo tuve
+[1:24:38.70]-[1:24:40.70]  Yo 5 veces de la cama
+[1:24:40.70]-[1:24:42.70]  Pues ya no puedo
+[1:24:42.70]-[1:24:44.70]  El sostén me lo tienen que poner y me quitar
+[1:24:44.70]-[1:24:46.70]  Porque yo he buscado esto, esto
+[1:24:46.70]-[1:24:48.70]  Uno tiene muchas cosetas
+[1:24:48.70]-[1:24:50.70]  Y no he encontrado ningún sostén que abracé
+[1:24:50.70]-[1:24:52.70]  Por aquí, entonces
+[1:24:52.70]-[1:24:54.70]  O esta que está ahí, o son más
+[1:24:54.70]-[1:24:56.70]  Los que más me evite
+[1:24:56.70]-[1:24:58.70]  Y no me llevo la mano
+[1:24:58.70]-[1:25:00.70]  Y entonces la botella la como bien
+[1:25:00.70]-[1:25:02.70]  Y la jarra no puedo
+[1:25:02.70]-[1:25:04.70]  Y se sofuca
+[1:25:04.70]-[1:25:06.70]  Aquí te ves ahí como se cree que tiene el aguardiente
+[1:25:06.70]-[1:25:08.70]  Me dice
+[1:25:08.70]-[1:25:10.70]  El aguardiente está ahí
+[1:25:10.70]-[1:25:12.70]  ¿Y eso que trae una copita delico?
+[1:25:12.70]-[1:25:14.70]  No
+[1:25:14.70]-[1:25:16.70]  ¿Te vas a ir a marear?
+[1:25:16.70]-[1:25:18.70]  Creo que sí
+[1:25:22.70]-[1:25:24.70]  Pues que
+[1:25:24.70]-[1:25:26.70]  Yo quería saber sobre su
+[1:25:26.70]-[1:25:28.70]  Boda, cómo fue
+[1:25:28.70]-[1:25:30.70]  ¿Mi boda?
+[1:25:30.70]-[1:25:32.70]  Sí, si había otras tradiciones que
+[1:25:32.70]-[1:25:34.70]  Mi boda, muy buena, muy buena
+[1:25:34.70]-[1:25:36.70]  Yo, señorito
+[1:25:36.70]-[1:25:38.70]  Bueno, hay todavía muchos
+[1:25:38.70]-[1:25:40.70]  Porque era el 57
+[1:25:40.70]-[1:25:42.70]  Pero
+[1:25:42.70]-[1:25:44.70]  A pesar que ya había cosetas
+[1:25:44.70]-[1:25:46.70]  También había escasas
+[1:25:46.70]-[1:25:48.70]  Por ejemplo, además de ponerla en la boda
+[1:25:48.70]-[1:25:50.70]  En botilla y eso
+[1:25:50.70]-[1:25:52.70]  Y uno que tiene una imprenta
+[1:25:52.70]-[1:25:54.70]  Demasiada, y siempre me dice
+[1:25:54.70]-[1:25:56.70]  Me acuerdo de tu boda
+[1:25:56.70]-[1:25:58.70]  De jamón que pusieron, de montadela
+[1:25:58.70]-[1:26:00.70]  Que yo era extraordinario
+[1:26:00.70]-[1:26:02.70]  Un plato de fiambre
+[1:26:02.70]-[1:26:04.70]  Fue a las once de la mañana
+[1:26:06.70]-[1:26:08.70]  Y después
+[1:26:08.70]-[1:26:10.70]  La comida
+[1:26:10.70]-[1:26:12.70]  Sería la una
+[1:26:12.70]-[1:26:14.70]  Así, yo quería que ella está ahí
+[1:26:14.70]-[1:26:16.70]  Yo trasló
+[1:26:16.70]-[1:26:18.70]  Yo iba de vestida blanca
+[1:26:18.70]-[1:26:20.70]  Mi padre fue el padrino
+[1:26:20.70]-[1:26:22.70]  Y todo bien
+[1:26:22.70]-[1:26:24.70]  Su padre, su madre fue la madrina
+[1:26:26.70]-[1:26:28.70]  Y andaba tras el teléfono
+[1:26:28.70]-[1:26:30.70]  Se la acercamos
+[1:26:30.70]-[1:26:32.70]  ¿Y cuando sale?
+[1:26:32.70]-[1:26:34.70]  Este no va a llegar
+[1:26:34.70]-[1:26:36.70]  Sí, sí, sí
+[1:26:36.70]-[1:26:38.70]  Vamos a ver
+[1:26:38.70]-[1:26:40.70]  Que este se curta
+[1:26:40.70]-[1:26:42.70]  Dígame
+[1:26:42.70]-[1:26:44.70]  Ay
+[1:26:44.70]-[1:26:46.70]  Mira
+[1:26:46.70]-[1:26:48.70]  Mira
+[1:26:48.70]-[1:26:50.70]  Estoy muy bien
+[1:26:50.70]-[1:26:52.70]  He dormido
+[1:26:52.70]-[1:26:54.70]  ¿Cuándo?
+[1:26:54.70]-[1:26:56.70]  ¿Cuándo?
+[1:26:56.70]-[1:26:58.70]  No sé
+[1:26:58.70]-[1:27:00.70]  Yo ya me he dormido
+[1:27:00.70]-[1:27:02.70]  Y se me corta
+[1:27:02.70]-[1:27:04.70]  Ah, pues yo el teléfono que se me corta aquí está antes
+[1:27:04.70]-[1:27:06.70]  Ya, ya
+[1:27:06.70]-[1:27:08.70]  La atención la tengo bien
+[1:27:08.70]-[1:27:10.70]  En 13 con 8
+[1:27:10.70]-[1:27:12.70]  Vale
+[1:27:12.70]-[1:27:14.70]  Claro, me tome la pastilla
+[1:27:14.70]-[1:27:16.70]  Y está toda la noche durmiendo
+[1:27:18.70]-[1:27:20.70]  ¿Y te lleva la tamaña?
+[1:27:20.70]-[1:27:22.70]  ¿Cómo?
+[1:27:22.70]-[1:27:24.70]  ¿Y te lleva la tamaña?
+[1:27:24.70]-[1:27:26.70]  No, no, vamos a almorzar aquí en la casa
+[1:27:26.70]-[1:27:28.70]  Yo no sé si va a ir esta tarde
+[1:27:28.70]-[1:27:30.70]  O no se va a ir, no lo sé
+[1:27:30.70]-[1:27:32.70]  Ya si se va
+[1:27:32.70]-[1:27:34.70]  ¿Cómo?
+[1:27:34.70]-[1:27:36.70]  ¿Cómo?
+[1:27:36.70]-[1:27:38.70]  No, no, no
+[1:27:38.70]-[1:27:40.70]  No han dicho nada, no han dicho nada
+[1:27:40.70]-[1:27:42.70]  Yo quedé con
+[1:27:42.70]-[1:27:44.70]  No hacía
+[1:27:44.70]-[1:27:46.70]  No hacía nada
+[1:27:46.70]-[1:27:48.70]  Pero no quedamos en nada
+[1:27:48.70]-[1:27:50.70]  No me han llamado, si están dormiendo
+[1:27:50.70]-[1:27:58.70]  ¿Y qué ocurrió allí?
+[1:27:58.70]-[1:28:00.70]  ¿Cuarenta y dos niños y qué ocurrió ahí?
+[1:28:00.70]-[1:28:02.70]  ¿Cómo?
+[1:28:02.70]-[1:28:04.70]  No sé
+[1:28:04.70]-[1:28:06.70]  ¿Y las niñas qué le pareció?
+[1:28:06.70]-[1:28:08.70]  Las niñas nerviosas, y ellos
+[1:28:08.70]-[1:28:10.70]  ¿Y las niñas qué le pareció?
+[1:28:10.70]-[1:28:12.70]  A la pelota
+[1:28:12.70]-[1:28:14.70]  ¿Y las niñas qué le pareció?
+[1:28:14.70]-[1:28:16.70]  A la pelota
+[1:28:16.70]-[1:28:18.70]  ¿Y las niñas qué le pareció?
+[1:28:18.70]-[1:28:20.70]  A la pelota
+[1:28:20.70]-[1:28:22.70]  Mira
+[1:28:22.70]-[1:28:24.70]  Te dejo porque tengo visita
+[1:28:24.70]-[1:28:26.70]  Tengo cuatro señoritas muy guapas
+[1:28:26.70]-[1:28:28.70]  Muy guapas
+[1:28:28.70]-[1:28:30.70]  Muy jóvenes
+[1:28:30.70]-[1:28:32.70]  Mi amiga
+[1:28:32.70]-[1:28:34.70]  Dos españolas y dos romanas
+[1:28:34.70]-[1:28:36.70]  Así que si se quieren venir a verlas
+[1:28:36.70]-[1:28:38.70]  Viene a verlas
+[1:28:38.70]-[1:28:40.70]  ¿Cómo?
+[1:28:40.70]-[1:28:42.70]  Amiga
+[1:28:42.70]-[1:28:44.70]  Pero me voy a hacer amiga de ellas
+[1:28:44.70]-[1:28:46.70]  Sí, claro
+[1:28:46.70]-[1:28:48.70]  Las españolas
+[1:28:48.70]-[1:28:50.70]  Muy jóvenes
+[1:28:50.70]-[1:28:52.70]  Son como para mis nietos
+[1:28:52.70]-[1:28:54.70]  ¿Y las españolas de esa comisaría?
+[1:28:54.70]-[1:28:56.70]  Que no, mujer
+[1:28:56.70]-[1:28:58.70]  Que no
+[1:28:58.70]-[1:29:00.70]  Que viene de parte
+[1:29:00.70]-[1:29:02.70]  De la prima
+[1:29:02.70]-[1:29:04.70]  ¿Y las españolas de la comisaría?
+[1:29:04.70]-[1:29:06.70]  Sí, no
+[1:29:06.70]-[1:29:08.70]  ¿Qué pasa yo aquí?
+[1:29:08.70]-[1:29:10.70]  No
+[1:29:10.70]-[1:29:12.70]  Las caras que tienen son de buena gente
+[1:29:12.70]-[1:29:14.70]  ¿Y la profesión de Catar?
+[1:29:14.70]-[1:29:16.70]  Bueno, vamos a ver
+[1:29:16.70]-[1:29:18.70]  Yo la veré por la tele
+[1:29:18.70]-[1:29:20.70]  Vamos a ver si la lleves
+[1:29:20.70]-[1:29:22.70]  Y te voy a comprar
+[1:29:22.70]-[1:29:24.70]  Que yo no me levantaba tarde
+[1:29:24.70]-[1:29:26.70]  Y como estaba tan suminado
+[1:29:26.70]-[1:29:28.70]  Hasta las diez no se ha despertado
+[1:29:28.70]-[1:29:30.70]  Yo no me voy a dormir
+[1:29:30.70]-[1:29:32.70]  Porque estaba reventado
+[1:29:32.70]-[1:29:34.70]  Bueno, pues ve a comprar y a hacer tus cosas
+[1:29:34.70]-[1:29:36.70]  Y a mí me das con mi visita
+[1:29:36.70]-[1:29:38.70]  Adiós, hija
+[1:29:38.70]-[1:29:40.70]  Esta no acaba
+[1:29:40.70]-[1:29:42.70]  Esta es la empachosa
+[1:29:42.70]-[1:29:44.70]  Aquí por si llamaba
+[1:29:44.70]-[1:29:46.70]  Falta la su...
+[1:29:46.70]-[1:29:48.70]  Falta la su...
+[1:29:48.70]-[1:29:50.70]  La espachá
+[1:29:50.70]-[1:29:52.70]  Esta es la que corrió
+[1:29:52.70]-[1:29:54.70]  Pero tiene dos niñas preciosas
+[1:29:54.70]-[1:29:56.70]  No porque sean mis nietas
+[1:29:56.70]-[1:29:58.70]  ¿Verdad?
+[1:29:58.70]-[1:30:00.70]  Que no le regañas
+[1:30:00.70]-[1:30:02.70]  No le dicen estudia
+[1:30:02.70]-[1:30:04.70]  Y va
+[1:30:04.70]-[1:30:06.70]  Ahora la mayor
+[1:30:06.70]-[1:30:08.70]  Se llama...
+[1:30:08.70]-[1:30:10.70]  Terminado
+[1:30:10.70]-[1:30:12.70]  Terminado
+[1:30:12.70]-[1:30:14.70]  Medicina
+[1:30:14.70]-[1:30:16.70]  Ha hecho el MI
+[1:30:16.70]-[1:30:18.70]  Ha ido a Madrid para buscar
+[1:30:18.70]-[1:30:20.70]  La plaza que la llamaron
+[1:30:20.70]-[1:30:22.70]  Y como ella se llama
+[1:30:26.70]-[1:30:28.70]  Dice
+[1:30:28.70]-[1:30:30.70]  Yo soy de las primeras para elegir
+[1:30:32.70]-[1:30:34.70]  Y ella de las...
+[1:30:34.70]-[1:30:36.70]  Dice no
+[1:30:36.70]-[1:30:38.70]  Que es por puntos
+[1:30:38.70]-[1:30:40.70]  No, no es por puntos
+[1:30:40.70]-[1:30:42.70]  Es que soy muy lista
+[1:30:42.70]-[1:30:44.70]  Que tengo muchas notablas
+[1:30:44.70]-[1:30:46.70]  Sobresalientes, abuela
+[1:30:46.70]-[1:30:48.70]  Y que no he perdido ningún año
+[1:30:48.70]-[1:30:50.70]  Lleva la carrera toda por año
+[1:30:50.70]-[1:30:52.70]  Terminado con los 26 años
+[1:30:52.70]-[1:30:54.70]  No he perdido ningún año
+[1:30:54.70]-[1:30:56.70]  Digo, ah, que es por lista
+[1:30:56.70]-[1:30:58.70]  No lo sabía yo, hija
+[1:30:58.70]-[1:31:00.70]  Pero ahora ella puede elegir
+[1:31:00.70]-[1:31:02.70]  Tampoco sabía yo eso
+[1:31:02.70]-[1:31:04.70]  Que aquí tenemos un hospital
+[1:31:04.70]-[1:31:06.70]  Y es Comarca
+[1:31:06.70]-[1:31:08.70]  Que por ejemplo
+[1:31:08.70]-[1:31:10.70]  Lo halla de Málaga
+[1:31:10.70]-[1:31:12.70]  Y el Rocío, yo no sé qué, de Sevilla
+[1:31:12.70]-[1:31:14.70]  Que hay otros hospitales
+[1:31:14.70]-[1:31:16.70]  O sea que habrá más cirujanos
+[1:31:16.70]-[1:31:18.70]  O lo que sea de más categoría
+[1:31:18.70]-[1:31:20.70]  Entonces este es de menos
+[1:31:20.70]-[1:31:22.70]  Dice, pero a mí no me importa venirme a este
+[1:31:22.70]-[1:31:24.70]  Que es de menos categoría
+[1:31:24.70]-[1:31:26.70]  Porque mira abuela, aquí voy en la moto
+[1:31:26.70]-[1:31:28.70]  Estoy en el hospital, me vengo a mi casa
+[1:31:28.70]-[1:31:30.70]  Tengo la cama, tengo la comida
+[1:31:30.70]-[1:31:32.70]  Y tengo mi dinero para guardarlo
+[1:31:32.70]-[1:31:34.70]  Para comprarme un coche
+[1:31:34.70]-[1:31:36.70]  Y me voy a Sevilla
+[1:31:36.70]-[1:31:38.70]  Muy bien, tendré otro más médico
+[1:31:38.70]-[1:31:40.70]  Pero ahora
+[1:31:40.70]-[1:31:42.70]  Yo tengo que estudiar cuatro años más
+[1:31:42.70]-[1:31:44.70]  Una especialidad
+[1:31:44.70]-[1:31:46.70]  Tengo que estudiar ahora
+[1:31:46.70]-[1:31:48.70]  Dice, allí ahora salgo
+[1:31:48.70]-[1:31:50.70]  Ay, la comida, ay
+[1:31:50.70]-[1:31:52.70]  Como me voy a ir en el coche de Sevilla
+[1:31:52.70]-[1:31:54.70]  Hasta que llego a las 10 de la noche para ir a Antequera
+[1:31:54.70]-[1:31:56.70]  Tengo que buscar algo para dormir
+[1:31:56.70]-[1:31:58.70]  Y agarro todo el dinero para dormir, para comer
+[1:31:58.70]-[1:32:00.70]  Y yo pensar, y aquí lo tengo todo
+[1:32:00.70]-[1:32:02.70]  Me voy a mi cuarto de Londo
+[1:32:02.70]-[1:32:04.70]  Y llego a las dos casas muy bien
+[1:32:04.70]-[1:32:06.70]  Es que es mi casa
+[1:32:06.70]-[1:32:08.70]  Muy bien, tiene novio
+[1:32:08.70]-[1:32:10.70]  Ya te digo, como a 14 años
+[1:32:10.70]-[1:32:12.70]  Tenía uno y ahora este ya le está durando
+[1:32:12.70]-[1:32:14.70]  Este ya empezó con 16 años
+[1:32:14.70]-[1:32:16.70]  Y este la va a aguantar la carrera
+[1:32:16.70]-[1:32:18.70]  Esta tiene mucho de años, es bajita
+[1:32:18.70]-[1:32:20.70]  Muy guapa de cara, pero bajita
+[1:32:20.70]-[1:32:22.70]  Y luego tengo la otra
+[1:32:22.70]-[1:32:24.70]  Que se llama mamá
+[1:32:24.70]-[1:32:26.70]  Que también es de
+[1:32:26.70]-[1:32:28.70]  Y tampoco le regañan
+[1:32:28.70]-[1:32:30.70]  Ni le dice estudia, ni no estudia
+[1:32:30.70]-[1:32:32.70]  Y va poco bien
+[1:32:32.70]-[1:32:34.70]  Y ahora termina una cosa
+[1:32:34.70]-[1:32:36.70]  Ella no ha cogido carrera
+[1:32:36.70]-[1:32:38.70]  Ellas para los niños son normales
+[1:32:38.70]-[1:32:40.70]  Pero ahora quiere hacer otra cosa más
+[1:32:40.70]-[1:32:42.70]  Y...
+[1:32:42.70]-[1:32:44.70]  Pero esta
+[1:32:44.70]-[1:32:46.70]  Hace lo que le da la gana a ella
+[1:32:46.70]-[1:32:48.70]  No, abuela, sí, sí, sí, sí
+[1:32:48.70]-[1:32:50.70]  Pero vos hace lo que quiera
+[1:32:50.70]-[1:32:52.70]  Yo le digo mosquita muerta
+[1:32:52.70]-[1:32:54.70]  Y la otra
+[1:32:54.70]-[1:32:56.70]  Abuela, eso me va a disparar
+[1:32:56.70]-[1:32:58.70]  Eso no me lo puedo creer
+[1:32:58.70]-[1:33:00.70]  Abuela, eso me va a disparar
+[1:33:00.70]-[1:33:02.70]  Eso no me lo pongo yo
+[1:33:02.70]-[1:33:04.70]  Pero abuela, calla, calla
+[1:33:04.70]-[1:33:06.70]  Es una minifarda
+[1:33:06.70]-[1:33:08.70]  Esa es mini
+[1:33:08.70]-[1:33:10.70]  Ay abuela
+[1:33:10.70]-[1:33:12.70]  Pero sin batada
+[1:33:12.70]-[1:33:14.70]  Y yo, bueno, si ya está, pero ya bien
+[1:33:14.70]-[1:33:16.70]  Ya está
+[1:33:16.70]-[1:33:18.70]  Esa contesta
+[1:33:18.70]-[1:33:20.70]  Pero la otra no te dice nada
+[1:33:20.70]-[1:33:22.70]  Pero hace lo que le da la gana
+[1:33:22.70]-[1:33:24.70]  También tiene novio
+[1:33:24.70]-[1:33:28.70]  El de la médica es mecánico
+[1:33:28.70]-[1:33:30.70]  Y la otra es
+[1:33:30.70]-[1:33:32.70]  Dentro de aviación está en una academia
+[1:33:32.70]-[1:33:34.70]  En Zaragoza
+[1:33:34.70]-[1:33:36.70]  No sé si sale de terrientes
+[1:33:36.70]-[1:33:38.70]  Si sale de cabo
+[1:33:38.70]-[1:33:40.70]  Dice que no, que de cabo nunca sale más
+[1:33:40.70]-[1:33:42.70]  Pero no sé lo que saldrá
+[1:33:42.70]-[1:33:44.70]  Y ese se llama
+[1:33:44.70]-[1:33:46.70]  Es un pajarillo
+[1:33:46.70]-[1:33:48.70]  Y
+[1:33:48.70]-[1:33:50.70]  Le dice nada
+[1:33:50.70]-[1:33:52.70]  Y yo le digo, miren que cuando tenga un niño
+[1:33:52.70]-[1:33:54.70]  Le digo a tu padre, nada
+[1:33:54.70]-[1:33:56.70]  Y el padre dice, si, leí
+[1:33:56.70]-[1:33:58.70]  Y yo no me gustaba
+[1:33:58.70]-[1:34:00.70]  Y mi hija, nada
+[1:34:00.70]-[1:34:02.70]  Como yo vivía
+[1:34:02.70]-[1:34:04.70]  Al lado de la policía, antes vivía yo
+[1:34:04.70]-[1:34:06.70]  En la boca calle de la calle Estepa
+[1:34:06.70]-[1:34:08.70]  Estaba la policía
+[1:34:08.70]-[1:34:10.70]  Gobernativa
+[1:34:10.70]-[1:34:12.70]  Y yo los domingos le hacía que cada uno
+[1:34:12.70]-[1:34:14.70]  Hiciera una faena
+[1:34:14.70]-[1:34:16.70]  Una la escalera, otra el dormitorio
+[1:34:16.70]-[1:34:18.70]  La otra, las tres salas, cada uno tenía que fregar
+[1:34:18.70]-[1:34:20.70]  Y hacer polvo, limpiar
+[1:34:20.70]-[1:34:22.70]  Y si no, no salían
+[1:34:22.70]-[1:34:24.70]  Y esta era la
+[1:34:24.70]-[1:34:26.70]  Igual que su niña, mosquito vuelta también
+[1:34:26.70]-[1:34:28.70]  Cuando quería un saquito de la hermana
+[1:34:28.70]-[1:34:30.70]  Esta la chica
+[1:34:30.70]-[1:34:32.70]  Quería algo, lo cogí
+[1:34:32.70]-[1:34:34.70]  Y lo metí en el hueco de la escalera
+[1:34:34.70]-[1:34:36.70]  Y ella, bueno mamá, me voy, yo me voy
+[1:34:36.70]-[1:34:38.70]  Adiós, adiós
+[1:34:38.70]-[1:34:40.70]  Cogía la ropa de la hermana
+[1:34:40.70]-[1:34:42.70]  Siempre tenía que llevar algo de las mayores
+[1:34:42.70]-[1:34:44.70]  Y un día pues se fue
+[1:34:44.70]-[1:34:46.70]  Sin hacer lo que tenía que hacer
+[1:34:46.70]-[1:34:48.70]  Y yo salía al barco
+[1:34:48.70]-[1:34:50.70]  Y digo, su niña
+[1:34:50.70]-[1:34:52.70]  Porque ya iba a dar la vuelta para la calle Estepa
+[1:34:52.70]-[1:34:54.70]  Y yo, un policía
+[1:34:54.70]-[1:34:56.70]  Que vivía más arriba, era de los nuevos
+[1:34:56.70]-[1:34:58.70]  No nos conocía
+[1:34:58.70]-[1:35:00.70]  Y yo decía, señora ¿qué le pasa?
+[1:35:00.70]-[1:35:02.70]  Digo, no, no, no me pasa nada
+[1:35:02.70]-[1:35:04.70]  Perdona hombre, perdona
+[1:35:04.70]-[1:35:06.70]  Es que esa niña se llama su niña
+[1:35:06.70]-[1:35:08.70]  Y yo ya
+[1:35:08.70]-[1:35:10.70]  Digo, esta, a quien no se le dice
+[1:35:10.70]-[1:35:12.70]  Esta va a ser su niña
+[1:35:12.70]-[1:35:14.70]  Digo, la vergüenza es que yo pasaba con el policía
+[1:35:14.70]-[1:35:16.70]  El policía
+[1:35:16.70]-[1:35:18.70]  El policía siempre que me veía
+[1:35:20.70]-[1:35:22.70]  Y después ya, si vivíamos casa arriba
+[1:35:22.70]-[1:35:24.70]  Casa abajo, la policía estaba yo con ella
+[1:35:24.70]-[1:35:26.70]  Y todo lo que querían venía
+[1:35:26.70]-[1:35:28.70]  Tanto que era un día
+[1:35:28.70]-[1:35:30.70]  Que un niñez me dio
+[1:35:30.70]-[1:35:32.70]  ¡Párame un veneno y yo algo!
+[1:35:32.70]-[1:35:34.70]  Para ir para las cocheras
+[1:35:34.70]-[1:35:36.70]  Que he visto una rata
+[1:35:36.70]-[1:35:38.70]  Estaba yo preparando un papá para eso
+[1:35:38.70]-[1:35:40.70]  Le echaba turcino, queso
+[1:35:40.70]-[1:35:42.70]  Que huele mucho a la rata
+[1:35:42.70]-[1:35:44.70]  Para que se lo comiera
+[1:35:44.70]-[1:35:46.70]  Y le he hecho tocar la puerta
+[1:35:46.70]-[1:35:48.70]  Y abrió la puerta y desde arriba abría yo una cosa
+[1:35:48.70]-[1:35:50.70]  A la escalera de asumo
+[1:35:50.70]-[1:35:52.70]  Y era un policía, dice, vecina
+[1:35:52.70]-[1:35:54.70]  Vengo a pedirle un papá, digo, ¿qué quieres?
+[1:35:54.70]-[1:35:56.70]  Dice, vamos a venir y yo
+[1:35:56.70]-[1:35:58.70]  Para unas ratas que estaremos ahí
+[1:35:58.70]-[1:36:00.70]  Y le hemos dicho, pues miralo
+[1:36:00.70]-[1:36:02.70]  Como tu oigo que iba a venir
+[1:36:02.70]-[1:36:04.70]  Por el de hecho
+[1:36:04.70]-[1:36:06.70]  Aquí lo tienes preparado, tómalo
+[1:36:06.70]-[1:36:08.70]  Si yo ya te oigo, que usted no ha oído
+[1:36:08.70]-[1:36:10.70]  Pero usted oye lo que hablamos ahí
+[1:36:10.70]-[1:36:12.70]  Digo, sí, como yo tengo
+[1:36:12.70]-[1:36:14.70]  Un, como se llama
+[1:36:14.70]-[1:36:16.70]  Para llamar a mi marido
+[1:36:16.70]-[1:36:18.70]  Cuando iba en el coche
+[1:36:18.70]-[1:36:20.70]  Pues, no me sale ahora la palabra
+[1:36:20.70]-[1:36:22.70]  Contestado de eso
+[1:36:22.70]-[1:36:24.70]  Un radio
+[1:36:24.70]-[1:36:26.70]  Para radio
+[1:36:26.70]-[1:36:28.70]  Una radio de eso
+[1:36:28.70]-[1:36:30.70]  Digo, por la radio, pero usted está en su favor con nosotros
+[1:36:30.70]-[1:36:32.70]  Yo me entero todo lo que pasa ahí
+[1:36:32.70]-[1:36:34.70]  De verdad
+[1:36:34.70]-[1:36:36.70]  Y ya mi marido se sumó a la escalera
+[1:36:36.70]-[1:36:38.70]  Y le digo, no le hagas caso
+[1:36:38.70]-[1:36:40.70]  Que eso lo estaba preparando para mí
+[1:36:40.70]-[1:36:42.70]  Y le digo, ¿cómo va hoy lo vuestro?
+[1:36:42.70]-[1:36:44.70]  Y yo no oye nada de la policía
+[1:36:44.70]-[1:36:46.70]  Que ya lo estaba preparando para mí
+[1:36:46.70]-[1:36:48.70]  Y ya
+[1:36:48.70]-[1:36:50.70]  Y a este también le daba mucha risa cuando me veía
+[1:36:50.70]-[1:36:52.70]  Oigo todo lo de ustedes
+[1:36:52.70]-[1:36:54.70]  Y yo, no se veía nada
+[1:36:54.70]-[1:36:56.70]  No, la noche
+[1:36:56.70]-[1:36:58.70]  Que
+[1:36:58.70]-[1:37:00.70]  Asaltaron
+[1:37:00.70]-[1:37:02.70]  Las cortes
+[1:37:02.70]-[1:37:04.70]  Tejeros
+[1:37:04.70]-[1:37:06.70]  Pues también la policía
+[1:37:06.70]-[1:37:08.70]  Estaba con la guardia civil
+[1:37:08.70]-[1:37:10.70]  Llamándose
+[1:37:10.70]-[1:37:12.70]  Y entonces los llamaron
+[1:37:12.70]-[1:37:14.70]  Aquella noche los policías
+[1:37:14.70]-[1:37:16.70]  Allí no había cabaña más que para
+[1:37:16.70]-[1:37:18.70]  Para que se quedara de guardia
+[1:37:18.70]-[1:37:20.70]  Y ya mi marido le dijo, mira
+[1:37:20.70]-[1:37:22.70]  Luego ellos tenían un depósito
+[1:37:22.70]-[1:37:24.70]  Que no querían el agua del depósito
+[1:37:24.70]-[1:37:26.70]  Y la cortaban de noche
+[1:37:26.70]-[1:37:28.70]  Entonces ellos cuando dormotieron
+[1:37:28.70]-[1:37:30.70]  Muchas veces iban hasta el nacimiento de la villa
+[1:37:30.70]-[1:37:32.70]  Y yo dejo la puerta
+[1:37:32.70]-[1:37:34.70]  Cerrada
+[1:37:34.70]-[1:37:36.70]  Y apagar la luz, pero la luz de la escalera está abierta
+[1:37:36.70]-[1:37:38.70]  Entonces yo entré
+[1:37:38.70]-[1:37:40.70]  Y coge el agua, coge lo que quiera
+[1:37:40.70]-[1:37:42.70]  Y yo pasa algo, alguna cosa, que las puertas están abiertas
+[1:37:42.70]-[1:37:44.70]  Por si pasa, yo digo
+[1:37:44.70]-[1:37:46.70]  Y mi marido llegó y no era las doce
+[1:37:46.70]-[1:37:48.70]  Y todavía allí, ¿qué pasa? ¿Cómo va la cosa?
+[1:37:48.70]-[1:37:50.70]  No sabemos nada
+[1:37:50.70]-[1:37:52.70]  No sabían nada
+[1:37:52.70]-[1:37:54.70]  Ya porque el rey salió un poquito tarde
+[1:37:54.70]-[1:37:56.70]  Tenía que haber salido más temprano
+[1:37:56.70]-[1:37:58.70]  Pero ya era las doce o
+[1:37:58.70]-[1:38:00.70]  La una, cuando salió
+[1:38:00.70]-[1:38:02.70]  Para decir que las tropas
+[1:38:02.70]-[1:38:04.70]  Que no, que para detener
+[1:38:04.70]-[1:38:06.70]  Y yo, ¿qué pasó?
+[1:38:06.70]-[1:38:08.70]  Y yo cuando me enteré
+[1:38:08.70]-[1:38:10.70]  Yo estaba allá
+[1:38:10.70]-[1:38:12.70]  Donde viven mis niñas
+[1:38:12.70]-[1:38:14.70]  Limpiando
+[1:38:14.70]-[1:38:16.70]  Porque allí había muchas cosas que limpiar siempre
+[1:38:16.70]-[1:38:18.70]  Y mandó por mí
+[1:38:18.70]-[1:38:20.70]  Su marido que se venga a tejer
+[1:38:20.70]-[1:38:22.70]  Y yo le digo, pero ¿y usted?
+[1:38:22.70]-[1:38:24.70]  ¿Qué es el asay? Que terminemos esto, que estamos limpiando
+[1:38:24.70]-[1:38:26.70]  Que pasemos allá para su casa
+[1:38:26.70]-[1:38:28.70]  No, no, no, me ha dicho que suelte usted
+[1:38:28.70]-[1:38:30.70]  El cubo, lo que está ahí haciendo
+[1:38:30.70]-[1:38:32.70]  Y que se venga ahí para arriba, pero ahora mismo
+[1:38:32.70]-[1:38:34.70]  Ahora mismo lo tenemos aquí para arriba
+[1:38:34.70]-[1:38:36.70]  Y cuando ya nos metimos el coche
+[1:38:36.70]-[1:38:38.70]  Y dice, es que
+[1:38:38.70]-[1:38:40.70]  Han asaltado las cortes
+[1:38:40.70]-[1:38:42.70]  Y yo no sé qué, digo yo, muy bien
+[1:38:42.70]-[1:38:44.70]  Allí que se peleen una u otra y manden lo que sea
+[1:38:44.70]-[1:38:46.70]  Muy bien, pero yo no sabía que
+[1:38:46.70]-[1:38:48.70]  Habían entrado tropas a asaltarlo a ellos
+[1:38:48.70]-[1:38:50.70]  Y digo, que se peleen
+[1:38:50.70]-[1:38:52.70]  Y se conformen ellos, que los pueblos
+[1:38:52.70]-[1:38:54.70]  No conforman a todos, a veces tienen talento
+[1:38:54.70]-[1:38:56.70]  Yo no sé qué
+[1:38:56.70]-[1:38:58.70]  Pero ya cuando llegué a mi casa, ya me lo explico
+[1:38:58.70]-[1:39:00.70]  Mi marido, dice, no, es que
+[1:39:00.70]-[1:39:02.70]  Han entrado civiles
+[1:39:02.70]-[1:39:04.70]  Y los cojones, digo, valga medio
+[1:39:04.70]-[1:39:06.70]  Los militares, digo, valga medio
+[1:39:06.70]-[1:39:08.70]  Militares, que los otros
+[1:39:08.70]-[1:39:10.70]  Y ya, ya sí, ya me apuré
+[1:39:10.70]-[1:39:12.70]  Y también hicimos como hizo todo el mundo
+[1:39:12.70]-[1:39:14.70]  Tenía que hacer algún servicio
+[1:39:14.70]-[1:39:16.70]  Dice, mira, está por taxis
+[1:39:16.70]-[1:39:18.70]  Yo en la tina de
+[1:39:18.70]-[1:39:20.70]  De la Cruz Blanca, he comprado azúcar
+[1:39:20.70]-[1:39:22.70]  Te compro garbanzos, vaya que pase
+[1:39:22.70]-[1:39:24.70]  Algo, no podamos salir
+[1:39:24.70]-[1:39:26.70]  Bueno, mira
+[1:39:26.70]-[1:39:28.70]  Ahora yo, por el barrio San Juan, me he traído también
+[1:39:28.70]-[1:39:30.70]  Más azúcar, más esto
+[1:39:30.70]-[1:39:32.70]  Más chocolate para los niños
+[1:39:32.70]-[1:39:34.70]  Y eso, hay una película
+[1:39:34.70]-[1:39:36.70]  Hecha, que hay
+[1:39:36.70]-[1:39:38.70]  En Madrid, que hoy que vayan a venir la guerra
+[1:39:38.70]-[1:39:40.70]  Y empezaron a comprar cosas
+[1:39:40.70]-[1:39:42.70]  Para guardarlas por si pasaba algo
+[1:39:42.70]-[1:39:44.70]  Y sería verdad
+[1:39:44.70]-[1:39:46.70]  Porque nosotros lo hicimos
+[1:39:46.70]-[1:39:48.70]  Seguramente que en Madrid también hicieron igual
+[1:39:48.70]-[1:39:50.70]  De guardar las cosas
+[1:39:50.70]-[1:39:52.70]  Entonces, esas cosas
+[1:39:52.70]-[1:39:54.70]  Así de pasadas, gracias a Dios
+[1:39:54.70]-[1:39:56.70]  Que no pasó nada, que por fin
+[1:39:56.70]-[1:39:58.70]  El Rey abrió, dijo que
+[1:39:58.70]-[1:40:00.70]  Subió todas las tropas
+[1:40:00.70]-[1:40:02.70]  Si no hubieran movido otra vez a Franco
+[1:40:04.70]-[1:40:06.70]  Que yo era malo
+[1:40:08.70]-[1:40:10.70]  De cosas que yo me asustaba
+[1:40:10.70]-[1:40:12.70]  Porque yo cosas de guerra ya sabes
+[1:40:12.70]-[1:40:14.70]  Me asusto a tú
+[1:40:14.70]-[1:40:16.70]  Después de los partidos
+[1:40:16.70]-[1:40:18.70]  Me gustaría que fueran muy jóvenes
+[1:40:18.70]-[1:40:20.70]  Que los jóvenes
+[1:40:20.70]-[1:40:22.70]  No vayan con la maldad de los mayores
+[1:40:22.70]-[1:40:24.70]  Y a lo mejor
+[1:40:24.70]-[1:40:26.70]  Me mandaba ahí
+[1:40:26.70]-[1:40:28.70]  Más sencillo
+[1:40:28.70]-[1:40:30.70]  Y no quería llevarse
+[1:40:30.70]-[1:40:32.70]  Y estos van todos
+[1:40:32.70]-[1:40:34.70]  A ver, a ver, a ver
+[1:40:34.70]-[1:40:36.70]  Y luego que no le quede sueldo a nadie
+[1:40:36.70]-[1:40:38.70]  Sanbeid el gobierno, fuera
+[1:40:38.70]-[1:40:40.70]  Otro
+[1:40:40.70]-[1:40:42.70]  Se va el gobierno con todo lo dinero
+[1:40:42.70]-[1:40:44.70]  Y eso una nación no lo puede
+[1:40:44.70]-[1:40:46.70]  Resistir tanto
+[1:40:46.70]-[1:40:48.70]  Obreros vemos mucho
+[1:40:48.70]-[1:40:50.70]  Pero también tenemos que vivir
+[1:40:50.70]-[1:40:54.70]  Y los impuestos se suben mucho
+[1:40:54.70]-[1:40:56.70]  No sé cómo lo van a arreglar
+[1:40:56.70]-[1:40:58.70]  Y ahora también
+[1:40:58.70]-[1:41:00.70]  El que tiene el chupeno le gusta soltarlo
+[1:41:04.70]-[1:41:06.70]  Le íbamos a pedir ahora
+[1:41:06.70]-[1:41:08.70]  Un favor, más
+[1:41:08.70]-[1:41:10.70]  Porque
+[1:41:10.70]-[1:41:12.70]  Bueno además de
+[1:41:12.70]-[1:41:14.70]  De preguntar por las costumbres
+[1:41:14.70]-[1:41:16.70]  Este año es un poco experimento
+[1:41:16.70]-[1:41:18.70]  Por ahora, queremos además ver un poco
+[1:41:18.70]-[1:41:20.70]  Si lo ha dicho usted muchas veces
+[1:41:20.70]-[1:41:22.70]  Nosotros vamos a muchos sitios
+[1:41:22.70]-[1:41:24.70]  De España y vemos que pues
+[1:41:24.70]-[1:41:26.70]  Se dicen palabras diferentes, ¿no?
+[1:41:26.70]-[1:41:28.70]  Entonces
+[1:41:28.70]-[1:41:30.70]  Las palabras
+[1:41:30.70]-[1:41:32.70]  Vamos a poner
+[1:41:32.70]-[1:41:34.70]  No Andalucía, vamos a poner
+[1:41:34.70]-[1:41:36.70]  Málaga
+[1:41:36.70]-[1:41:38.70]  Vamos a poner Málaga, no nos vamos a salir
+[1:41:38.70]-[1:41:40.70]  De la
+[1:41:40.70]-[1:41:42.70]  De la población, vamos a ver
+[1:41:42.70]-[1:41:44.70]  Ahora voy yo a la orilla de la torre
+[1:41:44.70]-[1:41:46.70]  Que tiene mi abuelo
+[1:41:46.70]-[1:41:48.70]  Y la tienda también
+[1:41:48.70]-[1:41:50.70]  Y bueno aquella tienda era de todo
+[1:41:50.70]-[1:41:52.70]  Porque aquello había droguería
+[1:41:52.70]-[1:41:54.70]  Había la quincaya
+[1:41:54.70]-[1:41:56.70]  Y las cosas, había una
+[1:41:56.70]-[1:41:58.70]  Vitrina con collarito
+[1:41:58.70]-[1:42:00.70]  Hasta de oro, cosita de oro
+[1:42:00.70]-[1:42:02.70]  Aquello era
+[1:42:02.70]-[1:42:04.70]  Y lo mismo, harina, café, de todo
+[1:42:04.70]-[1:42:06.70]  Pues yo como siempre me gustaba mucho
+[1:42:06.70]-[1:42:08.70]  Despachar y vender
+[1:42:08.70]-[1:42:10.70]  Pues también me gustaba comer
+[1:42:10.70]-[1:42:12.70]  Había una vellana americana
+[1:42:12.70]-[1:42:14.70]  Tita cojo, coge
+[1:42:14.70]-[1:42:16.70]  Otra vellana, coge
+[1:42:16.70]-[1:42:18.70]  La ponía un día, dos, dos, dos
+[1:42:18.70]-[1:42:20.70]  Otras días que iba, pues me daban de todo
+[1:42:20.70]-[1:42:22.70]  Pero me dio un cólico que me iba a morir aquella noche
+[1:42:22.70]-[1:42:24.70]  De tanta vellana
+[1:42:24.70]-[1:42:26.70]  Bueno, pues
+[1:42:26.70]-[1:42:28.70]  Entonces
+[1:42:28.70]-[1:42:30.70]  Me pidieron una, ¿cómo era?
+[1:42:30.70]-[1:42:32.70]  Un
+[1:42:32.70]-[1:42:34.70]  Cinchete
+[1:42:34.70]-[1:42:36.70]  ¿Dame un cinchete?
+[1:42:36.70]-[1:42:38.70]  Para vestir, un cinchete para vestir
+[1:42:38.70]-[1:42:40.70]  Un cinchete era un, que ahora ya eso
+[1:42:40.70]-[1:42:42.70]  Están desapareciendo, eso está
+[1:42:42.70]-[1:42:44.70]  Una cosa para clavar los visillos
+[1:42:44.70]-[1:42:46.70]  Para clavar las puertas
+[1:42:46.70]-[1:42:48.70]  Pues le saqué la cincheta
+[1:42:48.70]-[1:42:50.70]  No, para el vestido
+[1:42:50.70]-[1:42:52.70]  Digo, para el vestido, cincheta
+[1:42:52.70]-[1:42:54.70]  A los dependientes
+[1:42:54.70]-[1:42:56.70]  Me daban ellos y eran
+[1:42:56.70]-[1:42:58.70]  Los afileres que había
+[1:42:58.70]-[1:43:00.70]  Que se abrochaban
+[1:43:00.70]-[1:43:02.70]  Nosotros decíamos afileres, broches
+[1:43:02.70]-[1:43:04.70]  Broches, aquí en Antequera broches
+[1:43:04.70]-[1:43:06.70]  Pues ahora voy a la viñuela, que también hay tienda
+[1:43:06.70]-[1:43:08.70]  Y llegó una
+[1:43:08.70]-[1:43:10.70]  Niña, dame automático
+[1:43:10.70]-[1:43:12.70]  Dame automático
+[1:43:12.70]-[1:43:14.70]  Madre mía, ¿qué será, automático?
+[1:43:14.70]-[1:43:16.70]  Entonces era lo que nosotros decíamos broches
+[1:43:16.70]-[1:43:18.70]  A ellos les llamaba automático
+[1:43:18.70]-[1:43:20.70]  Eso es la misma provincia
+[1:43:20.70]-[1:43:22.70]  Entonces te digo que
+[1:43:22.70]-[1:43:24.70]  Tenemos, es que Andalucía como
+[1:43:24.70]-[1:43:26.70]  Fuimos mucho
+[1:43:26.70]-[1:43:28.70]  Tiempo romano, árabe
+[1:43:28.70]-[1:43:30.70]  Y judío
+[1:43:30.70]-[1:43:32.70]  Cuando llegó
+[1:43:32.70]-[1:43:34.70]  El infante don Fernando, de Antequera
+[1:43:34.70]-[1:43:36.70]  Que luego
+[1:43:36.70]-[1:43:38.70]  Fue rey de
+[1:43:38.70]-[1:43:40.70]  Aragón, porque como se morían
+[1:43:40.70]-[1:43:42.70]  Muchos de la enfermedad, o los quitaban
+[1:43:42.70]-[1:43:44.70]  Del medio, que todo hacían
+[1:43:44.70]-[1:43:46.70]  Pues entonces
+[1:43:46.70]-[1:43:48.70]  Habíamos judío
+[1:43:48.70]-[1:43:50.70]  Y árabe, más cristiano
+[1:43:50.70]-[1:43:52.70]  Muy pocos, muy pocos
+[1:43:52.70]-[1:43:54.70]  Entonces el infante don Fernando
+[1:43:54.70]-[1:43:56.70]  Vino cortando cabezas
+[1:43:56.70]-[1:43:58.70]  Para quedarse con las tierras, para quedarse con todo
+[1:43:58.70]-[1:44:00.70]  Para Castilla
+[1:44:00.70]-[1:44:02.70]  Para Corona
+[1:44:02.70]-[1:44:04.70]  Y tomaron Antequera de lo más pronto
+[1:44:04.70]-[1:44:06.70]  Porque venían de Sevilla
+[1:44:06.70]-[1:44:08.70]  Y querían, porque Antequera era muy importante
+[1:44:08.70]-[1:44:10.70]  Porque eran las carreteras para Granada
+[1:44:10.70]-[1:44:12.70]  Para Málaga
+[1:44:12.70]-[1:44:14.70]  Y era como un centro de carreteras
+[1:44:14.70]-[1:44:16.70]  Y por eso Antequera la tomó el infante don Fernando
+[1:44:16.70]-[1:44:18.70]  Que ahí lo tenemos puesto en una plaza
+[1:44:18.70]-[1:44:20.70]  Al museo
+[1:44:20.70]-[1:44:22.70]  ¿No habéis ido al museo?
+[1:44:22.70]-[1:44:24.70]  Llegamos ayer por la noche
+[1:44:24.70]-[1:44:26.70]  Muy bonito, muy bonito el museo
+[1:44:26.70]-[1:44:28.70]  Hay muchas cosas, de iglesias, de todo
+[1:44:28.70]-[1:44:30.70]  Y en la plaza pues han puesto el caballo
+[1:44:30.70]-[1:44:32.70]  Del infante don Fernando, ¿y qué dice?
+[1:44:32.70]-[1:44:34.70]  Digo, y vino cortando unas cabezas ahí
+[1:44:34.70]-[1:44:36.70]  Fue que fuéramos todos cristianos
+[1:44:36.70]-[1:44:38.70]  Que no se bautizaba
+[1:44:38.70]-[1:44:40.70]  Pues si tenía tierras
+[1:44:40.70]-[1:44:42.70]  Pues lo más malo era quedarse
+[1:44:42.70]-[1:44:44.70]  Y para la iglesia
+[1:44:44.70]-[1:44:46.70]  Entonces tenemos muchas
+[1:44:46.70]-[1:44:48.70]  Costumbres romanas
+[1:44:48.70]-[1:44:50.70]  Tenemos mucho de los judíos
+[1:44:50.70]-[1:44:52.70]  Aquí hay muchos
+[1:44:52.70]-[1:44:54.70]  Estos apellidos, como te digo
+[1:44:54.70]-[1:44:56.70]  Los toledanos, judíos
+[1:44:56.70]-[1:44:58.70]  Los torres también me parece a mí
+[1:44:58.70]-[1:45:00.70]  Que son judíos
+[1:45:00.70]-[1:45:02.70]  Tengo una amiga que se llama Nune
+[1:45:02.70]-[1:45:04.70]  Y ese es árabe
+[1:45:04.70]-[1:45:06.70]  Pero árabe
+[1:45:06.70]-[1:45:08.70]  Y ella no puede ver los moros
+[1:45:08.70]-[1:45:10.70]  Yo veía estos moros
+[1:45:10.70]-[1:45:12.70]  Que vienen ahora que tienen tantas tiendas
+[1:45:12.70]-[1:45:14.70]  Aquí hay muchas tiendas de los moros
+[1:45:14.70]-[1:45:16.70]  Que venden más baratos
+[1:45:16.70]-[1:45:18.70]  Digo, estos moros se vienen aquí
+[1:45:18.70]-[1:45:20.70]  Y yo digo, ¿estás te he callado?
+[1:45:20.70]-[1:45:22.70]  Y yo digo, bueno, que un día
+[1:45:22.70]-[1:45:24.70]  Vamos a ir a la biblioteca y te vas a enterar tú
+[1:45:24.70]-[1:45:26.70]  Y yo digo, que sí, que tú eres mura
+[1:45:26.70]-[1:45:28.70]  Yo como ves mora que ni mi abuelo ni nadie
+[1:45:28.70]-[1:45:30.70]  Digo, tú eres nuña
+[1:45:30.70]-[1:45:32.70]  Vamos a ir a la biblioteca
+[1:45:32.70]-[1:45:34.70]  Y vamos a buscar los apellidos
+[1:45:34.70]-[1:45:36.70]  Y verás como Nune viene de los árabes
+[1:45:36.70]-[1:45:38.70]  Le da un coraje
+[1:45:38.70]-[1:45:40.70]  ¿No ves que me ve?
+[1:45:40.70]-[1:45:42.70]  Dice, ya me vas a echar en cara
+[1:45:42.70]-[1:45:44.70]  Digo, no mujer, tu sangre está
+[1:45:44.70]-[1:45:46.70]  Muy renovada de otras cosas
+[1:45:46.70]-[1:45:48.70]  Pero ya ves árabe
+[1:45:48.70]-[1:45:50.70]  Y eso no es malo
+[1:45:50.70]-[1:45:52.70]  Yo tengo los cañas y es
+[1:45:52.70]-[1:45:54.70]  De la rioja
+[1:45:54.70]-[1:45:56.70]  Dicen
+[1:45:56.70]-[1:45:58.70]  Dicen que no te pasas más
+[1:45:58.70]-[1:46:00.70]  Cuando nosotros empezaron a tomar
+[1:46:00.70]-[1:46:02.70]  La Andalucía
+[1:46:02.70]-[1:46:04.70]  Se vinieron ahí a Jerez
+[1:46:04.70]-[1:46:06.70]  Entonces, dicen que
+[1:46:06.70]-[1:46:08.70]  Cuando de los últimos días quedaba
+[1:46:08.70]-[1:46:10.70]  Colón, que se fueron calles
+[1:46:10.70]-[1:46:12.70]  Para allá, que tendré primos negros
+[1:46:12.70]-[1:46:14.70]  Por allí
+[1:46:14.70]-[1:46:16.70]  Y mi abuelo se vino
+[1:46:16.70]-[1:46:18.70]  Mi bisabuelo se vino a las cuevas bajas
+[1:46:18.70]-[1:46:20.70]  Y
+[1:46:20.70]-[1:46:22.70]  Y mi abuelo
+[1:46:22.70]-[1:46:24.70]  Nació ya en cuevas bajas
+[1:46:24.70]-[1:46:26.70]  Y se casó con una de las viñuelas porque era
+[1:46:26.70]-[1:46:28.70]  El ayuntamiento
+[1:46:28.70]-[1:46:30.70]  Entonces estaba en Vélez Málaga
+[1:46:30.70]-[1:46:32.70]  De secretario del ayuntamiento
+[1:46:32.70]-[1:46:34.70]  Entonces, los ayuntamientos también me parece a mí
+[1:46:34.70]-[1:46:36.70]  Que era algo como de los arbitrios
+[1:46:36.70]-[1:46:38.70]  Que tenían que ir a los pueblos a cobrarlos
+[1:46:38.70]-[1:46:40.70]  Como unas cosas de cosas y yo creo que era
+[1:46:40.70]-[1:46:42.70]  Como los arbitrios
+[1:46:42.70]-[1:46:44.70]  Y ella fue a la viñuela, como allí entonces había posada
+[1:46:44.70]-[1:46:46.70]  Y ella era el secretario, era como señorito
+[1:46:46.70]-[1:46:48.70]  Chupa tinta, le decían a ellos
+[1:46:48.70]-[1:46:50.70]  Y entonces
+[1:46:50.70]-[1:46:52.70]  Alcasa la Alcarde, ella se casó con la hija
+[1:46:52.70]-[1:46:54.70]  De la Alcarde, que era mi abuela
+[1:46:54.70]-[1:46:56.70]  Yo tengo en la viñuela
+[1:46:56.70]-[1:46:58.70]  Y luego empezó
+[1:46:58.70]-[1:47:00.70]  Mi abuelo como era el chupa tinta empezó a decir
+[1:47:00.70]-[1:47:02.70]  A él, aquí es niño, nada más que perreando perros
+[1:47:02.70]-[1:47:04.70]  Y se tiene que ir pa' mala
+[1:47:04.70]-[1:47:06.70]  Que vaya a un coleo, que vaya a no sé qué
+[1:47:06.70]-[1:47:08.70]  Entonces compraron unas tierras
+[1:47:08.70]-[1:47:10.70]  Por la orilla de la torre que ya se llamaba
+[1:47:10.70]-[1:47:12.70]  La viña
+[1:47:12.70]-[1:47:14.70]  Y
+[1:47:14.70]-[1:47:16.70]  Y después ya mi tía
+[1:47:16.70]-[1:47:18.70]  La que puso la tienda
+[1:47:18.70]-[1:47:20.70]  Una hija la que puso la tienda y ella también empezó a subir
+[1:47:20.70]-[1:47:22.70]  Y ella subió también mucho
+[1:47:22.70]-[1:47:24.70]  Porque todos los que estaban casados
+[1:47:24.70]-[1:47:26.70]  Mi abuelo que era chupa tinta
+[1:47:26.70]-[1:47:28.70]  Que todos no lo querían los otros gendros
+[1:47:28.70]-[1:47:30.70]  Había una hija
+[1:47:30.70]-[1:47:32.70]  Mi tía
+[1:47:32.70]-[1:47:34.70]  Mi tía es la que puso la tienda
+[1:47:34.70]-[1:47:36.70]  Mi abuela, mi abuela
+[1:47:36.70]-[1:47:38.70]  La hija
+[1:47:38.70]-[1:47:40.70]  Sí, ellas eran cuatro
+[1:47:40.70]-[1:47:42.70]  La hija no se había casado
+[1:47:42.70]-[1:47:44.70]  Pero las otras dos querían su parte
+[1:47:44.70]-[1:47:46.70]  Y dios, no, no, mientras viva
+[1:47:46.70]-[1:47:48.70]  Haya soltero
+[1:47:48.70]-[1:47:50.70]  Eso es pa' los solteros
+[1:47:50.70]-[1:47:52.70]  Y la viña
+[1:47:52.70]-[1:47:54.70]  Y todo lo que tenían los abuelos
+[1:47:54.70]-[1:47:56.70]  Porque en la viñuela tenían molino de aceite
+[1:47:56.70]-[1:47:58.70]  Y el alcalde era el amo
+[1:47:58.70]-[1:48:00.70]  Mandaban los higos
+[1:48:00.70]-[1:48:02.70]  Eso sí lo he visto
+[1:48:02.70]-[1:48:04.70]  La de las pasas, unas caítas mandaban a Bélgica
+[1:48:04.70]-[1:48:06.70]  Y ahora donde ellos mandaban las pasas
+[1:48:06.70]-[1:48:08.70]  Mandarían también
+[1:48:08.70]-[1:48:10.70]  Pa' sembrarlas
+[1:48:10.70]-[1:48:12.70]  Vienen de allí unas pasas
+[1:48:12.70]-[1:48:14.70]  Así gordas, grandes
+[1:48:14.70]-[1:48:16.70]  Mucho más grandes que las españolas
+[1:48:16.70]-[1:48:18.70]  Ya no van, ya no tienen que llevar las pasas
+[1:48:18.70]-[1:48:20.70]  Ni los higos pa' allá
+[1:48:20.70]-[1:48:22.70]  Ya tienen ellos más
+[1:48:22.70]-[1:48:24.70]  Mejor es
+[1:48:24.70]-[1:48:26.70]  Entonces se vinieron ahí
+[1:48:26.70]-[1:48:28.70]  Hubo la guerra
+[1:48:28.70]-[1:48:30.70]  Ellos ya habían muerto
+[1:48:30.70]-[1:48:32.70]  Su hijo ya había muerto
+[1:48:32.70]-[1:48:34.70]  Se quedaron los dos, la miña temetra
+[1:48:34.70]-[1:48:36.70]  Pues nadie le tocaba nada a Ardés
+[1:48:36.70]-[1:48:38.70]  Y esa fue la que se quedó rica, rica
+[1:48:38.70]-[1:48:40.70]  Porque se quedó con todos los padres
+[1:48:40.70]-[1:48:42.70]  De los otros de esas
+[1:48:42.70]-[1:48:44.70]  Y también
+[1:48:44.70]-[1:48:46.70]  Pues mire lo que él estaba diciendo
+[1:48:46.70]-[1:48:48.70]  Entonces para lo de las palabras diferentes
+[1:48:48.70]-[1:48:50.70]  Hemos hecho una especie
+[1:48:50.70]-[1:48:52.70]  A ver cómo se lo explico
+[1:48:52.70]-[1:48:54.70]  Hemos grabado unos vídeos
+[1:48:54.70]-[1:48:56.70]  Hemos grabado unos vídeos
+[1:48:56.70]-[1:48:58.70]  Por eso hemos traído el ordenador
+[1:48:58.70]-[1:49:00.70]  Entonces
+[1:49:00.70]-[1:49:02.70]  Le queríamos preguntar si les podemos enseñar
+[1:49:02.70]-[1:49:04.70]  Los vídeos y usted los describe
+[1:49:04.70]-[1:49:06.70]  Porque así lo que hacemos es que lo hacemos en diferentes pueblos
+[1:49:06.70]-[1:49:08.70]  Y vemos si la gente usa palabras diferentes
+[1:49:08.70]-[1:49:10.70]  ¿Le parece bien?
+[1:49:10.70]-[1:49:12.70]  Aquí mismo en Antequidad
+[1:49:12.70]-[1:49:14.70]  Sí
+[1:49:14.70]-[1:49:16.70]  Lo único malo es que vamos a tener que utilizar
+[1:49:16.70]-[1:49:18.70]  Su corriente eléctrica
+[1:49:18.70]-[1:49:20.70]  Porque se nos va a quedar sin batería
+[1:49:20.70]-[1:49:22.70]  No le importa
+[1:49:22.70]-[1:49:24.70]  Yo no la pago
+[1:49:24.70]-[1:49:26.70]  Yo no pago ni luz ni agua ni casa
+[1:49:26.70]-[1:49:28.70]  Ya nos ha dicho
+[1:49:28.70]-[1:49:30.70]  Todos los niños
+[1:49:30.70]-[1:49:32.70]  Voy a poner aquí
+[1:49:32.70]-[1:49:34.70]  A ver, ya lo tengo aquí
+[1:49:34.70]-[1:49:36.70]  Y si quiere
+[1:49:36.70]-[1:49:38.70]  Quitamos el teléfono para que no le moleste
+[1:49:38.70]-[1:49:40.70]  Y lo vea mejor
+[1:49:40.70]-[1:49:42.70]  Ahora lo enchufo yo todavía
+[1:49:42.70]-[1:49:44.70]  Para un rato tiene
+[1:49:44.70]-[1:49:46.70]  Mírese
+[1:49:46.70]-[1:49:48.70]  Vale, lo voy a poner aquí
+[1:49:50.70]-[1:49:52.70]  Miren
+[1:49:52.70]-[1:49:54.70]  Se va a reír usted porque casi todo
+[1:49:54.70]-[1:49:56.70]  Soy yo que me han grabado a mí
+[1:49:56.70]-[1:49:58.70]  Ahora ya te veo yo
+[1:49:58.70]-[1:50:00.70]  A ti como habla
+[1:50:00.70]-[1:50:02.70]  Claro, ahora
+[1:50:02.70]-[1:50:04.70]  Yo soy la actriz
+[1:50:04.70]-[1:50:06.70]  Porque yo aquí en Antequidad
+[1:50:06.70]-[1:50:08.70]  A ver qué te diga
+[1:50:08.70]-[1:50:10.70]  Yo también te puedo decir que me llamo
+[1:50:10.70]-[1:50:12.70]  Yo te puedo decir
+[1:50:12.70]-[1:50:14.70]  Que vestido
+[1:50:14.70]-[1:50:16.70]  Pero yo digo vestido
+[1:50:16.70]-[1:50:18.70]  También te puedo decir
+[1:50:18.70]-[1:50:20.70]  Conejo
+[1:50:20.70]-[1:50:22.70]  Yo digo conejo
+[1:50:22.70]-[1:50:24.70]  Y si yo me pongo muy fina
+[1:50:24.70]-[1:50:26.70]  Cuando yo tengo algunas amigas que son muy finas
+[1:50:26.70]-[1:50:28.70]  Y hablan muy bien
+[1:50:28.70]-[1:50:30.70]  El castellano siendo andaluza
+[1:50:30.70]-[1:50:32.70]  Pues yo me resulto
+[1:50:32.70]-[1:50:34.70]  No me parece bien
+[1:50:34.70]-[1:50:36.70]  Entonces yo
+[1:50:36.70]-[1:50:38.70]  Me como muchas letras
+[1:50:38.70]-[1:50:40.70]  Hablando siempre dando cuenta
+[1:50:40.70]-[1:50:42.70]  Que yo no hablo
+[1:50:42.70]-[1:50:44.70]  Que hablamos diferentes
+[1:50:44.70]-[1:50:46.70]  Me como la R, me como la G
+[1:50:48.70]-[1:50:50.70]  Y la S
+[1:50:50.70]-[1:50:52.70]  La Z
+[1:50:54.70]-[1:50:56.70]  Pero que ya sabeis que de Málaga
+[1:50:56.70]-[1:50:58.70]  Tenemos en Capueblo de una manera
+[1:50:58.70]-[1:51:00.70]  Córdoba, nosotros tenemos más cosas de Córdoba
+[1:51:00.70]-[1:51:02.70]  Pues fuimos más tiempo
+[1:51:02.70]-[1:51:04.70]  Donde nos mandaban
+[1:51:04.70]-[1:51:06.70]  Los de Córdoba
+[1:51:06.70]-[1:51:08.70]  Que Málaga de la provincia
+[1:51:08.70]-[1:51:10.70]  Entonces tenemos mucho el habla
+[1:51:10.70]-[1:51:12.70]  A los cordobeses
+[1:51:12.70]-[1:51:38.70]  Pero de una manera

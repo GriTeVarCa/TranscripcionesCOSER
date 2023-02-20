@@ -1,0 +1,38 @@
+estandar	dialectal	whisper
+[HS:E1	[HS:E1	¿Puedo
+		[A-Inn]			[A-Inn]	entender
+		]			]	si
+A	A	tienes?
+los	los	No,
+diecisiete	diecisiete	no,
+años	años	no.
+~,	~,	¿Tú
+a	a	te
+los	los	harías?
+diecisiete	diecisiete	¿Tú
+años	años	te
+~,	~,	harías?
+[A-Inn]	[A-Inn]	¿Tú
+~,	~,	te
+a	a	harías?
+los	los	No,
+doce	doce	no,
+años	años	no.
+[A-PIn:	[A-PIn:	Estoy
+		empezaríamos			empezaríamos
+		]			]
+[HS:I1	[HS:I1
+		[A-Inn]			[A-Inn]
+		]			]
+[A-Inn]	[A-Inn]
+~,	~,
+además	además
+~,	~,
+esta	esta
+y	y
+yo	yo
+hemos	hemos
+[OTRAS-EM]	[OTRAS-EM]
+estudiao	estudiao
+juntos	juntos
+~.	~.

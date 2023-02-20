@@ -1,0 +1,76 @@
+estandar	dialectal	whisper
+Se	Se	se
+cuece	cuece	cuece
+~,	~,	o
+o	o	sea
+sea	sea	se
+~,	~,	deja
+se	se	coajar
+deja	deja	y
+cuajar	cuajar	se
+y	y	cuece
+se	se	con
+cuece	cuece	agua
+con	con	simplemente
+agua	agua	y
+simplemente	simplemente	sal
+y	y	y
+sal	sal	las
+~,	~,	mordillas
+y	y	bueno
+las	las	esas
+morcillas	morcillas	levan
+bueno	bueno	muchos
+~,	~,	los
+esas	esas	ingredientes
+llevan	llevan	de
+muchos	muchos	las
+~|	~|	mulejitas
+los	los	y
+ingredientes	ingredientes	la
+de	de	sangre
+~…	~…	bueno
+las	las	12
+mollejitas	mollejitas	cosas
+y	y	levan
+la	la	en
+~…	~…	total
+~,	~,	y
+la	la	yo
+sangre	sangre	no
+~…	~…	me
+~|	~|	acuerdo
+Bueno	Bueno	en
+~,	~,	este
+doce	doce	momento
+cosas	cosas	me
+llevan	llevan	hagas
+~,	~,	algo
+en	en	todos
+total	total	los
+~,	~,	años
+que	que	pues
+yo	yo
+ni	ni
+me	me
+acuerdo	acuerdo
+en	en
+este	este
+momento	momento
+~,	~,
+aunque	aunque
+[HS:E1	[HS:E1
+		[A-Inn]			[A-Inn]
+se	se
+acuerde	acuerde
+~.	~.
+		]			]
+las	las
+haga	haga
+todos	todos
+los	los
+años	años
+~.	~.
+Pues	Pues
+~…	~…
+[OTRAS-EM]	[OTRAS-EM]

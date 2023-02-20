@@ -1,0 +1,30 @@
+estandar	dialectal	whisper
+[A-Inn]	[A-Inn]	Y
+Si	Si	justo
+no	no	uno
+se	se	se
+ha	ha	puto
+muerto	muerto	stripped.
+es	es	Es경
+viejo	viejo	went
+~.	~.	lanzo
+Él	Él	y
+ya	ya	Mucha
+no	no
+[A-PIn:	[A-PIn:
+		baila			baila
+eso	eso
+~.	~.
+		]			]
+[HS:I1	[HS:I1
+		El			El
+Puta_Parió	Puta_Parió
+~.	~.
+		]			]
+[A-Inn]	[A-Inn]
+[A-PIn:	[A-PIn:
+		Está			Está
+		]			]
+el	el
+hijo	hijo
+~.	~.

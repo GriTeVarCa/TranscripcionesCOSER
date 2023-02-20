@@ -1,0 +1,41 @@
+estandar	dialectal	whisper
+|T5|	|T5|	Y
+Y	Y	por
+~,	~,	ejemplo
+por	por	cuentenos
+ejemplo	ejemplo	nos
+~,	~,	ha
+cuéntenos	cuéntenos	dicho
+~.	~.	que
+Nos	Nos	las
+han	han	políticas
+dicho	dicho	del
+que	que	gobierno
+las	las	no
+políticas	políticas	han
+del	del	favorecido
+gobierno	gobierno	nada
+no	no	a
+han	han	la
+favorecido	favorecido	ni
+a	a	la
+nada	nada	ganadería
+~,	~,	ni
+ni	ni	los
+la	la	cultivos.
+ganadería	ganadería	Puedes
+~,	~,	comentar,
+ni	ni	¿no
+los	los
+cultivos	cultivos
+~.	~.
+¿~	¿~
+Cómo	Cómo
+~,	~,
+cómo	cómo
+[R-Cas]	[R-Cas]
+ha	ha
+notado	notado
+usted	usted
+eso	eso
+~?	~?

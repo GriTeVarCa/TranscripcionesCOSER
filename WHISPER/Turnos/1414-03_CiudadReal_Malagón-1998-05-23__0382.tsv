@@ -1,0 +1,47 @@
+estandar	dialectal	whisper
+Pos	Pos	con
+con	con	el
+el	el	cura,
+cura	cura	al
+al	al	pie
+pie	pie	de
+del	del	salto,
+santo	santo	como
+~…	~…	veréis
+y	y	habrá
+como	como	visto
+veréis	veréis	ahora
+~|	~|	cuando
+habréis	habréis	todas
+visto	visto	las
+ahora	ahora	sacan
+cuando	cuando	en
+esto	esto	procesiones
+~,	~,	se
+la	la	van
+sacan	sacan	a
+en	en	santa
+procesión	procesión	con
+en	en	las
+Semana_Santa	Semana_Santa	andas
+~,	~,	cuetas
+con	con	en
+las	las	los
+andas	andas	hombros
+		van
+puestas	puestas	a
+en	en	la
+los	los	gente
+hombros	hombros	las
+va	va	que
+la	la	van
+gente	gente	a
+~,	~,
+la	la
+que	que
+van	van
+[A-Inn]	[A-Inn]
+~.	~.
+¿~	¿~
+Cuál	Cuál
+~?	~?

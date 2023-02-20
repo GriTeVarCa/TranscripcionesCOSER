@@ -1,0 +1,27 @@
+estandar	dialectal	whisper
+El	El	¿Qué
+agua	agua	tal
+es	es	es
+buena	buena	el
+~,	~,	agua
+sí	sí	en
+~,	~,	este
+el	el	pueblo?
+agua	agua	La
+es	es	garbuna,
+buena	buena	sí,
+~,	~,	la
+sí	sí	garbuna,
+~,	~,	sí,
+sí	sí	la
+~,	~,
+aquí	aquí
+el	el
+agua	agua
+es	es
+[A-Err]	[A-Err]
+~.	~.
+[HS:E1	[HS:E1
+		[Asent]			[Asent]
+~.	~.
+		]			]

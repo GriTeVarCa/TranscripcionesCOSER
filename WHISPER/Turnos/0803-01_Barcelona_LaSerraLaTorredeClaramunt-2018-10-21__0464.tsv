@@ -1,0 +1,110 @@
+estandar	dialectal	whisper
+no	no	No
+se	se	se
+ve	ve	ve
+~,	~,	bien,
+¿~	¿~	pero
+ves	ves	sí
+~?	~?	un
+~,	~,	día
+pero	pero	que
+~|	~|	no
+no	no	hay
+se	se	neblina
+ve	ve	de
+bien	bien	esta
+~,	~,	buena,
+pero	pero	que
+si	si	si
+un	un	no
+día	día	de
+que	que	aquí
+~,	~,	buría,
+que	que	vería
+no	no	las
+hay	hay	casas
+neblina	neblina	que
+de	de	hay
+esta	esta	encima
+~;	~;	la
+hoy	hoy	montaña
+hay	hay	del
+una	una	todo.
+neblina	neblina	No
+que	que	sé
+~,	~,	si
+si	si	se
+no	no	ve
+~,	~,	aquí
+de	de	delante
+aquí	aquí	de
+vería	veuria	casa
+~|	~|	y
+verías	verías	o
+las	las	alguna,
+casas	casas	pues
+que	que	siempre
+hay	hay	hay
+encima	encima	que
+la	la	ir
+montaña	montaña	a
+del	del	la
+todo	todo	idea.
+~.	~.	Alguna
+No	No	casita
+~,	~,	para
+no	no	arriba
+sé	sé	blanca,
+si	si	pero
+se	se	ahí
+ve	ve	está
+aquí	aquí	niebla
+delante	delante	hoy,
+la	la
+casa	casa
+~,	~,
+hay	hay
+alguna	alguna
+~;	~;
+por	por
+aquí	aquí
+~,	~,
+[A-Nul]	[A-Nul]
+[HS:E1	[HS:E1
+		[A-Pau:			[A-Pau:
+		Es			Es
+~,	~,
+		]			]
+		]			]
+alguna	alguna
+casita	casita
+pa	pa
+arriba	arriba
+blanca	blanca
+[HS:E1	[HS:E1
+		[A-Pau:			[A-Pau:
+		Es			Es
+~,	~,
+		]			]
+		]			]
+pero	pero
+hay	hay
+~,	~,
+hay	hay
+esta	esta
+niebla	niebla
+~,	~,
+hoy	hoy
+~,	~,
+no	no
+~.	~.
+Se	Se
+ve	ve
+poco	poco
+~.	~.
+[HS:E1	[HS:E1
+		Es			Es
+muy	muy
+bonita	bonita
+~;	~;
+		]			]
